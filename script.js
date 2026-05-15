@@ -1,11 +1,11 @@
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 
 const DIFFICULTIES = {
-    'training': { id: 0, cps: 0.01, startLevel: 0 },
+    'training': { id: 0, cps: 0.2, startLevel: 0 },
     'easy': { id: 1, cps: 1, startLevel: 1 },
-    'normal': { id: 2, cps: 2, startLevel: 4 },
-    'hard': { id: 3, cps: 4, startLevel: 7 },
-    'insane': { id: 4, cps: 6, startLevel: 10 }
+    'normal': { id: 2, cps: 2.4, startLevel: 4 },
+    'hard': { id: 3, cps: 4.4, startLevel: 7 },
+    'insane': { id: 4, cps: 7.2, startLevel: 10 }
 };
 
 let typingData = window.typingData || [];
@@ -27,18 +27,23 @@ let sessionChars = 0;
 let currentCps = 1;
 let questionsSolved = 0;
 let isAccMode = false;
+let isSpcMode = false;
 
-const accModeCpsMul = 0.8;
+const accModeCpsMul = 0.80;
+const spcModeCpsMul = 1.35;
 
-const maxHp = 128;
+const maxHp = 160;
 let hp = maxHp;
 
-const damageMistake = 10;
-const damageMistakeAcc = 95;
-const damageTimeup = 72;
+const damageMistake = 12;
+const damageMistakeAcc = 2 ** 52;
+const damageTimeupSpc = 2 ** 52;
+const damageMistakeSpc = 2;
+const damageTimeup = 110;
 const healSuccess = 4;
 
-const comboThreshold = 10;
+const comboStartThreshold = 20;
+const comboAddThreshold = 5;
 const comboBonus = 1.05;
 const comboHeal = 1;
 
@@ -60,12 +65,14 @@ let statsMaxCombo = 0;
 let currentCombo = 0;
 let sessionMaxCombo = 0;
 
+let statsViewAcc = false;
+let statsViewSpc = false;
+
 let bestRecords = {
-    'training': null,
-    'easy': null,
-    'normal': null,
-    'hard': null,
-    'insane': null
+    'std': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
+    'acc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
+    'spc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
+    'both': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null }
 };
 
 const LEADERBOARD_SIZE = 8;
@@ -95,11 +102,39 @@ function generateRandomWordFromData() {
     if (!typingData || typingData.length === 0) {
         return "LOADING";
     }
-    const targetLvl = Math.min(level, 11);
-    const pool = typingData.filter(d => d.Lvl === targetLvl);
-    if (pool.length === 0) return "ERROR";
+    const currentMaxLvl = Math.min(level, 17);
+
+    // 各レベル(0〜currentMaxLvl)の重みを計算 (重み = レベル + 3)
+    let totalWeight = 0;
+    let weights = [];
+    for (let i = 0; i <= currentMaxLvl; i++) {
+        let w = (i + 4) ** 2;
+        weights.push(w);
+        totalWeight += w;
+    }
+
+    // 重みに基づいてレベルをランダムに決定
+    let r = Math.random() * totalWeight;
+    let selectedLvl = 0;
+    for (let i = 0; i < weights.length; i++) {
+        r -= weights[i];
+        if (r <= 0) {
+            selectedLvl = i;
+            break;
+        }
+    }
+
+    // 決定したレベルの問題を抽出
+    let pool = typingData.filter(d => d.Lvl === selectedLvl);
+
+    if (pool.length === 0) {
+        // 該当するレベルの問題がない場合のフォールバック
+        pool = typingData.filter(d => d.Lvl <= currentMaxLvl);
+        if (pool.length === 0) return "ERROR";
+    }
+
     const item = pool[Math.floor(Math.random() * pool.length)];
-    return item.Text;
+    return item;
 }
 
 function saveSettings() {
@@ -128,10 +163,18 @@ function loadRecords() {
     statsTotalTime = parseFloat(localStorage.getItem('typingStatsTotalTime')) || 0;
     statsMaxCombo = parseInt(localStorage.getItem('typingStatsMaxCombo')) || 0;
 
-    Object.keys(bestRecords).forEach(diff => {
-        const saved = localStorage.getItem(`typingBestRound_${diff}`);
+    Object.keys(bestRecords).forEach(mode => {
+        const saved = localStorage.getItem(`typingBestRoundV2_${mode}`);
         if (saved) {
-            bestRecords[diff] = JSON.parse(saved);
+            bestRecords[mode] = JSON.parse(saved);
+        } else if (mode === 'std') {
+            // Legacy support for the old format
+            const oldSaved = localStorage.getItem('typingBestRound'); // This was likely missing or different, but we try to migrate std records
+            const diffs = ['training', 'easy', 'normal', 'hard', 'insane'];
+            diffs.forEach(d => {
+                const legacy = localStorage.getItem(`typingBestRound_${d}`);
+                if (legacy) bestRecords['std'][d] = JSON.parse(legacy);
+            });
         }
     });
 
@@ -140,7 +183,7 @@ function loadRecords() {
 
 //Lvl
 function playerLvlXp(lvl) {
-    return 2 * (lvl ** 2) + 10 * lvl + 26;
+    return 1 * (lvl ** 2) + 6 * lvl + 26;
 }
 
 function updatePlayerLevelUI() {
@@ -173,10 +216,8 @@ function savePlayerStats() {
     localStorage.setItem('typingStatsTotalTime', statsTotalTime);
     localStorage.setItem('typingStatsMaxCombo', statsMaxCombo);
 
-    Object.keys(bestRecords).forEach(diff => {
-        if (bestRecords[diff]) {
-            localStorage.setItem(`typingBestRound_${diff}`, JSON.stringify(bestRecords[diff]));
-        }
+    Object.keys(bestRecords).forEach(mode => {
+        localStorage.setItem(`typingBestRoundV2_${mode}`, JSON.stringify(bestRecords[mode]));
     });
 }
 
@@ -197,6 +238,7 @@ window.addEventListener('DOMContentLoaded', () => {
     if (savedName) {
         document.getElementById('globalPlayerName').value = savedName;
     }
+    updateDifficultyDescription();
 });
 
 document.getElementById('openSettingsBtn').addEventListener('click', () => {
@@ -218,7 +260,12 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
                 localStorage.removeItem(k);
             }
         });
-        bestRecords = { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null };
+        bestRecords = {
+            'std': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
+            'acc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
+            'spc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
+            'both': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null }
+        };
         statsMaxCombo = 0;
         loadRecords();
         alert("Records deleted.");
@@ -226,11 +273,34 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
 });
 
 document.getElementById('playerLevelContainer').addEventListener('click', () => {
+    statsViewAcc = false;
+    statsViewSpc = false;
     updateStatsModal();
     document.getElementById('statsModal').classList.add('show');
 });
 
+document.getElementById('statsAccBtn').addEventListener('click', () => {
+    statsViewAcc = !statsViewAcc;
+    updateStatsModal();
+});
+
+document.getElementById('statsSpcBtn').addEventListener('click', () => {
+    statsViewSpc = !statsViewSpc;
+    updateStatsModal();
+});
+
 function updateStatsModal() {
+    // Player Name
+    const playerName = document.getElementById('globalPlayerName').value.trim() || "Statistics";
+    document.getElementById('statsPlayerName').innerText = playerName;
+
+    // Player Level and XP
+    const nextXp = playerLvlXp(playerLevel);
+    document.getElementById('statsPlayerLevel').innerText = playerLevel;
+    document.getElementById('statsXpText').innerText = `${notatVal(playerXp)} / ${notatVal(nextXp)} XP`;
+    const pct = (playerXp / nextXp) * 100;
+    document.getElementById('statsXpGaugeBar').style.width = Math.min(100, pct) + '%';
+
     document.getElementById('statsMaxCps').innerText = statsMaxCps.toFixed(2);
     const avgCps = statsTotalTime > 0 ? (statsTotalChars / statsTotalTime) : 0;
     document.getElementById('statsAvgCps').innerText = avgCps.toFixed(2);
@@ -238,10 +308,27 @@ function updateStatsModal() {
     document.getElementById('statsTotalTypos').innerText = notatVal(statsTotalTypos);
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
 
+    // Determine mode key for display
+    let modeKey = 'std';
+    if (statsViewAcc && statsViewSpc) modeKey = 'both';
+    else if (statsViewAcc) modeKey = 'acc';
+    else if (statsViewSpc) modeKey = 'spc';
+
+    // UI Feedback for selected toggles
+    const accBtn = document.getElementById('statsAccBtn');
+    const spcBtn = document.getElementById('statsSpcBtn');
+
+    if (statsViewAcc) accBtn.classList.add('selected');
+    else accBtn.classList.remove('selected');
+
+    if (statsViewSpc) spcBtn.classList.add('selected');
+    else spcBtn.classList.remove('selected');
+
     const bestList = document.getElementById('bestRecordsContainer');
     bestList.innerHTML = '';
-    Object.keys(bestRecords).forEach(diff => {
-        const record = bestRecords[diff];
+    const recordsToDisplay = bestRecords[modeKey];
+    Object.keys(recordsToDisplay).forEach(diff => {
+        const record = recordsToDisplay[diff];
         const div = document.createElement('div');
         div.className = 'br-entry';
         if (record) {
@@ -264,6 +351,59 @@ function updateStatsModal() {
         }
         bestList.appendChild(div);
     });
+}
+
+function updateDifficultyDescription() {
+    const descArea = document.getElementById('diffDescText');
+    if (!descArea) return;
+
+    const diffData = DIFFICULTIES[currentDifficulty];
+    let effectiveCps = diffData.cps;
+
+    if (isAccMode && isSpcMode) {
+        effectiveCps *= spcModeCpsMul;
+    } else if (isAccMode) {
+        effectiveCps *= accModeCpsMul;
+    } else if (isSpcMode) {
+        effectiveCps *= spcModeCpsMul;
+    }
+
+    let rules = [];
+    if (isAccMode) rules.push("#Accuracy Focus");
+    if (isSpcMode) rules.push("#Speed Focus");
+
+    let ruleStr = rules.length > 0 ? rules.join(" ") : "";
+
+    let sp_detail = "";
+    if (isAccMode && isSpcMode) {
+        sp_detail = "You'll be killed immediately when something goes wrong.";
+    } else if (isAccMode) {
+        sp_detail = "You have long life but will fall if you make a mistake.";
+    } else if (isSpcMode) {
+        sp_detail = "To make the most of your short life, don't be afraid of failure.";
+    } else {
+        sp_detail = "Standard typing rules apply.";
+    }
+
+    let detail = "";
+    if (currentDifficulty === "training") {
+        detail = "For typing practice, very slow";
+    } else if (currentDifficulty === "easy") {
+        detail = "Casual pace for beginners";
+    } else if (currentDifficulty === "normal") {
+        detail = "Standard challenge for regular players";
+    } else if (currentDifficulty === "hard") {
+        detail = "Intense pace for experienced typists";
+    } else if (currentDifficulty === "insane") {
+        detail = "Unforgiving speed for true masters";
+    }
+
+    descArea.innerHTML = `
+        <div class="desc-main">Difficulty: <span class="desc-highlight">${currentDifficulty.toUpperCase()}</span> <span class="desc-highlight">${ruleStr}</span></div>
+        <div class="desc-sub">Starting Level: ${diffData.startLevel} | CPS: ${effectiveCps.toFixed(2)}</div>
+        <div class="desc-detail">${detail}</div>
+        <div class="desc-sp-detail">${sp_detail}</div>
+    `;
 }
 
 // Remove leaderboard button listener and related
@@ -309,6 +449,7 @@ document.querySelectorAll('#difficultySelect .diff-btn').forEach(btn => {
             targetBtn.classList.add('selected');
             currentDifficulty = targetBtn.getAttribute('data-diff');
             loadRecords();
+            updateDifficultyDescription();
         }
     });
 });
@@ -318,11 +459,25 @@ document.getElementById('accModeBtn').addEventListener('click', () => {
     const btn = document.getElementById('accModeBtn');
     if (isAccMode) {
         btn.classList.add('selected');
-        btn.innerText = "Accuracy Mode: On";
+        btn.innerText = "Accuracy Focus : On";
     } else {
         btn.classList.remove('selected');
-        btn.innerText = "Accuracy Mode: Off";
+        btn.innerText = "Accuracy Focus : Off";
     }
+    updateDifficultyDescription();
+});
+
+document.getElementById('spcModeBtn').addEventListener('click', () => {
+    isSpcMode = !isSpcMode;
+    const btn = document.getElementById('spcModeBtn');
+    if (isSpcMode) {
+        btn.classList.add('selected');
+        btn.innerText = "Speed Focus : On";
+    } else {
+        btn.classList.remove('selected');
+        btn.innerText = "Speed Focus : Off";
+    }
+    updateDifficultyDescription();
 });
 
 function startGame() {
@@ -356,6 +511,7 @@ function startGame() {
     document.getElementById('playerSetupArea').style.display = 'none';
 
     document.getElementById('recordDisplay').style.display = 'none';
+    document.getElementById('difficultyDescriptionArea').style.display = 'none';
 
     let count = 3;
     const display = document.getElementById('display');
@@ -374,8 +530,12 @@ function startGame() {
             gameStartTime = Date.now();
             isPlaying = true;
 
-            if (isAccMode) {
+            if (isAccMode && isSpcMode) {
+                currentCps *= spcModeCpsMul;
+            } else if (isAccMode) {
                 currentCps *= accModeCpsMul;
+            } else if (isSpcMode) {
+                currentCps *= spcModeCpsMul;
             }
 
             document.getElementById('userInput').focus();
@@ -401,8 +561,10 @@ function startTimer() {
             clearInterval(timerInterval);
             updateTimerUI();
 
-            // Time up penalty: -damageTimeup HP
-            hp -= damageTimeup;
+            // Time up penalty
+            let dmg = damageTimeup;
+            if (isSpcMode) dmg = damageTimeupSpc;
+            hp -= dmg;
             updateHpUI();
             errSound();
 
@@ -486,9 +648,14 @@ function triggerGameOver(reasonStr) {
             statsMaxCps = averageCps;
         }
 
-        // Check Best Round for Difficulty
-        if (!bestRecords[currentDifficulty] || score > bestRecords[currentDifficulty].score) {
-            bestRecords[currentDifficulty] = {
+        // Check Best Round for Mode and Difficulty
+        let modeKey = 'std';
+        if (isAccMode && isSpcMode) modeKey = 'both';
+        else if (isAccMode) modeKey = 'acc';
+        else if (isSpcMode) modeKey = 'spc';
+
+        if (!bestRecords[modeKey][currentDifficulty] || score > bestRecords[modeKey][currentDifficulty].score) {
+            bestRecords[modeKey][currentDifficulty] = {
                 score: score,
                 level: level,
                 avgCps: averageCps,
@@ -512,7 +679,6 @@ function triggerGameOver(reasonStr) {
 
         const failedHTML = `<span class="text-green-important">${currentTyped}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length)}</span>`;
         document.getElementById('mainFailedWord').innerHTML = failedHTML;
-        resetGuide();
     }, 500);
 }
 
@@ -527,6 +693,7 @@ function retryGame() {
     document.getElementById('playerSetupArea').style.display = 'block';
     document.getElementById('difficultySelect').style.display = 'flex';
     document.getElementById('accModeBtn').parentElement.style.display = 'flex';
+    document.getElementById('difficultyDescriptionArea').style.display = 'block';
 
     document.getElementById('display').innerText = "Press Start to Play!";
     document.getElementById('startBtn').style.display = 'inline-block';
@@ -547,12 +714,16 @@ function nextQuestion() {
     document.getElementById('cps').innerText = currentCps.toFixed(2);
     document.getElementById('score').innerText = notatVal(score);
 
-    currentWord = generateRandomWordFromData();
+    const item = generateRandomWordFromData();
+    currentWord = item.Text;
+    const jpTranslation = item.Japanese || "";
+
     currentTyped = "";
+    document.getElementById('wordTranslation').innerText = jpTranslation;
+    updateWordDisplay();
 
     timeLimitBase = (currentWord.length / currentCps) + 1.0;
 
-    updateWordDisplay();
     isInputLocked = false;
     startTimer();
 }
@@ -560,15 +731,6 @@ function nextQuestion() {
 function updateWordDisplay() {
     const display = document.getElementById('wordDisplay');
     display.innerHTML = `<span class="text-green-important">${currentTyped}</span><span>${currentWord.substring(currentTyped.length)}</span>`;
-
-    updateKeyboardHighlight();
-}
-
-function updateKeyboardHighlight() {
-    resetGuide();
-    if (isPlaying && !isInputLocked && currentWord[currentTyped.length]) {
-        showGuide(currentWord[currentTyped.length].toUpperCase());
-    }
 }
 
 function updateHpUI() {
@@ -584,8 +746,15 @@ function updateHpUI() {
 function handleInputChar(inputChar) {
     const targetChar = currentWord[currentTyped.length].toUpperCase();
 
-    if (inputChar === targetChar) {
-        currentTyped += currentWord[currentTyped.length];
+    // 空白とアンダーバーを同一視して判定
+    const isMatch = (inputChar === targetChar) ||
+        (targetChar === " " && inputChar === "_") ||
+        (targetChar === "_" && inputChar === " ");
+
+    if (isMatch) {
+        let actualChar = currentWord[currentTyped.length];
+        // 入力済み(currentTyped)の部分は空白をアンダーバーとして保持
+        currentTyped += (actualChar === " ") ? "_" : actualChar;
         totalCharsTyped++;
         sessionChars++;
         currentCombo++;
@@ -598,8 +767,9 @@ function handleInputChar(inputChar) {
         updateWordDisplay();
 
         if (currentTyped.length === currentWord.length) {
-            const multiplier = comboBonus ** Math.floor(currentCombo / comboThreshold);
-            const addedScore = Math.round(currentCps * currentWord.length * 10 * multiplier);
+            const multiplier = comboBonus ** Math.max(0, Math.floor((currentCombo - comboStartThreshold) / comboAddThreshold));
+            const levelMult = 1.35 ** (level - DIFFICULTIES[currentDifficulty].startLevel);
+            const addedScore = Math.round(currentCps * currentWord.length * 10 * multiplier * levelMult);
             score += addedScore;
             addXp(addedScore);
             questionsSolved++;
@@ -609,16 +779,17 @@ function handleInputChar(inputChar) {
             hp = Math.min(maxHp, hp + healSuccess);
             updateHpUI();
 
-            if (questionsSolved % 3 === 0) {
+            if (questionsSolved % 5 === 0) {
                 level++;
                 currentCps += 0.05;
-                currentCps *= 1.04;
+                currentCps *= 1.06;
             }
             nextQuestion();
         }
     } else {
-        // Mistake penalty: -damageMistake HP
-        hp -= isAccMode ? damageMistakeAcc : damageMistake;
+        // Mistake penalty
+        const dmg = isAccMode ? damageMistakeAcc : isSpcMode ? damageMistakeSpc : damageMistake;
+        hp -= dmg;
         statsTotalTypos++;
         sessionTypos++;
         currentCombo = 0;
@@ -639,12 +810,12 @@ function errSound() {
     const osc = audioCtx.createOscillator();
     const gain = audioCtx.createGain();
     osc.type = 'triangle';
-    osc.frequency.setValueAtTime(820, audioCtx.currentTime);
-    gain.gain.setValueAtTime(0.2, audioCtx.currentTime);
+    osc.frequency.setValueAtTime(880, audioCtx.currentTime);
+    gain.gain.setValueAtTime(0.13, audioCtx.currentTime);
     osc.connect(gain);
     gain.connect(audioCtx.destination);
     osc.start(audioCtx.currentTime);
-    osc.stop(audioCtx.currentTime + 0.2);
+    osc.stop(audioCtx.currentTime + 0.13);
 
     document.body.classList.add('wrong-answer-bg');
     setTimeout(() => {
@@ -697,85 +868,22 @@ document.addEventListener('click', () => {
     }
 });
 
-// ── Virtual Keyboard Logic ──
-
-const KEY_MAP = {
-    'Tab': ['Tab'],
-    'CLK': ['CLK'],
-    'LCtrl': ['LCtrl'],
-    'RCtrl': ['RCtrl'],
-    'LAlt': ['LAlt'],
-    'RAlt': ['RAlt'],
-    'LShift': ['LShift'],
-    'RShift': ['RShift'],
-    'Enter': ['Enter'],
-    'NumEnter': ['NumEnter'],
-    'Bs': ['Bs'],
-    'Left': ['Num4'],
-    'Right': ['Num6'],
-    'Up': ['Num8'],
-    'Down': ['Num2'],
-    'Space': ['Space'],
-    'Esc': ['Esc'],
-};
-
-const NUMPAD_CHARS = {
-    '0': 'Num0', '1': 'Num1', '2': 'Num2', '3': 'Num3', '4': 'Num4',
-    '5': 'Num5', '6': 'Num6', '7': 'Num7', '8': 'Num8', '9': 'Num9',
-    '.': 'NumDot', '/': 'Num/', '*': 'Num*', '-': 'Num-', '+': 'Num+',
-};
-
-function showGuide(key) {
-    key = key.toUpperCase();
-    if (KEY_MAP[key]) {
-        KEY_MAP[key].forEach(dataKey => {
-            document.querySelectorAll('.key').forEach(el => {
-                if (el.dataset.keys === dataKey) el.classList.add('highlight');
-            });
-        });
-        return;
-    }
-
-    document.querySelectorAll('.key').forEach(el => {
-        const dk = el.dataset.keys || '';
-        // 1. Exact match (e.g. "A" === "A")
-        if (dk === key) {
-            el.classList.add('highlight');
-            return;
-        }
-        // 2. Pair match (e.g. "1!" contains "1" or "!")
-        // Exclude named special keys by checking length or content
-        const isSpecial = dk.length > 2; 
-        if (!isSpecial && dk.includes(key)) {
-            el.classList.add('highlight');
-        }
-    });
-
-    if (NUMPAD_CHARS[key]) {
-        document.querySelectorAll('.key').forEach(el => {
-            if (el.dataset.keys === NUMPAD_CHARS[key]) el.classList.add('highlight');
-        });
-    }
-}
-
-function resetGuide() {
-    document.querySelectorAll('.key.highlight').forEach(el => el.classList.remove('highlight'));
-}
-
 function updateComboUI() {
     const comboTxt = document.getElementById('comboText');
     const bonusMsg = document.getElementById('comboBonusMsg');
 
-    if (currentCombo > comboThreshold - 1) {
+    if (currentCombo > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
 
-        if (currentCombo % comboThreshold === 0) {
-            const multiplier = comboBonus ** Math.floor(currentCombo / comboThreshold);
+        if (currentCombo % comboAddThreshold === 0) {
+            const multiplier = comboBonus ** Math.floor(currentCombo / comboAddThreshold);
             const bonusPct = (multiplier - 1) * 100;
             bonusMsg.innerText = `Score bonus +${bonusPct.toFixed(2)}%`;
-            hp += comboHeal;
-            updateHpUI();
+            if (currentCombo % comboStartThreshold === 0) {
+                hp += comboHeal;
+                updateHpUI();
+            }
         }
     } else {
         comboTxt.style.display = 'none';

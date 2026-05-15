@@ -11,14 +11,14 @@
 
 <body class="dark-mode">
 
-    <div id="playerLevelContainer" class="top-left-info" title="Click to view Statistics">
+    <div id="playerLevelContainer" class="top-left-info" title="統計">
         <div class="level-info">Lv. <span id="displayPlayerLevel">0</span></div>
 
         <div class="xp-gauge-container">
             <div id="xpGaugeBar" class="xp-gauge-bar"></div>
         </div>
 
-        <div id="xpText" class="xp-text">0 / 2000 XP</div>
+        <div id="xpText" class="xp-text">--- / --- XP</div>
     </div>
 
     <button id="openSettingsBtn" class="top-right-btn">⚙️</button>
@@ -49,7 +49,7 @@
                 <hr class="section-divider">
 
                 <button id="deleteRecordsBtn" class="danger-btn">
-                    Delete Records
+                    RESET
                 </button>
             </div>
         </div>
@@ -60,88 +60,122 @@
         <div class="modal-content">
             <span class="close-btn">&times;</span>
 
-            <h2>Statistics</h2>
+            <h2 id="statsPlayerName">Statistics</h2>
 
-            <div class="stats-grid">
-                <div class="stats-item">
-                    <div class="stats-label">Max CPS</div>
-                    <div id="statsMaxCps" class="stats-value">0.00</div>
+            <div class="stats-player-growth" style="text-align: left; margin-bottom: 20px;">
+                <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
+                    <div style="font-size: 1.8rem; font-weight: bold; color: #007bff;">Lv. <span
+                            id="statsPlayerLevel">0</span></div>
+                    <div style="flex-grow: 1;">
+                        <div class="xp-gauge-container" style="height: 12px; background: rgba(0,0,0,0.1);">
+                            <div id="statsXpGaugeBar" class="xp-gauge-bar"></div>
+                        </div>
+                        <div id="statsXpText" class="xp-text" style="color: #666; margin-top: 4px;">0 / 0 XP</div>
+                    </div>
                 </div>
-
-                <div class="stats-item">
-                    <div class="stats-label">Average CPS</div>
-                    <div id="statsAvgCps" class="stats-value">0.00</div>
-                </div>
-
-                <div class="stats-item">
-                    <div class="stats-label">Total Characters</div>
-                    <div id="statsTotalChars" class="stats-value">0</div>
-                </div>
-
-                <div class="stats-item">
-                    <div class="stats-label">Total Mistakes</div>
-                    <div id="statsTotalTypos" class="stats-value">0</div>
-                </div>
-
-                <div class="stats-item">
-                    <div class="stats-label">Max Combo</div>
-                    <div id="statsMaxCombo" class="stats-value">0</div>
-                </div>
+                <p title="XPはスコアに基づいて獲得でき, 一定量でレベルが上がる. ただし,plvl自体は特に意味はない. 今のところは, Cbへの献身を示す良い指標, あるいはあなたの友達や最愛のおばあちゃんに自慢するネタといったものだね ;p"
+                    style="font-size: 0.85rem; color: #777; line-height: 1.5; background: rgba(0,0,0,0.03); padding: 12px; border-radius: 8px; margin: 10px 0;">
+                    XP is earned based on your score, and will level up when reach a certain amount. However,
+                    player level itself doesn't really mean anything at the moment; it's just a good sign of your
+                    dedication to Cb, or something to brag about to your friends or your dearest grandma ;p
+                </p>
             </div>
 
-            <hr class="section-divider">
+            <div class="stats-lower-container">
+                <!-- Left: Global Statistics -->
+                <div class="stats-left-col">
+                    <div class="stats-grid">
+                        <div class="stats-item">
+                            <div class="stats-label">Max CPS</div>
+                            <div id="statsMaxCps" class="stats-value">0.00</div>
+                        </div>
+                        <div class="stats-item">
+                            <div class="stats-label">Average CPS</div>
+                            <div id="statsAvgCps" class="stats-value">0.00</div>
+                        </div>
+                        <div class="stats-item">
+                            <div class="stats-label">Total Characters</div>
+                            <div id="statsTotalChars" class="stats-value">0</div>
+                        </div>
+                        <div class="stats-item">
+                            <div class="stats-label">Total Mistakes</div>
+                            <div id="statsTotalTypos" class="stats-value">0</div>
+                        </div>
+                        <div class="stats-item">
+                            <div class="stats-label">Max Combo</div>
+                            <div id="statsMaxCombo" class="stats-value">0</div>
+                        </div>
+                    </div>
+                </div>
 
-            <h3>Best Records</h3>
-
-            <div id="bestRecordsContainer" class="best-records-list">
-                <!-- Best records -->
+                <!-- Right: Best Records -->
+                <div class="stats-right-col">
+                    <h3>Best Records</h3>
+                    <div id="statsModeSelect" class="diff-container" style="margin-bottom: 15px;">
+                        <button id="statsAccBtn" class="diff-btn accuracy-btn" title="精度フォーカス">Accuracy</button>
+                        <button id="statsSpcBtn" class="diff-btn speed-btn" title="速度フォーカス">Speed</button>
+                    </div>
+                    <div id="bestRecordsContainer" class="best-records-list">
+                        <!-- Best records -->
+                    </div>
+                </div>
             </div>
+            <!-- Best records -->
         </div>
+    </div>
     </div>
 
     <div id="display">Press Start to Play!</div>
 
     <div id="playerSetupArea" class="player-setup-area">
-        <input type="text" id="globalPlayerName" placeholder="Enter your Name" maxlength="12" title="12文字まで"
-            class="player-name-input">
+        <input type="text" id="globalPlayerName" placeholder="Enter your Name" maxlength="16"
+            title="16文字まで 空白にするとランダム生成" class="player-name-input">
     </div>
 
     <div id="difficultySelect" class="diff-container">
-        <button class="diff-btn" data-diff="training" title="Level 0, 1cps">
+        <button class="diff-btn" data-diff="training" title="訓練">
             <span class="full">Training</span>
             <span class="short">T</span>
         </button>
 
-        <button class="diff-btn" data-diff="easy" title="Level 1, 2cps">
+        <button class="diff-btn" data-diff="easy" title="簡単">
             <span class="full">Easy</span>
             <span class="short">E</span>
         </button>
 
-        <button class="diff-btn selected" data-diff="normal" title="Level 4, 3cps">
+        <button class="diff-btn selected" data-diff="normal" title="普通">
             <span class="full">Normal</span>
             <span class="short">N</span>
         </button>
 
-        <button class="diff-btn" data-diff="hard" title="Level 7, 4cps">
+        <button class="diff-btn" data-diff="hard" title="難しい">
             <span class="full">Hard</span>
             <span class="short">H</span>
         </button>
 
-        <button class="diff-btn" data-diff="insane" title="Level 10, 6cps">
+        <button class="diff-btn" data-diff="insane" title="狂気">
             <span class="full">Insane</span>
             <span class="short">I</span>
         </button>
     </div>
 
     <div class="accuracy-mode-wrapper">
-        <button id="accModeBtn" class="diff-btn accuracy-btn">
+        <button id="accModeBtn" class="diff-btn accuracy-btn" title="正確性重視; ミスをすると即座に殺されます">
             Accuracy Focus : Off
         </button>
+        <button id="spcModeBtn" class="diff-btn speed-btn" title="スピード重視; 時間が切れたとき、殺されます">
+            Speed Focus : Off
+        </button>
+    </div>
+
+    <div id="difficultyDescriptionArea" class="difficulty-desc-area">
+        <div id="diffDescText"></div>
     </div>
 
     <div id="gameUI" class="game-ui">
 
         <div class="input-container">
+            <div id="wordTranslation" class="word-translation"></div>
             <div id="wordDisplay" class="word-display"></div>
 
             <input type="text" id="userInput" autocomplete="off" class="hidden-mobile-input">
@@ -255,113 +289,8 @@
     </div>
 
     <script src="typingTxt.js"></script>
-    <div class="keyboard-container" id="keyboardArea">
-        <div class="keyboard" id="keyboard">
-            <!-- Main keyboard -->
-            <div class="main-block">
-                <!-- Row 1 -->
-                <div class="row">
-                    <div class="key w75" data-keys="Esc"><span>Esc</span></div>
-                    <div class="key w75" data-keys="`~"><span class="top">~</span><span class="bot">`</span></div>
-                    <div class="key" data-keys="1!"><span class="top">!</span><span class="bot">1</span></div>
-                    <div class="key" data-keys="2@"><span class="top">@</span><span class="bot">2</span></div>
-                    <div class="key" data-keys="3#"><span class="top">#</span><span class="bot">3</span></div>
-                    <div class="key" data-keys="4$"><span class="top">$</span><span class="bot">4</span></div>
-                    <div class="key" data-keys="5%"><span class="top">%</span><span class="bot">5</span></div>
-                    <div class="key" data-keys="6^"><span class="top">^</span><span class="bot">6</span></div>
-                    <div class="key" data-keys="7&amp;"><span class="top">&amp;</span><span class="bot">7</span></div>
-                    <div class="key" data-keys="8*"><span class="top">*</span><span class="bot">8</span></div>
-                    <div class="key" data-keys="9("><span class="top">(</span><span class="bot">9</span></div>
-                    <div class="key" data-keys="0)"><span class="top">)</span><span class="bot">0</span></div>
-                    <div class="key" data-keys="-_"><span class="top">_</span><span class="bot">-</span></div>
-                    <div class="key" data-keys="=+"><span class="top">+</span><span class="bot">=</span></div>
-                    <div class="key w200" data-keys="Bs"><span>Backspace</span></div>
-                </div>
-                <!-- Row 2 -->
-                <div class="row">
-                    <div class="key w200" data-keys="Tab"><span>Tab</span></div>
-                    <div class="key" data-keys="Q"><span>Q</span></div>
-                    <div class="key" data-keys="W"><span>W</span></div>
-                    <div class="key" data-keys="E"><span>E</span></div>
-                    <div class="key" data-keys="R"><span>R</span></div>
-                    <div class="key" data-keys="T"><span>T</span></div>
-                    <div class="key" data-keys="Y"><span>Y</span></div>
-                    <div class="key" data-keys="U"><span>U</span></div>
-                    <div class="key" data-keys="I"><span>I</span></div>
-                    <div class="key" data-keys="O"><span>O</span></div>
-                    <div class="key" data-keys="P"><span>P</span></div>
-                    <div class="key" data-keys="[{"><span class="top">{</span><span class="bot">[</span></div>
-                    <div class="key" data-keys="]}"><span class="top">}</span><span class="bot">]</span></div>
-                    <div class="key w150" data-keys="\|"><span class="top">|</span><span class="bot">\</span></div>
-                </div>
-                <!-- Row 3 -->
-                <div class="row">
-                    <div class="key w250" data-keys="CLK"><span>Caps Lock</span></div>
-                    <div class="key" data-keys="A"><span>A</span></div>
-                    <div class="key" data-keys="S"><span>S</span></div>
-                    <div class="key" data-keys="D"><span>D</span></div>
-                    <div class="key" data-keys="F"><span>F</span></div>
-                    <div class="key" data-keys="G"><span>G</span></div>
-                    <div class="key" data-keys="H"><span>H</span></div>
-                    <div class="key" data-keys="J"><span>J</span></div>
-                    <div class="key" data-keys="K"><span>K</span></div>
-                    <div class="key" data-keys="L"><span>L</span></div>
-                    <div class="key" data-keys=";:"><span class="top">:</span><span class="bot">;</span></div>
-                    <div class="key" data-keys="'&quot;"><span class="top">"</span><span class="bot">'</span></div>
-                    <div class="key w225" data-keys="Enter"><span>Enter</span></div>
-                </div>
-                <!-- Row 4 -->
-                <div class="row">
-                    <div class="key w300" data-keys="LShift"><span>Shift</span></div>
-                    <div class="key" data-keys="Z"><span>Z</span></div>
-                    <div class="key" data-keys="X"><span>X</span></div>
-                    <div class="key" data-keys="C"><span>C</span></div>
-                    <div class="key" data-keys="V"><span>V</span></div>
-                    <div class="key" data-keys="B"><span>B</span></div>
-                    <div class="key" data-keys="N"><span>N</span></div>
-                    <div class="key" data-keys="M"><span>M</span></div>
-                    <div class="key" data-keys=",&lt;"><span class="top">&lt;</span><span class="bot">,</span></div>
-                    <div class="key" data-keys=".&gt;"><span class="top">&gt;</span><span class="bot">.</span></div>
-                    <div class="key" data-keys="/?"><span class="top">?</span><span class="bot">/</span></div>
-                    <div class="key w275" data-keys="RShift"><span>Shift</span></div>
-                </div>
-                <!-- Row 5 -->
-                <div class="row">
-                    <div class="key w125" data-keys="LCtrl"><span>Ctrl</span></div>
-                    <div class="key w125" data-keys="LWin"><span>❖</span></div>
-                    <div class="key w125" data-keys="LAlt"><span>Alt</span></div>
-                    <div class="key wSpace" data-keys="Space"><span>Space</span></div>
-                    <div class="key w125" data-keys="RAlt"><span>Alt</span></div>
-                    <div class="key w125" data-keys="RWin"><span>❖</span></div>
-                    <div class="key w125" data-keys="Menu"><span>☰</span></div>
-                    <div class="key w125" data-keys="RCtrl"><span>Ctrl</span></div>
-                </div>
-            </div>
-            <div class="section-gap"></div>
-            <!-- Numpad -->
-            <div class="numpad-block">
-                <div class="key np-numlk" data-keys="NumLk"><span>Num</span><span>Lk</span></div>
-                <div class="key np-slash" data-keys="Num/"><span>/</span></div>
-                <div class="key np-star" data-keys="Num*"><span>*</span></div>
-                <div class="key np-minus" data-keys="Num-"><span>-</span></div>
-                <div class="key np-7" data-keys="Num7"><span class="top">Home</span><span class="bot">7</span></div>
-                <div class="key np-8" data-keys="Num8"><span class="top">↑</span><span class="bot">8</span></div>
-                <div class="key np-9" data-keys="Num9"><span class="top">PgUp</span><span class="bot">9</span></div>
-                <div class="key np-plus" data-keys="Num+"><span>+</span></div>
-                <div class="key np-4" data-keys="Num4"><span class="top">←</span><span class="bot">4</span></div>
-                <div class="key np-5" data-keys="Num5"><span class="bot">5</span></div>
-                <div class="key np-6" data-keys="Num6"><span class="top">→</span><span class="bot">6</span></div>
-                <div class="key np-1" data-keys="Num1"><span class="top">End</span><span class="bot">1</span></div>
-                <div class="key np-2" data-keys="Num2"><span class="top">↓</span><span class="bot">2</span></div>
-                <div class="key np-3" data-keys="Num3"><span class="top">PgDn</span><span class="bot">3</span></div>
-                <div class="key np-enter" data-keys="NumEnter"><span>Enter</span></div>
-                <div class="key np-0" data-keys="Num0"><span class="top">Ins</span><span class="bot">0</span></div>
-                <div class="key np-dot" data-keys="NumDot"><span class="top">Del</span><span class="bot">.</span></div>
-            </div>
-        </div>
-    </div>
-
     <script src="script.js"></script>
+
 </body>
 
 </html>
