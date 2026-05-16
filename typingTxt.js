@@ -1753,7 +1753,7 @@ window.typingData = [
     "Id": 250,
     "Lvl": 0,
     "Text": "Wry",
-    "Japanese": "ひょうき",
+    "Japanese": "皮肉な",
     "Len": 3
   },
   {
@@ -2712,7 +2712,7 @@ window.typingData = [
     "Id": 387,
     "Lvl": 2,
     "Text": "Abide",
-    "Japanese": "従う",
+    "Japanese": "留まる",
     "Len": 5
   },
   {
@@ -9607,7 +9607,7 @@ window.typingData = [
     "Id": 1372,
     "Lvl": 4,
     "Text": "Dreamed",
-    "Japanese": "夢見た",
+    "Japanese": "夢を見た",
     "Len": 7
   },
   {
@@ -13548,7 +13548,7 @@ window.typingData = [
     "Id": 1935,
     "Lvl": 4,
     "Text": "Transit",
-    "Japanese": "公共交通機関",
+    "Japanese": "交通機関",
     "Len": 7
   },
   {
@@ -14129,14 +14129,14 @@ window.typingData = [
     "Id": 2018,
     "Lvl": 4,
     "Text": "Western",
-    "Japanese": "西洋",
+    "Japanese": "西部",
     "Len": 7
   },
   {
     "Id": 2019,
     "Lvl": 4,
     "Text": "Wetness",
-    "Japanese": "湿り気",
+    "Japanese": "濡れ",
     "Len": 7
   },
   {
@@ -20597,7 +20597,7 @@ window.typingData = [
     "Id": 2942,
     "Lvl": 7,
     "Text": "Xenolithic",
-    "Japanese": "異石器",
+    "Japanese": "異石器時代の",
     "Len": 10
   },
   {
@@ -23410,5213 +23410,5213 @@ window.typingData = [
   {
     "Id": 3344,
     "Lvl": 10,
+    "Text": "Plaguebringer",
+    "Japanese": "疫病をもたらす者",
+    "Len": 13
+  },
+  {
+    "Id": 3345,
+    "Lvl": 10,
     "Text": "Psychological",
     "Japanese": "心理学的",
     "Len": 13
   },
   {
-    "Id": 3345,
+    "Id": 3346,
     "Lvl": 10,
     "Text": "Precipitation",
     "Japanese": "降水量",
     "Len": 13
   },
   {
-    "Id": 3346,
+    "Id": 3347,
     "Lvl": 10,
     "Text": "Public school",
     "Japanese": "公立学校",
     "Len": 13
   },
   {
-    "Id": 3347,
+    "Id": 3348,
     "Lvl": 10,
     "Text": "Questionnaire",
     "Japanese": "アンケート",
     "Len": 13
   },
   {
-    "Id": 3348,
+    "Id": 3349,
     "Lvl": 10,
     "Text": "Qualification",
     "Japanese": "資格",
     "Len": 13
   },
   {
-    "Id": 3349,
+    "Id": 3350,
     "Lvl": 10,
     "Text": "Quality check",
     "Japanese": "品質チェック",
     "Len": 13
   },
   {
-    "Id": 3350,
+    "Id": 3351,
     "Lvl": 10,
     "Text": "Relationships",
     "Japanese": "人間関係",
     "Len": 13
   },
   {
-    "Id": 3351,
+    "Id": 3352,
     "Lvl": 10,
     "Text": "Registrations",
     "Japanese": "登録",
     "Len": 13
   },
   {
-    "Id": 3352,
+    "Id": 3353,
     "Lvl": 10,
     "Text": "Refrigerators",
     "Japanese": "冷蔵庫",
     "Len": 13
   },
   {
-    "Id": 3353,
+    "Id": 3354,
     "Lvl": 10,
     "Text": "Real property",
     "Japanese": "不動産",
     "Len": 13
   },
   {
-    "Id": 3354,
+    "Id": 3355,
     "Lvl": 10,
     "Text": "Running track",
     "Japanese": "ランニングトラック",
     "Len": 13
   },
   {
-    "Id": 3355,
+    "Id": 3356,
     "Lvl": 10,
     "Text": "Random access",
     "Japanese": "ランダムアクセス",
     "Len": 13
   },
   {
-    "Id": 3356,
+    "Id": 3357,
     "Lvl": 10,
     "Text": "Rainbow trout",
     "Japanese": "ニジマス",
     "Len": 13
   },
   {
-    "Id": 3357,
+    "Id": 3358,
     "Lvl": 10,
     "Text": "Rationalizing",
     "Japanese": "合理化",
     "Len": 13
   },
   {
-    "Id": 3358,
+    "Id": 3359,
     "Lvl": 10,
     "Text": "Specification",
     "Japanese": "仕様",
     "Len": 13
   },
   {
-    "Id": 3359,
+    "Id": 3360,
     "Lvl": 10,
     "Text": "Sophisticated",
     "Japanese": "洗練された",
     "Len": 13
   },
   {
-    "Id": 3360,
+    "Id": 3361,
+    "Lvl": 10,
+    "Text": "Suicide mouse",
+    "Japanese": "自殺マウス",
+    "Len": 13
+  },
+  {
+    "Id": 3362,
     "Lvl": 10,
     "Text": "Shopping mall",
     "Japanese": "ショッピングモール",
     "Len": 13
   },
   {
-    "Id": 3361,
+    "Id": 3363,
     "Lvl": 10,
     "Text": "Sports center",
     "Japanese": "スポーツセンター",
     "Len": 13
   },
   {
-    "Id": 3362,
+    "Id": 3364,
     "Lvl": 10,
     "Text": "Second chance",
     "Japanese": "二度目のチャンス",
     "Len": 13
   },
   {
-    "Id": 3363,
+    "Id": 3365,
     "Lvl": 10,
     "Text": "Silver lining",
     "Japanese": "希望の光",
     "Len": 13
   },
   {
-    "Id": 3364,
+    "Id": 3366,
     "Lvl": 10,
     "Text": "Text messages",
     "Japanese": "テキストメッセージ",
     "Len": 13
   },
   {
-    "Id": 3365,
+    "Id": 3367,
     "Lvl": 10,
     "Text": "Transmissions",
     "Japanese": "送信",
     "Len": 13
   },
   {
-    "Id": 3366,
+    "Id": 3368,
     "Lvl": 10,
     "Text": "Target market",
     "Japanese": "対象市場",
     "Len": 13
   },
   {
-    "Id": 3367,
+    "Id": 3369,
     "Lvl": 10,
     "Text": "Tennis player",
     "Japanese": "テニス選手",
     "Len": 13
   },
   {
-    "Id": 3368,
+    "Id": 3370,
     "Lvl": 10,
     "Text": "Traffic light",
     "Japanese": "信号機",
     "Len": 13
   },
   {
-    "Id": 3369,
+    "Id": 3371,
     "Lvl": 10,
     "Text": "Technological",
     "Japanese": "技術的",
     "Len": 13
   },
   {
-    "Id": 3370,
+    "Id": 3372,
     "Lvl": 10,
     "Text": "Thermodynamic",
     "Japanese": "熱力学",
     "Len": 13
   },
   {
-    "Id": 3371,
+    "Id": 3373,
     "Lvl": 10,
     "Text": "Travel agency",
     "Japanese": "旅行代理店",
     "Len": 13
   },
   {
-    "Id": 3372,
+    "Id": 3374,
     "Lvl": 10,
     "Text": "Understanding",
     "Japanese": "理解",
     "Len": 13
   },
   {
-    "Id": 3373,
+    "Id": 3375,
     "Lvl": 10,
     "Text": "Uncertainties",
     "Japanese": "不確実性",
     "Len": 13
   },
   {
-    "Id": 3374,
+    "Id": 3376,
     "Lvl": 10,
     "Text": "Under the sea",
     "Japanese": "海底",
     "Len": 13
   },
   {
-    "Id": 3375,
+    "Id": 3377,
     "Lvl": 10,
     "Text": "Universal law",
     "Japanese": "普遍的な法則",
     "Len": 13
   },
   {
-    "Id": 3376,
+    "Id": 3378,
     "Lvl": 10,
     "Text": "Urban setting",
     "Japanese": "都市環境",
     "Len": 13
   },
   {
-    "Id": 3377,
+    "Id": 3379,
     "Lvl": 10,
     "Text": "Vulnerability",
     "Japanese": "脆弱性",
     "Len": 13
   },
   {
-    "Id": 3378,
+    "Id": 3380,
     "Lvl": 10,
     "Text": "Verifications",
     "Japanese": "検証",
     "Len": 13
   },
   {
-    "Id": 3379,
+    "Id": 3381,
     "Lvl": 10,
     "Text": "Voice message",
     "Japanese": "音声メッセージ",
     "Len": 13
   },
   {
-    "Id": 3380,
+    "Id": 3382,
     "Lvl": 10,
     "Text": "Visualization",
     "Japanese": "視覚化",
     "Len": 13
   },
   {
-    "Id": 3381,
+    "Id": 3383,
     "Lvl": 10,
     "Text": "Virtual world",
     "Japanese": "仮想世界",
     "Len": 13
   },
   {
-    "Id": 3382,
+    "Id": 3384,
     "Lvl": 10,
     "Text": "Vegetable oil",
     "Japanese": "植物油",
     "Len": 13
   },
   {
-    "Id": 3383,
+    "Id": 3385,
     "Lvl": 10,
     "Text": "Vacation home",
     "Japanese": "別荘",
     "Len": 13
   },
   {
-    "Id": 3384,
+    "Id": 3386,
     "Lvl": 10,
     "Text": "Velvet fabric",
     "Japanese": "ベルベット生地",
     "Len": 13
   },
   {
-    "Id": 3385,
+    "Id": 3387,
     "Lvl": 10,
     "Text": "Water bottles",
     "Japanese": "水筒",
     "Len": 13
   },
   {
-    "Id": 3386,
+    "Id": 3388,
     "Lvl": 10,
     "Text": "Western world",
     "Japanese": "西洋世界",
     "Len": 13
   },
   {
-    "Id": 3387,
+    "Id": 3389,
     "Lvl": 10,
     "Text": "Window shades",
     "Japanese": "窓用ブラインド",
     "Len": 13
   },
   {
-    "Id": 3388,
+    "Id": 3390,
     "Lvl": 10,
     "Text": "Weekly report",
     "Japanese": "週次報告",
     "Len": 13
   },
   {
-    "Id": 3389,
+    "Id": 3391,
     "Lvl": 10,
     "Text": "Weightlifting",
     "Japanese": "ウェイトリフティング",
     "Len": 13
   },
   {
-    "Id": 3390,
+    "Id": 3392,
     "Lvl": 10,
     "Text": "Winter season",
     "Japanese": "冬の季節",
     "Len": 13
   },
   {
-    "Id": 3391,
+    "Id": 3393,
     "Lvl": 10,
     "Text": "Working hours",
     "Japanese": "勤務時間",
     "Len": 13
   },
   {
-    "Id": 3392,
+    "Id": 3394,
     "Lvl": 10,
     "Text": "X-ray machine",
     "Japanese": "X線装置",
     "Len": 13
   },
   {
-    "Id": 3393,
+    "Id": 3395,
     "Lvl": 10,
     "Text": "X-ray therapy",
     "Japanese": "X線療法",
     "Len": 13
   },
   {
-    "Id": 3394,
+    "Id": 3396,
     "Lvl": 10,
     "Text": "X-ray picture",
     "Japanese": "X線写真",
     "Len": 13
   },
   {
-    "Id": 3395,
+    "Id": 3397,
     "Lvl": 10,
     "Text": "Yellow flower",
     "Japanese": "黄色い花",
     "Len": 13
   },
   {
-    "Id": 3396,
+    "Id": 3398,
     "Lvl": 10,
     "Text": "Youth centers",
     "Japanese": "青少年センター",
     "Len": 13
   },
   {
-    "Id": 3397,
+    "Id": 3399,
     "Lvl": 10,
     "Text": "Yearly report",
     "Japanese": "年次報告書",
     "Len": 13
   },
   {
-    "Id": 3398,
+    "Id": 3400,
     "Lvl": 10,
     "Text": "Zoo attendant",
     "Japanese": "動物園の飼育員",
     "Len": 13
   },
   {
-    "Id": 3399,
+    "Id": 3401,
     "Lvl": 10,
     "Text": "Zinc coatings",
     "Japanese": "亜鉛コーティング",
     "Len": 13
   },
   {
-    "Id": 3400,
+    "Id": 3402,
     "Lvl": 10,
     "Text": "Zebra pattern",
     "Japanese": "ゼブラ柄",
     "Len": 13
   },
   {
-    "Id": 3401,
+    "Id": 3403,
     "Lvl": 10,
     "Text": "Zinc chloride",
     "Japanese": "塩化亜鉛",
     "Len": 13
   },
   {
-    "Id": 3402,
+    "Id": 3404,
     "Lvl": 11,
     "Text": "Advertisements",
     "Japanese": "広告",
     "Len": 14
   },
   {
-    "Id": 3403,
+    "Id": 3405,
     "Lvl": 11,
     "Text": "Administration",
     "Japanese": "管理",
     "Len": 14
   },
   {
-    "Id": 3404,
+    "Id": 3406,
     "Lvl": 11,
     "Text": "Accountability",
     "Japanese": "説明責任",
     "Len": 14
   },
   {
-    "Id": 3405,
+    "Id": 3407,
     "Lvl": 11,
     "Text": "Accomplishment",
     "Japanese": "達成",
     "Len": 14
   },
   {
-    "Id": 3406,
+    "Id": 3408,
     "Lvl": 11,
     "Text": "Authentication",
     "Japanese": "認証",
     "Len": 14
   },
   {
-    "Id": 3407,
+    "Id": 3409,
     "Lvl": 11,
     "Text": "Anthropologist",
     "Japanese": "人類学者",
     "Len": 14
   },
   {
-    "Id": 3408,
+    "Id": 3410,
     "Lvl": 11,
     "Text": "Bioengineering",
     "Japanese": "生物工学",
     "Len": 14
   },
   {
-    "Id": 3409,
+    "Id": 3411,
     "Lvl": 11,
     "Text": "Biodegradables",
     "Japanese": "生分解性",
     "Len": 14
   },
   {
-    "Id": 3410,
+    "Id": 3412,
     "Lvl": 11,
     "Text": "Bioinformatics",
     "Japanese": "バイオインフォマティクス",
     "Len": 14
   },
   {
-    "Id": 3411,
+    "Id": 3413,
     "Lvl": 11,
     "Text": "Breathlessness",
     "Japanese": "息切れ",
     "Len": 14
   },
   {
-    "Id": 3412,
+    "Id": 3414,
     "Lvl": 11,
     "Text": "Businesspeople",
     "Japanese": "ビジネスマン",
     "Len": 14
   },
   {
-    "Id": 3413,
+    "Id": 3415,
     "Lvl": 11,
     "Text": "Blood pressure",
     "Japanese": "血圧",
     "Len": 14
   },
   {
-    "Id": 3414,
+    "Id": 3416,
     "Lvl": 11,
     "Text": "Building block",
     "Japanese": "構成要素",
     "Len": 14
   },
   {
-    "Id": 3415,
+    "Id": 3417,
     "Lvl": 11,
     "Text": "Characteristic",
     "Japanese": "特性",
     "Len": 14
   },
   {
-    "Id": 3416,
+    "Id": 3418,
     "Lvl": 11,
     "Text": "Communications",
     "Japanese": "コミュニケーション",
     "Len": 14
   },
   {
-    "Id": 3417,
+    "Id": 3419,
     "Lvl": 11,
     "Text": "Classification",
     "Japanese": "分類",
     "Len": 14
   },
   {
-    "Id": 3418,
+    "Id": 3420,
     "Lvl": 11,
     "Text": "Constitutional",
     "Japanese": "憲法",
     "Len": 14
   },
   {
-    "Id": 3419,
+    "Id": 3421,
     "Lvl": 11,
     "Text": "Categorization",
     "Japanese": "分類",
     "Len": 14
   },
   {
-    "Id": 3420,
+    "Id": 3422,
     "Lvl": 11,
     "Text": "Capitalization",
     "Japanese": "大文字化",
     "Len": 14
   },
   {
-    "Id": 3421,
+    "Id": 3423,
     "Lvl": 11,
     "Text": "Congratulation",
     "Japanese": "おめでとうございます",
     "Len": 14
   },
   {
-    "Id": 3422,
+    "Id": 3424,
     "Lvl": 11,
     "Text": "Discrimination",
     "Japanese": "差別",
     "Len": 14
   },
   {
-    "Id": 3423,
+    "Id": 3425,
     "Lvl": 11,
     "Text": "Determinations",
     "Japanese": "決定事項",
     "Len": 14
   },
   {
-    "Id": 3424,
+    "Id": 3426,
     "Lvl": 11,
     "Text": "Differentiates",
     "Japanese": "区別する",
     "Len": 14
   },
   {
-    "Id": 3425,
+    "Id": 3427,
     "Lvl": 11,
     "Text": "Disappointment",
     "Japanese": "失望",
     "Len": 14
   },
   {
-    "Id": 3426,
+    "Id": 3428,
     "Lvl": 11,
     "Text": "Discontinuance",
     "Japanese": "中止",
     "Len": 14
   },
   {
-    "Id": 3427,
+    "Id": 3429,
     "Lvl": 11,
     "Text": "Decentralizing",
     "Japanese": "分散化",
     "Len": 14
   },
   {
-    "Id": 3428,
+    "Id": 3430,
     "Lvl": 11,
     "Text": "Effective date",
     "Japanese": "発効日",
     "Len": 14
   },
   {
-    "Id": 3429,
+    "Id": 3431,
     "Lvl": 11,
     "Text": "Everything now",
     "Japanese": "すべて今",
     "Len": 14
   },
   {
-    "Id": 3430,
+    "Id": 3432,
     "Lvl": 11,
     "Text": "Ecclesiastical",
     "Japanese": "教会の",
     "Len": 14
   },
   {
-    "Id": 3431,
+    "Id": 3433,
     "Lvl": 11,
     "Text": "Electromagnets",
     "Japanese": "電磁石",
     "Len": 14
   },
   {
-    "Id": 3432,
+    "Id": 3434,
     "Lvl": 11,
     "Text": "Experimentally",
     "Japanese": "実験的に",
     "Len": 14
   },
   {
-    "Id": 3433,
+    "Id": 3435,
     "Lvl": 11,
     "Text": "Financial plan",
     "Japanese": "財務計画",
     "Len": 14
   },
   {
-    "Id": 3434,
+    "Id": 3436,
     "Lvl": 11,
     "Text": "Functionalisms",
     "Japanese": "機能主義",
     "Len": 14
   },
   {
-    "Id": 3435,
+    "Id": 3437,
     "Lvl": 11,
     "Text": "Fundamentalist",
     "Japanese": "原理主義者",
     "Len": 14
   },
   {
-    "Id": 3436,
+    "Id": 3438,
     "Lvl": 11,
     "Text": "Fragmentations",
     "Japanese": "断片化",
     "Len": 14
   },
   {
-    "Id": 3437,
+    "Id": 3439,
     "Lvl": 11,
     "Text": "Friendlinesses",
     "Japanese": "親しみやすさ",
     "Len": 14
   },
   {
-    "Id": 3438,
+    "Id": 3440,
     "Lvl": 11,
     "Text": "Featherweights",
     "Japanese": "フェザー級",
     "Len": 14
   },
   {
-    "Id": 3439,
+    "Id": 3441,
     "Lvl": 11,
     "Text": "Geometric form",
     "Japanese": "幾何学的形状",
     "Len": 14
   },
   {
-    "Id": 3440,
+    "Id": 3442,
     "Lvl": 11,
     "Text": "Global warming",
     "Japanese": "地球温暖化",
     "Len": 14
   },
   {
-    "Id": 3441,
+    "Id": 3443,
     "Lvl": 11,
     "Text": "Gathering data",
     "Japanese": "データ収集",
     "Len": 14
   },
   {
-    "Id": 3442,
+    "Id": 3444,
     "Lvl": 11,
     "Text": "Greatest thing",
     "Japanese": "最高のもの",
     "Len": 14
   },
   {
-    "Id": 3443,
+    "Id": 3445,
     "Lvl": 11,
     "Text": "Generalization",
     "Japanese": "一般化",
     "Len": 14
   },
   {
-    "Id": 3444,
+    "Id": 3446,
     "Lvl": 11,
     "Text": "Historical era",
     "Japanese": "歴史的時代",
     "Len": 14
   },
   {
-    "Id": 3445,
+    "Id": 3447,
     "Lvl": 11,
     "Text": "Hyperinflation",
     "Japanese": "過膨張",
     "Len": 14
   },
   {
-    "Id": 3446,
+    "Id": 3448,
     "Lvl": 11,
     "Text": "Hydroelectrics",
     "Japanese": "水力発電",
     "Len": 14
   },
   {
-    "Id": 3447,
+    "Id": 3449,
     "Lvl": 11,
     "Text": "Housecleanings",
     "Japanese": "ハウスクリーニング",
     "Len": 14
   },
   {
-    "Id": 3448,
+    "Id": 3450,
     "Lvl": 11,
     "Text": "Human resource",
     "Japanese": "人事",
     "Len": 14
   },
   {
-    "Id": 3449,
+    "Id": 3451,
     "Lvl": 11,
     "Text": "Hallucinations",
     "Japanese": "幻覚",
     "Len": 14
   },
   {
-    "Id": 3450,
+    "Id": 3452,
     "Lvl": 11,
     "Text": "Implementation",
     "Japanese": "実装",
     "Len": 14
   },
   {
-    "Id": 3451,
+    "Id": 3453,
     "Lvl": 11,
     "Text": "Identification",
     "Japanese": "識別",
     "Len": 14
   },
   {
-    "Id": 3452,
+    "Id": 3454,
     "Lvl": 11,
     "Text": "Infrastructure",
     "Japanese": "インフラストラクチャー",
     "Len": 14
   },
   {
-    "Id": 3453,
+    "Id": 3455,
     "Lvl": 11,
     "Text": "Individualisms",
     "Japanese": "個人主義",
     "Len": 14
   },
   {
-    "Id": 3454,
+    "Id": 3456,
     "Lvl": 11,
     "Text": "Interpretation",
     "Japanese": "解釈",
     "Len": 14
   },
   {
-    "Id": 3455,
+    "Id": 3457,
     "Lvl": 11,
     "Text": "Interconnected",
     "Japanese": "相互接続されています",
     "Len": 14
   },
   {
-    "Id": 3456,
+    "Id": 3458,
     "Lvl": 11,
     "Text": "Investigations",
     "Japanese": "調査",
     "Len": 14
   },
   {
-    "Id": 3457,
+    "Id": 3459,
     "Lvl": 11,
     "Text": "Joint projects",
     "Japanese": "共同プロジェクト",
     "Len": 14
   },
   {
-    "Id": 3458,
+    "Id": 3460,
     "Lvl": 11,
     "Text": "Justifications",
     "Japanese": "正当化",
     "Len": 14
   },
   {
-    "Id": 3459,
+    "Id": 3461,
     "Lvl": 11,
     "Text": "Juvenile court",
     "Japanese": "少年裁判所",
     "Len": 14
   },
   {
-    "Id": 3460,
+    "Id": 3462,
     "Lvl": 11,
     "Text": "Japanese style",
     "Japanese": "和風",
     "Len": 14
   },
   {
-    "Id": 3461,
+    "Id": 3463,
     "Lvl": 11,
     "Text": "Juxtapositions",
     "Japanese": "並置",
     "Len": 14
   },
   {
-    "Id": 3462,
+    "Id": 3464,
     "Lvl": 11,
     "Text": "Jazz musicians",
     "Japanese": "ジャズミュージシャン",
     "Len": 14
   },
   {
-    "Id": 3463,
+    "Id": 3465,
     "Lvl": 11,
     "Text": "Knowledge base",
     "Japanese": "知識ベース",
     "Len": 14
   },
   {
-    "Id": 3464,
+    "Id": 3466,
     "Lvl": 11,
     "Text": "Kitchen garden",
     "Japanese": "家庭菜園",
     "Len": 14
   },
   {
-    "Id": 3465,
+    "Id": 3467,
     "Lvl": 11,
     "Text": "Keep in memory",
     "Japanese": "記憶に留めて",
     "Len": 14
   },
   {
-    "Id": 3466,
+    "Id": 3468,
     "Lvl": 11,
     "Text": "Key ingredient",
     "Japanese": "主要成分",
     "Len": 14
   },
   {
-    "Id": 3467,
+    "Id": 3469,
     "Lvl": 11,
     "Text": "Keyboard style",
     "Japanese": "キーボードスタイル",
     "Len": 14
   },
   {
-    "Id": 3468,
+    "Id": 3470,
     "Lvl": 11,
     "Text": "Known quantity",
     "Japanese": "既知の量",
     "Len": 14
   },
   {
-    "Id": 3469,
+    "Id": 3471,
     "Lvl": 11,
     "Text": "Librarianships",
     "Japanese": "図書館員職",
     "Len": 14
   },
   {
-    "Id": 3470,
+    "Id": 3472,
     "Lvl": 11,
     "Text": "Literalization",
     "Japanese": "文字通りの解釈",
     "Len": 14
   },
   {
-    "Id": 3471,
+    "Id": 3473,
     "Lvl": 11,
     "Text": "Lightheartedly",
     "Japanese": "気楽に",
     "Len": 14
   },
   {
-    "Id": 3472,
+    "Id": 3474,
     "Lvl": 11,
     "Text": "Leading figure",
     "Japanese": "指導的人物",
     "Len": 14
   },
   {
-    "Id": 3473,
+    "Id": 3475,
     "Lvl": 11,
     "Text": "Laboratory job",
     "Japanese": "研究室での仕事",
     "Len": 14
   },
   {
-    "Id": 3474,
+    "Id": 3476,
     "Lvl": 11,
     "Text": "Learning phase",
     "Japanese": "学習段階",
     "Len": 14
   },
   {
-    "Id": 3475,
+    "Id": 3477,
     "Lvl": 11,
     "Text": "Microstructure",
     "Japanese": "微細構造",
     "Len": 14
   },
   {
-    "Id": 3476,
+    "Id": 3478,
     "Lvl": 11,
     "Text": "Misinterpreted",
     "Japanese": "誤解された",
     "Len": 14
   },
   {
-    "Id": 3477,
+    "Id": 3479,
     "Lvl": 11,
     "Text": "Multiplication",
     "Japanese": "乗算",
     "Len": 14
   },
   {
-    "Id": 3478,
+    "Id": 3480,
     "Lvl": 11,
     "Text": "Manifestations",
     "Japanese": "発現",
     "Len": 14
   },
   {
-    "Id": 3479,
+    "Id": 3481,
     "Lvl": 11,
     "Text": "Miscalculation",
     "Japanese": "誤算",
     "Len": 14
   },
   {
-    "Id": 3480,
+    "Id": 3482,
     "Lvl": 11,
     "Text": "Microorganisms",
     "Japanese": "微生物",
     "Len": 14
   },
   {
-    "Id": 3481,
+    "Id": 3483,
     "Lvl": 11,
     "Text": "Normalizations",
     "Japanese": "正規化",
     "Len": 14
   },
   {
-    "Id": 3482,
+    "Id": 3484,
     "Lvl": 11,
     "Text": "Nighttime walk",
     "Japanese": "夜の散歩",
     "Len": 14
   },
   {
-    "Id": 3483,
+    "Id": 3485,
     "Lvl": 11,
     "Text": "Neutralization",
     "Japanese": "中和",
     "Len": 14
   },
   {
-    "Id": 3484,
+    "Id": 3486,
     "Lvl": 11,
     "Text": "Naturalization",
     "Japanese": "帰化",
     "Len": 14
   },
   {
-    "Id": 3485,
+    "Id": 3487,
     "Lvl": 11,
     "Text": "Noncompetitive",
     "Japanese": "非競争的",
     "Len": 14
   },
   {
-    "Id": 3486,
+    "Id": 3488,
     "Lvl": 11,
     "Text": "Nervous system",
     "Japanese": "神経系",
     "Len": 14
   },
   {
-    "Id": 3487,
+    "Id": 3489,
     "Lvl": 11,
     "Text": "Negative sense",
     "Japanese": "否定的な意味",
     "Len": 14
   },
   {
-    "Id": 3488,
+    "Id": 3490,
     "Lvl": 11,
     "Text": "Organizational",
     "Japanese": "組織",
     "Len": 14
   },
   {
-    "Id": 3489,
+    "Id": 3491,
     "Lvl": 11,
     "Text": "Overwhelmingly",
     "Japanese": "圧倒的に",
     "Len": 14
   },
   {
-    "Id": 3490,
+    "Id": 3492,
     "Lvl": 11,
     "Text": "Operating room",
     "Japanese": "手術室",
     "Len": 14
   },
   {
-    "Id": 3491,
+    "Id": 3493,
     "Lvl": 11,
     "Text": "Office manager",
     "Japanese": "オフィス管理者",
     "Len": 14
   },
   {
-    "Id": 3492,
+    "Id": 3494,
     "Lvl": 11,
     "Text": "Organic matter",
     "Japanese": "有機物",
     "Len": 14
   },
   {
-    "Id": 3493,
+    "Id": 3495,
     "Lvl": 11,
     "Text": "Out of control",
     "Japanese": "制御不能",
     "Len": 14
   },
   {
-    "Id": 3494,
+    "Id": 3496,
     "Lvl": 11,
     "Text": "Pharmaceutical",
     "Japanese": "医薬品",
     "Len": 14
   },
   {
-    "Id": 3495,
+    "Id": 3497,
     "Lvl": 11,
     "Text": "Photosynthesis",
     "Japanese": "光合成",
     "Len": 14
   },
   {
-    "Id": 3496,
+    "Id": 3498,
     "Lvl": 11,
     "Text": "Practical work",
     "Japanese": "実習",
     "Len": 14
   },
   {
-    "Id": 3497,
+    "Id": 3499,
     "Lvl": 11,
     "Text": "Public speaker",
     "Japanese": "講演者",
     "Len": 14
   },
   {
-    "Id": 3498,
+    "Id": 3500,
     "Lvl": 11,
     "Text": "Physical world",
     "Japanese": "物理世界",
     "Len": 14
   },
   {
-    "Id": 3499,
+    "Id": 3501,
     "Lvl": 11,
     "Text": "Paleontologist",
     "Japanese": "古生物学者",
     "Len": 14
   },
   {
-    "Id": 3500,
+    "Id": 3502,
     "Lvl": 11,
     "Text": "Qualifications",
     "Japanese": "資格",
     "Len": 14
   },
   {
-    "Id": 3501,
+    "Id": 3503,
     "Lvl": 11,
     "Text": "Quantification",
     "Japanese": "定量化",
     "Len": 14
   },
   {
-    "Id": 3502,
+    "Id": 3504,
     "Lvl": 11,
     "Text": "Quartermasters",
     "Japanese": "需品係将校",
     "Len": 14
   },
   {
-    "Id": 3503,
+    "Id": 3505,
     "Lvl": 11,
     "Text": "Questionnaires",
     "Japanese": "アンケート",
     "Len": 14
   },
   {
-    "Id": 3504,
+    "Id": 3506,
     "Lvl": 11,
     "Text": "Quietly moving",
     "Japanese": "静かに動く",
     "Len": 14
   },
   {
-    "Id": 3505,
+    "Id": 3507,
     "Lvl": 11,
     "Text": "Quick response",
     "Japanese": "迅速な対応",
     "Len": 14
   },
   {
-    "Id": 3506,
+    "Id": 3508,
     "Lvl": 11,
     "Text": "Reconstruction",
     "Japanese": "再建",
     "Len": 14
   },
   {
-    "Id": 3507,
+    "Id": 3509,
     "Lvl": 11,
     "Text": "Representative",
     "Japanese": "代表",
     "Len": 14
   },
   {
-    "Id": 3508,
+    "Id": 3510,
     "Lvl": 11,
     "Text": "Responsibility",
     "Japanese": "責任",
     "Len": 14
   },
   {
-    "Id": 3509,
+    "Id": 3511,
     "Lvl": 11,
     "Text": "Rehabilitation",
     "Japanese": "リハビリテーション",
     "Len": 14
   },
   {
-    "Id": 3510,
+    "Id": 3512,
     "Lvl": 11,
     "Text": "Recategorizing",
     "Japanese": "再分類",
     "Len": 14
   },
   {
-    "Id": 3511,
+    "Id": 3513,
     "Lvl": 11,
     "Text": "Running faster",
     "Japanese": "より速く走る",
     "Len": 14
   },
   {
-    "Id": 3512,
+    "Id": 3514,
     "Lvl": 11,
     "Text": "Railway tracks",
     "Japanese": "鉄道線路",
     "Len": 14
   },
   {
-    "Id": 3513,
+    "Id": 3515,
     "Lvl": 11,
     "Text": "Sustainability",
     "Japanese": "持続可能性",
     "Len": 14
   },
   {
-    "Id": 3514,
+    "Id": 3516,
     "Lvl": 11,
     "Text": "Sophistication",
     "Japanese": "洗練",
     "Len": 14
   },
   {
-    "Id": 3515,
+    "Id": 3517,
     "Lvl": 11,
     "Text": "Specifications",
     "Japanese": "仕様",
     "Len": 14
   },
   {
-    "Id": 3516,
+    "Id": 3518,
     "Lvl": 11,
     "Text": "Specialization",
     "Japanese": "専門化",
     "Len": 14
   },
   {
-    "Id": 3517,
+    "Id": 3519,
     "Lvl": 11,
     "Text": "Superstructure",
     "Japanese": "上部構造",
     "Len": 14
   },
   {
-    "Id": 3518,
+    "Id": 3520,
     "Lvl": 11,
     "Text": "Small business",
     "Japanese": "中小企業",
     "Len": 14
   },
   {
-    "Id": 3519,
+    "Id": 3521,
     "Lvl": 11,
     "Text": "Social science",
     "Japanese": "社会科学",
     "Len": 14
   },
   {
-    "Id": 3520,
+    "Id": 3522,
     "Lvl": 11,
     "Text": "Transformation",
     "Japanese": "変換",
     "Len": 14
   },
   {
-    "Id": 3521,
+    "Id": 3523,
     "Lvl": 11,
     "Text": "Transportation",
     "Japanese": "交通機関",
     "Len": 14
   },
   {
-    "Id": 3522,
+    "Id": 3524,
     "Lvl": 11,
     "Text": "Technical work",
     "Japanese": "技術作業",
     "Len": 14
   },
   {
-    "Id": 3523,
+    "Id": 3525,
     "Lvl": 11,
     "Text": "Theatrical act",
     "Japanese": "演劇",
     "Len": 14
   },
   {
-    "Id": 3524,
+    "Id": 3526,
     "Lvl": 11,
     "Text": "Traditionalism",
     "Japanese": "伝統主義",
     "Len": 14
   },
   {
-    "Id": 3525,
+    "Id": 3527,
     "Lvl": 11,
     "Text": "Textualization",
     "Japanese": "テキスト化",
     "Len": 14
   },
   {
-    "Id": 3526,
+    "Id": 3528,
     "Lvl": 11,
     "Text": "Understandable",
     "Japanese": "理解できる",
     "Len": 14
   },
   {
-    "Id": 3527,
+    "Id": 3529,
     "Lvl": 11,
     "Text": "Unsatisfactory",
     "Japanese": "不十分",
     "Len": 14
   },
   {
-    "Id": 3528,
+    "Id": 3530,
     "Lvl": 11,
     "Text": "Understatement",
     "Japanese": "控えめな表現",
     "Len": 14
   },
   {
-    "Id": 3529,
+    "Id": 3531,
     "Lvl": 11,
     "Text": "Uniformization",
     "Japanese": "均一化",
     "Len": 14
   },
   {
-    "Id": 3530,
+    "Id": 3532,
     "Lvl": 11,
     "Text": "Universalizing",
     "Japanese": "普遍化する",
     "Len": 14
   },
   {
-    "Id": 3531,
+    "Id": 3533,
     "Lvl": 11,
     "Text": "Urban planning",
     "Japanese": "都市計画",
     "Len": 14
   },
   {
-    "Id": 3532,
+    "Id": 3534,
     "Lvl": 11,
     "Text": "Used car sales",
     "Japanese": "中古車販売",
     "Len": 14
   },
   {
-    "Id": 3533,
+    "Id": 3535,
     "Lvl": 11,
     "Text": "Vegetarianisms",
     "Japanese": "菜食主義",
     "Len": 14
   },
   {
-    "Id": 3534,
+    "Id": 3536,
     "Lvl": 11,
     "Text": "Vertical lines",
     "Japanese": "垂直線",
     "Len": 14
   },
   {
-    "Id": 3535,
+    "Id": 3537,
     "Lvl": 11,
     "Text": "Virtual worlds",
     "Japanese": "仮想世界",
     "Len": 14
   },
   {
-    "Id": 3536,
+    "Id": 3538,
     "Lvl": 11,
     "Text": "Vocabulary set",
     "Japanese": "語彙セット",
     "Len": 14
   },
   {
-    "Id": 3537,
+    "Id": 3539,
     "Lvl": 11,
     "Text": "Voice recorder",
     "Japanese": "ボイスレコーダー",
     "Len": 14
   },
   {
-    "Id": 3538,
+    "Id": 3540,
     "Lvl": 11,
     "Text": "Video computer",
     "Japanese": "ビデオコンピュータ",
     "Len": 14
   },
   {
-    "Id": 3539,
+    "Id": 3541,
     "Lvl": 11,
     "Text": "Valuation date",
     "Japanese": "評価日",
     "Len": 14
   },
   {
-    "Id": 3540,
+    "Id": 3542,
     "Lvl": 11,
     "Text": "Weather report",
     "Japanese": "天気予報",
     "Len": 14
   },
   {
-    "Id": 3541,
+    "Id": 3543,
     "Lvl": 11,
     "Text": "Water fountain",
     "Japanese": "噴水",
     "Len": 14
   },
   {
-    "Id": 3542,
+    "Id": 3544,
     "Lvl": 11,
     "Text": "Winter morning",
     "Japanese": "冬の朝",
     "Len": 14
   },
   {
-    "Id": 3543,
+    "Id": 3545,
     "Lvl": 11,
     "Text": "Writing a book",
     "Japanese": "本を書く",
     "Len": 14
   },
   {
-    "Id": 3544,
+    "Id": 3546,
     "Lvl": 11,
     "Text": "Whistleblowers",
     "Japanese": "内部告発者",
     "Len": 14
   },
   {
-    "Id": 3545,
+    "Id": 3547,
     "Lvl": 11,
     "Text": "Xylophonically",
     "Japanese": "木琴のように",
     "Len": 14
   },
   {
-    "Id": 3546,
+    "Id": 3548,
     "Lvl": 11,
     "Text": "Xenophobically",
     "Japanese": "外国人嫌いに",
     "Len": 14
   },
   {
-    "Id": 3547,
+    "Id": 3549,
     "Lvl": 11,
     "Text": "Xenotransplant",
     "Japanese": "異種移植",
     "Len": 14
   },
   {
-    "Id": 3548,
+    "Id": 3550,
     "Lvl": 11,
     "Text": "Yearly reports",
     "Japanese": "年次報告書",
     "Len": 14
   },
   {
-    "Id": 3549,
+    "Id": 3551,
     "Lvl": 11,
     "Text": "Yelling loudly",
     "Japanese": "大声で叫ぶ",
     "Len": 14
   },
   {
-    "Id": 3550,
+    "Id": 3552,
     "Lvl": 11,
     "Text": "Zoological lab",
     "Japanese": "動物学研究室",
     "Len": 14
   },
   {
-    "Id": 3551,
+    "Id": 3553,
     "Lvl": 11,
     "Text": "Zodiac symbols",
     "Japanese": "星座のシンボル",
     "Len": 14
   },
   {
-    "Id": 3552,
+    "Id": 3554,
     "Lvl": 12,
     "Text": "Academic career",
     "Japanese": "学歴",
     "Len": 15
   },
   {
-    "Id": 3553,
+    "Id": 3555,
     "Lvl": 12,
     "Text": "Acoustic guitar",
     "Japanese": "アコースティックギター",
     "Len": 15
   },
   {
-    "Id": 3554,
+    "Id": 3556,
     "Lvl": 12,
     "Text": "Advanced course",
     "Japanese": "上級コース",
     "Len": 15
   },
   {
-    "Id": 3555,
+    "Id": 3557,
     "Lvl": 12,
     "Text": "Afternoon snack",
     "Japanese": "午後のおやつ",
     "Len": 15
   },
   {
-    "Id": 3556,
+    "Id": 3558,
     "Lvl": 12,
     "Text": "Balanced budget",
     "Japanese": "均衡予算",
     "Len": 15
   },
   {
-    "Id": 3557,
+    "Id": 3559,
     "Lvl": 12,
     "Text": "Beautiful place",
     "Japanese": "美しい場所",
     "Len": 15
   },
   {
-    "Id": 3558,
+    "Id": 3560,
     "Lvl": 12,
     "Text": "Best friendship",
     "Japanese": "最高の友情",
     "Len": 15
   },
   {
-    "Id": 3559,
+    "Id": 3561,
     "Lvl": 12,
     "Text": "Business center",
     "Japanese": "ビジネスセンター",
     "Len": 15
   },
   {
-    "Id": 3560,
+    "Id": 3562,
     "Lvl": 12,
     "Text": "Cardiac surgery",
     "Japanese": "心臓手術",
     "Len": 15
   },
   {
-    "Id": 3561,
+    "Id": 3563,
     "Lvl": 12,
     "Text": "Central heating",
     "Japanese": "セントラルヒーティング",
     "Len": 15
   },
   {
-    "Id": 3562,
+    "Id": 3564,
     "Lvl": 12,
     "Text": "Chemical energy",
     "Japanese": "化学エネルギー",
     "Len": 15
   },
   {
-    "Id": 3563,
+    "Id": 3565,
     "Lvl": 12,
     "Text": "Clinical trials",
     "Japanese": "臨床試験",
     "Len": 15
   },
   {
-    "Id": 3564,
+    "Id": 3566,
     "Lvl": 12,
     "Text": "Digital cameras",
     "Japanese": "デジタルカメラ",
     "Len": 15
   },
   {
-    "Id": 3565,
+    "Id": 3567,
     "Lvl": 12,
     "Text": "Dancing lessons",
     "Japanese": "ダンスレッスン",
     "Len": 15
   },
   {
-    "Id": 3566,
+    "Id": 3568,
     "Lvl": 12,
     "Text": "Daily newspaper",
     "Japanese": "日刊新聞",
     "Len": 15
   },
   {
-    "Id": 3567,
+    "Id": 3569,
     "Lvl": 12,
     "Text": "Driving license",
     "Japanese": "運転免許証",
     "Len": 15
   },
   {
-    "Id": 3568,
+    "Id": 3570,
     "Lvl": 12,
     "Text": "Electric guitar",
     "Japanese": "エレキギター",
     "Len": 15
   },
   {
-    "Id": 3569,
+    "Id": 3571,
     "Lvl": 12,
     "Text": "Economic growth",
     "Japanese": "経済成長",
     "Len": 15
   },
   {
-    "Id": 3570,
+    "Id": 3572,
     "Lvl": 12,
     "Text": "Elegant clothes",
     "Japanese": "エレガントな服",
     "Len": 15
   },
   {
-    "Id": 3571,
+    "Id": 3573,
     "Lvl": 12,
     "Text": "Endless summers",
     "Japanese": "終わりのない夏",
     "Len": 15
   },
   {
-    "Id": 3572,
+    "Id": 3574,
     "Lvl": 12,
     "Text": "Feeling nervous",
     "Japanese": "緊張している",
     "Len": 15
   },
   {
-    "Id": 3573,
+    "Id": 3575,
     "Lvl": 12,
     "Text": "Football player",
     "Japanese": "サッカー選手",
     "Len": 15
   },
   {
-    "Id": 3574,
+    "Id": 3576,
     "Lvl": 12,
     "Text": "Foreign country",
     "Japanese": "外国",
     "Len": 15
   },
   {
-    "Id": 3575,
+    "Id": 3577,
     "Lvl": 12,
     "Text": "Frequent flyers",
     "Japanese": "頻繁に飛行機を利用する人",
     "Len": 15
   },
   {
-    "Id": 3576,
+    "Id": 3578,
     "Lvl": 12,
     "Text": "Garden entrance",
     "Japanese": "庭の入り口",
     "Len": 15
   },
   {
-    "Id": 3577,
+    "Id": 3579,
     "Lvl": 12,
     "Text": "General concept",
     "Japanese": "一般概念",
     "Len": 15
   },
   {
-    "Id": 3578,
+    "Id": 3580,
     "Lvl": 12,
     "Text": "Genuine concern",
     "Japanese": "真摯な懸念",
     "Len": 15
   },
   {
-    "Id": 3579,
+    "Id": 3581,
     "Lvl": 12,
     "Text": "Great potential",
     "Japanese": "大きな可能性",
     "Len": 15
   },
   {
-    "Id": 3580,
+    "Id": 3582,
     "Lvl": 12,
     "Text": "Healthy cooking",
     "Japanese": "健康的な料理",
     "Len": 15
   },
   {
-    "Id": 3581,
+    "Id": 3583,
     "Lvl": 12,
     "Text": "Human resources",
     "Japanese": "人事",
     "Len": 15
   },
   {
-    "Id": 3582,
+    "Id": 3584,
     "Lvl": 12,
     "Text": "Highest quality",
     "Japanese": "最高品質",
     "Len": 15
   },
   {
-    "Id": 3583,
+    "Id": 3585,
     "Lvl": 12,
     "Text": "Internal flight",
     "Japanese": "国内線",
     "Len": 15
   },
   {
-    "Id": 3584,
+    "Id": 3586,
     "Lvl": 12,
     "Text": "Improved health",
     "Japanese": "健康状態の改善",
     "Len": 15
   },
   {
-    "Id": 3585,
+    "Id": 3587,
     "Lvl": 12,
     "Text": "Initial contact",
-    "Japanese": "初回連絡",
+    "Japanese": "最初の連絡",
     "Len": 15
   },
   {
-    "Id": 3586,
+    "Id": 3588,
     "Lvl": 12,
     "Text": "Japanese garden",
     "Japanese": "日本庭園",
     "Len": 15
   },
   {
-    "Id": 3587,
+    "Id": 3589,
     "Lvl": 12,
     "Text": "Junior students",
     "Japanese": "下級生",
     "Len": 15
   },
   {
-    "Id": 3588,
+    "Id": 3590,
     "Lvl": 12,
     "Text": "Job application",
     "Japanese": "求人応募",
     "Len": 15
   },
   {
-    "Id": 3589,
+    "Id": 3591,
     "Lvl": 12,
     "Text": "Justice systems",
     "Japanese": "司法制度",
     "Len": 15
   },
   {
-    "Id": 3590,
+    "Id": 3592,
     "Lvl": 12,
     "Text": "Kitchen cabinet",
     "Japanese": "キッチンキャビネット",
     "Len": 15
   },
   {
-    "Id": 3591,
+    "Id": 3593,
     "Lvl": 12,
     "Text": "Keyboard typing",
     "Japanese": "キーボード入力",
     "Len": 15
   },
   {
-    "Id": 3592,
+    "Id": 3594,
     "Lvl": 12,
     "Text": "Kind treatments",
     "Japanese": "親切な扱い",
     "Len": 15
   },
   {
-    "Id": 3593,
+    "Id": 3595,
     "Lvl": 12,
     "Text": "Knowledge bases",
     "Japanese": "知識ベース",
     "Len": 15
   },
   {
-    "Id": 3594,
+    "Id": 3596,
     "Lvl": 12,
     "Text": "Learning center",
     "Japanese": "学習センター",
     "Len": 15
   },
   {
-    "Id": 3595,
+    "Id": 3597,
     "Lvl": 12,
     "Text": "Literary awards",
     "Japanese": "文学賞",
     "Len": 15
   },
   {
-    "Id": 3596,
+    "Id": 3598,
     "Lvl": 12,
     "Text": "Local community",
     "Japanese": "地域社会",
     "Len": 15
   },
   {
-    "Id": 3597,
+    "Id": 3599,
     "Lvl": 12,
     "Text": "Logical process",
     "Japanese": "論理プロセス",
     "Len": 15
   },
   {
-    "Id": 3598,
+    "Id": 3600,
     "Lvl": 12,
     "Text": "Medical student",
     "Japanese": "医学生",
     "Len": 15
   },
   {
-    "Id": 3599,
+    "Id": 3601,
     "Lvl": 12,
     "Text": "Military action",
     "Japanese": "軍事行動",
     "Len": 15
   },
   {
-    "Id": 3600,
+    "Id": 3602,
     "Lvl": 12,
     "Text": "Musical theater",
     "Japanese": "ミュージカル",
     "Len": 15
   },
   {
-    "Id": 3601,
+    "Id": 3603,
     "Lvl": 12,
     "Text": "Natural science",
     "Japanese": "自然科学",
     "Len": 15
   },
   {
-    "Id": 3602,
+    "Id": 3604,
     "Lvl": 12,
     "Text": "Northern lights",
     "Japanese": "オーロラ",
     "Len": 15
   },
   {
-    "Id": 3603,
+    "Id": 3605,
     "Lvl": 12,
     "Text": "Nervous tension",
     "Japanese": "神経の緊張",
     "Len": 15
   },
   {
-    "Id": 3604,
+    "Id": 3606,
     "Lvl": 12,
     "Text": "Nuclear weapons",
     "Japanese": "核兵器",
     "Len": 15
   },
   {
-    "Id": 3605,
+    "Id": 3607,
     "Lvl": 12,
     "Text": "Online shopping",
     "Japanese": "オンラインショッピング",
     "Len": 15
   },
   {
-    "Id": 3606,
+    "Id": 3608,
     "Lvl": 12,
     "Text": "Optical devices",
     "Japanese": "光学デバイス",
     "Len": 15
   },
   {
-    "Id": 3607,
+    "Id": 3609,
     "Lvl": 12,
     "Text": "Octanitrocubane",
     "Japanese": "オクタニトロキュバン",
     "Len": 15
   },
   {
-    "Id": 3608,
+    "Id": 3610,
     "Lvl": 12,
     "Text": "Opening remarks",
     "Japanese": "開会の挨拶",
     "Len": 15
   },
   {
-    "Id": 3609,
+    "Id": 3611,
     "Lvl": 12,
     "Text": "Physical health",
     "Japanese": "身体の健康",
     "Len": 15
   },
   {
-    "Id": 3610,
+    "Id": 3612,
     "Lvl": 12,
     "Text": "Private sectors",
     "Japanese": "民間セ​​クター",
     "Len": 15
   },
   {
-    "Id": 3611,
+    "Id": 3613,
     "Lvl": 12,
     "Text": "Popular culture",
     "Japanese": "大衆文化",
     "Len": 15
   },
   {
-    "Id": 3612,
+    "Id": 3614,
     "Lvl": 12,
     "Text": "Public speaking",
     "Japanese": "人前でのスピーチ",
     "Len": 15
   },
   {
-    "Id": 3613,
+    "Id": 3615,
     "Lvl": 12,
     "Text": "Quality control",
     "Japanese": "品質管理",
     "Len": 15
   },
   {
-    "Id": 3614,
+    "Id": 3616,
     "Lvl": 12,
     "Text": "Quiet afternoon",
     "Japanese": "静かな午後",
     "Len": 15
   },
   {
-    "Id": 3615,
+    "Id": 3617,
     "Lvl": 12,
     "Text": "Quick responses",
     "Japanese": "迅速な対応",
     "Len": 15
   },
   {
-    "Id": 3616,
+    "Id": 3618,
     "Lvl": 12,
     "Text": "Quantum physics",
     "Japanese": "量子物理学",
     "Len": 15
   },
   {
-    "Id": 3617,
+    "Id": 3619,
     "Lvl": 12,
     "Text": "Romantic dinner",
     "Japanese": "ロマンチックなディナー",
     "Len": 15
   },
   {
-    "Id": 3618,
+    "Id": 3620,
     "Lvl": 12,
     "Text": "Relative speeds",
     "Japanese": "相対速度",
     "Len": 15
   },
   {
-    "Id": 3619,
+    "Id": 3621,
     "Lvl": 12,
     "Text": "Remote controls",
     "Japanese": "リモコン",
     "Len": 15
   },
   {
-    "Id": 3620,
+    "Id": 3622,
     "Lvl": 12,
     "Text": "Romantic comedy",
     "Japanese": "ロマンティックコメディ",
     "Len": 15
   },
   {
-    "Id": 3621,
+    "Id": 3623,
     "Lvl": 12,
     "Text": "Special effects",
     "Japanese": "特撮",
     "Len": 15
   },
   {
-    "Id": 3622,
+    "Id": 3624,
     "Lvl": 12,
     "Text": "Sporting events",
     "Japanese": "スポーツイベント",
     "Len": 15
   },
   {
-    "Id": 3623,
+    "Id": 3625,
     "Lvl": 12,
     "Text": "Standard format",
     "Japanese": "標準フォーマット",
     "Len": 15
   },
   {
-    "Id": 3624,
+    "Id": 3626,
     "Lvl": 12,
     "Text": "Social services",
     "Japanese": "社会福祉",
     "Len": 15
   },
   {
-    "Id": 3625,
+    "Id": 3627,
     "Lvl": 12,
     "Text": "Technical issue",
     "Japanese": "技術的な問題",
     "Len": 15
   },
   {
-    "Id": 3626,
+    "Id": 3628,
+    "Lvl": 12,
+    "Text": "There's no data",
+    "Japanese": "データがありません",
+    "Len": 15
+  },
+  {
+    "Id": 3629,
     "Lvl": 12,
     "Text": "Typical example",
     "Japanese": "典型的な例",
     "Len": 15
   },
   {
-    "Id": 3627,
+    "Id": 3630,
     "Lvl": 12,
     "Text": "Tropical island",
     "Japanese": "熱帯の島",
     "Len": 15
   },
   {
-    "Id": 3628,
+    "Id": 3631,
     "Lvl": 12,
     "Text": "Trinitrotoluene",
     "Japanese": "トリニトロトルエン",
     "Len": 15
   },
   {
-    "Id": 3629,
+    "Id": 3632,
     "Lvl": 12,
     "Text": "Urgent messages",
     "Japanese": "緊急メッセージ",
     "Len": 15
   },
   {
-    "Id": 3630,
+    "Id": 3633,
     "Lvl": 12,
     "Text": "Uniform systems",
     "Japanese": "均一システム",
     "Len": 15
   },
   {
-    "Id": 3631,
+    "Id": 3634,
     "Lvl": 12,
     "Text": "Unique features",
     "Japanese": "独自の機能",
     "Len": 15
   },
   {
-    "Id": 3632,
+    "Id": 3635,
     "Lvl": 12,
     "Text": "Valuable assets",
     "Japanese": "貴重な資産",
     "Len": 15
   },
   {
-    "Id": 3633,
+    "Id": 3636,
     "Lvl": 12,
     "Text": "Vintage clothes",
     "Japanese": "ヴィンテージ服",
     "Len": 15
   },
   {
-    "Id": 3634,
+    "Id": 3637,
     "Lvl": 12,
     "Text": "Verbal warnings",
     "Japanese": "口頭での警告",
     "Len": 15
   },
   {
-    "Id": 3635,
+    "Id": 3638,
     "Lvl": 12,
     "Text": "Victory parades",
     "Japanese": "勝利パレード",
     "Len": 15
   },
   {
-    "Id": 3636,
+    "Id": 3639,
     "Lvl": 12,
     "Text": "Wedding parties",
     "Japanese": "結婚披露宴",
     "Len": 15
   },
   {
-    "Id": 3637,
+    "Id": 3640,
     "Lvl": 12,
     "Text": "Weekly magazine",
     "Japanese": "週刊誌",
     "Len": 15
   },
   {
-    "Id": 3638,
+    "Id": 3641,
     "Lvl": 12,
     "Text": "World heritages",
     "Japanese": "世界遺産",
     "Len": 15
   },
   {
-    "Id": 3639,
+    "Id": 3642,
     "Lvl": 12,
     "Text": "Xylophone music",
     "Japanese": "木琴の音楽",
     "Len": 15
   },
   {
-    "Id": 3640,
+    "Id": 3643,
     "Lvl": 12,
     "Text": "X-ray treatment",
     "Japanese": "X線治療",
     "Len": 15
   },
   {
-    "Id": 3641,
+    "Id": 3644,
     "Lvl": 12,
     "Text": "X-ray emissions",
     "Japanese": "X線放出",
     "Len": 15
   },
   {
-    "Id": 3642,
+    "Id": 3645,
     "Lvl": 12,
     "Text": "Yearly meetings",
     "Japanese": "年次会議",
     "Len": 15
   },
   {
-    "Id": 3643,
+    "Id": 3646,
     "Lvl": 12,
     "Text": "Yard attraction",
     "Japanese": "庭のアトラクション",
     "Len": 15
   },
   {
-    "Id": 3644,
+    "Id": 3647,
     "Lvl": 12,
     "Text": "Youthful spirit",
     "Japanese": "若々しい精神",
     "Len": 15
   },
   {
-    "Id": 3645,
+    "Id": 3648,
     "Lvl": 12,
     "Text": "Zebra crossings",
     "Japanese": "横断歩道",
     "Len": 15
   },
   {
-    "Id": 3646,
+    "Id": 3649,
     "Lvl": 12,
     "Text": "Zero tolerances",
     "Japanese": "一切の容赦なし",
     "Len": 15
   },
   {
-    "Id": 3647,
+    "Id": 3650,
     "Lvl": 12,
     "Text": "Zone boundaries",
     "Japanese": "ゾーン境界",
     "Len": 15
   },
   {
-    "Id": 3648,
+    "Id": 3651,
     "Lvl": 13,
     "Text": "Academic studies",
     "Japanese": "学術研究",
     "Len": 16
   },
   {
-    "Id": 3649,
+    "Id": 3652,
     "Lvl": 13,
     "Text": "Advanced degrees",
     "Japanese": "高度な学位",
     "Len": 16
   },
   {
-    "Id": 3650,
+    "Id": 3653,
     "Lvl": 13,
     "Text": "Absolute control",
     "Japanese": "絶対的な支配",
     "Len": 16
   },
   {
-    "Id": 3651,
+    "Id": 3654,
     "Lvl": 13,
     "Text": "Artistic talents",
     "Japanese": "芸術的才能",
     "Len": 16
   },
   {
-    "Id": 3652,
+    "Id": 3655,
     "Lvl": 13,
     "Text": "Beautiful garden",
     "Japanese": "美しい庭園",
     "Len": 16
   },
   {
-    "Id": 3653,
+    "Id": 3656,
     "Lvl": 13,
     "Text": "Business schools",
     "Japanese": "ビジネススクール",
     "Len": 16
   },
   {
-    "Id": 3654,
+    "Id": 3657,
     "Lvl": 13,
     "Text": "Better standards",
     "Japanese": "より良い基準",
     "Len": 16
   },
   {
-    "Id": 3655,
+    "Id": 3658,
     "Lvl": 13,
     "Text": "Building project",
     "Japanese": "建築プロジェクト",
     "Len": 16
   },
   {
-    "Id": 3656,
+    "Id": 3659,
     "Lvl": 13,
     "Text": "Creative writing",
     "Japanese": "クリエイティブライティング",
     "Len": 16
   },
   {
-    "Id": 3657,
+    "Id": 3660,
     "Lvl": 13,
     "Text": "Clinical testing",
     "Japanese": "臨床試験",
     "Len": 16
   },
   {
-    "Id": 3658,
+    "Id": 3661,
     "Lvl": 13,
     "Text": "Computer science",
     "Japanese": "コンピュータサイエンス",
     "Len": 16
   },
   {
-    "Id": 3659,
+    "Id": 3662,
     "Lvl": 13,
     "Text": "Chemical weapons",
     "Japanese": "化学兵器",
     "Len": 16
   },
   {
-    "Id": 3660,
+    "Id": 3663,
     "Lvl": 13,
     "Text": "Domestic flights",
     "Japanese": "国内線",
     "Len": 16
   },
   {
-    "Id": 3661,
+    "Id": 3664,
     "Lvl": 13,
     "Text": "Digital computer",
     "Japanese": "デジタルコンピュータ",
     "Len": 16
   },
   {
-    "Id": 3662,
+    "Id": 3665,
     "Lvl": 13,
     "Text": "Driving licenses",
     "Japanese": "運転免許証",
     "Len": 16
   },
   {
-    "Id": 3663,
+    "Id": 3666,
     "Lvl": 13,
     "Text": "Emotional damage",
     "Japanese": "精神的ダメージ",
     "Len": 16
   },
   {
-    "Id": 3664,
+    "Id": 3667,
     "Lvl": 13,
     "Text": "Electric guitars",
     "Japanese": "エレキギター",
     "Len": 16
   },
   {
-    "Id": 3665,
+    "Id": 3668,
     "Lvl": 13,
     "Text": "Economic systems",
     "Japanese": "経済システム",
     "Len": 16
   },
   {
-    "Id": 3666,
+    "Id": 3669,
     "Lvl": 13,
     "Text": "External factors",
     "Japanese": "外部要因",
     "Len": 16
   },
   {
-    "Id": 3667,
+    "Id": 3670,
     "Lvl": 13,
     "Text": "Endless patience",
     "Japanese": "限りない忍耐",
     "Len": 16
   },
   {
-    "Id": 3668,
+    "Id": 3671,
     "Lvl": 13,
     "Text": "Financial status",
     "Japanese": "財務状況",
     "Len": 16
   },
   {
-    "Id": 3669,
+    "Id": 3672,
     "Lvl": 13,
     "Text": "Football matches",
     "Japanese": "サッカーの試合",
     "Len": 16
   },
   {
-    "Id": 3670,
+    "Id": 3673,
     "Lvl": 13,
     "Text": "Foreign language",
     "Japanese": "外国語",
     "Len": 16
   },
   {
-    "Id": 3671,
+    "Id": 3674,
     "Lvl": 13,
     "Text": "Global companies",
     "Japanese": "グローバル企業",
     "Len": 16
   },
   {
-    "Id": 3672,
+    "Id": 3675,
     "Lvl": 13,
     "Text": "Golden retriever",
     "Japanese": "ゴールデンレトリバー",
     "Len": 16
   },
   {
-    "Id": 3673,
+    "Id": 3676,
     "Lvl": 13,
     "Text": "General meetings",
     "Japanese": "総会",
     "Len": 16
   },
   {
-    "Id": 3674,
+    "Id": 3677,
     "Lvl": 13,
     "Text": "Great advantages",
     "Japanese": "大きなメリット",
     "Len": 16
   },
   {
-    "Id": 3675,
+    "Id": 3678,
     "Lvl": 13,
     "Text": "Historic moments",
     "Japanese": "歴史的な瞬間",
     "Len": 16
   },
   {
-    "Id": 3676,
+    "Id": 3679,
     "Lvl": 13,
     "Text": "Human experience",
     "Japanese": "人間の経験",
     "Len": 16
   },
   {
-    "Id": 3677,
+    "Id": 3680,
     "Lvl": 13,
     "Text": "High performance",
     "Japanese": "高性能",
     "Len": 16
   },
   {
-    "Id": 3678,
+    "Id": 3681,
     "Lvl": 13,
     "Text": "Internal affairs",
     "Japanese": "内務",
     "Len": 16
   },
   {
-    "Id": 3679,
+    "Id": 3682,
     "Lvl": 13,
     "Text": "Initial reaction",
     "Japanese": "初期反応",
     "Len": 16
   },
   {
-    "Id": 3680,
+    "Id": 3683,
     "Lvl": 13,
     "Text": "Important person",
     "Japanese": "重要人物",
     "Len": 16
   },
   {
-    "Id": 3681,
+    "Id": 3684,
     "Lvl": 13,
     "Text": "Immediate family",
     "Japanese": "近親者",
     "Len": 16
   },
   {
-    "Id": 3682,
+    "Id": 3685,
     "Lvl": 13,
     "Text": "Joint operations",
     "Japanese": "共同作戦",
     "Len": 16
   },
   {
-    "Id": 3683,
+    "Id": 3686,
     "Lvl": 13,
     "Text": "Junior employees",
     "Japanese": "若手社員",
     "Len": 16
   },
   {
-    "Id": 3684,
+    "Id": 3687,
     "Lvl": 13,
     "Text": "Judicial systems",
     "Japanese": "司法システム",
     "Len": 16
   },
   {
-    "Id": 3685,
+    "Id": 3688,
     "Lvl": 13,
     "Text": "Keyboard players",
     "Japanese": "キーボード奏者",
     "Len": 16
   },
   {
-    "Id": 3686,
+    "Id": 3689,
     "Lvl": 13,
     "Text": "Kind suggestions",
     "Japanese": "親切な提案",
     "Len": 16
   },
   {
-    "Id": 3687,
+    "Id": 3690,
     "Lvl": 13,
     "Text": "Knowledge seeker",
     "Japanese": "知識探求者",
     "Len": 16
   },
   {
-    "Id": 3688,
+    "Id": 3691,
     "Lvl": 13,
     "Text": "Kitchen cabinets",
     "Japanese": "キッチンキャビネット",
     "Len": 16
   },
   {
-    "Id": 3689,
+    "Id": 3692,
     "Lvl": 13,
     "Text": "Logical thinking",
     "Japanese": "論理的思考",
     "Len": 16
   },
   {
-    "Id": 3690,
+    "Id": 3693,
     "Lvl": 13,
     "Text": "Literary critics",
     "Japanese": "文学評論家",
     "Len": 16
   },
   {
-    "Id": 3691,
+    "Id": 3694,
     "Lvl": 13,
     "Text": "Local government",
     "Japanese": "地方自治体",
     "Len": 16
   },
   {
-    "Id": 3692,
+    "Id": 3695,
     "Lvl": 13,
     "Text": "Legal frameworks",
     "Japanese": "法的枠組み",
     "Len": 16
   },
   {
-    "Id": 3693,
+    "Id": 3696,
     "Lvl": 13,
     "Text": "Medical research",
     "Japanese": "医学研究",
     "Len": 16
   },
   {
-    "Id": 3694,
+    "Id": 3697,
     "Lvl": 13,
     "Text": "Morning routines",
     "Japanese": "朝のルーティン",
     "Len": 16
   },
   {
-    "Id": 3695,
+    "Id": 3698,
     "Lvl": 13,
     "Text": "Musical concerts",
     "Japanese": "音楽コンサート",
     "Len": 16
   },
   {
-    "Id": 3696,
+    "Id": 3699,
     "Lvl": 13,
     "Text": "Mental illnesses",
     "Japanese": "精神疾患",
     "Len": 16
   },
   {
-    "Id": 3697,
+    "Id": 3700,
     "Lvl": 13,
     "Text": "Natural resource",
     "Japanese": "天然資源",
     "Len": 16
   },
   {
-    "Id": 3698,
+    "Id": 3701,
     "Lvl": 13,
     "Text": "National anthems",
     "Japanese": "国歌",
     "Len": 16
   },
   {
-    "Id": 3699,
+    "Id": 3702,
     "Lvl": 13,
     "Text": "Negative effects",
     "Japanese": "悪影響",
     "Len": 16
   },
   {
-    "Id": 3700,
+    "Id": 3703,
     "Lvl": 13,
     "Text": "Online platforms",
     "Japanese": "オンラインプラットフォーム",
     "Len": 16
   },
   {
-    "Id": 3701,
+    "Id": 3704,
     "Lvl": 13,
     "Text": "Organic products",
     "Japanese": "オーガニック製品",
     "Len": 16
   },
   {
-    "Id": 3702,
+    "Id": 3705,
     "Lvl": 13,
     "Text": "Official records",
     "Japanese": "公式記録",
     "Len": 16
   },
   {
-    "Id": 3703,
+    "Id": 3706,
     "Lvl": 13,
     "Text": "Physical contact",
     "Japanese": "身体的接触",
     "Len": 16
   },
   {
-    "Id": 3704,
+    "Id": 3707,
     "Lvl": 13,
     "Text": "Private property",
     "Japanese": "私有地",
     "Len": 16
   },
   {
-    "Id": 3705,
+    "Id": 3708,
     "Lvl": 13,
     "Text": "Public transport",
     "Japanese": "公共交通機関",
     "Len": 16
   },
   {
-    "Id": 3706,
+    "Id": 3709,
     "Lvl": 13,
     "Text": "Popular programs",
     "Japanese": "人気番組",
     "Len": 16
   },
   {
-    "Id": 3707,
+    "Id": 3710,
     "Lvl": 13,
     "Text": "Quality products",
     "Japanese": "高品質な製品",
     "Len": 16
   },
   {
-    "Id": 3708,
+    "Id": 3711,
     "Lvl": 13,
     "Text": "Quiet conditions",
     "Japanese": "静かな環境",
     "Len": 16
   },
   {
-    "Id": 3709,
+    "Id": 3712,
     "Lvl": 13,
     "Text": "Quantum computer",
     "Japanese": "量子コンピュータ",
     "Len": 16
   },
   {
-    "Id": 3710,
+    "Id": 3713,
     "Lvl": 13,
     "Text": "Regional offices",
     "Japanese": "地域事務所",
     "Len": 16
   },
   {
-    "Id": 3711,
+    "Id": 3714,
     "Lvl": 13,
     "Text": "Research project",
     "Japanese": "研究プロジェクト",
     "Len": 16
   },
   {
-    "Id": 3712,
+    "Id": 3715,
     "Lvl": 13,
     "Text": "Romantic feeling",
     "Japanese": "ロマンチックな気分",
     "Len": 16
   },
   {
-    "Id": 3713,
+    "Id": 3716,
     "Lvl": 13,
     "Text": "Reliable sources",
     "Japanese": "信頼できる情報源",
     "Len": 16
   },
   {
-    "Id": 3714,
+    "Id": 3717,
     "Lvl": 13,
     "Text": "Standard formats",
     "Japanese": "標準フォーマット",
     "Len": 16
   },
   {
-    "Id": 3715,
+    "Id": 3718,
     "Lvl": 13,
     "Text": "Social structure",
     "Japanese": "社会構造",
     "Len": 16
   },
   {
-    "Id": 3716,
+    "Id": 3719,
     "Lvl": 13,
     "Text": "Sports equipment",
     "Japanese": "スポーツ用品",
     "Len": 16
   },
   {
-    "Id": 3717,
+    "Id": 3720,
     "Lvl": 13,
     "Text": "Technical skills",
     "Japanese": "技術スキル",
     "Len": 16
   },
   {
-    "Id": 3718,
+    "Id": 3721,
     "Lvl": 13,
     "Text": "Teaching methods",
     "Japanese": "教授法",
     "Len": 16
   },
   {
-    "Id": 3719,
+    "Id": 3722,
     "Lvl": 13,
     "Text": "Tropical climate",
     "Japanese": "熱帯気候",
     "Len": 16
   },
   {
-    "Id": 3720,
+    "Id": 3723,
     "Lvl": 13,
     "Text": "Traffic problems",
     "Japanese": "交通問題",
     "Len": 16
   },
   {
-    "Id": 3721,
+    "Id": 3724,
     "Lvl": 13,
     "Text": "Urban developers",
     "Japanese": "都市開発業者",
     "Len": 16
   },
   {
-    "Id": 3722,
+    "Id": 3725,
     "Lvl": 13,
     "Text": "Unique solutions",
     "Japanese": "独自のソリューション",
     "Len": 16
   },
   {
-    "Id": 3723,
+    "Id": 3726,
     "Lvl": 13,
     "Text": "Under the bridge",
     "Japanese": "橋の下",
     "Len": 16
   },
   {
-    "Id": 3724,
+    "Id": 3727,
     "Lvl": 13,
     "Text": "Variable factors",
     "Japanese": "変動要因",
     "Len": 16
   },
   {
-    "Id": 3725,
+    "Id": 3728,
     "Lvl": 13,
     "Text": "Vintage clothing",
     "Japanese": "ヴィンテージ衣料",
     "Len": 16
   },
   {
-    "Id": 3726,
+    "Id": 3729,
     "Lvl": 13,
     "Text": "Vocal techniques",
     "Japanese": "発声テクニック",
     "Len": 16
   },
   {
-    "Id": 3727,
+    "Id": 3730,
     "Lvl": 13,
     "Text": "Valuable lessons",
     "Japanese": "貴重な教訓",
     "Len": 16
   },
   {
-    "Id": 3728,
+    "Id": 3731,
     "Lvl": 13,
     "Text": "Winter vacations",
     "Japanese": "冬休み",
     "Len": 16
   },
   {
-    "Id": 3729,
+    "Id": 3732,
     "Lvl": 13,
     "Text": "Weather forecast",
     "Japanese": "天気予報",
     "Len": 16
   },
   {
-    "Id": 3730,
+    "Id": 3733,
     "Lvl": 13,
     "Text": "Wireless network",
     "Japanese": "無線ネットワーク",
     "Len": 16
   },
   {
-    "Id": 3731,
+    "Id": 3734,
     "Lvl": 13,
     "Text": "Working routines",
     "Japanese": "作業手順",
     "Len": 16
   },
   {
-    "Id": 3732,
+    "Id": 3735,
     "Lvl": 13,
     "Text": "Xenon headlights",
     "Japanese": "キセノンヘッドライト",
     "Len": 16
   },
   {
-    "Id": 3733,
+    "Id": 3736,
     "Lvl": 13,
     "Text": "X-ray treatments",
     "Japanese": "X線治療",
     "Len": 16
   },
   {
-    "Id": 3734,
+    "Id": 3737,
     "Lvl": 13,
     "Text": "Xenophobic views",
     "Japanese": "外国人嫌悪的な見解",
     "Len": 16
   },
   {
-    "Id": 3735,
+    "Id": 3738,
     "Lvl": 13,
     "Text": "You are an idiot",
     "Japanese": "お前はバカだ",
     "Len": 16
   },
   {
-    "Id": 3736,
+    "Id": 3739,
     "Lvl": 13,
     "Text": "Young generation",
     "Japanese": "若い世代",
     "Len": 16
   },
   {
-    "Id": 3737,
+    "Id": 3740,
     "Lvl": 13,
     "Text": "Yielding results",
     "Japanese": "成果を上げる",
     "Len": 16
   },
   {
-    "Id": 3738,
+    "Id": 3741,
     "Lvl": 14,
     "Text": "Baseball stadiums",
     "Japanese": "野球場",
     "Len": 17
   },
   {
-    "Id": 3739,
+    "Id": 3742,
     "Lvl": 14,
     "Text": "Beautiful scenery",
     "Japanese": "美しい景色",
     "Len": 17
   },
   {
-    "Id": 3740,
+    "Id": 3743,
     "Lvl": 14,
     "Text": "Beryllium nitrate",
     "Japanese": "硝酸ベリリウム",
     "Len": 17
   },
   {
-    "Id": 3741,
+    "Id": 3744,
     "Lvl": 14,
     "Text": "Cabinet ministers",
     "Japanese": "閣僚",
     "Len": 17
   },
   {
-    "Id": 3742,
+    "Id": 3745,
     "Lvl": 14,
     "Text": "Civil engineering",
     "Japanese": "土木工学",
     "Len": 17
   },
   {
-    "Id": 3743,
+    "Id": 3746,
     "Lvl": 14,
     "Text": "Digital marketing",
     "Japanese": "デジタルマーケティング",
     "Len": 17
   },
   {
-    "Id": 3744,
+    "Id": 3747,
     "Lvl": 14,
     "Text": "Electric vehicles",
     "Japanese": "電気自動車",
     "Len": 17
   },
   {
-    "Id": 3745,
+    "Id": 3748,
     "Lvl": 14,
     "Text": "Fashion designers",
     "Japanese": "ファッションデザイナー",
     "Len": 17
   },
   {
-    "Id": 3746,
+    "Id": 3749,
     "Lvl": 14,
     "Text": "Financial advisor",
     "Japanese": "アドバイザー",
     "Len": 17
   },
   {
-    "Id": 3747,
+    "Id": 3750,
+    "Lvl": 14,
+    "Text": "Fists are justice",
+    "Japanese": "拳こそが正義",
+    "Len": 17
+  },
+  {
+    "Id": 3751,
     "Lvl": 14,
     "Text": "Forensic analysis",
     "Japanese": "法医学分析",
     "Len": 17
   },
   {
-    "Id": 3748,
+    "Id": 3752,
     "Lvl": 14,
     "Text": "Heavy metal music",
     "Japanese": "ヘヴィメタル音楽",
     "Len": 17
   },
   {
-    "Id": 3749,
+    "Id": 3753,
     "Lvl": 14,
     "Text": "Holistic medicine",
     "Japanese": "ホリスティック医療",
     "Len": 17
   },
   {
-    "Id": 3750,
+    "Id": 3754,
     "Lvl": 14,
     "Text": "Human interaction",
     "Japanese": "人間同士の交流",
     "Len": 17
   },
   {
-    "Id": 3751,
+    "Id": 3755,
     "Lvl": 14,
     "Text": "Hydrogen fluoride",
     "Japanese": "フッ化水素",
     "Len": 17
   },
   {
-    "Id": 3752,
+    "Id": 3756,
     "Lvl": 14,
     "Text": "Jewelry designers",
     "Japanese": "ジュエリーデザイナー",
     "Len": 17
   },
   {
-    "Id": 3753,
+    "Id": 3757,
     "Lvl": 14,
     "Text": "Justice excalibur",
     "Japanese": "正義のエクスカリバー",
     "Len": 17
   },
   {
-    "Id": 3754,
+    "Id": 3758,
     "Lvl": 14,
     "Text": "Justified actions",
     "Japanese": "正当化された行動",
     "Len": 17
   },
   {
-    "Id": 3755,
+    "Id": 3759,
     "Lvl": 14,
     "Text": "Language learning",
     "Japanese": "言語学習",
     "Len": 17
   },
   {
-    "Id": 3756,
+    "Id": 3760,
     "Lvl": 14,
     "Text": "Leading companies",
     "Japanese": "大手企業",
     "Len": 17
   },
   {
-    "Id": 3757,
+    "Id": 3761,
     "Lvl": 14,
     "Text": "Management skills",
     "Japanese": "マネジメントスキル",
     "Len": 17
   },
   {
-    "Id": 3758,
+    "Id": 3762,
     "Lvl": 14,
     "Text": "Marine ecosystems",
     "Japanese": "海洋生態系",
     "Len": 17
   },
   {
-    "Id": 3759,
+    "Id": 3763,
     "Lvl": 14,
     "Text": "Medical treatment",
     "Japanese": "医療",
     "Len": 17
   },
   {
-    "Id": 3760,
+    "Id": 3764,
     "Lvl": 14,
     "Text": "National security",
     "Japanese": "国家安全保障",
     "Len": 17
   },
   {
-    "Id": 3761,
+    "Id": 3765,
     "Lvl": 14,
     "Text": "Natural resources",
     "Japanese": "天然資源",
     "Len": 17
   },
   {
-    "Id": 3762,
+    "Id": 3766,
     "Lvl": 14,
     "Text": "Nervous breakdown",
     "Japanese": "神経衰弱",
     "Len": 17
   },
   {
-    "Id": 3763,
+    "Id": 3767,
     "Lvl": 14,
     "Text": "Neutral positions",
     "Japanese": "中立的な立場",
     "Len": 17
   },
   {
-    "Id": 3764,
+    "Id": 3768,
     "Lvl": 14,
     "Text": "Operational costs",
     "Japanese": "運営コスト",
     "Len": 17
   },
   {
-    "Id": 3765,
+    "Id": 3769,
     "Lvl": 14,
     "Text": "Organic gardening",
     "Japanese": "有機栽培",
     "Len": 17
   },
   {
-    "Id": 3766,
+    "Id": 3770,
     "Lvl": 14,
     "Text": "Painted portraits",
     "Japanese": "描かれた肖像画",
     "Len": 17
   },
   {
-    "Id": 3767,
+    "Id": 3771,
     "Lvl": 14,
     "Text": "Parental guidance",
     "Japanese": "保護者の指導",
     "Len": 17
   },
   {
-    "Id": 3768,
+    "Id": 3772,
     "Lvl": 14,
     "Text": "Physical exercise",
     "Japanese": "運動",
     "Len": 17
   },
   {
-    "Id": 3769,
+    "Id": 3773,
     "Lvl": 14,
     "Text": "Quality assurance",
     "Japanese": "品質保証",
     "Len": 17
   },
   {
-    "Id": 3770,
+    "Id": 3774,
     "Lvl": 14,
     "Text": "Quantum computing",
     "Japanese": "量子コンピューティング",
     "Len": 17
   },
   {
-    "Id": 3771,
+    "Id": 3775,
     "Lvl": 14,
     "Text": "Quarterly reports",
     "Japanese": "四半期報告書",
     "Len": 17
   },
   {
-    "Id": 3772,
+    "Id": 3776,
     "Lvl": 14,
     "Text": "Questioning style",
     "Japanese": "質問スタイル",
     "Len": 17
   },
   {
-    "Id": 3773,
+    "Id": 3777,
     "Lvl": 14,
     "Text": "Quiet environment",
     "Japanese": "静かな環境",
     "Len": 17
   },
   {
-    "Id": 3774,
+    "Id": 3778,
     "Lvl": 14,
     "Text": "Rational behavior",
     "Japanese": "合理的な行動",
     "Len": 17
   },
   {
-    "Id": 3775,
+    "Id": 3779,
     "Lvl": 14,
     "Text": "Reading materials",
     "Japanese": "読書資料",
     "Len": 17
   },
   {
-    "Id": 3776,
+    "Id": 3780,
     "Lvl": 14,
     "Text": "Religious beliefs",
     "Japanese": "宗教的信念",
     "Len": 17
   },
   {
-    "Id": 3777,
+    "Id": 3781,
     "Lvl": 14,
     "Text": "Research findings",
     "Japanese": "研究結果",
     "Len": 17
   },
   {
-    "Id": 3778,
+    "Id": 3782,
     "Lvl": 14,
     "Text": "Security measures",
     "Japanese": "セキュリティ対策",
     "Len": 17
   },
   {
-    "Id": 3779,
+    "Id": 3783,
     "Lvl": 14,
     "Text": "Senior executives",
     "Japanese": "上級幹部",
     "Len": 17
   },
   {
-    "Id": 3780,
+    "Id": 3784,
     "Lvl": 14,
     "Text": "Shattered reality",
     "Japanese": "現実が粉々に砕け散った",
     "Len": 17
   },
   {
-    "Id": 3781,
+    "Id": 3785,
     "Lvl": 14,
     "Text": "Technical support",
     "Japanese": "テクニカルサポート",
     "Len": 17
   },
   {
-    "Id": 3782,
+    "Id": 3786,
     "Lvl": 14,
     "Text": "Technology sector",
     "Japanese": "テクノロジー分野",
     "Len": 17
   },
   {
-    "Id": 3783,
+    "Id": 3787,
     "Lvl": 14,
     "Text": "Temperature gauge",
     "Japanese": "温度計",
     "Len": 17
   },
   {
-    "Id": 3784,
+    "Id": 3788,
     "Lvl": 14,
     "Text": "Training programs",
     "Japanese": "研修プログラム",
     "Len": 17
   },
   {
-    "Id": 3785,
+    "Id": 3789,
     "Lvl": 14,
     "Text": "Trans fatty acids",
     "Japanese": "トランス脂肪酸",
     "Len": 17
   },
   {
-    "Id": 3786,
+    "Id": 3790,
     "Lvl": 14,
     "Text": "Undersea research",
     "Japanese": "海底研究",
     "Len": 17
   },
   {
-    "Id": 3787,
+    "Id": 3791,
     "Lvl": 14,
     "Text": "Unified messaging",
     "Japanese": "統合メッセージング",
     "Len": 17
   },
   {
-    "Id": 3788,
+    "Id": 3792,
     "Lvl": 14,
     "Text": "Universal symbols",
     "Japanese": "普遍的なシンボル",
     "Len": 17
   },
   {
-    "Id": 3789,
+    "Id": 3793,
     "Lvl": 14,
     "Text": "University degree",
     "Japanese": "大学の学位",
     "Len": 17
   },
   {
-    "Id": 3790,
+    "Id": 3794,
     "Lvl": 14,
     "Text": "Urban development",
     "Japanese": "都市開発",
     "Len": 17
   },
   {
-    "Id": 3791,
+    "Id": 3795,
     "Lvl": 14,
     "Text": "Variable outcomes",
     "Japanese": "結果は様々",
     "Len": 17
   },
   {
-    "Id": 3792,
+    "Id": 3796,
     "Lvl": 14,
     "Text": "Vegetable gardens",
     "Japanese": "菜園",
     "Len": 17
   },
   {
-    "Id": 3793,
+    "Id": 3797,
     "Lvl": 14,
     "Text": "Weight management",
     "Japanese": "体重管理",
     "Len": 17
   },
   {
-    "Id": 3794,
+    "Id": 3798,
     "Lvl": 14,
     "Text": "Wireless networks",
     "Japanese": "無線ネットワーク",
     "Len": 17
   },
   {
-    "Id": 3795,
+    "Id": 3799,
     "Lvl": 14,
     "Text": "Wrath of the gods",
     "Japanese": "神々の怒り",
     "Len": 17
   },
   {
-    "Id": 3796,
+    "Id": 3800,
     "Lvl": 14,
     "Text": "Xenon flash tubes",
     "Japanese": "キセノンフラッシュチューブ",
     "Len": 17
   },
   {
-    "Id": 3797,
+    "Id": 3801,
     "Lvl": 14,
     "Text": "Xylophone players",
     "Japanese": "木琴奏者",
     "Len": 17
   },
   {
-    "Id": 3798,
+    "Id": 3802,
     "Lvl": 14,
     "Text": "Xylose metabolism",
     "Japanese": "キシロース代謝",
     "Len": 17
   },
   {
-    "Id": 3799,
+    "Id": 3803,
     "Lvl": 14,
     "Text": "Zucchini harvests",
     "Japanese": "ズッキーニの収穫",
     "Len": 17
   },
   {
-    "Id": 3800,
+    "Id": 3804,
     "Lvl": 14,
     "Text": "Aerodynamic design",
     "Japanese": "空力設計",
     "Len": 18
   },
   {
-    "Id": 3801,
+    "Id": 3805,
     "Lvl": 14,
     "Text": "Aesthetic movement",
     "Japanese": "美的運動",
     "Len": 18
   },
   {
-    "Id": 3802,
+    "Id": 3806,
     "Lvl": 14,
     "Text": "Albatross feathers",
     "Japanese": "アホウドリの羽",
     "Len": 18
   },
   {
-    "Id": 3803,
+    "Id": 3807,
     "Lvl": 14,
     "Text": "Antivirus software",
     "Japanese": "ウイルス対策ソフトウェア",
     "Len": 18
   },
   {
-    "Id": 3804,
+    "Id": 3808,
     "Lvl": 14,
     "Text": "Artificial systems",
     "Japanese": "人工システム",
     "Len": 18
   },
   {
-    "Id": 3805,
+    "Id": 3809,
     "Lvl": 14,
     "Text": "Balanced diet plan",
     "Japanese": "バランスの取れた食事プラン",
     "Len": 18
   },
   {
-    "Id": 3806,
+    "Id": 3810,
     "Lvl": 14,
     "Text": "Banking regulation",
     "Japanese": "銀行規制",
     "Len": 18
   },
   {
-    "Id": 3807,
+    "Id": 3811,
     "Lvl": 14,
     "Text": "Behavioral science",
     "Japanese": "行動科学",
     "Len": 18
   },
   {
-    "Id": 3808,
+    "Id": 3812,
     "Lvl": 14,
     "Text": "Beneficial effects",
     "Japanese": "有益な効果",
     "Len": 18
   },
   {
-    "Id": 3809,
+    "Id": 3813,
     "Lvl": 14,
     "Text": "Calcium deficiency",
     "Japanese": "カルシウム欠乏症",
     "Len": 18
   },
   {
-    "Id": 3810,
+    "Id": 3814,
     "Lvl": 14,
     "Text": "Career development",
     "Japanese": "キャリア開発",
     "Len": 18
   },
   {
-    "Id": 3811,
+    "Id": 3815,
     "Lvl": 14,
     "Text": "Central government",
     "Japanese": "中央政府",
     "Len": 18
   },
   {
-    "Id": 3812,
+    "Id": 3816,
     "Lvl": 14,
     "Text": "Chemical reactions",
     "Japanese": "化学反応",
     "Len": 18
   },
   {
-    "Id": 3813,
+    "Id": 3817,
     "Lvl": 14,
     "Text": "Climate adaptation",
     "Japanese": "気候変動への適応",
     "Len": 18
   },
   {
-    "Id": 3814,
+    "Id": 3818,
     "Lvl": 14,
     "Text": "Data visualization",
     "Japanese": "データ可視化",
     "Len": 18
   },
   {
-    "Id": 3815,
+    "Id": 3819,
     "Lvl": 14,
     "Text": "Dead body reported",
     "Japanese": "遺体発見の報告",
     "Len": 18
   },
   {
-    "Id": 3816,
+    "Id": 3820,
     "Lvl": 14,
     "Text": "Defense mechanisms",
     "Japanese": "防御機構",
     "Len": 18
   },
   {
-    "Id": 3817,
+    "Id": 3821,
     "Lvl": 14,
     "Text": "Diazodinitrophenol",
     "Japanese": "ジアゾジニトロフェノール",
     "Len": 18
   },
   {
-    "Id": 3818,
+    "Id": 3822,
     "Lvl": 14,
     "Text": "Dramatic structure",
     "Japanese": "劇的な構成",
     "Len": 18
   },
   {
-    "Id": 3819,
+    "Id": 3823,
     "Lvl": 14,
     "Text": "Economic stability",
     "Japanese": "経済の安定",
     "Len": 18
   },
   {
-    "Id": 3820,
+    "Id": 3824,
     "Lvl": 14,
     "Text": "Educational system",
     "Japanese": "教育制度",
     "Len": 18
   },
   {
-    "Id": 3821,
+    "Id": 3825,
     "Lvl": 14,
     "Text": "Effective strategy",
     "Japanese": "効果的な戦略",
     "Len": 18
   },
   {
-    "Id": 3822,
+    "Id": 3826,
     "Lvl": 14,
     "Text": "Electronic devices",
     "Japanese": "電子機器",
     "Len": 18
   },
   {
-    "Id": 3823,
+    "Id": 3827,
     "Lvl": 14,
     "Text": "Emotional maturity",
-    "Japanese": "感情的な成熟度",
+    "Japanese": "感情的な成熟",
     "Len": 18
   },
   {
-    "Id": 3824,
+    "Id": 3828,
     "Lvl": 14,
     "Text": "Energy consumption",
     "Japanese": "エネルギー消費量",
     "Len": 18
   },
   {
-    "Id": 3825,
+    "Id": 3829,
     "Lvl": 14,
     "Text": "Essential nutrient",
     "Japanese": "必須栄養素",
     "Len": 18
   },
   {
-    "Id": 3826,
+    "Id": 3830,
     "Lvl": 14,
     "Text": "Factory automation",
     "Japanese": "工場自動化",
     "Len": 18
   },
   {
-    "Id": 3827,
+    "Id": 3831,
     "Lvl": 14,
     "Text": "Faithful companion",
     "Japanese": "忠実な仲間",
     "Len": 18
   },
   {
-    "Id": 3828,
+    "Id": 3832,
     "Lvl": 14,
     "Text": "Federal government",
     "Japanese": "連邦政府",
     "Len": 18
   },
   {
-    "Id": 3829,
+    "Id": 3833,
     "Lvl": 14,
     "Text": "Galactic astronomy",
     "Japanese": "銀河天文学",
     "Len": 18
   },
   {
-    "Id": 3830,
+    "Id": 3834,
     "Lvl": 14,
     "Text": "General principles",
     "Japanese": "一般原則",
     "Len": 18
   },
   {
-    "Id": 3831,
+    "Id": 3835,
     "Lvl": 14,
     "Text": "Great achievements",
     "Japanese": "素晴らしい功績",
     "Len": 18
   },
   {
-    "Id": 3832,
+    "Id": 3836,
     "Lvl": 14,
     "Text": "Heart rate monitor",
     "Japanese": "心拍数モニター",
     "Len": 18
   },
   {
-    "Id": 3833,
+    "Id": 3837,
     "Lvl": 14,
     "Text": "Historical records",
     "Japanese": "歴史記録",
     "Len": 18
   },
   {
-    "Id": 3834,
+    "Id": 3838,
     "Lvl": 14,
     "Text": "Important decision",
     "Japanese": "重要な決断",
     "Len": 18
   },
   {
-    "Id": 3835,
+    "Id": 3839,
     "Lvl": 14,
     "Text": "Industrial economy",
     "Japanese": "産業経済",
     "Len": 18
   },
   {
-    "Id": 3836,
+    "Id": 3840,
     "Lvl": 14,
     "Text": "Information system",
     "Japanese": "情報システム",
     "Len": 18
   },
   {
-    "Id": 3837,
+    "Id": 3841,
     "Lvl": 14,
     "Text": "Joint venture team",
     "Japanese": "合弁事業チーム",
     "Len": 18
   },
   {
-    "Id": 3838,
+    "Id": 3842,
     "Lvl": 14,
     "Text": "Journalistic style",
     "Japanese": "ジャーナリスティックなスタイル",
     "Len": 18
   },
   {
-    "Id": 3839,
+    "Id": 3843,
     "Lvl": 14,
     "Text": "Journey to success",
     "Japanese": "成功への道のり",
     "Len": 18
   },
   {
-    "Id": 3840,
+    "Id": 3844,
     "Lvl": 14,
     "Text": "Junior high school",
     "Japanese": "中学校",
     "Len": 18
   },
   {
-    "Id": 3841,
+    "Id": 3845,
     "Lvl": 14,
     "Text": "Jury deliberations",
     "Japanese": "陪審員の審議",
     "Len": 18
   },
   {
-    "Id": 3842,
+    "Id": 3846,
     "Lvl": 14,
     "Text": "Keyboard shortcuts",
     "Japanese": "キーボードショートカット",
     "Len": 18
   },
   {
-    "Id": 3843,
+    "Id": 3847,
     "Lvl": 14,
     "Text": "Kinetic sculptures",
     "Japanese": "キネティック彫刻",
     "Len": 18
   },
   {
-    "Id": 3844,
+    "Id": 3848,
     "Lvl": 14,
     "Text": "Kitchen appliances",
     "Japanese": "キッチン家電",
     "Len": 18
   },
   {
-    "Id": 3845,
+    "Id": 3849,
     "Lvl": 14,
     "Text": "Knowledge transfer",
     "Japanese": "知識移転",
     "Len": 18
   },
   {
-    "Id": 3846,
+    "Id": 3850,
     "Lvl": 14,
     "Text": "Korean restaurants",
     "Japanese": "韓国料理店",
     "Len": 18
   },
   {
-    "Id": 3847,
+    "Id": 3851,
     "Lvl": 14,
     "Text": "Landscape painting",
     "Japanese": "風景画",
     "Len": 18
   },
   {
-    "Id": 3848,
+    "Id": 3852,
     "Lvl": 14,
     "Text": "Learning materials",
     "Japanese": "学習教材",
     "Len": 18
   },
   {
-    "Id": 3849,
+    "Id": 3853,
     "Lvl": 14,
     "Text": "Legal requirements",
     "Japanese": "法的要件",
     "Len": 18
   },
   {
-    "Id": 3850,
+    "Id": 3854,
     "Lvl": 14,
     "Text": "Leisure activities",
     "Japanese": "レジャー活動",
     "Len": 18
   },
   {
-    "Id": 3851,
+    "Id": 3855,
     "Lvl": 14,
     "Text": "Magnetic resonance",
     "Japanese": "磁気共鳴",
     "Len": 18
   },
   {
-    "Id": 3852,
+    "Id": 3856,
     "Lvl": 14,
     "Text": "Marketing research",
     "Japanese": "マーケティングリサーチ",
     "Len": 18
   },
   {
-    "Id": 3853,
+    "Id": 3857,
     "Lvl": 14,
     "Text": "Mental health care",
     "Japanese": "メンタルヘルスケア",
     "Len": 18
   },
   {
-    "Id": 3854,
+    "Id": 3858,
     "Lvl": 14,
     "Text": "Negative reactions",
     "Japanese": "否定的な反応",
     "Len": 18
   },
   {
-    "Id": 3855,
+    "Id": 3859,
     "Lvl": 14,
     "Text": "Objective evidence",
     "Japanese": "客観的証拠",
     "Len": 18
   },
   {
-    "Id": 3856,
+    "Id": 3860,
     "Lvl": 14,
     "Text": "Ocean conservation",
     "Japanese": "海洋保全",
     "Len": 18
   },
   {
-    "Id": 3857,
+    "Id": 3861,
     "Lvl": 14,
     "Text": "Office environment",
     "Japanese": "オフィス環境",
     "Len": 18
   },
   {
-    "Id": 3858,
+    "Id": 3862,
     "Lvl": 14,
     "Text": "Outdoor recreation",
     "Japanese": "アウトドアレクリエーション",
     "Len": 18
   },
   {
-    "Id": 3859,
+    "Id": 3863,
     "Lvl": 14,
     "Text": "Passive resistance",
-    "Japanese": "受動的抵抗",
+    "Japanese": "消極的抵抗",
     "Len": 18
   },
   {
-    "Id": 3860,
+    "Id": 3864,
     "Lvl": 14,
     "Text": "Peace negotiations",
     "Japanese": "和平交渉",
     "Len": 18
   },
   {
-    "Id": 3861,
+    "Id": 3865,
     "Lvl": 14,
     "Text": "Performance review",
     "Japanese": "業績評価",
     "Len": 18
   },
   {
-    "Id": 3862,
+    "Id": 3866,
     "Lvl": 14,
     "Text": "Personal computers",
     "Japanese": "パーソナルコンピュータ",
     "Len": 18
   },
   {
-    "Id": 3863,
+    "Id": 3867,
     "Lvl": 14,
     "Text": "Quantitative study",
     "Japanese": "定量的研究",
     "Len": 18
   },
   {
-    "Id": 3864,
+    "Id": 3868,
     "Lvl": 14,
     "Text": "Radio broadcasting",
     "Japanese": "ラジオ放送",
     "Len": 18
   },
   {
-    "Id": 3865,
+    "Id": 3869,
     "Lvl": 14,
     "Text": "Realistic painting",
     "Japanese": "写実的な絵画",
     "Len": 18
   },
   {
-    "Id": 3866,
+    "Id": 3870,
     "Lvl": 14,
     "Text": "Sodium bicarbonate",
     "Japanese": "重曹",
     "Len": 18
   },
   {
-    "Id": 3867,
+    "Id": 3871,
     "Lvl": 14,
     "Text": "Territorial waters",
     "Japanese": "領海",
     "Len": 18
   },
   {
-    "Id": 3868,
+    "Id": 3872,
     "Lvl": 14,
     "Text": "Textile industries",
     "Japanese": "繊維産業",
     "Len": 18
   },
   {
-    "Id": 3869,
+    "Id": 3873,
     "Lvl": 14,
     "Text": "Underground tunnel",
     "Japanese": "地下トンネル",
     "Len": 18
   },
   {
-    "Id": 3870,
+    "Id": 3874,
     "Lvl": 14,
     "Text": "Unique perspective",
     "Japanese": "独自の視点",
     "Len": 18
   },
   {
-    "Id": 3871,
+    "Id": 3875,
     "Lvl": 14,
     "Text": "Valid observations",
     "Japanese": "有効な観察結果",
     "Len": 18
   },
   {
-    "Id": 3872,
+    "Id": 3876,
     "Lvl": 14,
     "Text": "Vertical alignment",
     "Japanese": "垂直方向の配置",
     "Len": 18
   },
   {
-    "Id": 3873,
+    "Id": 3877,
     "Lvl": 14,
     "Text": "Water conservation",
     "Japanese": "節水",
     "Len": 18
   },
   {
-    "Id": 3874,
+    "Id": 3878,
     "Lvl": 14,
     "Text": "Weather conditions",
     "Japanese": "気象状況",
     "Len": 18
   },
   {
-    "Id": 3875,
+    "Id": 3879,
     "Lvl": 14,
     "Text": "Xerographic copies",
     "Japanese": "ゼログラフィーコピー",
     "Len": 18
   },
   {
-    "Id": 3876,
+    "Id": 3880,
     "Lvl": 14,
     "Text": "Yellow fever virus",
     "Japanese": "黄熱ウイルス",
     "Len": 18
   },
   {
-    "Id": 3877,
+    "Id": 3881,
     "Lvl": 15,
     "Text": "Absolute monarchism",
     "Japanese": "絶対君主制",
     "Len": 19
   },
   {
-    "Id": 3878,
+    "Id": 3882,
     "Lvl": 15,
     "Text": "Acoustic guitarists",
     "Japanese": "アコースティックギタリスト",
     "Len": 19
   },
   {
-    "Id": 3879,
+    "Id": 3883,
     "Lvl": 15,
     "Text": "Advanced technology",
     "Japanese": "先進技術",
     "Len": 19
   },
   {
-    "Id": 3880,
+    "Id": 3884,
     "Lvl": 15,
     "Text": "Bacterial infection",
     "Japanese": "細菌感染",
     "Len": 19
   },
   {
-    "Id": 3881,
+    "Id": 3885,
     "Lvl": 15,
     "Text": "Celestial mechanics",
     "Japanese": "天体力学",
     "Len": 19
   },
   {
-    "Id": 3882,
+    "Id": 3886,
     "Lvl": 15,
     "Text": "Dihydrogen monoxide",
     "Japanese": "一酸化二水素",
     "Len": 19
   },
   {
-    "Id": 3883,
+    "Id": 3887,
     "Lvl": 15,
     "Text": "Dynamic programming",
     "Japanese": "動的計画法",
     "Len": 19
   },
   {
-    "Id": 3884,
+    "Id": 3888,
     "Lvl": 15,
     "Text": "Gallery exhibitions",
     "Japanese": "ギャラリー展示",
     "Len": 19
   },
   {
-    "Id": 3885,
+    "Id": 3889,
     "Lvl": 15,
     "Text": "Genetic engineering",
     "Japanese": "遺伝子工学",
     "Len": 19
   },
   {
-    "Id": 3886,
+    "Id": 3890,
     "Lvl": 15,
     "Text": "Geographic location",
     "Japanese": "地理的位置",
     "Len": 19
   },
   {
-    "Id": 3887,
+    "Id": 3891,
     "Lvl": 15,
     "Text": "Increase efficiency",
     "Japanese": "効率性を向上させる",
     "Len": 19
   },
   {
-    "Id": 3888,
+    "Id": 3892,
     "Lvl": 15,
     "Text": "Interior decoration",
     "Japanese": "インテリア装飾",
     "Len": 19
   },
   {
-    "Id": 3889,
+    "Id": 3893,
     "Lvl": 15,
     "Text": "Knightly adventures",
     "Japanese": "騎士道の冒険",
     "Len": 19
   },
   {
-    "Id": 3890,
+    "Id": 3894,
     "Lvl": 15,
     "Text": "Laboratory analysis",
     "Japanese": "臨床検査",
     "Len": 19
   },
   {
-    "Id": 3891,
+    "Id": 3895,
     "Lvl": 15,
     "Text": "Lithium ion battery",
     "Japanese": "リチウムイオン電池",
     "Len": 19
   },
   {
-    "Id": 3892,
+    "Id": 3896,
     "Lvl": 15,
     "Text": "Market manipulation",
     "Japanese": "市場操作",
     "Len": 19
   },
   {
-    "Id": 3893,
+    "Id": 3897,
     "Lvl": 15,
     "Text": "Nautical navigation",
     "Japanese": "航海術",
     "Len": 19
   },
   {
-    "Id": 3894,
+    "Id": 3898,
     "Lvl": 15,
     "Text": "Occupational health",
     "Japanese": "産業保健",
     "Len": 19
   },
   {
-    "Id": 3895,
+    "Id": 3899,
     "Lvl": 15,
     "Text": "Qualification tests",
     "Japanese": "資格試験",
     "Len": 19
   },
   {
-    "Id": 3896,
+    "Id": 3900,
     "Lvl": 15,
     "Text": "Scientific notation",
     "Japanese": "科学的記数法",
     "Len": 19
   },
   {
-    "Id": 3897,
+    "Id": 3901,
     "Lvl": 15,
     "Text": "Scientific research",
     "Japanese": "科学研究",
     "Len": 19
   },
   {
-    "Id": 3898,
+    "Id": 3902,
     "Lvl": 15,
     "Text": "Supernova explosion",
     "Japanese": "超新星爆発",
     "Len": 19
   },
   {
-    "Id": 3899,
+    "Id": 3903,
     "Lvl": 15,
     "Text": "Theoretical physics",
     "Japanese": "理論物理学",
     "Len": 19
   },
   {
-    "Id": 3900,
+    "Id": 3904,
     "Lvl": 15,
     "Text": "Time limit exceeded",
     "Japanese": "制限時間を超過しました",
     "Len": 19
   },
   {
-    "Id": 3901,
+    "Id": 3905,
     "Lvl": 15,
     "Text": "Website development",
     "Japanese": "ウェブサイト開発",
     "Len": 19
   },
   {
-    "Id": 3902,
+    "Id": 3906,
     "Lvl": 15,
     "Text": "Wildlife protection",
     "Japanese": "野生生物保護",
     "Len": 19
   },
   {
-    "Id": 3903,
+    "Id": 3907,
     "Lvl": 15,
     "Text": "Zero gravity flight",
     "Japanese": "無重力飛行",
     "Len": 19
   },
   {
-    "Id": 3904,
+    "Id": 3908,
     "Lvl": 15,
     "Text": "Academic achievement",
     "Japanese": "学業成績",
     "Len": 20
   },
   {
-    "Id": 3905,
+    "Id": 3909,
+    "Lvl": 15,
+    "Text": "Ever dream this man?",
+    "Japanese": "この男性の夢を見たことがありますか？",
+    "Len": 20
+  },
+  {
+    "Id": 3910,
     "Lvl": 15,
     "Text": "High frequency blade",
     "Japanese": "高周波ブレード",
     "Len": 20
   },
   {
-    "Id": 3906,
+    "Id": 3911,
     "Lvl": 15,
     "Text": "Improve productivity",
     "Japanese": "生産性を向上させる",
     "Len": 20
   },
   {
-    "Id": 3907,
+    "Id": 3912,
     "Lvl": 15,
     "Text": "Low orbit ion cannon",
     "Japanese": "低軌道イオン砲",
     "Len": 20
   },
   {
-    "Id": 3908,
+    "Id": 3913,
     "Lvl": 15,
     "Text": "Nonexistent memories",
     "Japanese": "存在しない記憶",
     "Len": 20
   },
   {
-    "Id": 3909,
+    "Id": 3914,
     "Lvl": 15,
     "Text": "Regional development",
     "Japanese": "地域開発",
     "Len": 20
   },
   {
-    "Id": 3910,
+    "Id": 3915,
     "Lvl": 15,
     "Text": "Verbal communication",
     "Japanese": "言語によるコミュニケーション",
     "Len": 20
   },
   {
-    "Id": 3911,
+    "Id": 3916,
     "Lvl": 15,
     "Text": "Western civilization",
     "Japanese": "西洋文明",
     "Len": 20
   },
   {
-    "Id": 3912,
+    "Id": 3917,
+    "Lvl": 15,
+    "Text": "Internal server error",
+    "Japanese": "内部サーバーエラー",
+    "Len": 21
+  },
+  {
+    "Id": 3918,
     "Lvl": 15,
     "Text": "Facilities management",
     "Japanese": "施設管理",
     "Len": 21
   },
   {
-    "Id": 3913,
+    "Id": 3919,
     "Lvl": 15,
     "Text": "Global warming trends",
     "Japanese": "地球温暖化の傾向",
     "Len": 21
   },
   {
-    "Id": 3914,
+    "Id": 3920,
     "Lvl": 15,
     "Text": "Look away at all cost",
     "Japanese": "何としても目をそらす",
     "Len": 21
   },
   {
-    "Id": 3915,
+    "Id": 3921,
     "Lvl": 15,
     "Text": "Partial solar eclipse",
     "Japanese": "部分日食",
     "Len": 21
   },
   {
-    "Id": 3916,
+    "Id": 3922,
     "Lvl": 15,
     "Text": "Chlorotrifluoromethane",
     "Japanese": "クロロトリフルオロメタン",
     "Len": 22
   },
   {
-    "Id": 3917,
+    "Id": 3923,
     "Lvl": 16,
     "Text": "Daily exercise routine",
     "Japanese": "毎日の運動習慣",
     "Len": 22
   },
   {
-    "Id": 3918,
+    "Id": 3924,
     "Lvl": 16,
     "Text": "Descriptive statistics",
     "Japanese": "記述統計",
     "Len": 22
   },
   {
-    "Id": 3919,
+    "Id": 3925,
     "Lvl": 16,
     "Text": "Global economic system",
     "Japanese": "グローバル経済システム",
     "Len": 22
   },
   {
-    "Id": 3920,
+    "Id": 3926,
     "Lvl": 16,
     "Text": "Journalistic integrity",
     "Japanese": "ジャーナリズムの誠実さ",
     "Len": 22
   },
   {
-    "Id": 3921,
+    "Id": 3927,
     "Lvl": 16,
     "Text": "Machine learning model",
     "Japanese": "機械学習モデル",
     "Len": 22
   },
   {
-    "Id": 3922,
+    "Id": 3928,
     "Lvl": 16,
     "Text": "Mathematical induction",
     "Japanese": "数学的帰納法",
     "Len": 22
   },
   {
-    "Id": 3923,
+    "Id": 3929,
     "Lvl": 16,
     "Text": "Microspectrophotometer",
     "Japanese": "マイクロ分光光度計",
     "Len": 22
   },
   {
-    "Id": 3924,
+    "Id": 3930,
     "Lvl": 16,
     "Text": "Mountain climbing trip",
     "Japanese": "登山旅行",
     "Len": 22
   },
   {
-    "Id": 3925,
+    "Id": 3931,
     "Lvl": 16,
     "Text": "Population growth rate",
     "Japanese": "人口増加率",
     "Len": 22
   },
   {
-    "Id": 3926,
+    "Id": 3932,
     "Lvl": 16,
     "Text": "practice makes perfect",
     "Japanese": "練習すれば完璧になる",
     "Len": 22
   },
   {
-    "Id": 3927,
+    "Id": 3933,
     "Lvl": 16,
     "Text": "Quiet residential area",
     "Japanese": "静かな住宅街",
     "Len": 22
   },
   {
-    "Id": 3928,
+    "Id": 3934,
     "Lvl": 16,
     "Text": "Social media marketing",
     "Japanese": "ソーシャルメディアマーケティング",
     "Len": 22
   },
   {
-    "Id": 3929,
+    "Id": 3935,
     "Lvl": 16,
     "Text": "Universal human rights",
     "Japanese": "普遍的な人権",
     "Len": 22
   },
   {
-    "Id": 3930,
+    "Id": 3936,
     "Lvl": 16,
     "Text": "Yield strength measure",
     "Japanese": "降伏強度測定",
     "Len": 22
   },
   {
-    "Id": 3931,
+    "Id": 3937,
     "Lvl": 16,
     "Text": "A new foe has appeared!",
     "Japanese": "新たな敵が現れた！",
     "Len": 23
   },
   {
-    "Id": 3932,
+    "Id": 3938,
     "Lvl": 16,
     "Text": "Business administration",
     "Japanese": "経営管理",
     "Len": 23
   },
   {
-    "Id": 3933,
+    "Id": 3939,
     "Lvl": 16,
     "Text": "Dichlorodifluoromethane",
     "Japanese": "ジクロロジフルオロメタン",
     "Len": 23
   },
   {
-    "Id": 3934,
+    "Id": 3940,
     "Lvl": 16,
     "Text": "Future technology trend",
     "Japanese": "将来の技術動向",
     "Len": 23
   },
   {
-    "Id": 3935,
+    "Id": 3941,
     "Lvl": 16,
     "Text": "Honest personal opinion",
     "Japanese": "率直な個人的意見",
     "Len": 23
   },
   {
-    "Id": 3936,
+    "Id": 3942,
+    "Lvl": 16,
+    "Text": "Intentional game design",
+    "Japanese": "意図的なゲームデザイン",
+    "Len": 23
+  },
+  {
+    "Id": 3943,
     "Lvl": 16,
     "Text": "Jungle exploration trip",
     "Japanese": "ジャングル探検旅行",
     "Len": 23
   },
   {
-    "Id": 3937,
+    "Id": 3944,
     "Lvl": 16,
     "Text": "Keen observation skills",
     "Japanese": "鋭い観察力",
     "Len": 23
   },
   {
-    "Id": 3938,
+    "Id": 3945,
     "Lvl": 16,
     "Text": "Knowledge based economy",
     "Japanese": "知識ベース経済",
     "Len": 23
   },
   {
-    "Id": 3939,
+    "Id": 3946,
     "Lvl": 16,
     "Text": "Local community service",
     "Japanese": "地域社会への貢献",
     "Len": 23
   },
   {
-    "Id": 3940,
+    "Id": 3947,
     "Lvl": 16,
     "Text": "Music production studio",
     "Japanese": "音楽制作スタジオ",
     "Len": 23
   },
   {
-    "Id": 3941,
+    "Id": 3948,
     "Lvl": 16,
     "Text": "Renewable energy system",
     "Japanese": "再生可能エネルギーシステム",
     "Len": 23
   },
   {
-    "Id": 3942,
+    "Id": 3949,
     "Lvl": 16,
     "Text": "Sustainable development",
     "Japanese": "持続可能な開発",
     "Len": 23
   },
   {
-    "Id": 3943,
+    "Id": 3950,
     "Lvl": 16,
     "Text": "Underlying social issue",
     "Japanese": "根底にある社会問題",
     "Len": 23
   },
   {
-    "Id": 3944,
+    "Id": 3951,
     "Lvl": 16,
     "Text": "Vibrant city atmosphere",
     "Japanese": "活気あふれる都市の雰囲気",
     "Len": 23
   },
   {
-    "Id": 3945,
+    "Id": 3952,
     "Lvl": 16,
     "Text": "Virtual reality systems",
     "Japanese": "仮想現実システム",
     "Len": 23
   },
   {
-    "Id": 3946,
+    "Id": 3953,
     "Lvl": 16,
     "Text": "Zoological research lab",
     "Japanese": "動物学研究室",
     "Len": 23
   },
   {
-    "Id": 3947,
+    "Id": 3954,
     "Lvl": 16,
     "Text": "Aquatic ecosystem health",
     "Japanese": "水生生態系の健全性",
     "Len": 24
   },
   {
-    "Id": 3948,
+    "Id": 3955,
     "Lvl": 16,
     "Text": "Artificial consciousness",
     "Japanese": "人工意識",
     "Len": 24
   },
   {
-    "Id": 3949,
+    "Id": 3956,
     "Lvl": 16,
     "Text": "Chronic health condition",
     "Japanese": "慢性疾患",
     "Len": 24
   },
   {
-    "Id": 3950,
+    "Id": 3957,
     "Lvl": 16,
     "Text": "Dramatic theatrical work",
     "Japanese": "劇的な演劇作品",
     "Len": 24
   },
   {
-    "Id": 3951,
+    "Id": 3958,
     "Lvl": 16,
     "Text": "Electronic communication",
     "Japanese": "電子通信",
     "Len": 24
   },
   {
-    "Id": 3952,
+    "Id": 3959,
     "Lvl": 16,
     "Text": "Fundamental physical law",
     "Japanese": "基本的な物理法則",
     "Len": 24
   },
   {
-    "Id": 3953,
+    "Id": 3960,
     "Lvl": 16,
     "Text": "Geographical information",
     "Japanese": "地理情報",
     "Len": 24
   },
   {
-    "Id": 3954,
+    "Id": 3961,
     "Lvl": 16,
     "Text": "Healthy lifestyle choice",
     "Japanese": "健康的なライフスタイルの選択",
     "Len": 24
   },
   {
-    "Id": 3955,
+    "Id": 3962,
     "Lvl": 16,
     "Text": "Joyful celebration event",
     "Japanese": "楽しいお祝いイベント",
     "Len": 24
   },
   {
-    "Id": 3956,
+    "Id": 3963,
     "Lvl": 16,
     "Text": "Justification for action",
     "Japanese": "行動の正当性",
     "Len": 24
   },
   {
-    "Id": 3957,
+    "Id": 3964,
     "Lvl": 16,
     "Text": "Kitchen appliance repair",
     "Japanese": "キッチン家電の修理",
     "Len": 24
   },
   {
-    "Id": 3958,
+    "Id": 3965,
     "Lvl": 16,
     "Text": "Leading academic journal",
     "Japanese": "一流の学術誌",
     "Len": 24
   },
   {
-    "Id": 3959,
+    "Id": 3966,
     "Lvl": 16,
     "Text": "Major transportation hub",
     "Japanese": "主要な交通拠点",
     "Len": 24
   },
   {
-    "Id": 3960,
+    "Id": 3967,
     "Lvl": 16,
     "Text": "Oceanic current movement",
     "Japanese": "海流の動き",
     "Len": 24
   },
   {
-    "Id": 3961,
+    "Id": 3968,
     "Lvl": 16,
     "Text": "Optimal solution finding",
     "Japanese": "最適解の探索",
     "Len": 24
   },
   {
-    "Id": 3962,
+    "Id": 3969,
     "Lvl": 16,
     "Text": "Physical education class",
     "Japanese": "体育の授業",
     "Len": 24
   },
   {
-    "Id": 3963,
+    "Id": 3970,
     "Lvl": 16,
     "Text": "Political science theory",
     "Japanese": "政治学理論",
     "Len": 24
   },
   {
-    "Id": 3964,
+    "Id": 3971,
     "Lvl": 16,
     "Text": "Primary research finding",
     "Japanese": "主要な研究結果",
     "Len": 24
   },
   {
-    "Id": 3965,
+    "Id": 3972,
     "Lvl": 16,
     "Text": "Professional development",
     "Japanese": "専門能力開発",
     "Len": 24
   },
   {
-    "Id": 3966,
+    "Id": 3973,
     "Lvl": 16,
     "Text": "Quick response mechanism",
     "Japanese": "迅速対応メカニズム",
     "Len": 24
   },
   {
-    "Id": 3967,
+    "Id": 3974,
     "Lvl": 16,
     "Text": "Rational decision making",
     "Japanese": "合理的な意思決定",
     "Len": 24
   },
   {
-    "Id": 3968,
+    "Id": 3975,
     "Lvl": 16,
     "Text": "Regional economic growth",
     "Japanese": "地域経済成長",
     "Len": 24
   },
   {
-    "Id": 3969,
+    "Id": 3976,
     "Lvl": 16,
     "Text": "Scientific investigation",
     "Japanese": "科学的調査",
     "Len": 24
   },
   {
-    "Id": 3970,
+    "Id": 3977,
     "Lvl": 16,
     "Text": "Technological innovation",
     "Japanese": "技術革新",
     "Len": 24
   },
   {
-    "Id": 3971,
+    "Id": 3978,
     "Lvl": 16,
     "Text": "Total quality management",
     "Japanese": "総合品質管理",
     "Len": 24
   },
   {
-    "Id": 3972,
+    "Id": 3979,
     "Lvl": 16,
     "Text": "Transport infrastructure",
     "Japanese": "輸送インフラ",
     "Len": 24
   },
   {
-    "Id": 3973,
+    "Id": 3980,
     "Lvl": 16,
     "Text": "Unique cultural identity",
     "Japanese": "独自の文化的アイデンティティ",
     "Len": 24
   },
   {
-    "Id": 3974,
+    "Id": 3981,
     "Lvl": 16,
     "Text": "When the impostor is sus",
     "Japanese": "偽者が疑わしい場合",
     "Len": 24
   },
   {
-    "Id": 3975,
+    "Id": 3982,
     "Lvl": 16,
     "Text": "X chromosome inheritance",
     "Japanese": "X染色体の遺伝",
     "Len": 24
   },
   {
-    "Id": 3976,
+    "Id": 3983,
     "Lvl": 16,
     "Text": "Xerographic copy machine",
     "Japanese": "ゼログラフィーコピー機",
     "Len": 24
   },
   {
-    "Id": 3977,
+    "Id": 3984,
     "Lvl": 16,
     "Text": "Xylographic printing art",
     "Japanese": "木版印刷芸術",
     "Len": 24
   },
   {
-    "Id": 3978,
+    "Id": 3985,
     "Lvl": 16,
     "Text": "Academic achievement test",
     "Japanese": "学力達成度テスト",
     "Len": 25
   },
   {
-    "Id": 3979,
+    "Id": 3986,
     "Lvl": 16,
     "Text": "Advanced computer science",
     "Japanese": "高度なコンピュータサイエンス",
     "Len": 25
   },
   {
-    "Id": 3980,
+    "Id": 3987,
     "Lvl": 16,
     "Text": "Atmospheric concentration",
     "Japanese": "大気濃度",
     "Len": 25
   },
   {
-    "Id": 3981,
+    "Id": 3988,
     "Lvl": 16,
     "Text": "Balanced nutritional diet",
     "Japanese": "バランスの取れた栄養食",
     "Len": 25
   },
   {
-    "Id": 3982,
+    "Id": 3989,
     "Lvl": 16,
     "Text": "Beautiful sunrise scenery",
     "Japanese": "美しい日の出の景色",
     "Len": 25
   },
   {
-    "Id": 3983,
+    "Id": 3990,
     "Lvl": 16,
     "Text": "Biological classification",
-    "Japanese": "生物分類",
+    "Japanese": "生物学的分類",
     "Len": 25
   },
   {
-    "Id": 3984,
+    "Id": 3991,
     "Lvl": 16,
     "Text": "Brilliant scientific mind",
     "Japanese": "卓越した科学的頭脳",
     "Len": 25
   },
   {
-    "Id": 3985,
+    "Id": 3992,
     "Lvl": 16,
     "Text": "Careful analytical review",
     "Japanese": "綿密な分析的レビュー",
     "Len": 25
   },
   {
-    "Id": 3986,
+    "Id": 3993,
     "Lvl": 16,
     "Text": "Cultural heritage project",
     "Japanese": "文化遺産プロジェクト",
     "Len": 25
   },
   {
-    "Id": 3987,
+    "Id": 3994,
     "Lvl": 16,
     "Text": "Detailed financial report",
     "Japanese": "詳細な財務報告書",
     "Len": 25
   },
   {
-    "Id": 3988,
+    "Id": 3995,
     "Lvl": 16,
     "Text": "Dynamic equilibrium state",
     "Japanese": "動的平衡状態",
     "Len": 25
   },
   {
-    "Id": 3989,
+    "Id": 3996,
     "Lvl": 16,
     "Text": "Extraordinary performance",
     "Japanese": "並外れたパフォーマンス",
     "Len": 25
   },
   {
-    "Id": 3990,
+    "Id": 3997,
     "Lvl": 16,
     "Text": "Foreign language learning",
     "Japanese": "外国語学習",
     "Len": 25
   },
   {
-    "Id": 3991,
+    "Id": 3998,
     "Lvl": 16,
     "Text": "Formal wedding invitation",
     "Japanese": "正式な結婚式の招待状",
     "Len": 25
   },
   {
-    "Id": 3992,
+    "Id": 3999,
     "Lvl": 16,
     "Text": "Frequent travel itinerary",
     "Japanese": "頻繁な旅行日程",
     "Len": 25
   },
   {
-    "Id": 3993,
+    "Id": 4000,
     "Lvl": 16,
     "Text": "Functional design pattern",
     "Japanese": "機能設計パターン",
     "Len": 25
   },
   {
-    "Id": 3994,
+    "Id": 4001,
     "Lvl": 16,
     "Text": "General knowledge contest",
     "Japanese": "一般知識コンテスト",
     "Len": 25
   },
   {
-    "Id": 3995,
+    "Id": 4002,
     "Lvl": 16,
     "Text": "Grand architecture design",
     "Japanese": "壮大な建築デザイン",
     "Len": 25
   },
   {
-    "Id": 3996,
+    "Id": 4003,
     "Lvl": 16,
     "Text": "Great historical monument",
     "Japanese": "偉大な歴史的建造物",
     "Len": 25
   },
   {
-    "Id": 3997,
+    "Id": 4004,
     "Lvl": 16,
     "Text": "High quality construction",
     "Japanese": "高品質な建築",
     "Len": 25
   },
   {
-    "Id": 3998,
+    "Id": 4005,
     "Lvl": 16,
     "Text": "Huge financial investment",
     "Japanese": "巨額の資金投資",
     "Len": 25
   },
   {
-    "Id": 3999,
+    "Id": 4006,
     "Lvl": 16,
     "Text": "Human resource management",
     "Japanese": "人材管理",
     "Len": 25
   },
   {
-    "Id": 4000,
+    "Id": 4007,
     "Lvl": 16,
     "Text": "Intellectual property law",
     "Japanese": "知的財産法",
     "Len": 25
   },
   {
-    "Id": 4001,
+    "Id": 4008,
     "Lvl": 16,
     "Text": "International cooperation",
     "Japanese": "国際協力",
     "Len": 25
   },
   {
-    "Id": 4002,
+    "Id": 4009,
     "Lvl": 16,
     "Text": "Joint venture partnership",
     "Japanese": "合弁事業パートナーシップ",
     "Len": 25
   },
   {
-    "Id": 4003,
+    "Id": 4010,
     "Lvl": 16,
     "Text": "Judicial system procedure",
     "Japanese": "司法制度の手続き",
     "Len": 25
   },
   {
-    "Id": 4004,
+    "Id": 4011,
     "Lvl": 16,
     "Text": "Key performance indicator",
     "Japanese": "主要業績指標",
     "Len": 25
   },
   {
-    "Id": 4005,
+    "Id": 4012,
     "Lvl": 16,
     "Text": "Landscape photography art",
     "Japanese": "風景写真アート",
     "Len": 25
   },
   {
-    "Id": 4006,
+    "Id": 4013,
     "Lvl": 16,
     "Text": "Liquid nitrogen container",
     "Japanese": "液体窒素容器",
     "Len": 25
   },
   {
-    "Id": 4007,
+    "Id": 4014,
     "Lvl": 16,
     "Text": "Mutual understanding goal",
     "Japanese": "相互理解の目標",
     "Len": 25
   },
   {
-    "Id": 4008,
+    "Id": 4015,
     "Lvl": 16,
     "Text": "Natural resource scarcity",
     "Japanese": "天然資源の不足",
     "Len": 25
   },
   {
-    "Id": 4009,
+    "Id": 4016,
     "Lvl": 16,
     "Text": "No such file or directory",
     "Japanese": "そのようなファイル、又はディレクトリはありません",
     "Len": 25
   },
   {
-    "Id": 4010,
+    "Id": 4017,
     "Lvl": 16,
     "Text": "Notable achievement award",
     "Japanese": "顕著な功績賞",
     "Len": 25
   },
   {
-    "Id": 4011,
+    "Id": 4018,
     "Lvl": 16,
     "Text": "Organizational management",
     "Japanese": "組織管理",
     "Len": 25
   },
   {
-    "Id": 4012,
+    "Id": 4019,
     "Lvl": 16,
     "Text": "Outdoor recreational park",
     "Japanese": "屋外レクリエーション公園",
     "Len": 25
   },
   {
-    "Id": 4013,
+    "Id": 4020,
     "Lvl": 16,
     "Text": "Peaceful coexistence goal",
     "Japanese": "平和共存の目標",
     "Len": 25
   },
   {
-    "Id": 4014,
+    "Id": 4021,
     "Lvl": 16,
     "Text": "Quality assurance process",
     "Japanese": "品質保証プロセス",
     "Len": 25
   },
   {
-    "Id": 4015,
+    "Id": 4022,
     "Lvl": 16,
     "Text": "Realistic simulation game",
     "Japanese": "リアルなシミュレーションゲーム",
     "Len": 25
   },
   {
-    "Id": 4016,
+    "Id": 4023,
     "Lvl": 16,
     "Text": "Rural development project",
     "Japanese": "農村開発プロジェクト",
     "Len": 25
   },
   {
-    "Id": 4017,
+    "Id": 4024,
     "Lvl": 16,
     "Text": "Vertical gardening system",
-    "Japanese": "垂直庭園システム",
+    "Japanese": "垂直栽培システム",
     "Len": 25
   },
   {
-    "Id": 4018,
+    "Id": 4025,
     "Lvl": 16,
     "Text": "Violent volcanic eruption",
     "Japanese": "激しい火山噴火",
     "Len": 25
   },
   {
-    "Id": 4019,
+    "Id": 4026,
     "Lvl": 16,
     "Text": "Visual communication tool",
     "Japanese": "視覚的なコミュニケーションツール",
     "Len": 25
   },
   {
-    "Id": 4020,
+    "Id": 4027,
     "Lvl": 16,
     "Text": "Water resource management",
     "Japanese": "水資源管理",
     "Len": 25
   },
   {
-    "Id": 4021,
+    "Id": 4028,
     "Lvl": 16,
     "Text": "Weather forecasting model",
     "Japanese": "天気予報モデル",
     "Len": 25
   },
   {
-    "Id": 4022,
+    "Id": 4029,
     "Lvl": 16,
     "Text": "Xenotransplantation trial",
     "Japanese": "異種移植試験",
     "Len": 25
   },
   {
-    "Id": 4023,
+    "Id": 4030,
     "Lvl": 16,
     "Text": "Zero emission vehicle law",
     "Japanese": "ゼロエミッション車法",
     "Len": 25
   },
   {
-    "Id": 4024,
+    "Id": 4031,
     "Lvl": 16,
     "Text": "Abstract conceptualization",
     "Japanese": "抽象概念化",
     "Len": 26
   },
   {
-    "Id": 4025,
+    "Id": 4032,
     "Lvl": 16,
     "Text": "Basic communication skills",
-    "Japanese": "基本的なコミュニケーション能力",
+    "Japanese": "基本的なコミュニケーションスキル",
     "Len": 26
   },
   {
-    "Id": 4026,
+    "Id": 4033,
     "Lvl": 16,
     "Text": "Building construction site",
     "Japanese": "建設現場",
     "Len": 26
   },
   {
-    "Id": 4027,
+    "Id": 4034,
     "Lvl": 16,
     "Text": "Chemical reaction kinetics",
     "Japanese": "化学反応速度論",
     "Len": 26
   },
   {
-    "Id": 4028,
+    "Id": 4035,
     "Lvl": 16,
     "Text": "Clinical trial methodology",
     "Japanese": "臨床試験の方法論",
     "Len": 26
   },
   {
-    "Id": 4029,
+    "Id": 4036,
     "Lvl": 16,
     "Text": "Complex mathematical model",
     "Japanese": "複雑な数理モデル",
     "Len": 26
   },
   {
-    "Id": 4030,
+    "Id": 4037,
     "Lvl": 16,
     "Text": "Diverse biological species",
     "Japanese": "多様な生物種",
     "Len": 26
   },
   {
-    "Id": 4031,
+    "Id": 4038,
     "Lvl": 16,
     "Text": "Durable industrial product",
     "Japanese": "耐久性のある工業製品",
     "Len": 26
   },
   {
-    "Id": 4032,
+    "Id": 4039,
     "Lvl": 16,
     "Text": "Financial market stability",
     "Japanese": "金融市場の安定性",
     "Len": 26
   },
   {
-    "Id": 4033,
+    "Id": 4040,
     "Lvl": 16,
     "Text": "Growing population density",
     "Japanese": "人口密度の増加",
     "Len": 26
   },
   {
-    "Id": 4034,
+    "Id": 4041,
     "Lvl": 16,
     "Text": "Heavy industrial machinery",
     "Japanese": "重工業機械",
     "Len": 26
   },
   {
-    "Id": 4035,
+    "Id": 4042,
     "Lvl": 16,
     "Text": "Historic preservation area",
     "Japanese": "歴史的建造物保存地区",
     "Len": 26
   },
   {
-    "Id": 4036,
+    "Id": 4043,
     "Lvl": 16,
     "Text": "Immediate medical response",
     "Japanese": "即時医療対応",
     "Len": 26
   },
   {
-    "Id": 4037,
+    "Id": 4044,
     "Lvl": 16,
     "Text": "Individual character trait",
     "Japanese": "個人の性格特性",
     "Len": 26
   },
   {
-    "Id": 4038,
+    "Id": 4045,
     "Lvl": 16,
     "Text": "Innovative software design",
     "Japanese": "革新的なソフトウェア設計",
     "Len": 26
   },
   {
-    "Id": 4039,
+    "Id": 4046,
     "Lvl": 16,
     "Text": "Junior high school student",
     "Japanese": "中学生",
     "Len": 26
   },
   {
-    "Id": 4040,
+    "Id": 4047,
     "Lvl": 16,
     "Text": "Linear algebra calculation",
     "Japanese": "線形代数計算",
     "Len": 26
   },
   {
-    "Id": 4041,
+    "Id": 4048,
     "Lvl": 16,
     "Text": "Logical reasoning exercise",
     "Japanese": "論理的推論演習",
     "Len": 26
   },
   {
-    "Id": 4042,
+    "Id": 4049,
     "Lvl": 16,
     "Text": "Medical research institute",
     "Japanese": "医学研究所",
     "Len": 26
   },
   {
-    "Id": 4043,
+    "Id": 4050,
     "Lvl": 16,
     "Text": "National security strategy",
     "Japanese": "国家安全保障戦略",
     "Len": 26
   },
   {
-    "Id": 4044,
+    "Id": 4051,
     "Lvl": 16,
     "Text": "Northern hemisphere winter",
     "Japanese": "北半球の冬",
     "Len": 26
   },
   {
-    "Id": 4045,
+    "Id": 4052,
     "Lvl": 16,
     "Text": "Nutritional value analysis",
     "Japanese": "栄養価分析",
     "Len": 26
   },
   {
-    "Id": 4046,
+    "Id": 4053,
     "Lvl": 16,
     "Text": "Official government report",
     "Japanese": "政府公式報告書",
     "Len": 26
   },
   {
-    "Id": 4047,
+    "Id": 4054,
     "Lvl": 16,
     "Text": "Quantitative data analysis",
     "Japanese": "定量的データ分析",
     "Len": 26
   },
   {
-    "Id": 4048,
+    "Id": 4055,
     "Lvl": 16,
     "Text": "Quantum mechanics research",
     "Japanese": "量子力学の研究",
     "Len": 26
   },
   {
-    "Id": 4049,
+    "Id": 4056,
     "Lvl": 16,
     "Text": "Solar radiation management",
     "Japanese": "日射管理",
     "Len": 26
   },
   {
-    "Id": 4050,
+    "Id": 4057,
     "Lvl": 16,
     "Text": "Strategic planning session",
     "Japanese": "戦略計画会議",
     "Len": 26
   },
   {
-    "Id": 4051,
+    "Id": 4058,
     "Lvl": 16,
     "Text": "Traditional cultural value",
     "Japanese": "伝統的な文化的価値",
     "Len": 26
   },
   {
-    "Id": 4052,
+    "Id": 4059,
     "Lvl": 16,
-    "Text": "Uniform distribution curve",
-    "Japanese": "均一分布曲線",
+    "Text": "Uniform distribution graph",
+    "Japanese": "一様分布グラフ",
     "Len": 26
   },
   {
-    "Id": 4053,
+    "Id": 4060,
     "Lvl": 16,
     "Text": "Urban planning development",
     "Japanese": "都市計画開発",
     "Len": 26
   },
   {
-    "Id": 4054,
+    "Id": 4061,
     "Lvl": 16,
     "Text": "Western civilization story",
     "Japanese": "西洋文明の物語",
     "Len": 26
   },
   {
-    "Id": 4055,
+    "Id": 4062,
     "Lvl": 16,
     "Text": "Wildlife conservation area",
     "Japanese": "野生生物保護区",
     "Len": 26
   },
   {
-    "Id": 4056,
+    "Id": 4063,
     "Lvl": 16,
     "Text": "Working environment policy",
     "Japanese": "職場環境方針",
     "Len": 26
   },
   {
-    "Id": 4057,
+    "Id": 4064,
     "Lvl": 17,
     "Text": "Tetrabutylammonium fluoride",
     "Japanese": "テトラブチルアンモニウムフルオリド",
     "Len": 27
   },
   {
-    "Id": 4058,
+    "Id": 4065,
     "Lvl": 17,
     "Text": "Tetrabutylammonium chloride",
     "Japanese": "テトラブチルアンモニウムクロリド",
     "Len": 27
   },
   {
-    "Id": 4059,
+    "Id": 4066,
     "Lvl": 17,
     "Text": "Lithium triethylborohydride",
     "Japanese": "トリエチルボロヒドリドリチウム",
     "Len": 27
   },
   {
-    "Id": 4060,
+    "Id": 4067,
     "Lvl": 17,
     "Text": "Triethylamine hydrochloride",
     "Japanese": "塩酸トリエチルアミン",
     "Len": 27
   },
   {
-    "Id": 4061,
+    "Id": 4068,
     "Lvl": 17,
     "Text": "Hydrazine monohydrochloride",
     "Japanese": "塩酸ヒドラジン",
     "Len": 27
   },
   {
-    "Id": 4062,
+    "Id": 4069,
     "Lvl": 17,
     "Text": "Semicarbazide hydrochloride",
     "Japanese": "セミカルバジド塩酸塩",
     "Len": 27
   },
   {
-    "Id": 4063,
+    "Id": 4070,
     "Lvl": 17,
     "Text": "Ammonium tetrathiomolybdate",
     "Japanese": "テトラチオモリブデン酸アンモニウム",
     "Len": 27
   },
   {
-    "Id": 4064,
+    "Id": 4071,
     "Lvl": 17,
     "Text": "Potassium tetraphenylborate",
     "Japanese": "テトラフェニルホウ酸カリウム",
     "Len": 27
   },
   {
-    "Id": 4065,
+    "Id": 4072,
     "Lvl": 17,
     "Text": "Tetrabutylammonium hydroxide",
     "Japanese": "テトラブチルアンモニウムヒドロキシド",
     "Len": 28
   },
   {
-    "Id": 4066,
+    "Id": 4073,
     "Lvl": 17,
     "Text": "Pararosaniline hydrochloride",
     "Japanese": "塩酸パラロザニリン",
     "Len": 28
   },
   {
-    "Id": 4067,
+    "Id": 4074,
     "Lvl": 17,
     "Text": "Tetraethylammonium hydroxide",
     "Japanese": "テトラエチルアンモニウムヒドロキシド",
     "Len": 28
   },
   {
-    "Id": 4068,
+    "Id": 4075,
     "Lvl": 17,
     "Text": "Tetramethylammonium chloride",
     "Japanese": "テトラメチルアンモニウムクロリド",
     "Len": 28
   },
   {
-    "Id": 4069,
+    "Id": 4076,
     "Lvl": 17,
     "Text": "Cyclopentylmagnesium bromide",
     "Japanese": "シクロペンチルマグネシウムブロミド",
     "Len": 28
   },
   {
-    "Id": 4070,
+    "Id": 4077,
     "Lvl": 17,
     "Text": "Sodium triacetoxyborohydride",
     "Japanese": "トリ酢酸水素化ホウ素ナトリウム",
     "Len": 28
   },
   {
-    "Id": 4071,
+    "Id": 4078,
     "Lvl": 17,
     "Text": "Potassium hydrogen phthalate",
     "Japanese": "フタル酸水素カリウム",
     "Len": 28
   },
   {
-    "Id": 4072,
+    "Id": 4079,
     "Lvl": 17,
     "Text": "Bromothymol blue sodium salt",
     "Japanese": "ブロモチモールブルーナトリウム塩",
     "Len": 28
   },
   {
-    "Id": 4073,
+    "Id": 4080,
     "Lvl": 17,
     "Text": "Ammonium hexafluorophosphate",
     "Japanese": "六フッ化リン酸アンモニウム",
     "Len": 28
   },
   {
-    "Id": 4074,
+    "Id": 4081,
     "Lvl": 17,
     "Text": "Pentaerythritol tetranitrate",
     "Japanese": "ペンタエリスリトールテトラニトラート",
     "Len": 28
   },
   {
-    "Id": 4075,
+    "Id": 4082,
     "Lvl": 17,
     "Text": "Trinitrophenylmethylnitramine",
     "Japanese": "トリニトロフェニルメチルニトラミン",
     "Len": 29
   },
   {
-    "Id": 4076,
+    "Id": 4083,
     "Lvl": 17,
     "Text": "The missile knows where it is",
     "Japanese": "ミサイルは自分の位置を知っている",
     "Len": 29
   },
   {
-    "Id": 4077,
+    "Id": 4084,
     "Lvl": 17,
     "Text": "Phenolphthalein disodium salt",
     "Japanese": "フェノールフタレイン二ナトリウム塩",
     "Len": 29
   },
   {
-    "Id": 4078,
+    "Id": 4085,
     "Lvl": 17,
     "Text": "Sodium diethyldithiocarbamate",
     "Japanese": "ジエチルジチオカルバミン酸ナトリウム",
     "Len": 29
   },
   {
-    "Id": 4079,
+    "Id": 4086,
     "Lvl": 17,
     "Text": "Phenylhydrazine hydrochloride",
     "Japanese": "塩酸フェニルヒドラジン",
     "Len": 29
   },
   {
-    "Id": 4080,
+    "Id": 4087,
     "Lvl": 17,
     "Text": "Potassium hexafluorophosphate",
     "Japanese": "六フッ化リン酸カリウム",
     "Len": 29
   },
   {
-    "Id": 4081,
-    "Lvl": 17,
-    "Text": "Ethylene glycol dimethyl ether",
-    "Japanese": "エチレングリコールジメチルエーテル",
-    "Len": 30
-  },
-  {
-    "Id": 4082,
-    "Lvl": 17,
-    "Text": "Magnesium sulfate heptahydrate",
-    "Japanese": "硫酸マグネシウム七水和物",
-    "Len": 30
-  },
-  {
-    "Id": 4083,
-    "Lvl": 17,
-    "Text": "Dichlorodiphenyltrichloroethane",
-    "Japanese": "ジクロロジフェニルトリクロロエタン",
-    "Len": 31
-  },
-  {
-    "Id": 4084,
-    "Lvl": 17,
-    "Text": "Ethylenediaminetetraacetic acid",
-    "Japanese": "エチレンジアミン四酢酸",
-    "Len": 31
-  },
-  {
-    "Id": 4085,
-    "Lvl": 17,
-    "Text": "import matplotlib.pyplot as plt",
-    "Japanese": "import matplotlib.pyplot as plt",
-    "Len": 31
-  },
-  {
-    "Id": 4086,
-    "Lvl": 17,
-    "Text": "Dodecyltrimethylammonium bromide",
-    "Japanese": "ドデシルトリメチルアンモニウムブロミド",
-    "Len": 32
-  },
-  {
-    "Id": 4087,
-    "Lvl": 17,
-    "Text": "Ethylene glycol monomethyl ether",
-    "Japanese": "エチレングリコールモノメチルエーテル",
-    "Len": 32
-  },
-  {
-    "Id": 4088,
+    "Id": 4095,
     "Lvl": 17,
     "Text": "Hexanitrohexaazaisowurtzitane",
     "Japanese": "ヘキサニトロヘキサアザイソウルツィタン",
@@ -28625,36 +28625,148 @@ window.typingData = [
   {
     "Id": 4089,
     "Lvl": 17,
+    "Text": "Ethylene glycol dimethyl ether",
+    "Japanese": "エチレングリコールジメチルエーテル",
+    "Len": 30
+  },
+  {
+    "Id": 4090,
+    "Lvl": 17,
+    "Text": "Magnesium sulfate heptahydrate",
+    "Japanese": "硫酸マグネシウム七水和物",
+    "Len": 30
+  },
+  {
+    "Id": 4091,
+    "Lvl": 17,
+    "Text": "Dichlorodiphenyltrichloroethane",
+    "Japanese": "ジクロロジフェニルトリクロロエタン",
+    "Len": 31
+  },
+  {
+    "Id": 4092,
+    "Lvl": 17,
+    "Text": "Ethylenediaminetetraacetic acid",
+    "Japanese": "エチレンジアミン四酢酸",
+    "Len": 31
+  },
+  {
+    "Id": 4093,
+    "Lvl": 17,
+    "Text": "import matplotlib.pyplot as plt",
+    "Japanese": "matplotlib.pyplotをpltとして輸入する",
+    "Len": 31
+  },
+  {
+    "Id": 4094,
+    "Lvl": 17,
+    "Text": "Dodecyltrimethylammonium bromide",
+    "Japanese": "ドデシルトリメチルアンモニウムブロミド",
+    "Len": 32
+  },
+  {
+    "Id": 4095,
+    "Lvl": 17,
+    "Text": "Ethylene glycol monomethyl ether",
+    "Japanese": "エチレングリコールモノメチルエーテル",
+    "Len": 32
+  },
+  {
+    "Id": 4096,
+    "Lvl": 17,
+    "Text": "Did I mention to you that I'm dead?",
+    "Japanese": "私が死んだって、あなたに言いましたっけ？",
+    "Len": 35
+  },
+  {
+    "Id": 4097,
+    "Lvl": 17,
     "Text": "Ethylenediaminetetraacetic acid tetrasodium",
     "Japanese": "エチレンジアミン四酢酸四ナトリウム",
     "Len": 43
   },
   {
-    "Id": 4090,
+    "Id": 4098,
     "Lvl": 17,
     "Text": "Japan is turning footsteps into electricity",
-    "Japanese": "日本は足音を電気に変えている",
+    "Japanese": "日本では人々が歩く時の圧力や振動を電気エネルギーに変換する",
     "Len": 43
   },
   {
-    "Id": 4091,
+    "Id": 4099,
+    "Lvl": 17,
+    "Text": "I will tell you what your mind cannot comprehend",
+    "Japanese": "あなたの心では理解できないことを教えてあげましょう",
+    "Len": 48
+  },
+  {
+    "Id": 4100,
     "Lvl": 17,
     "Text": "This unpleasant gradient shows up at your front door",
     "Japanese": "この不快な勾配色がお前の玄関先に現れる",
     "Len": 52
   },
   {
-    "Id": 4092,
+    "Id": 4101,
+    "Lvl": 17,
+    "Text": "You have long life but will fall if you make a mistake",
+    "Japanese": "あなたは長生きするが、間違いを犯せば滅びるだろう",
+    "Len": 54
+  },
+  {
+    "Id": 4102,
     "Lvl": 17,
     "Text": "A cascading sense of fear resonances and all hope is lost",
     "Japanese": "恐怖の連鎖は共振し、全ての希望が失われる",
     "Len": 57
   },
   {
-    "Id": 4093,
+    "Id": 4103,
     "Lvl": 17,
     "Text": "Civil authorities issued a necrotic infectious disease warning",
     "Japanese": "民間当局は壊死性感染症の警告を発令した。",
     "Len": 62
+  },
+  {
+    "Id": 4108,
+    "Lvl": 17,
+    "Text": "To make the most of your short life, don't be afraid of failure",
+    "Japanese": "短い人生を最大限に生きるためには、失敗を恐れてはいけない。",
+    "Len": 63
+  },
+  {
+    "Id": 4109,
+    "Lvl": 17,
+    "Text": "The police found my body in the sewer; had a broken neck and my face was torn off",
+    "Japanese": "警察は下水道で私の遺体を発見した。首の骨が折れていて、顔は引き裂かれていた。",
+    "Len": 81
+  },
+  {
+    "Id": 4109,
+    "Lvl": 17,
+    "Text": "A few years ago a group of girls pushed me down a sewer hole to try and embarrass me",
+    "Japanese": "数年前、女の子たちのグループが私を恥ずかしめようとして下水道の穴に突き落とした。",
+    "Len": 84
+  },
+  {
+    "Id": 4107,
+    "Lvl": 17,
+    "Text": "He got really scared and rushed to his phone to repost this message but he was too late",
+    "Japanese": "彼は本当に怖くなって、急いで携帯電話を取り出してこのメ​​ッセージを再投稿しようとしたが、間に合わなかった。",
+    "Len": 87
+  },
+  {
+    "Id": 4108,
+    "Lvl": 17,
+    "Text": "Send this message to 15 people after you listened the whole message if you value your life",
+    "Japanese": "自分の命を大切に思うなら、このメッセージを最後まで聞いた後、15人に転送してください。",
+    "Len": 90
+  },
+  {
+    "Id": 4109,
+    "Lvl": 17,
+    "Text": "His mom entered his bedroom and all she found was a message written in his blood saying \"You will never have him back\"",
+    "Japanese": "母親が息子の寝室に入ると、そこには息子の血で「二度と彼を取り戻すことはできない」と書かれたメッセージがあった。",
+    "Len": 118
   }
 ];

@@ -3,9 +3,9 @@ const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 const DIFFICULTIES = {
     'training': { id: 0, cps: 0.2, startLevel: 0 },
     'easy': { id: 1, cps: 1, startLevel: 1 },
-    'normal': { id: 2, cps: 2.4, startLevel: 4 },
-    'hard': { id: 3, cps: 4.4, startLevel: 7 },
-    'insane': { id: 4, cps: 7.2, startLevel: 10 }
+    'normal': { id: 2, cps: 2, startLevel: 4 },
+    'hard': { id: 3, cps: 3.6, startLevel: 7 },
+    'insane': { id: 4, cps: 5, startLevel: 10 }
 };
 
 let typingData = window.typingData || [];
@@ -104,11 +104,11 @@ function generateRandomWordFromData() {
     }
     const currentMaxLvl = Math.min(level, 17);
 
-    // 各レベル(0〜currentMaxLvl)の重みを計算 (重み = レベル + 3)
+    // 各レベル(0〜currentMaxLvl)の重みを計算
     let totalWeight = 0;
     let weights = [];
     for (let i = 0; i <= currentMaxLvl; i++) {
-        let w = (i + 4) ** 2;
+        let w = (i > 11 ? 2.4 : 1) * (i + 4) ** 2;
         weights.push(w);
         totalWeight += w;
     }
@@ -183,7 +183,7 @@ function loadRecords() {
 
 //Lvl
 function playerLvlXp(lvl) {
-    return 1 * (lvl ** 2) + 6 * lvl + 26;
+    return Math.round(((4 * (lvl ** 2) + 16 * lvl + 128) * 1.08 ** Math.floor(lvl / 32)) ** (lvl > 99 ? Math.min(1.42, 0.7 + (lvl * 0.003)) : 1));
 }
 
 function updatePlayerLevelUI() {
