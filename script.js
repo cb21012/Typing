@@ -4,8 +4,10 @@ const DIFFICULTIES = {
     'training': { id: 0, cps: 0.2, startLevel: 0, consTime: 2.50, scorePow: 0.80 },
     'easy': { id: 1, cps: 1.0, startLevel: 2, consTime: 1.70, scorePow: 0.92 },
     'normal': { id: 2, cps: 2.0, startLevel: 5, consTime: 1.00, scorePow: 1.00 },
-    'hard': { id: 3, cps: 3.6, startLevel: 8, consTime: 0.60, scorePow: 1.25 },
-    'insane': { id: 4, cps: 5.0, startLevel: 12, consTime: 0.45, scorePow: 1.55 }
+    'advanced': { id: 3, cps: 3.2, startLevel: 7, consTime: 0.60, scorePow: 1.25 },
+    'hard': { id: 4, cps: 4.5, startLevel: 9, consTime: 0.40, scorePow: 1.50 },
+    'expert': { id: 5, cps: 6.0, startLevel: 10, consTime: 0.30, scorePow: 1.75 },
+    'insane': { id: 6, cps: 8.0, startLevel: 11, consTime: 0.20, scorePow: 2.00 },
 };
 
 let typingData = window.typingData || [];
@@ -69,10 +71,10 @@ let statsViewAcc = false;
 let statsViewSpc = false;
 
 let bestRecords = {
-    'std': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
-    'acc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
-    'spc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
-    'both': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null }
+    'std': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
+    'acc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
+    'spc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
+    'both': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null }
 };
 
 const LEADERBOARD_SIZE = 8;
@@ -185,7 +187,7 @@ function loadRecords() {
 
 //Lvl
 function playerLvlXp(lvl) {
-    return Math.round(((4 * (lvl ** 2) + 16 * lvl + 128) * 1.08 ** Math.floor(lvl / 32)) ** (lvl > 99 ? Math.min(1.75, 0.7 + (lvl * 0.003)) : 1));
+    return Math.round((((4 * (lvl ** 2) + 16 * lvl + 128) * 1.07 ** Math.floor(lvl / 32)) ** (lvl > 99 ? Math.min(1.3, 0.8 + (lvl * 0.002)) : 1)) ** (lvl > 749 ? Math.min(2, 0.25 + (lvl * 0.001)) : 1));
 }
 
 function updatePlayerLevelUI() {
@@ -263,10 +265,10 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
             }
         });
         bestRecords = {
-            'std': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
-            'acc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
-            'spc': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null },
-            'both': { 'training': null, 'easy': null, 'normal': null, 'hard': null, 'insane': null }
+            'std': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
+            'acc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
+            'spc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
+            'both': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null }
         };
         statsMaxCombo = 0;
         loadRecords();
@@ -309,6 +311,10 @@ function updateStatsModal() {
     document.getElementById('statsTotalChars').innerText = notatVal(statsTotalChars);
     document.getElementById('statsTotalTypos').innerText = notatVal(statsTotalTypos);
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
+
+    // Combo reduction effect from player level
+    const comboEffectDenom = (1 + playerLevel / 250).toFixed(3);
+    document.getElementById('statsComboEffect').innerText = `1 / ${comboEffectDenom}`;
 
     // Determine mode key for display
     let modeKey = 'std';
@@ -394,8 +400,12 @@ function updateDifficultyDescription() {
         detail = "Casual pace for beginners";
     } else if (currentDifficulty === "normal") {
         detail = "Standard challenge for regular players";
+    } else if (currentDifficulty === "advanced") {
+        detail = "For expert typists who wants more challenge";
     } else if (currentDifficulty === "hard") {
         detail = "Intense pace for experienced typists";
+    } else if (currentDifficulty === "expert") {
+        detail = "Extreme challenge for typing experts";
     } else if (currentDifficulty === "insane") {
         detail = "Unforgiving speed for true masters";
     }
@@ -748,11 +758,10 @@ function handleInputChar(inputChar) {
         updateWordDisplay();
 
         if (currentTyped.length === currentWord.length) {
-            const cbMul = comboBonus ** Math.max(0, Math.floor((currentCombo - comboStartThreshold) / comboAddThreshold));
+            const cbMul = comboBonus ** Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold));
             const lvMul = 1.35 ** (level - DIFFICULTIES[currentDifficulty].startLevel);
-            const rul = (isAccMode ? 2 : 1) * (isSpcMode ? 2 : 1);
             const sp = DIFFICULTIES[currentDifficulty].scorePow;
-            const addedScore = Math.round((currentCps * currentWord.length * cbMul * lvMul * rul) ** sp);
+            const addedScore = Math.round(((currentCps ** (isSpcMode ? 2 : 1)) * currentWord.length * cbMul * lvMul) ** sp);
             score += addedScore;
             addXp(addedScore);
             questionsSolved++;
@@ -775,7 +784,8 @@ function handleInputChar(inputChar) {
         hp -= dmg;
         statsTotalTypos++;
         sessionTypos++;
-        currentCombo = 0;
+        const comboReduction = Math.floor(currentCombo / (1 + playerLevel / 250));
+        currentCombo -= comboReduction;
         updateComboUI();
         savePlayerStats();
         updateHpUI();
@@ -855,19 +865,17 @@ function updateComboUI() {
     const comboTxt = document.getElementById('comboText');
     const bonusMsg = document.getElementById('comboBonusMsg');
 
-    if (currentCombo > comboStartThreshold - 1) {
+    if (currentCombo * (isAccMode ? 2 : 1) > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
-
-        if (currentCombo % comboAddThreshold === 0) {
-            const multiplier = comboBonus ** Math.max(0, Math.floor((currentCombo - comboStartThreshold) / comboAddThreshold));
-            const bonusPct = (multiplier - 1) * 100;
-            bonusMsg.innerText = `Score bonus +${bonusPct.toFixed(2)}%`;
-            if (currentCombo % comboStartThreshold === 0) {
-                hp += comboHeal;
-                updateHpUI();
-            }
+        const multiplier = comboBonus ** Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold));
+        const bonusPct = (multiplier - 1) * 100;
+        bonusMsg.innerText = `Score bonus +${bonusPct.toFixed(2)}%`;
+        if (currentCombo % comboStartThreshold === 0) {
+            hp += comboHeal;
+            updateHpUI();
         }
+
     } else {
         comboTxt.style.display = 'none';
         bonusMsg.innerText = '';

@@ -12,13 +12,14 @@
 <body class="dark-mode">
 
     <div id="playerLevelContainer" class="top-left-info" title="統計">
-        <div class="level-info">Lv. <span id="displayPlayerLevel">0</span></div>
+        <div class="level-xp-header">
+            <div class="level-info">Lv. <span id="displayPlayerLevel">0</span></div>
+            <div id="xpText" class="xp-text">--- / --- XP</div>
+        </div>
 
         <div class="xp-gauge-container">
             <div id="xpGaugeBar" class="xp-gauge-bar"></div>
         </div>
-
-        <div id="xpText" class="xp-text">--- / --- XP</div>
     </div>
 
     <button id="openSettingsBtn" class="top-right-btn">⚙️</button>
@@ -73,11 +74,13 @@
                         <div id="statsXpText" class="xp-text" style="color: #666; margin-top: 4px;">0 / 0 XP</div>
                     </div>
                 </div>
-                <p title="XPはスコアに基づいて獲得でき, 一定量でレベルが上がる. ただし,plvl自体は特に意味はない. 今のところは, Cbへの献身を示す良い指標, あるいはあなたの友達や最愛のおばあちゃんに自慢するネタといったものだね ;p"
+                <p title="XPはスコアに基づいて獲得でき, 一定量でレベルが上がる. レベルが高いほどミス時のコンボ減少量が小さくなる. ミス後のコンボ減少量は 現在のコンボ × 1/(1+lv/250) で計算される."
                     style="font-size: 0.85rem; color: #777; line-height: 1.5; background: rgba(0,0,0,0.03); padding: 12px; border-radius: 8px; margin: 10px 0;">
-                    XP is earned based on your score, and will level up when reach a certain amount. However,
-                    player level itself doesn't really mean anything at the moment; it's just a good sign of your
-                    dedication to Cb, or something to brag about to your friends or your dearest grandma ;p
+                    XP is earned based on your score, and levels up when a certain amount is reached. Higher player
+                    level reduces the combo loss on a mistake — the combo is decreased by
+                    <b style="color: #555;">current combo × 1 / (1 + Lv / 250)</b> (floored),
+                    so at level 250 you only lose half your combo on a miss.
+                    Current Effect: <b id="statsComboEffect" style="color: #007bff;">1 / 1.00</b>
                 </p>
             </div>
 
@@ -135,28 +138,39 @@
     <div id="difficultySelect" class="diff-container">
         <button class="diff-btn" data-diff="training" title="訓練">
             <span class="full">Training</span>
-            <span class="short">T</span>
+            <span class="short">Tr</span>
         </button>
 
         <button class="diff-btn" data-diff="easy" title="簡単">
             <span class="full">Easy</span>
-            <span class="short">E</span>
+            <span class="short">Ez</span>
         </button>
 
         <button class="diff-btn selected" data-diff="normal" title="普通">
             <span class="full">Normal</span>
-            <span class="short">N</span>
+            <span class="short">No</span>
+        </button>
+
+        <button class="diff-btn" data-diff="advanced" title="高度">
+            <span class="full">Advanced</span>
+            <span class="short">Ad</span>
         </button>
 
         <button class="diff-btn" data-diff="hard" title="難しい">
             <span class="full">Hard</span>
-            <span class="short">H</span>
+            <span class="short">Hd</span>
+        </button>
+
+        <button class="diff-btn" data-diff="expert" title="達人">
+            <span class="full">Expert</span>
+            <span class="short">Ex</span>
         </button>
 
         <button class="diff-btn" data-diff="insane" title="狂気">
             <span class="full">Insane</span>
-            <span class="short">I</span>
+            <span class="short">Is</span>
         </button>
+
     </div>
 
     <div class="accuracy-mode-wrapper">
