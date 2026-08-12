@@ -111,6 +111,7 @@ class BigNum {
     mul(other) {
         const o = new BigNum(other);
         if (this.isInfinity || o.isInfinity) return new BigNum(Infinity);
+        if (this.mt === 0 || o.mt === 0) return new BigNum(0);
 
         if (this.ex === 0 && o.ex === 0) {
             const result = this.mt * o.mt;
@@ -142,28 +143,55 @@ class BigNum {
         return new BigNum(tMt / oMt, tEx - oEx);
     }
 
-    //モジュロ（剰余）
-    mod(other) {
-        const o = new BigNum(other);
-        if (this.isInfinity || o.isInfinity) return new BigNum(Infinity);
-        if (o.mt === 0) return new BigNum(Infinity);
-        const div = this.div(o);
-        const floorDiv = new BigNum(Math.floor(div.toNumber()));
-        return this.sub(floorDiv.mul(o));
-    }
-
     // 比較
     compareTo(other) {
         const o = new BigNum(other);
-        if (this.isInfinity && o.isInfinity) return 0;
-        if (this.isInfinity) return Math.sign(this.mt);
-        if (o.isInfinity) return -Math.sign(o.mt);
-        if (this.ex !== o.ex) return this.ex - o.ex;
-        return this.mt - o.mt;
+
+        if (this.isInfinity || o.isInfinity) {
+            if (this.isInfinity && o.isInfinity) {
+                return Math.sign(this.mt) - Math.sign(o.mt);
+            }
+            if (this.isInfinity) return Math.sign(this.mt);
+            return -Math.sign(o.mt);
+        }
+
+        if (this.mt === 0 && o.mt === 0) return 0;
+        if (this.mt === 0) return o.mt > 0 ? -1 : 1;
+        if (o.mt === 0) return this.mt > 0 ? 1 : -1;
+
+        const thisSign = Math.sign(this.mt);
+        const otherSign = Math.sign(o.mt);
+
+        if (thisSign !== otherSign) {
+            return thisSign - otherSign;
+        }
+
+        // 両方正
+        if (thisSign > 0) {
+            if (this.ex !== o.ex) return this.ex > o.ex ? 1 : -1;
+            return this.mt > o.mt ? 1 : this.mt < o.mt ? -1 : 0;
+        }
+
+        // 両方負：絶対値が大きいほど小さい
+        if (this.ex !== o.ex) return this.ex < o.ex ? 1 : -1;
+        return this.mt > o.mt ? -1 : this.mt < o.mt ? 1 : 0;
     }
 
     min(other) { return this.compareTo(other) <= 0 ? this : new BigNum(other); }
     max(other) { return this.compareTo(other) >= 0 ? this : new BigNum(other); }
+
+    round() {
+        if (this.isInfinity) return new BigNum(this);
+        if (this.ex === 0) {return new BigNum(Math.round(this.mt));}
+
+        if (this.ex < 0) {
+            const abs = Math.abs(this.mt) * Math.pow(10, this.ex);
+            if (abs < 0.5) {return new BigNum(0);}
+            return this.mt > 0 ? new BigNum(1) : new BigNum(-1);
+        }
+
+        return new BigNum(this);
+    }
 
     // 累乗
     pow(power) {
@@ -209,6 +237,11 @@ class BigNum {
         if (this.isInfinity) return "Infinity";
         if (this.ex === 0) return Math.floor(this.mt).toString();
         return `${this.mt.toFixed(2)}e${this.ex}`;
+    }
+
+    toNumber() {
+        if (this.isInfinity) return Infinity;
+        return this.mt * Math.pow(10, this.ex);
     }
 }
 

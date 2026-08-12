@@ -113,13 +113,14 @@
                         <div id="statsXpText" class="xp-text" style="color: #666; margin-top: 4px;">0 / 0 XP</div>
                     </div>
                 </div>
-                <p title="XPはスコアに基づいて獲得でき, 一定量でレベルが上がる. レベルが高いほどミス時のコンボ減少量が小さくなる. ミス後のコンボ減少量は 現在のコンボ × 1/(1+lv/250) で計算される."
+                <p title="XPはスコアに基づいて獲得でき, 一定量でレベルが上がる. レベルが高いほどミス時のコンボ減少量が小さくなり, コンボのスコア倍率が高くなる. ミス後のコンボ減少量は 現在のコンボ × 1 / (1 + ((max(0, lv-250))^.65 + min(250, lv))) / 250 で計算され, コンボのスコア倍率は(lv/1e4)が加算される."
                     style="font-size: 0.85rem; color: #777; line-height: 1.5; background: rgba(0,0,0,0.03); padding: 12px; border-radius: 8px; margin: 10px 0;">
                     XP is earned based on your score, and levels up when a certain amount is reached. Higher player
                     level reduces the combo loss on a mistake — the combo is decreased by
-                    <b style="color: #555;">current combo × 1 / (1 + Lv / 250)</b> (floored),
-                    so at level 250 you only lose half your combo on a miss.
-                    Current Effect: <b id="statsComboEffect" style="color: #007bff;">1 / 1.00</b>
+                    <b style="color: #555;">current combo × 1 / (1 + ((max(0, lv-250)^.65 + min(250, lv))) / 250)</b> (floored),
+                    so at level 250 you only lose half your combo on a miss. Also combo multiplier is increased by
+                    <b style="color: #555;">Lv / 1e-4</b>.
+                    Current Effect: <b id="statsComboEffect" style="color: #007bff;">1 / 1.000</b> & <b id="statsComboMult" style="color: #007bff;">+1.000</b>
                 </p>
             </div>
 

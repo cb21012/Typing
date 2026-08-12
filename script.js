@@ -1,13 +1,13 @@
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 
 const DIFFICULTIES = {
-    'training': { id: 0, cps: 0.2, startLevel: 0, consTime: 2.50, scorePow: 0.80 },
-    'easy': { id: 1, cps: 1.0, startLevel: 2, consTime: 1.70, scorePow: 0.92 },
-    'normal': { id: 2, cps: 2.0, startLevel: 5, consTime: 1.00, scorePow: 1.00 },
-    'advanced': { id: 3, cps: 3.2, startLevel: 7, consTime: 0.60, scorePow: 1.25 },
-    'hard': { id: 4, cps: 4.5, startLevel: 9, consTime: 0.40, scorePow: 1.50 },
-    'expert': { id: 5, cps: 6.0, startLevel: 10, consTime: 0.30, scorePow: 1.75 },
-    'insane': { id: 6, cps: 8.0, startLevel: 11, consTime: 0.20, scorePow: 2.00 },
+    'training': { id: 0, cps: 0.2, startLevel: 0, consTime: 2.50, scorePow: 1.0 },
+    'easy': { id: 1, cps: 1.0, startLevel: 2, consTime: 1.70, scorePow: 1.5 },
+    'normal': { id: 2, cps: 2.0, startLevel: 5, consTime: 1.00, scorePow: 2.2 },
+    'advanced': { id: 3, cps: 3.2, startLevel: 7, consTime: 0.60, scorePow: 3.0 },
+    'hard': { id: 4, cps: 4.5, startLevel: 9, consTime: 0.40, scorePow: 4.3 },
+    'expert': { id: 5, cps: 6.0, startLevel: 10, consTime: 0.30, scorePow: 6.0 },
+    'insane': { id: 6, cps: 8.0, startLevel: 11, consTime: 0.20, scorePow: 8.5 },
 };
 
 let typingData = window.typingData || [];
@@ -16,7 +16,6 @@ let currentDifficulty = 'normal';
 let currentWord = "";
 let currentTyped = "";
 let level = 0;
-let score = 0;
 let timeLeft = 0;
 let timeLimitBase = 0;
 let timerInterval;
@@ -48,18 +47,18 @@ const healSuccess = 4;
 
 const comboStartThreshold = 20;
 const comboAddThreshold = 5;
-const comboBonus = 1.05;
+const comboBonus = 1.125;
 const comboHeal = 1;
 
 let totalCharsTyped = 0;
 let gameStartTime = 0;
 
-let highScore = 0;
+let highScore = new BigNum(0);
 let maxLevel = 1;
 
 // Global Player Stats
 let playerLevel = 0;
-let playerXp = 0;
+let playerXp = new BigNum(0);
 let statsMaxCps = 0;
 let statsTotalChars = 0;
 let statsTotalTypos = 0;
@@ -72,16 +71,18 @@ let sessionMaxCombo = 0;
 let statsViewAcc = false;
 let statsViewSpc = false;
 
+let score = new BigNum(0);
 let bestRecords = {
-    'std': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
-    'acc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
-    'spc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
-    'both': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null }
+    'std': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
+    'acc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
+    'spc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
+    'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) }
 };
 
 const LEADERBOARD_SIZE = 8;
 
 function notatVal(v) {
+    if (v instanceof BigNum) return notatBn(v);
     const len = Math.floor(Math.log10(v) / 3);
     if (len < 1) return v;
     const sufi = ["", "K", "M", "B", "T", "Qa", "Qi", "Sx", "Sp", "Oc", "No", "Dc", "Ud", "Dd", "Td"][len];
@@ -181,12 +182,16 @@ function loadSettings() {
 }
 
 function loadRecords() {
-    highScore = parseInt(localStorage.getItem(`typingHighScore_${currentDifficulty}`)) || 0;
+    // 【修正】highScoreを文字列として読み込み、BigNumに変換
+    const savedHighScore = localStorage.getItem(`typingHighScore_${currentDifficulty}`);
+    highScore = savedHighScore ? new BigNum(savedHighScore) : new BigNum(0);
     maxLevel = parseInt(localStorage.getItem(`typingMaxLevel_${currentDifficulty}`)) || 1;
     document.getElementById('highScoreText').innerText = notatVal(highScore);
 
     playerLevel = parseInt(localStorage.getItem('typingPlayerLevel')) || 0;
-    playerXp = parseInt(localStorage.getItem('typingPlayerXp')) || 0;
+    // 【修正】playerXpを文字列として読み込み、BigNumに変換
+    const savedPlayerXp = localStorage.getItem('typingPlayerXp');
+    playerXp = savedPlayerXp ? new BigNum(savedPlayerXp) : new BigNum(0);
     statsMaxCps = parseFloat(localStorage.getItem('typingStatsMaxCps')) || 0;
     statsTotalChars = parseInt(localStorage.getItem('typingStatsTotalChars')) || 0;
     statsTotalTypos = parseInt(localStorage.getItem('typingStatsTotalTypos')) || 0;
@@ -196,14 +201,29 @@ function loadRecords() {
     Object.keys(bestRecords).forEach(mode => {
         const saved = localStorage.getItem(`typingBestRoundV2_${mode}`);
         if (saved) {
-            bestRecords[mode] = JSON.parse(saved);
+            const parsed = JSON.parse(saved);
+            // 【修正】保存されたbestRecordsの score を BigNum に変換
+            Object.keys(parsed).forEach(diff => {
+                if (parsed[diff] && parsed[diff].score) {
+                    if (!(parsed[diff].score instanceof BigNum)) {
+                        parsed[diff].score = new BigNum(parsed[diff].score);
+                    }
+                }
+            });
+            bestRecords[mode] = parsed;
         } else if (mode === 'std') {
             // Legacy support for the old format
             const oldSaved = localStorage.getItem('typingBestRound');
             const diffs = ['training', 'easy', 'normal', 'hard', 'insane'];
             diffs.forEach(d => {
                 const legacy = localStorage.getItem(`typingBestRound_${d}`);
-                if (legacy) bestRecords['std'][d] = JSON.parse(legacy);
+                if (legacy) {
+                    const parsed = JSON.parse(legacy);
+                    if (parsed.score && !(parsed.score instanceof BigNum)) {
+                        parsed.score = new BigNum(parsed.score);
+                    }
+                    bestRecords['std'][d] = parsed;
+                }
             });
         }
     });
@@ -213,22 +233,28 @@ function loadRecords() {
 
 //Lvl
 function playerLvlXp(lvl) {
-    return Math.round((((4 * (lvl ** 2) + 16 * lvl + 128) * 1.07 ** Math.floor(lvl / 32)) ** (lvl > 99 ? Math.min(1.3, 0.8 + (lvl * 0.002)) : 1)) ** (lvl > 749 ? Math.min(2, 0.25 + (lvl * 0.001)) : 1));
+    const base = new BigNum(0.25 * (lvl ** 3) + 4 * (lvl ** 2) + 16 * lvl + 128);
+    const asc  = new BigNum(1.07).pow(Math.floor(lvl / 16));
+    const pow1 = new BigNum(lvl > 99 ? Math.min(1.3, 0.8 + (lvl * 0.002)) : 1);
+    const pow2 = new BigNum(lvl > 749 ? Math.min(2, 0.25 + (lvl * 0.001)) : 1);
+    return new BigNum(((base.mul(asc)).pow(pow1)).pow(pow2)).round();
 }
 
 function updatePlayerLevelUI() {
     const nextXp = playerLvlXp(playerLevel);
     document.getElementById('displayPlayerLevel').innerText = playerLevel;
     document.getElementById('xpText').innerText = `${notatVal(playerXp)} / ${notatVal(nextXp)} XP`;
-    const pct = (playerXp / nextXp) * 100;
+    // 【修正】playerXpを BigNum.div() で割る
+    const pct = (playerXp.div(nextXp)).toNumber() * 100;
     document.getElementById('xpGaugeBar').style.width = Math.min(100, pct) + '%';
 }
 
 function addXp(amount) {
-    playerXp += amount;
+    // 【修正】amountを BigNum に変換して add()で加算
+    playerXp = playerXp.add(new BigNum(amount));
     let nextXp = playerLvlXp(playerLevel);
-    while (playerXp >= nextXp) {
-        playerXp -= nextXp;
+    while (playerXp.compareTo(nextXp) >= 0) {
+        playerXp = playerXp.sub(nextXp);
         playerLevel++;
         nextXp = playerLvlXp(playerLevel);
         // Level up effect could go here
@@ -239,7 +265,8 @@ function addXp(amount) {
 
 function savePlayerStats() {
     localStorage.setItem('typingPlayerLevel', playerLevel);
-    localStorage.setItem('typingPlayerXp', playerXp);
+    // 【修正】playerXpを文字列として保存
+    localStorage.setItem('typingPlayerXp', playerXp.toString());
     localStorage.setItem('typingStatsMaxCps', statsMaxCps);
     localStorage.setItem('typingStatsTotalChars', statsTotalChars);
     localStorage.setItem('typingStatsTotalTypos', statsTotalTypos);
@@ -247,7 +274,20 @@ function savePlayerStats() {
     localStorage.setItem('typingStatsMaxCombo', statsMaxCombo);
 
     Object.keys(bestRecords).forEach(mode => {
-        localStorage.setItem(`typingBestRoundV2_${mode}`, JSON.stringify(bestRecords[mode]));
+        const toSave = {};
+        Object.keys(bestRecords[mode]).forEach(diff => {
+            const record = bestRecords[mode][diff];
+            if (record && record.score) {
+                // 【修正】score を文字列として保存
+                toSave[diff] = {
+                    ...record,
+                    score: record.score.toString()
+                };
+            } else {
+                toSave[diff] = record;
+            }
+        });
+        localStorage.setItem(`typingBestRoundV2_${mode}`, JSON.stringify(toSave));
     });
 }
 
@@ -325,10 +365,10 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
             }
         });
         bestRecords = {
-            'std': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
-            'acc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
-            'spc': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null },
-            'both': { 'training': null, 'easy': null, 'normal': null, 'advanced': null, 'hard': null, 'expert': null, 'insane': null }
+            'std': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
+            'acc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
+            'spc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
+            'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) }
         };
         statsMaxCombo = 0;
         loadRecords();
@@ -361,8 +401,9 @@ function updateStatsModal() {
     // Player Level and XP
     const nextXp = playerLvlXp(playerLevel);
     document.getElementById('statsPlayerLevel').innerText = playerLevel;
-    document.getElementById('statsXpText').innerText = `${notatVal(playerXp)} / ${notatVal(nextXp)} XP`;
-    const pct = (playerXp / nextXp) * 100;
+    // 【修正】playerXp を BigNum として扱う
+    document.getElementById('statsXpText').innerText = `${notatBn(playerXp)} / ${notatBn(nextXp)} XP`;
+    const pct = (playerXp.div(nextXp)).toNumber() * 100;
     document.getElementById('statsXpGaugeBar').style.width = Math.min(100, pct) + '%';
 
     document.getElementById('statsMaxCps').innerText = statsMaxCps.toFixed(2);
@@ -373,8 +414,11 @@ function updateStatsModal() {
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
 
     // Combo reduction effect from player level
-    const comboEffectDenom = (1 + playerLevel / 250).toFixed(3);
+    const comboEffectDenom = (1 + ((Math.max(0, (playerLevel - 250)) ** 0.65) + Math.min(playerLevel, 250)) / 250).toFixed(3);
     document.getElementById('statsComboEffect').innerText = `1 / ${comboEffectDenom}`;
+
+    const comboEffectMult = (playerLevel / 1e4).toFixed(3);
+    document.getElementById('statsComboMult').innerText = `+${comboEffectMult}`;
 
     // Determine mode key for display
     let modeKey = 'std';
@@ -399,7 +443,9 @@ function updateStatsModal() {
         const record = recordsToDisplay[diff];
         const div = document.createElement('div');
         div.className = 'br-entry';
-        if (record) {
+
+        // 【修正】record が存在し、かつ record.avgCps が undefined でないかチェックする
+        if (record && typeof record.avgCps !== 'undefined') {
             div.innerHTML = `
                 <div class="br-title">
                     <span>${diff.toUpperCase()}</span>
@@ -594,7 +640,8 @@ function startGame() {
     sessionTypos = 0;
     sessionChars = 0;
 
-    score = 0;
+    // 【修正】score を BigNum で初期化
+    score = new BigNum(0);
     totalCharsTyped = 0;
     hp = maxHp;
     updateHpUI();
@@ -717,9 +764,11 @@ function triggerGameOver(reasonStr) {
 
         const playerName = document.getElementById('globalPlayerName').value.trim() || 'Anonymous';
 
-        if (score > highScore) {
+        // 【修正】highScore と score を BigNum.compareTo() で比較
+        if (score.compareTo(highScore) > 0) {
             highScore = score;
-            localStorage.setItem(`typingHighScore_${currentDifficulty}`, highScore);
+            // 【修正】highScore を文字列として保存
+            localStorage.setItem(`typingHighScore_${currentDifficulty}`, highScore.toString());
             document.getElementById('highScoreText').innerText = notatVal(highScore);
         }
         if (level > maxLevel) {
@@ -753,9 +802,10 @@ function triggerGameOver(reasonStr) {
         else if (isAccMode) modeKey = 'acc';
         else if (isSpcMode) modeKey = 'spc';
 
-        if (!bestRecords[modeKey][currentDifficulty] || score > bestRecords[modeKey][currentDifficulty].score) {
+        // 【修正】bestRecords の score を BigNum として比較
+        if (!bestRecords[modeKey][currentDifficulty] || score.compareTo(bestRecords[modeKey][currentDifficulty].score) > 0) {
             bestRecords[modeKey][currentDifficulty] = {
-                score: score,
+                score: score,  // BigNum のまま保持
                 level: level,
                 avgCps: averageCps,
                 chars: sessionChars,
@@ -866,11 +916,15 @@ function handleInputChar(inputChar) {
         updateWordDisplay();
 
         if (currentTyped.length === currentWord.length) {
-            const cbMul = comboBonus ** Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold));
-            const lvMul = 1.35 ** (level - DIFFICULTIES[currentDifficulty].startLevel);
+            const comboMultiplier = comboBonus + (playerLevel / 1e4);
+            const cbMul = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
+            const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
+            const lvPow = new BigNum(1 + (level/25))
             const sp = DIFFICULTIES[currentDifficulty].scorePow;
-            const addedScore = Math.round(((currentCps ** (isSpcMode ? 2 : 1)) * currentWord.length * cbMul * lvMul) ** sp);
-            score += addedScore;
+            const spdMul = new BigNum(currentCps ** (isSpcMode ? 2 : 1));
+            const addedScore = new BigNum(((spdMul.mul(currentWord.length).mul(cbMul).mul(lvMul)).pow(sp)).pow(lvPow)).round();
+            // 【修正】score に BigNum.add() で加算
+            score = score.add(addedScore);
             addXp(addedScore);
             questionsSolved++;
             nxtSound();
@@ -892,7 +946,7 @@ function handleInputChar(inputChar) {
         hp -= dmg;
         statsTotalTypos++;
         sessionTypos++;
-        const comboReduction = Math.floor(currentCombo / (1 + playerLevel / 250));
+        const comboReduction = Math.floor(currentCombo / (1 + ((Math.max(0, (playerLevel - 250)) ** 0.65) + Math.min(playerLevel, 250)) / 250));
         currentCombo -= comboReduction;
         updateComboUI();
         savePlayerStats();
@@ -976,9 +1030,10 @@ function updateComboUI() {
     if (currentCombo * (isAccMode ? 2 : 1) > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
-        const multiplier = comboBonus ** Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold));
-        const bonusPct = (multiplier - 1) * 100;
-        bonusMsg.innerText = `Score bonus +${bonusPct.toFixed(2)}%`;
+        const comboMultiplier = comboBonus + (playerLevel / 1e4);
+        const multiplier = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
+        const bonusPct = (multiplier.sub(1)).mul(100);
+        bonusMsg.innerText = `Score bonus +${notatBn(bonusPct)}%`;
         if (currentCombo % comboStartThreshold === 0) {
             hp += comboHeal;
             updateHpUI();
