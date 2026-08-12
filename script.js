@@ -30,6 +30,8 @@ let currentCps = 1;
 let questionsSolved = 0;
 let isAccMode = false;
 let isSpcMode = false;
+let isExceptInappropriate = false;
+let inappropriateCurrentPage = 1;
 
 const accModeCpsMul = 0.70;
 const spcModeCpsMul = 1.35;
@@ -131,9 +133,16 @@ function generateRandomWordFromData() {
     // Extract problems of the determined level
     let pool = typingData.filter(d => d.Lvl === selectedLvl);
 
+    if (isExceptInappropriate) {
+        pool = pool.filter(d => d.isSafe !== false);
+    }
+
     if (pool.length === 0) {
         // Fallback to problems of the current maximum level if none are found
         pool = typingData.filter(d => d.Lvl <= currentMaxLvl);
+        if (isExceptInappropriate) {
+            pool = pool.filter(d => d.isSafe !== false);
+        }
         if (pool.length === 0) return "ERROR";
     }
 
@@ -143,6 +152,7 @@ function generateRandomWordFromData() {
 
 function saveSettings() {
     localStorage.setItem('typingDark', document.body.classList.contains('dark-mode'));
+    localStorage.setItem('typingExceptInappropriate', isExceptInappropriate);
 }
 
 function loadSettings() {
@@ -151,6 +161,22 @@ function loadSettings() {
         document.body.classList.remove('dark-mode');
     } else {
         document.body.classList.add('dark-mode');
+    }
+
+    const exceptInappropriate = localStorage.getItem('typingExceptInappropriate');
+    const btn = document.getElementById('exceptInappropriateBtn');
+    if (exceptInappropriate === 'true') {
+        isExceptInappropriate = true;
+        if (btn) {
+            btn.classList.add('selected');
+            btn.innerText = "Except Inappropriate: On";
+        }
+    } else {
+        isExceptInappropriate = false;
+        if (btn) {
+            btn.classList.remove('selected');
+            btn.innerText = "Except Inappropriate: Off";
+        }
     }
 }
 
@@ -256,6 +282,40 @@ document.getElementById('lightModeBtn').addEventListener('click', () => {
     document.body.classList.remove('dark-mode');
     saveSettings();
 });
+document.getElementById('exceptInappropriateBtn').addEventListener('click', () => {
+    isExceptInappropriate = !isExceptInappropriate;
+    const btn = document.getElementById('exceptInappropriateBtn');
+    if (isExceptInappropriate) {
+        btn.classList.add('selected');
+        btn.innerText = "Except Inappropriate: On";
+    } else {
+        btn.classList.remove('selected');
+        btn.innerText = "Except Inappropriate: Off";
+    }
+    saveSettings();
+});
+
+document.getElementById('showInappropriateLink').addEventListener('click', () => {
+    inappropriateCurrentPage = 1;
+    renderInappropriateTable();
+    document.getElementById('inappropriateModal').classList.add('show');
+});
+
+document.getElementById('inappropriatePrevBtn').addEventListener('click', () => {
+    if (inappropriateCurrentPage > 1) {
+        inappropriateCurrentPage--;
+        renderInappropriateTable();
+    }
+});
+
+document.getElementById('inappropriateNextBtn').addEventListener('click', () => {
+    const data = (window.typingData || []).filter(d => d.isSafe === false);
+    const totalPages = Math.ceil(data.length / 25) || 1;
+    if (inappropriateCurrentPage < totalPages) {
+        inappropriateCurrentPage++;
+        renderInappropriateTable();
+    }
+});
 document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
     if (confirm("Are you sure you want to delete all records?")) {
         const keys = Object.keys(localStorage);
@@ -359,6 +419,54 @@ function updateStatsModal() {
         }
         bestList.appendChild(div);
     });
+}
+
+function renderInappropriateTable() {
+    const data = (window.typingData || []).filter(d => d.isSafe === false);
+    const itemsPerPage = 25;
+    const totalPages = Math.ceil(data.length / itemsPerPage) || 1;
+    
+    if (inappropriateCurrentPage < 1) inappropriateCurrentPage = 1;
+    if (inappropriateCurrentPage > totalPages) inappropriateCurrentPage = totalPages;
+    
+    const startIndex = (inappropriateCurrentPage - 1) * itemsPerPage;
+    const endIndex = Math.min(startIndex + itemsPerPage, data.length);
+    const pageData = data.slice(startIndex, endIndex);
+    
+    const tbody = document.getElementById('inappropriateTableBody');
+    if (!tbody) return;
+    
+    tbody.innerHTML = '';
+    
+    pageData.forEach(item => {
+        const tr = document.createElement('tr');
+        
+        const tdLvl = document.createElement('td');
+        tdLvl.innerText = item.Lvl;
+        
+        const tdText = document.createElement('td');
+        tdText.innerText = item.Text;
+        
+        const tdJp = document.createElement('td');
+        tdJp.innerText = item.Japanese || '';
+        
+        tr.appendChild(tdLvl);
+        tr.appendChild(tdText);
+        tr.appendChild(tdJp);
+        
+        tbody.appendChild(tr);
+    });
+    
+    const pageInfo = document.getElementById('inappropriatePageInfo');
+    if (pageInfo) {
+        pageInfo.innerText = `Page ${inappropriateCurrentPage} / ${totalPages}`;
+    }
+    
+    const prevBtn = document.getElementById('inappropriatePrevBtn');
+    const nextBtn = document.getElementById('inappropriateNextBtn');
+    
+    if (prevBtn) prevBtn.disabled = (inappropriateCurrentPage === 1);
+    if (nextBtn) nextBtn.disabled = (inappropriateCurrentPage === totalPages);
 }
 
 function updateDifficultyDescription() {

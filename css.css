@@ -1333,3 +1333,152 @@ body.dark-mode .desc-detail {
 .go-actions {
   margin-top: 20px;
 }
+
+.setting-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.toggle-btn {
+  background: #6c757d;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  font-size: 1rem;
+  transition: background 0.3s, transform 0.1s;
+  width: 80%;
+}
+
+.toggle-btn:hover {
+  background: #5a6268;
+}
+
+.toggle-btn.selected {
+  background: #28a745;
+}
+
+.toggle-btn.selected:hover {
+  background: #218838;
+}
+
+.setting-desc {
+  font-size: 0.85rem;
+  color: #666;
+  margin: 0;
+  text-align: center;
+  max-width: 90%;
+  line-height: 1.4;
+}
+
+body.dark-mode .setting-desc {
+  color: #bbb;
+}
+
+.fake-link {
+  color: #007bff;
+  text-decoration: underline;
+  cursor: pointer;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.fake-link:hover {
+  color: #0056b3;
+}
+
+body.dark-mode .fake-link {
+  color: #4dabf7;
+}
+
+body.dark-mode .fake-link:hover {
+  color: #74c0fc;
+}
+
+/* Inappropriate Modal Styles */
+.table-container {
+  max-height: 800px;
+  overflow-y: auto;
+  margin: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+body.dark-mode .table-container {
+  border-color: #555;
+}
+
+.inappropriate-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.inappropriate-table th,
+.inappropriate-table td {
+  padding: 2px 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+body.dark-mode .inappropriate-table th,
+body.dark-mode .inappropriate-table td {
+  border-bottom-color: #555;
+}
+
+.inappropriate-table th {
+  background-color: #f8f9fa;
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+body.dark-mode .inappropriate-table th {
+  background-color: #444;
+  color: #eee;
+}
+
+.inappropriate-table tr:hover {
+  background-color: #f1f3f5;
+}
+
+body.dark-mode .inappropriate-table tr:hover {
+  background-color: #3b3b3b;
+}
+
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.pag-btn {
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.pag-btn:hover:not(:disabled) {
+  background-color: #5a6268;
+}
+
+.pag-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+#inappropriatePageInfo {
+  font-size: 0.95rem;
+  font-weight: bold;
+}
