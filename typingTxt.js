@@ -4,6 +4,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ace",
     "Japanese": "エース",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -11,6 +12,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Act",
     "Japanese": "活動",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -18,6 +20,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Add",
     "Japanese": "追加",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -25,6 +28,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Age",
     "Japanese": "年",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -32,6 +36,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ago",
     "Japanese": "前",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -39,6 +44,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Aid",
     "Japanese": "援助",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -46,6 +52,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Aim",
     "Japanese": "標的",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -53,6 +60,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Air",
     "Japanese": "空気",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -60,6 +68,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "All",
     "Japanese": "全て",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -67,6 +76,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "And",
     "Japanese": "そして",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -74,6 +84,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ant",
     "Japanese": "アリ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -81,6 +92,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Any",
     "Japanese": "どれでも",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -88,6 +100,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Apt",
     "Japanese": "アパート",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -95,6 +108,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Arm",
     "Japanese": "アーム",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -102,6 +116,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Art",
     "Japanese": "美術",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -109,6 +124,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ash",
     "Japanese": "灰",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -116,6 +132,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ask",
     "Japanese": "聞く",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -123,6 +140,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ate",
     "Japanese": "食べた",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -130,6 +148,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bad",
     "Japanese": "悪い",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -137,6 +156,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bag",
     "Japanese": "バッグ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -144,6 +164,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bat",
     "Japanese": "バット",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -151,6 +172,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bed",
     "Japanese": "ベッド",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -158,6 +180,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bee",
     "Japanese": "蜂",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -165,6 +188,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Beg",
     "Japanese": "懇願する",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -172,6 +196,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bet",
     "Japanese": "ベット",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -179,6 +204,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Big",
     "Japanese": "大きい",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -186,6 +212,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bin",
     "Japanese": "ビン",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -193,6 +220,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bit",
     "Japanese": "少し",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -200,6 +228,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Box",
     "Japanese": "箱",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -207,6 +236,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Boy",
     "Japanese": "男の子",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -214,6 +244,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bus",
     "Japanese": "バス",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -221,6 +252,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bug",
     "Japanese": "バグ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -228,6 +260,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Buy",
     "Japanese": "買う",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -235,6 +268,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bye",
     "Japanese": "さよなら",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -242,6 +276,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cab",
     "Japanese": "タクシー",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -249,6 +284,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Can",
     "Japanese": "できる",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -256,6 +292,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cap",
     "Japanese": "キャップ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -263,6 +300,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Car",
     "Japanese": "車",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -270,6 +308,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cat",
     "Japanese": "猫",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -277,6 +316,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cow",
     "Japanese": "牛",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -284,6 +324,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cry",
     "Japanese": "泣く",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -291,6 +332,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cup",
     "Japanese": "カップ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -298,6 +340,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cut",
     "Japanese": "カット",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -305,6 +348,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dad",
     "Japanese": "お父さん",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -312,6 +356,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Day",
     "Japanese": "日",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -319,6 +364,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Did",
     "Japanese": "した",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -326,6 +372,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Die",
     "Japanese": "死ぬ",
+    "isSafe": false,
     "Len": 3
   },
   {
@@ -333,6 +380,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dig",
     "Japanese": "掘る",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -340,20 +388,23 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dog",
     "Japanese": "犬",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 49,
     "Lvl": 0,
     "Text": "Dot",
-    "Japanese": "ドット",
+    "Japanese": "継続ダメージ",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 50,
     "Lvl": 0,
     "Text": "Dry",
-    "Japanese": "ドライ",
+    "Japanese": "乾かす",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -361,6 +412,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Due",
     "Japanese": "期限",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -368,6 +420,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ear",
     "Japanese": "耳",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -375,6 +428,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Eat",
     "Japanese": "食べる",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -382,6 +436,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Egg",
     "Japanese": "卵",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -389,6 +444,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ego",
     "Japanese": "自我",
+    "isSafe": false,
     "Len": 3
   },
   {
@@ -396,6 +452,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "End",
     "Japanese": "終わり",
+    "isSafe": false,
     "Len": 3
   },
   {
@@ -403,6 +460,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Era",
     "Japanese": "時代",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -410,6 +468,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Eve",
     "Japanese": "イブ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -417,6 +476,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Eye",
     "Japanese": "目",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -424,6 +484,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fan",
     "Japanese": "ファン",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -431,6 +492,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Far",
     "Japanese": "遠い",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -438,13 +500,15 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fat",
     "Japanese": "脂肪",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 63,
     "Lvl": 0,
     "Text": "Fed",
-    "Japanese": "連邦準備制度理事会（FRB）",
+    "Japanese": "食べさせた",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -452,6 +516,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Few",
     "Japanese": "少し",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -459,6 +524,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fig",
     "Japanese": "イチジク",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -466,6 +532,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fix",
     "Japanese": "修理",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -473,6 +540,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fly",
     "Japanese": "飛ぶ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -480,6 +548,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fog",
     "Japanese": "霧",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -487,6 +556,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "For",
     "Japanese": "のために",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -494,6 +564,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fox",
     "Japanese": "キツネ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -501,6 +572,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fry",
     "Japanese": "稚魚",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -508,6 +580,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fun",
     "Japanese": "楽しい",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -515,6 +588,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fur",
     "Japanese": "毛皮",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -522,6 +596,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gap",
     "Japanese": "ギャップ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -529,6 +604,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gas",
     "Japanese": "ガス",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -536,6 +612,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gel",
     "Japanese": "ゲル",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -543,6 +620,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gem",
     "Japanese": "宝石",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -550,6 +628,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Get",
     "Japanese": "得る",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -557,6 +636,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gum",
     "Japanese": "ガム",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -564,6 +644,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gun",
     "Japanese": "銃",
+    "isSafe": false,
     "Len": 3
   },
   {
@@ -571,6 +652,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Guy",
     "Japanese": "男",
+    "isSafe": false,
     "Len": 3
   },
   {
@@ -578,6 +660,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gym",
     "Japanese": "ジム",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -585,6 +668,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Had",
     "Japanese": "持っていた",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -592,6 +676,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ham",
     "Japanese": "ハム",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -599,6 +684,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Has",
     "Japanese": "もっている",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -606,6 +692,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hat",
     "Japanese": "帽子",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -613,6 +700,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hay",
     "Japanese": "干し草",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -620,6 +708,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hen",
     "Japanese": "鶏",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -627,6 +716,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Her",
     "Japanese": "彼女",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -634,6 +724,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hey",
     "Japanese": "おい",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -641,6 +732,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Him",
     "Japanese": "彼",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -648,6 +740,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hip",
     "Japanese": "ヒップ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -655,6 +748,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "His",
     "Japanese": "彼の",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -662,6 +756,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hit",
     "Japanese": "打つ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -669,6 +764,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hop",
     "Japanese": "ホップ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -676,6 +772,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hot",
     "Japanese": "熱い",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -683,6 +780,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "How",
     "Japanese": "どうやって",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -690,6 +788,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hub",
     "Japanese": "ハブ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -697,6 +796,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hug",
     "Japanese": "ハグ",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -704,6 +804,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hum",
     "Japanese": "ハム",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -711,6 +812,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ice",
     "Japanese": "氷",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -718,6 +820,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ill",
     "Japanese": "病気",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -725,6 +828,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ink",
     "Japanese": "インク",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -732,6 +836,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Inn",
     "Japanese": "宿",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -739,6 +844,7 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ion",
     "Japanese": "イオン",
+    "isSafe": true,
     "Len": 3
   },
   {
@@ -746,26536 +852,30327 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Its",
     "Japanese": "その",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 107,
     "Lvl": 0,
-    "Text": "Ivy",
-    "Japanese": "アイビー",
+    "Text": "Jam",
+    "Japanese": "ジャム",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 108,
     "Lvl": 0,
-    "Text": "Jam",
-    "Japanese": "ジャム",
+    "Text": "Jar",
+    "Japanese": "瓶",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 109,
     "Lvl": 0,
-    "Text": "Jar",
-    "Japanese": "瓶",
+    "Text": "Jaw",
+    "Japanese": "顎",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 110,
     "Lvl": 0,
-    "Text": "Jaw",
-    "Japanese": "顎",
+    "Text": "Jet",
+    "Japanese": "ジェット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 111,
     "Lvl": 0,
-    "Text": "Jay",
-    "Japanese": "ジェイ",
+    "Text": "Job",
+    "Japanese": "仕事",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 112,
     "Lvl": 0,
-    "Text": "Jet",
-    "Japanese": "ジェット",
+    "Text": "Jog",
+    "Japanese": "ジョグ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 113,
     "Lvl": 0,
-    "Text": "Job",
-    "Japanese": "仕事",
+    "Text": "Joy",
+    "Japanese": "喜び",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 114,
     "Lvl": 0,
-    "Text": "Jog",
-    "Japanese": "ジョグ",
+    "Text": "Jug",
+    "Japanese": "水差し",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 115,
     "Lvl": 0,
-    "Text": "Joy",
-    "Japanese": "喜び",
+    "Text": "Key",
+    "Japanese": "鍵",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 116,
     "Lvl": 0,
-    "Text": "Jug",
-    "Japanese": "水差し",
+    "Text": "Kid",
+    "Japanese": "子供",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 117,
     "Lvl": 0,
-    "Text": "Key",
-    "Japanese": "鍵",
+    "Text": "Kin",
+    "Japanese": "親族",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 118,
     "Lvl": 0,
-    "Text": "Kid",
-    "Japanese": "子供",
+    "Text": "Kit",
+    "Japanese": "キット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 119,
     "Lvl": 0,
-    "Text": "Kin",
-    "Japanese": "親族",
+    "Text": "Lab",
+    "Japanese": "ラボ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 120,
     "Lvl": 0,
-    "Text": "Kit",
-    "Japanese": "キット",
+    "Text": "Lad",
+    "Japanese": "若者",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 121,
     "Lvl": 0,
-    "Text": "Lab",
-    "Japanese": "ラボ",
+    "Text": "Lap",
+    "Japanese": "ラップ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 122,
     "Lvl": 0,
-    "Text": "Lad",
-    "Japanese": "若者",
+    "Text": "Law",
+    "Japanese": "法",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 123,
     "Lvl": 0,
-    "Text": "Lap",
-    "Japanese": "ラップ",
+    "Text": "Lay",
+    "Japanese": "横たわる",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 124,
     "Lvl": 0,
-    "Text": "Law",
-    "Japanese": "法",
+    "Text": "Leg",
+    "Japanese": "脚",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 125,
     "Lvl": 0,
-    "Text": "Lay",
-    "Japanese": "横たわる",
+    "Text": "Let",
+    "Japanese": "させる",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 126,
     "Lvl": 0,
-    "Text": "Leg",
-    "Japanese": "脚",
+    "Text": "Lid",
+    "Japanese": "蓋",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 127,
     "Lvl": 0,
-    "Text": "Let",
-    "Japanese": "させて",
+    "Text": "Lie",
+    "Japanese": "嘘",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 128,
     "Lvl": 0,
-    "Text": "Lid",
-    "Japanese": "蓋",
+    "Text": "Lip",
+    "Japanese": "唇",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 129,
     "Lvl": 0,
-    "Text": "Lie",
-    "Japanese": "嘘",
+    "Text": "Log",
+    "Japanese": "ログ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 130,
     "Lvl": 0,
-    "Text": "Lip",
-    "Japanese": "リップ",
+    "Text": "Lot",
+    "Japanese": "多く",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 131,
     "Lvl": 0,
-    "Text": "Log",
-    "Japanese": "ログ",
+    "Text": "Low",
+    "Japanese": "低い",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 132,
     "Lvl": 0,
-    "Text": "Lot",
-    "Japanese": "多く",
+    "Text": "Mad",
+    "Japanese": "狂った",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 133,
     "Lvl": 0,
-    "Text": "Low",
-    "Japanese": "低い",
+    "Text": "Map",
+    "Japanese": "地図",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 134,
     "Lvl": 0,
-    "Text": "Mad",
-    "Japanese": "狂った",
+    "Text": "Mat",
+    "Japanese": "マット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 135,
     "Lvl": 0,
-    "Text": "Map",
-    "Japanese": "地図",
+    "Text": "May",
+    "Japanese": "5月",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 136,
     "Lvl": 0,
-    "Text": "Mat",
-    "Japanese": "マット",
+    "Text": "Men",
+    "Japanese": "男性",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 137,
     "Lvl": 0,
-    "Text": "May",
-    "Japanese": "5月",
+    "Text": "Met",
+    "Japanese": "メット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 138,
     "Lvl": 0,
-    "Text": "Men",
-    "Japanese": "男性",
+    "Text": "Mix",
+    "Japanese": "ミックス",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 139,
     "Lvl": 0,
-    "Text": "Met",
-    "Japanese": "メット",
+    "Text": "Mob",
+    "Japanese": "暴徒",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 140,
     "Lvl": 0,
-    "Text": "Mix",
-    "Japanese": "ミックス",
+    "Text": "Mud",
+    "Japanese": "泥",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 141,
     "Lvl": 0,
-    "Text": "Mob",
-    "Japanese": "暴徒",
+    "Text": "Mug",
+    "Japanese": "マグ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 142,
     "Lvl": 0,
-    "Text": "Mud",
-    "Japanese": "泥",
+    "Text": "Net",
+    "Japanese": "ネット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 143,
     "Lvl": 0,
-    "Text": "Mug",
-    "Japanese": "マグ",
+    "Text": "New",
+    "Japanese": "新しい",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 144,
     "Lvl": 0,
-    "Text": "Net",
-    "Japanese": "ネット",
+    "Text": "Nil",
+    "Japanese": "なし",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 145,
     "Lvl": 0,
-    "Text": "New",
-    "Japanese": "新しい",
+    "Text": "Nod",
+    "Japanese": "うなずく",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 146,
     "Lvl": 0,
-    "Text": "Nil",
-    "Japanese": "なし",
+    "Text": "Not",
+    "Japanese": "ない",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 147,
     "Lvl": 0,
-    "Text": "Nod",
-    "Japanese": "うなずく",
+    "Text": "Now",
+    "Japanese": "今",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 148,
     "Lvl": 0,
-    "Text": "Not",
-    "Japanese": "ない",
+    "Text": "Nut",
+    "Japanese": "ナット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 149,
     "Lvl": 0,
-    "Text": "Now",
-    "Japanese": "今",
+    "Text": "Oak",
+    "Japanese": "オーク",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 150,
     "Lvl": 0,
-    "Text": "Nut",
-    "Japanese": "ナット",
+    "Text": "Odd",
+    "Japanese": "奇数",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 151,
     "Lvl": 0,
-    "Text": "Oak",
-    "Japanese": "オーク",
+    "Text": "Off",
+    "Japanese": "オフ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 152,
     "Lvl": 0,
-    "Text": "Odd",
-    "Japanese": "奇数",
+    "Text": "Oil",
+    "Japanese": "油",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 153,
     "Lvl": 0,
-    "Text": "Off",
-    "Japanese": "オフ",
+    "Text": "Old",
+    "Japanese": "古い",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 154,
     "Lvl": 0,
-    "Text": "Oil",
-    "Japanese": "油",
+    "Text": "One",
+    "Japanese": "1つ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 155,
     "Lvl": 0,
-    "Text": "Old",
-    "Japanese": "古い",
+    "Text": "Orb",
+    "Japanese": "オーブ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 156,
     "Lvl": 0,
-    "Text": "One",
-    "Japanese": "1つ",
+    "Text": "Our",
+    "Japanese": "私たちの",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 157,
     "Lvl": 0,
-    "Text": "Orb",
-    "Japanese": "オーブ",
+    "Text": "Out",
+    "Japanese": "外",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 158,
     "Lvl": 0,
-    "Text": "Our",
-    "Japanese": "私たちの",
+    "Text": "Own",
+    "Japanese": "自分の",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 159,
     "Lvl": 0,
-    "Text": "Out",
-    "Japanese": "外",
+    "Text": "Pad",
+    "Japanese": "パッド",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 160,
     "Lvl": 0,
-    "Text": "Own",
-    "Japanese": "自分の",
+    "Text": "Pan",
+    "Japanese": "パン",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 161,
     "Lvl": 0,
-    "Text": "Pad",
-    "Japanese": "パッド",
+    "Text": "Pay",
+    "Japanese": "支払う",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 162,
     "Lvl": 0,
-    "Text": "Pan",
-    "Japanese": "パン",
+    "Text": "Pen",
+    "Japanese": "ペン",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 163,
     "Lvl": 0,
-    "Text": "Pay",
-    "Japanese": "支払う",
+    "Text": "Pet",
+    "Japanese": "ペット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 164,
     "Lvl": 0,
-    "Text": "Pen",
-    "Japanese": "ペン",
+    "Text": "Pie",
+    "Japanese": "パイ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 165,
     "Lvl": 0,
-    "Text": "Pet",
-    "Japanese": "ペット",
+    "Text": "Pig",
+    "Japanese": "豚",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 166,
     "Lvl": 0,
-    "Text": "Pie",
-    "Japanese": "パイ",
+    "Text": "Pin",
+    "Japanese": "ピン",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 167,
     "Lvl": 0,
-    "Text": "Pig",
-    "Japanese": "豚",
+    "Text": "Pit",
+    "Japanese": "ピット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 168,
     "Lvl": 0,
-    "Text": "Pin",
-    "Japanese": "ピン",
+    "Text": "Pot",
+    "Japanese": "ポット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 169,
     "Lvl": 0,
-    "Text": "Pit",
-    "Japanese": "ピット",
+    "Text": "Pry",
+    "Japanese": "こじ開ける",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 170,
     "Lvl": 0,
-    "Text": "Pot",
-    "Japanese": "ポット",
+    "Text": "Pub",
+    "Japanese": "パブ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 171,
     "Lvl": 0,
-    "Text": "Pry",
-    "Japanese": "こじ開ける",
+    "Text": "Put",
+    "Japanese": "置く",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 172,
     "Lvl": 0,
-    "Text": "Pub",
-    "Japanese": "パブ",
+    "Text": "Raw",
+    "Japanese": "生",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 173,
     "Lvl": 0,
-    "Text": "Put",
-    "Japanese": "置く",
+    "Text": "Ray",
+    "Japanese": "レイ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 174,
     "Lvl": 0,
-    "Text": "Raw",
-    "Japanese": "生",
+    "Text": "Red",
+    "Japanese": "赤",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 175,
     "Lvl": 0,
-    "Text": "Ray",
-    "Japanese": "レイ",
+    "Text": "Rib",
+    "Japanese": "リブ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 176,
     "Lvl": 0,
-    "Text": "Red",
-    "Japanese": "赤",
+    "Text": "Rid",
+    "Japanese": "取り除く",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 177,
     "Lvl": 0,
-    "Text": "Rib",
-    "Japanese": "リブ",
+    "Text": "Ram",
+    "Japanese": "ラム",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 178,
     "Lvl": 0,
-    "Text": "Rid",
-    "Japanese": "取り除く",
+    "Text": "Rim",
+    "Japanese": "リム",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 179,
     "Lvl": 0,
-    "Text": "Ram",
-    "Japanese": "ラム",
+    "Text": "Rat",
+    "Japanese": "ねずみ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 180,
     "Lvl": 0,
-    "Text": "Rim",
-    "Japanese": "リム",
+    "Text": "Rob",
+    "Japanese": "ロブ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 181,
     "Lvl": 0,
-    "Text": "Rat",
-    "Japanese": "ねずみ",
+    "Text": "Rod",
+    "Japanese": "ロッド",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 182,
     "Lvl": 0,
-    "Text": "Rob",
-    "Japanese": "ロブ",
+    "Text": "Rot",
+    "Japanese": "腐敗",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 183,
     "Lvl": 0,
-    "Text": "Rod",
-    "Japanese": "ロッド",
+    "Text": "Row",
+    "Japanese": "行",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 184,
     "Lvl": 0,
-    "Text": "Rot",
-    "Japanese": "腐敗",
+    "Text": "Rub",
+    "Japanese": "こする",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 185,
     "Lvl": 0,
-    "Text": "Row",
-    "Japanese": "行",
+    "Text": "Rug",
+    "Japanese": "ラグ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 186,
     "Lvl": 0,
-    "Text": "Rub",
-    "Japanese": "こする",
+    "Text": "Run",
+    "Japanese": "走る",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 187,
     "Lvl": 0,
-    "Text": "Rug",
-    "Japanese": "ラグ",
+    "Text": "Sad",
+    "Japanese": "悲しい",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 188,
     "Lvl": 0,
-    "Text": "Run",
-    "Japanese": "走る",
+    "Text": "Sat",
+    "Japanese": "土曜日",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 189,
     "Lvl": 0,
-    "Text": "Sad",
-    "Japanese": "悲しい",
+    "Text": "Saw",
+    "Japanese": "見た",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 190,
     "Lvl": 0,
-    "Text": "Sat",
-    "Japanese": "土曜日",
+    "Text": "Say",
+    "Japanese": "言う",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 191,
     "Lvl": 0,
-    "Text": "Saw",
-    "Japanese": "見た",
+    "Text": "Sea",
+    "Japanese": "海",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 192,
     "Lvl": 0,
-    "Text": "Say",
-    "Japanese": "言う",
+    "Text": "See",
+    "Japanese": "見る",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 193,
     "Lvl": 0,
-    "Text": "Sea",
-    "Japanese": "海",
+    "Text": "Set",
+    "Japanese": "セット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 194,
     "Lvl": 0,
-    "Text": "See",
-    "Japanese": "見る",
+    "Text": "Sew",
+    "Japanese": "縫う",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 195,
     "Lvl": 0,
-    "Text": "Set",
-    "Japanese": "セット",
+    "Text": "She",
+    "Japanese": "彼女",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 196,
     "Lvl": 0,
-    "Text": "Sew",
-    "Japanese": "縫う",
+    "Text": "Shy",
+    "Japanese": "シャイ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 197,
     "Lvl": 0,
-    "Text": "She",
-    "Japanese": "彼女",
+    "Text": "Sin",
+    "Japanese": "罪",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 198,
     "Lvl": 0,
-    "Text": "Shy",
-    "Japanese": "シャイ",
+    "Text": "Sip",
+    "Japanese": "一口飲む",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 199,
     "Lvl": 0,
-    "Text": "Sin",
-    "Japanese": "罪",
+    "Text": "Sir",
+    "Japanese": "お客様",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 200,
     "Lvl": 0,
-    "Text": "Sip",
-    "Japanese": "一口飲む",
+    "Text": "Sit",
+    "Japanese": "座る",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 201,
     "Lvl": 0,
-    "Text": "Sir",
-    "Japanese": "お客様",
+    "Text": "Six",
+    "Japanese": "六",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 202,
     "Lvl": 0,
-    "Text": "Sit",
-    "Japanese": "座る",
+    "Text": "Ski",
+    "Japanese": "スキー",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 203,
     "Lvl": 0,
-    "Text": "Six",
-    "Japanese": "六",
+    "Text": "Sky",
+    "Japanese": "空",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 204,
     "Lvl": 0,
-    "Text": "Ski",
-    "Japanese": "スキー",
+    "Text": "Sly",
+    "Japanese": "スライ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 205,
     "Lvl": 0,
-    "Text": "Sky",
-    "Japanese": "空",
+    "Text": "Son",
+    "Japanese": "息子",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 206,
     "Lvl": 0,
-    "Text": "Sly",
-    "Japanese": "スライ",
+    "Text": "Soy",
+    "Japanese": "大豆",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 207,
     "Lvl": 0,
-    "Text": "Son",
-    "Japanese": "息子",
+    "Text": "Sus",
+    "Japanese": "疑わしい",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 208,
     "Lvl": 0,
-    "Text": "Soy",
-    "Japanese": "大豆",
+    "Text": "Sun",
+    "Japanese": "太陽",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 209,
     "Lvl": 0,
-    "Text": "Sus",
-    "Japanese": "サス",
+    "Text": "Tag",
+    "Japanese": "タグ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 210,
     "Lvl": 0,
-    "Text": "Sun",
-    "Japanese": "太陽",
+    "Text": "Tap",
+    "Japanese": "タップ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 211,
     "Lvl": 0,
-    "Text": "Tag",
-    "Japanese": "タグ",
+    "Text": "Tar",
+    "Japanese": "タール",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 212,
     "Lvl": 0,
-    "Text": "Tap",
-    "Japanese": "タップ",
+    "Text": "Tax",
+    "Japanese": "税",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 213,
     "Lvl": 0,
-    "Text": "Tar",
-    "Japanese": "タール",
+    "Text": "Tea",
+    "Japanese": "お茶",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 214,
     "Lvl": 0,
-    "Text": "Tax",
-    "Japanese": "税",
+    "Text": "Ten",
+    "Japanese": "10",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 215,
     "Lvl": 0,
-    "Text": "Tea",
-    "Japanese": "お茶",
+    "Text": "The",
+    "Japanese": "の",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 216,
     "Lvl": 0,
-    "Text": "Ten",
-    "Japanese": "10",
+    "Text": "Tie",
+    "Japanese": "ネクタイ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 217,
     "Lvl": 0,
-    "Text": "The",
-    "Japanese": "の",
+    "Text": "Tin",
+    "Japanese": "錫",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 218,
     "Lvl": 0,
-    "Text": "Tie",
-    "Japanese": "ネクタイ",
+    "Text": "Tip",
+    "Japanese": "ヒント",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 219,
     "Lvl": 0,
-    "Text": "Tin",
-    "Japanese": "錫",
+    "Text": "Toe",
+    "Japanese": "つま先",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 220,
     "Lvl": 0,
-    "Text": "Tip",
-    "Japanese": "ヒント",
+    "Text": "Too",
+    "Japanese": "あまりにも",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 221,
     "Lvl": 0,
-    "Text": "Toe",
-    "Japanese": "つま先",
+    "Text": "Top",
+    "Japanese": "トップ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 222,
     "Lvl": 0,
-    "Text": "Too",
-    "Japanese": "あまりにも",
+    "Text": "Toy",
+    "Japanese": "玩具",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 223,
     "Lvl": 0,
-    "Text": "Top",
-    "Japanese": "トップ",
+    "Text": "Try",
+    "Japanese": "試す",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 224,
     "Lvl": 0,
-    "Text": "Toy",
-    "Japanese": "玩具",
+    "Text": "Tub",
+    "Japanese": "浴槽",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 225,
     "Lvl": 0,
-    "Text": "Try",
-    "Japanese": "試す",
+    "Text": "Two",
+    "Japanese": "二",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 226,
     "Lvl": 0,
-    "Text": "Tub",
-    "Japanese": "浴槽",
+    "Text": "Ugh",
+    "Japanese": "うわぁ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 227,
     "Lvl": 0,
-    "Text": "Two",
-    "Japanese": "二",
+    "Text": "Urn",
+    "Japanese": "骨壺",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 228,
     "Lvl": 0,
-    "Text": "Ugh",
-    "Japanese": "うわぁ",
+    "Text": "Use",
+    "Japanese": "使用",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 229,
     "Lvl": 0,
-    "Text": "Urn",
-    "Japanese": "骨壺",
+    "Text": "Van",
+    "Japanese": "バン",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 230,
     "Lvl": 0,
-    "Text": "Use",
-    "Japanese": "使用",
+    "Text": "Vat",
+    "Japanese": "バット",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 231,
     "Lvl": 0,
-    "Text": "Van",
-    "Japanese": "バン",
+    "Text": "Vex",
+    "Japanese": "ベックス",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 232,
     "Lvl": 0,
-    "Text": "Vat",
-    "Japanese": "バット",
+    "Text": "Via",
+    "Japanese": "経由",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 233,
     "Lvl": 0,
-    "Text": "Vex",
-    "Japanese": "ベックス",
+    "Text": "Vow",
+    "Japanese": "誓い",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 234,
     "Lvl": 0,
-    "Text": "Via",
-    "Japanese": "経由",
+    "Text": "Wad",
+    "Japanese": "ワッド",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 235,
     "Lvl": 0,
-    "Text": "Vie",
-    "Japanese": "ヴィ",
+    "Text": "Wag",
+    "Japanese": "ワグ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 236,
     "Lvl": 0,
-    "Text": "Vow",
-    "Japanese": "誓い",
+    "Text": "War",
+    "Japanese": "戦争",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 237,
     "Lvl": 0,
-    "Text": "Wad",
-    "Japanese": "ワッド",
+    "Text": "Was",
+    "Japanese": "だった",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 238,
     "Lvl": 0,
-    "Text": "Wag",
-    "Japanese": "ワグ",
+    "Text": "Way",
+    "Japanese": "方法",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 239,
     "Lvl": 0,
-    "Text": "War",
-    "Japanese": "戦争",
+    "Text": "Web",
+    "Japanese": "ウェブ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 240,
     "Lvl": 0,
-    "Text": "Was",
-    "Japanese": "だった",
+    "Text": "Wed",
+    "Japanese": "水曜日",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 241,
     "Lvl": 0,
-    "Text": "Way",
-    "Japanese": "方法",
+    "Text": "Wet",
+    "Japanese": "濡れた",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 242,
     "Lvl": 0,
-    "Text": "Web",
-    "Japanese": "ウェブ",
+    "Text": "Who",
+    "Japanese": "誰が",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 243,
     "Lvl": 0,
-    "Text": "Wed",
-    "Japanese": "水曜日",
+    "Text": "Why",
+    "Japanese": "なぜ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 244,
     "Lvl": 0,
-    "Text": "Wet",
-    "Japanese": "濡れた",
+    "Text": "Wig",
+    "Japanese": "かつら",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 245,
     "Lvl": 0,
-    "Text": "Who",
-    "Japanese": "誰が",
+    "Text": "Win",
+    "Japanese": "勝つ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 246,
     "Lvl": 0,
-    "Text": "Why",
-    "Japanese": "なぜ",
+    "Text": "Won",
+    "Japanese": "勝利した",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 247,
     "Lvl": 0,
-    "Text": "Wig",
-    "Japanese": "かつら",
+    "Text": "Wry",
+    "Japanese": "ひょうき",
+    "isSafe": false,
     "Len": 3
   },
   {
     "Id": 248,
     "Lvl": 0,
-    "Text": "Win",
-    "Japanese": "勝つ",
+    "Text": "Yak",
+    "Japanese": "ヤク",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 249,
     "Lvl": 0,
-    "Text": "Won",
-    "Japanese": "勝利した",
+    "Text": "Yam",
+    "Japanese": "ヤムイモ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 250,
     "Lvl": 0,
-    "Text": "Wry",
-    "Japanese": "皮肉な",
+    "Text": "Yap",
+    "Japanese": "ヤップ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 251,
     "Lvl": 0,
-    "Text": "Yak",
-    "Japanese": "ヤク",
+    "Text": "Yaw",
+    "Japanese": "ヤウ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 252,
     "Lvl": 0,
-    "Text": "Yam",
-    "Japanese": "ヤムイモ",
+    "Text": "Yes",
+    "Japanese": "はい",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 253,
     "Lvl": 0,
-    "Text": "Yap",
-    "Japanese": "ヤップ",
+    "Text": "Yet",
+    "Japanese": "まだ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 254,
     "Lvl": 0,
-    "Text": "Yaw",
-    "Japanese": "ヤウ",
+    "Text": "You",
+    "Japanese": "あなた",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 255,
     "Lvl": 0,
-    "Text": "Yes",
-    "Japanese": "はい",
+    "Text": "Zap",
+    "Japanese": "ザップ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 256,
     "Lvl": 0,
-    "Text": "Yet",
-    "Japanese": "まだ",
+    "Text": "Zen",
+    "Japanese": "禅",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 257,
     "Lvl": 0,
-    "Text": "You",
-    "Japanese": "あなた",
+    "Text": "Zig",
+    "Japanese": "ジグ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 258,
     "Lvl": 0,
-    "Text": "Zap",
-    "Japanese": "ザップ",
+    "Text": "Zip",
+    "Japanese": "ジップ",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 259,
     "Lvl": 0,
-    "Text": "Zen",
-    "Japanese": "禅",
+    "Text": "Zoo",
+    "Japanese": "動物園",
+    "isSafe": true,
     "Len": 3
   },
   {
     "Id": 260,
-    "Lvl": 0,
-    "Text": "Zig",
-    "Japanese": "ジグ",
-    "Len": 3
+    "Lvl": 1,
+    "Text": "Able",
+    "Japanese": "できる",
+    "isSafe": true,
+    "Len": 4
   },
   {
     "Id": 261,
-    "Lvl": 0,
-    "Text": "Zip",
-    "Japanese": "ジップ",
-    "Len": 3
+    "Lvl": 1,
+    "Text": "Acid",
+    "Japanese": "酸",
+    "isSafe": true,
+    "Len": 4
   },
   {
     "Id": 262,
-    "Lvl": 0,
-    "Text": "Zoo",
-    "Japanese": "動物園",
-    "Len": 3
+    "Lvl": 1,
+    "Text": "Aged",
+    "Japanese": "熟成",
+    "isSafe": true,
+    "Len": 4
   },
   {
     "Id": 263,
     "Lvl": 1,
-    "Text": "Able",
-    "Japanese": "できる",
+    "Text": "Area",
+    "Japanese": "エリア",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 264,
     "Lvl": 1,
-    "Text": "Acid",
-    "Japanese": "酸",
+    "Text": "Atom",
+    "Japanese": "原子",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 265,
     "Lvl": 1,
-    "Text": "Aged",
-    "Japanese": "熟成",
+    "Text": "Baby",
+    "Japanese": "赤ちゃん",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 266,
     "Lvl": 1,
-    "Text": "Area",
-    "Japanese": "エリア",
+    "Text": "Back",
+    "Japanese": "戻る",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 267,
     "Lvl": 1,
-    "Text": "Atom",
-    "Japanese": "原子",
+    "Text": "Ball",
+    "Japanese": "ボール",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 268,
     "Lvl": 1,
-    "Text": "Baby",
-    "Japanese": "赤ちゃん",
+    "Text": "Blue",
+    "Japanese": "青",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 269,
     "Lvl": 1,
-    "Text": "Back",
-    "Japanese": "戻る",
+    "Text": "Book",
+    "Japanese": "本",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 270,
     "Lvl": 1,
-    "Text": "Ball",
-    "Japanese": "ボール",
+    "Text": "Cafe",
+    "Japanese": "カフェ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 271,
     "Lvl": 1,
-    "Text": "Blue",
-    "Japanese": "青",
+    "Text": "Cake",
+    "Japanese": "ケーキ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 272,
     "Lvl": 1,
-    "Text": "Book",
-    "Japanese": "本",
+    "Text": "Call",
+    "Japanese": "電話",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 273,
     "Lvl": 1,
-    "Text": "Cafe",
-    "Japanese": "カフェ",
+    "Text": "City",
+    "Japanese": "市",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 274,
     "Lvl": 1,
-    "Text": "Cake",
-    "Japanese": "ケーキ",
+    "Text": "Cold",
+    "Japanese": "寒い",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 275,
     "Lvl": 1,
-    "Text": "Call",
-    "Japanese": "電話",
+    "Text": "Dark",
+    "Japanese": "暗い",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 276,
     "Lvl": 1,
-    "Text": "City",
-    "Japanese": "市",
+    "Text": "Data",
+    "Japanese": "データ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 277,
     "Lvl": 1,
-    "Text": "Cold",
-    "Japanese": "寒い",
+    "Text": "Date",
+    "Japanese": "日付",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 278,
     "Lvl": 1,
-    "Text": "Dark",
-    "Japanese": "暗い",
+    "Text": "Dear",
+    "Japanese": "親愛なる",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 279,
     "Lvl": 1,
-    "Text": "Data",
-    "Japanese": "データ",
+    "Text": "Door",
+    "Japanese": "ドア",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 280,
     "Lvl": 1,
-    "Text": "Date",
-    "Japanese": "日付",
+    "Text": "Each",
+    "Japanese": "それぞれ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 281,
     "Lvl": 1,
-    "Text": "Dear",
-    "Japanese": "親愛なる",
+    "Text": "Easy",
+    "Japanese": "簡単",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 282,
     "Lvl": 1,
-    "Text": "Door",
-    "Japanese": "ドア",
+    "Text": "Echo",
+    "Japanese": "エコー",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 283,
     "Lvl": 1,
-    "Text": "Each",
-    "Japanese": "それぞれ",
+    "Text": "Edge",
+    "Japanese": "角",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 284,
     "Lvl": 1,
-    "Text": "Easy",
-    "Japanese": "簡単",
+    "Text": "Even",
+    "Japanese": "平",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 285,
     "Lvl": 1,
-    "Text": "Echo",
-    "Japanese": "エコー",
+    "Text": "Face",
+    "Japanese": "顔",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 286,
     "Lvl": 1,
-    "Text": "Edge",
-    "Japanese": "角",
+    "Text": "Fact",
+    "Japanese": "事実",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 287,
     "Lvl": 1,
-    "Text": "Even",
-    "Japanese": "平",
+    "Text": "Fair",
+    "Japanese": "公平",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 288,
     "Lvl": 1,
-    "Text": "Face",
-    "Japanese": "顔",
+    "Text": "Fall",
+    "Japanese": "秋",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 289,
     "Lvl": 1,
-    "Text": "Fact",
-    "Japanese": "事実",
+    "Text": "Fast",
+    "Japanese": "速い",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 290,
     "Lvl": 1,
-    "Text": "Fair",
-    "Japanese": "公平",
+    "Text": "Game",
+    "Japanese": "ゲーム",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 291,
     "Lvl": 1,
-    "Text": "Fall",
-    "Japanese": "秋",
+    "Text": "Gate",
+    "Japanese": "ゲート",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 292,
     "Lvl": 1,
-    "Text": "Fast",
-    "Japanese": "速い",
+    "Text": "Gift",
+    "Japanese": "贈り物",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 293,
     "Lvl": 1,
-    "Text": "Game",
-    "Japanese": "ゲーム",
+    "Text": "Girl",
+    "Japanese": "女の子",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 294,
     "Lvl": 1,
-    "Text": "Gate",
-    "Japanese": "ゲート",
+    "Text": "Gold",
+    "Japanese": "金",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 295,
     "Lvl": 1,
-    "Text": "Gift",
-    "Japanese": "贈り物",
+    "Text": "Hand",
+    "Japanese": "手",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 296,
     "Lvl": 1,
-    "Text": "Girl",
-    "Japanese": "女の子",
+    "Text": "Hard",
+    "Japanese": "難しい",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 297,
     "Lvl": 1,
-    "Text": "Gold",
-    "Japanese": "金",
+    "Text": "Have",
+    "Japanese": "持っている",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 298,
     "Lvl": 1,
-    "Text": "Hand",
-    "Japanese": "手",
+    "Text": "Head",
+    "Japanese": "頭",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 299,
     "Lvl": 1,
-    "Text": "Hard",
-    "Japanese": "難しい",
+    "Text": "High",
+    "Japanese": "高い",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 300,
     "Lvl": 1,
-    "Text": "Have",
-    "Japanese": "持っている",
+    "Text": "Idea",
+    "Japanese": "アイデア",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 301,
     "Lvl": 1,
-    "Text": "Head",
-    "Japanese": "頭",
+    "Text": "Icon",
+    "Japanese": "アイコン",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 302,
     "Lvl": 1,
-    "Text": "High",
-    "Japanese": "高い",
+    "Text": "Into",
+    "Japanese": "の中へ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 303,
     "Lvl": 1,
-    "Text": "Idea",
-    "Japanese": "アイデア",
+    "Text": "Iron",
+    "Japanese": "鉄",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 304,
     "Lvl": 1,
-    "Text": "Icon",
-    "Japanese": "アイコン",
+    "Text": "Item",
+    "Japanese": "アイテム",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 305,
     "Lvl": 1,
-    "Text": "Into",
-    "Japanese": "の中へ",
+    "Text": "Jazz",
+    "Japanese": "ジャズ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 306,
     "Lvl": 1,
-    "Text": "Iron",
-    "Japanese": "鉄",
+    "Text": "Join",
+    "Japanese": "参加する",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 307,
     "Lvl": 1,
-    "Text": "Item",
-    "Japanese": "アイテム",
+    "Text": "Joke",
+    "Japanese": "ジョーク",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 308,
     "Lvl": 1,
-    "Text": "Jazz",
-    "Japanese": "ジャズ",
+    "Text": "Jump",
+    "Japanese": "ジャンプ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 309,
     "Lvl": 1,
-    "Text": "Join",
-    "Japanese": "参加する",
+    "Text": "Just",
+    "Japanese": "ただ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 310,
     "Lvl": 1,
-    "Text": "Joke",
-    "Japanese": "ジョーク",
+    "Text": "Keep",
+    "Japanese": "保つ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 311,
     "Lvl": 1,
-    "Text": "Jump",
-    "Japanese": "ジャンプ",
+    "Text": "Kind",
+    "Japanese": "親切",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 312,
     "Lvl": 1,
-    "Text": "Just",
-    "Japanese": "ただ",
+    "Text": "King",
+    "Japanese": "王",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 313,
     "Lvl": 1,
-    "Text": "Keep",
-    "Japanese": "保つ",
+    "Text": "Kiss",
+    "Japanese": "キス",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 314,
     "Lvl": 1,
-    "Text": "Kind",
-    "Japanese": "親切",
+    "Text": "Kite",
+    "Japanese": "凧",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 315,
     "Lvl": 1,
-    "Text": "King",
-    "Japanese": "王",
+    "Text": "Lady",
+    "Japanese": "レディ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 316,
     "Lvl": 1,
-    "Text": "Kiss",
-    "Japanese": "キス",
+    "Text": "Lake",
+    "Japanese": "湖",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 317,
     "Lvl": 1,
-    "Text": "Kite",
-    "Japanese": "凧",
+    "Text": "Lamp",
+    "Japanese": "ランプ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 318,
     "Lvl": 1,
-    "Text": "Lady",
-    "Japanese": "レディ",
+    "Text": "Last",
+    "Japanese": "最後",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 319,
     "Lvl": 1,
-    "Text": "Lake",
-    "Japanese": "湖",
+    "Text": "Life",
+    "Japanese": "人生",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 320,
     "Lvl": 1,
-    "Text": "Lamp",
-    "Japanese": "ランプ",
+    "Text": "Made",
+    "Japanese": "作った",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 321,
     "Lvl": 1,
-    "Text": "Last",
-    "Japanese": "最後",
+    "Text": "Mail",
+    "Japanese": "郵便",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 322,
     "Lvl": 1,
-    "Text": "Life",
-    "Japanese": "人生",
+    "Text": "Main",
+    "Japanese": "主要",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 323,
     "Lvl": 1,
-    "Text": "Made",
-    "Japanese": "作った",
+    "Text": "Make",
+    "Japanese": "作る",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 324,
     "Lvl": 1,
-    "Text": "Mail",
-    "Japanese": "郵便",
+    "Text": "Mine",
+    "Japanese": "私の",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 325,
     "Lvl": 1,
-    "Text": "Main",
-    "Japanese": "主要",
+    "Text": "Name",
+    "Japanese": "名前",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 326,
     "Lvl": 1,
-    "Text": "Make",
-    "Japanese": "作る",
+    "Text": "Near",
+    "Japanese": "近く",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 327,
     "Lvl": 1,
-    "Text": "Mine",
-    "Japanese": "私の",
+    "Text": "Neck",
+    "Japanese": "ネック",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 328,
     "Lvl": 1,
-    "Text": "Name",
-    "Japanese": "名前",
+    "Text": "Next",
+    "Japanese": "次",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 329,
     "Lvl": 1,
-    "Text": "Near",
-    "Japanese": "近く",
+    "Text": "Node",
+    "Japanese": "ノード",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 330,
     "Lvl": 1,
-    "Text": "Neck",
-    "Japanese": "ネック",
+    "Text": "Open",
+    "Japanese": "開ける",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 331,
     "Lvl": 1,
-    "Text": "Next",
-    "Japanese": "次",
+    "Text": "Only",
+    "Japanese": "のみ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 332,
     "Lvl": 1,
-    "Text": "Node",
-    "Japanese": "ノード",
+    "Text": "Over",
+    "Japanese": "以上",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 333,
     "Lvl": 1,
-    "Text": "Open",
-    "Japanese": "開ける",
+    "Text": "Ohio",
+    "Japanese": "オハイオ州",
+    "isSafe": false,
     "Len": 4
   },
   {
     "Id": 334,
     "Lvl": 1,
-    "Text": "Only",
-    "Japanese": "のみ",
+    "Text": "Oats",
+    "Japanese": "オート麦",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 335,
     "Lvl": 1,
-    "Text": "Over",
-    "Japanese": "以上",
+    "Text": "Page",
+    "Japanese": "ページ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 336,
     "Lvl": 1,
-    "Text": "Ohio",
-    "Japanese": "オハイオ州",
+    "Text": "Part",
+    "Japanese": "一部",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 337,
     "Lvl": 1,
-    "Text": "Oats",
-    "Japanese": "オート麦",
+    "Text": "Past",
+    "Japanese": "過去",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 338,
     "Lvl": 1,
-    "Text": "Page",
-    "Japanese": "ページ",
+    "Text": "Pest",
+    "Japanese": "害虫",
+    "isSafe": false,
     "Len": 4
   },
   {
     "Id": 339,
     "Lvl": 1,
-    "Text": "Part",
-    "Japanese": "一部",
+    "Text": "Plan",
+    "Japanese": "プラン",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 340,
     "Lvl": 1,
-    "Text": "Past",
-    "Japanese": "過去",
+    "Text": "Quiz",
+    "Japanese": "クイズ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 341,
     "Lvl": 1,
-    "Text": "Pest",
-    "Japanese": "害虫",
+    "Text": "Quit",
+    "Japanese": "やめる",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 342,
     "Lvl": 1,
-    "Text": "Plan",
-    "Japanese": "プラン",
+    "Text": "Quid",
+    "Japanese": "クイド",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 343,
     "Lvl": 1,
-    "Text": "Quiz",
-    "Japanese": "クイズ",
+    "Text": "Quad",
+    "Japanese": "クワッド",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 344,
     "Lvl": 1,
-    "Text": "Quit",
-    "Japanese": "やめる",
+    "Text": "Rain",
+    "Japanese": "雨",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 345,
     "Lvl": 1,
-    "Text": "Quid",
-    "Japanese": "クイド",
+    "Text": "Read",
+    "Japanese": "読む",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 346,
     "Lvl": 1,
-    "Text": "Quad",
-    "Japanese": "クワッド",
+    "Text": "Real",
+    "Japanese": "本物",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 347,
     "Lvl": 1,
-    "Text": "Rain",
-    "Japanese": "雨",
+    "Text": "Rich",
+    "Japanese": "リッチ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 348,
     "Lvl": 1,
-    "Text": "Read",
-    "Japanese": "読む",
+    "Text": "Road",
+    "Japanese": "道",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 349,
     "Lvl": 1,
-    "Text": "Real",
-    "Japanese": "本物",
+    "Text": "Rust",
+    "Japanese": "さび",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 350,
     "Lvl": 1,
-    "Text": "Rich",
-    "Japanese": "リッチ",
+    "Text": "Safe",
+    "Japanese": "安全",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 351,
     "Lvl": 1,
-    "Text": "Road",
-    "Japanese": "道",
+    "Text": "Said",
+    "Japanese": "言った",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 352,
     "Lvl": 1,
-    "Text": "Rust",
-    "Japanese": "さび",
+    "Text": "Sale",
+    "Japanese": "販売",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 353,
     "Lvl": 1,
-    "Text": "Safe",
-    "Japanese": "安全",
+    "Text": "Same",
+    "Japanese": "同じ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 354,
     "Lvl": 1,
-    "Text": "Said",
-    "Japanese": "言った",
+    "Text": "Self",
+    "Japanese": "自己",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 355,
     "Lvl": 1,
-    "Text": "Sale",
-    "Japanese": "販売",
+    "Text": "Take",
+    "Japanese": "取る",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 356,
     "Lvl": 1,
-    "Text": "Same",
-    "Japanese": "同じ",
+    "Text": "Talk",
+    "Japanese": "話す",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 357,
     "Lvl": 1,
-    "Text": "Self",
-    "Japanese": "自己",
+    "Text": "Tall",
+    "Japanese": "高い",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 358,
     "Lvl": 1,
-    "Text": "Take",
-    "Japanese": "取る",
+    "Text": "Team",
+    "Japanese": "チーム",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 359,
     "Lvl": 1,
-    "Text": "Talk",
-    "Japanese": "話す",
+    "Text": "Tell",
+    "Japanese": "教えて",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 360,
     "Lvl": 1,
-    "Text": "Tall",
-    "Japanese": "高い",
+    "Text": "Unit",
+    "Japanese": "ユニット",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 361,
     "Lvl": 1,
-    "Text": "Team",
-    "Japanese": "チーム",
+    "Text": "Upon",
+    "Japanese": "その上",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 362,
     "Lvl": 1,
-    "Text": "Tell",
-    "Japanese": "教えて",
+    "Text": "User",
+    "Japanese": "ユーザー",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 363,
     "Lvl": 1,
-    "Text": "Unit",
-    "Japanese": "ユニット",
+    "Text": "Used",
+    "Japanese": "使用済み",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 364,
     "Lvl": 1,
-    "Text": "Upon",
-    "Japanese": "その上",
+    "Text": "Urge",
+    "Japanese": "衝動",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 365,
     "Lvl": 1,
-    "Text": "User",
-    "Japanese": "ユーザー",
+    "Text": "Vain",
+    "Japanese": "虚栄心",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 366,
     "Lvl": 1,
-    "Text": "Used",
-    "Japanese": "使用済み",
+    "Text": "Vary",
+    "Japanese": "変化する",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 367,
     "Lvl": 1,
-    "Text": "Urge",
-    "Japanese": "衝動",
+    "Text": "Vast",
+    "Japanese": "広大な",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 368,
     "Lvl": 1,
-    "Text": "Vain",
-    "Japanese": "虚栄心",
+    "Text": "Vent",
+    "Japanese": "通気口",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 369,
     "Lvl": 1,
-    "Text": "Vary",
-    "Japanese": "変化する",
+    "Text": "View",
+    "Japanese": "ビュー",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 370,
     "Lvl": 1,
-    "Text": "Vast",
-    "Japanese": "広大な",
+    "Text": "Wait",
+    "Japanese": "待って",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 371,
     "Lvl": 1,
-    "Text": "Vent",
-    "Japanese": "通気口",
+    "Text": "Walk",
+    "Japanese": "歩く",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 372,
     "Lvl": 1,
-    "Text": "View",
-    "Japanese": "ビュー",
+    "Text": "Wall",
+    "Japanese": "壁",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 373,
     "Lvl": 1,
-    "Text": "Wait",
-    "Japanese": "待って",
+    "Text": "Want",
+    "Japanese": "欲しい",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 374,
     "Lvl": 1,
-    "Text": "Walk",
-    "Japanese": "歩く",
+    "Text": "Wash",
+    "Japanese": "洗う",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 375,
     "Lvl": 1,
-    "Text": "Wall",
-    "Japanese": "壁",
+    "Text": "Xray",
+    "Japanese": "X線",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 376,
     "Lvl": 1,
-    "Text": "Want",
-    "Japanese": "欲しい",
+    "Text": "Yard",
+    "Japanese": "ヤード",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 377,
     "Lvl": 1,
-    "Text": "Wash",
-    "Japanese": "洗う",
+    "Text": "Year",
+    "Japanese": "年",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 378,
     "Lvl": 1,
-    "Text": "Xray",
-    "Japanese": "X線",
+    "Text": "Yoga",
+    "Japanese": "ヨガ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 379,
     "Lvl": 1,
-    "Text": "Yard",
-    "Japanese": "ヤード",
+    "Text": "Your",
+    "Japanese": "あなたの",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 380,
     "Lvl": 1,
-    "Text": "Year",
-    "Japanese": "年",
+    "Text": "Zero",
+    "Japanese": "ゼロ",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 381,
     "Lvl": 1,
-    "Text": "Yoga",
-    "Japanese": "ヨガ",
+    "Text": "Zone",
+    "Japanese": "ゾーン",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 382,
     "Lvl": 1,
-    "Text": "Your",
-    "Japanese": "あなたの",
+    "Text": "Zinc",
+    "Japanese": "亜鉛",
+    "isSafe": true,
     "Len": 4
   },
   {
     "Id": 383,
-    "Lvl": 1,
-    "Text": "Zero",
-    "Japanese": "ゼロ",
-    "Len": 4
+    "Lvl": 2,
+    "Text": "Abate",
+    "Japanese": "弱める",
+    "isSafe": true,
+    "Len": 5
   },
   {
     "Id": 384,
-    "Lvl": 1,
-    "Text": "Zone",
-    "Japanese": "ゾーン",
-    "Len": 4
+    "Lvl": 2,
+    "Text": "Abide",
+    "Japanese": "従う",
+    "isSafe": true,
+    "Len": 5
   },
   {
     "Id": 385,
-    "Lvl": 1,
-    "Text": "Zinc",
-    "Japanese": "亜鉛",
-    "Len": 4
+    "Lvl": 2,
+    "Text": "Abort",
+    "Japanese": "中絶",
+    "isSafe": false,
+    "Len": 5
   },
   {
     "Id": 386,
     "Lvl": 2,
-    "Text": "Abate",
-    "Japanese": "弱める",
+    "Text": "About",
+    "Japanese": "について",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 387,
     "Lvl": 2,
-    "Text": "Abide",
-    "Japanese": "留まる",
+    "Text": "Above",
+    "Japanese": "その上",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 388,
     "Lvl": 2,
-    "Text": "Abort",
-    "Japanese": "アボート",
+    "Text": "Abuse",
+    "Japanese": "乱用",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 389,
     "Lvl": 2,
-    "Text": "About",
-    "Japanese": "について",
+    "Text": "Abyss",
+    "Japanese": "深淵",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 390,
     "Lvl": 2,
-    "Text": "Above",
-    "Japanese": "その上",
+    "Text": "Acorn",
+    "Japanese": "どんぐり",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 391,
     "Lvl": 2,
-    "Text": "Abuse",
-    "Japanese": "乱用",
+    "Text": "Adapt",
+    "Japanese": "適応する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 392,
     "Lvl": 2,
-    "Text": "Abyss",
-    "Japanese": "深淵",
+    "Text": "Admit",
+    "Japanese": "認める",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 393,
     "Lvl": 2,
-    "Text": "Acorn",
-    "Japanese": "どんぐり",
+    "Text": "Adopt",
+    "Japanese": "採用する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 394,
     "Lvl": 2,
-    "Text": "Adapt",
-    "Japanese": "適応する",
+    "Text": "Adult",
+    "Japanese": "大人",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 395,
     "Lvl": 2,
-    "Text": "Admit",
-    "Japanese": "認める",
+    "Text": "After",
+    "Japanese": "後",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 396,
     "Lvl": 2,
-    "Text": "Adopt",
-    "Japanese": "採用する",
+    "Text": "Again",
+    "Japanese": "また",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 397,
     "Lvl": 2,
-    "Text": "Adult",
-    "Japanese": "アダルト",
+    "Text": "Agent",
+    "Japanese": "エージェント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 398,
     "Lvl": 2,
-    "Text": "After",
-    "Japanese": "後",
+    "Text": "Agile",
+    "Japanese": "アジャイル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 399,
     "Lvl": 2,
-    "Text": "Again",
-    "Japanese": "また",
+    "Text": "Agony",
+    "Japanese": "苦痛",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 400,
     "Lvl": 2,
-    "Text": "Agent",
-    "Japanese": "エージェント",
+    "Text": "Agree",
+    "Japanese": "同意する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 401,
     "Lvl": 2,
-    "Text": "Agile",
-    "Japanese": "アジャイル",
+    "Text": "Ahead",
+    "Japanese": "先に",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 402,
     "Lvl": 2,
-    "Text": "Agony",
-    "Japanese": "苦痛",
+    "Text": "Alarm",
+    "Japanese": "アラーム",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 403,
     "Lvl": 2,
-    "Text": "Agree",
-    "Japanese": "同意する",
+    "Text": "Album",
+    "Japanese": "アルバム",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 404,
     "Lvl": 2,
-    "Text": "Ahead",
-    "Japanese": "先に",
+    "Text": "Alert",
+    "Japanese": "警告",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 405,
     "Lvl": 2,
-    "Text": "Alarm",
-    "Japanese": "アラーム",
+    "Text": "Alibi",
+    "Japanese": "アリバイ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 406,
     "Lvl": 2,
-    "Text": "Album",
-    "Japanese": "アルバム",
+    "Text": "Alien",
+    "Japanese": "エイリアン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 407,
     "Lvl": 2,
-    "Text": "Alert",
-    "Japanese": "警告",
+    "Text": "Alike",
+    "Japanese": "同様",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 408,
     "Lvl": 2,
-    "Text": "Alibi",
-    "Japanese": "アリバイ",
+    "Text": "Alive",
+    "Japanese": "生きている",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 409,
     "Lvl": 2,
-    "Text": "Alien",
-    "Japanese": "エイリアン",
+    "Text": "Allow",
+    "Japanese": "許可する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 410,
     "Lvl": 2,
-    "Text": "Alike",
-    "Japanese": "同様",
+    "Text": "Aloft",
+    "Japanese": "アロフト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 411,
     "Lvl": 2,
-    "Text": "Alive",
-    "Japanese": "生きている",
+    "Text": "Alone",
+    "Japanese": "一人で",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 412,
     "Lvl": 2,
-    "Text": "Allow",
-    "Japanese": "許可する",
+    "Text": "Along",
+    "Japanese": "平行",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 413,
     "Lvl": 2,
-    "Text": "Aloft",
-    "Japanese": "アロフト",
+    "Text": "Alter",
+    "Japanese": "変更する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 414,
     "Lvl": 2,
-    "Text": "Alone",
-    "Japanese": "一人で",
+    "Text": "Amaze",
+    "Japanese": "驚かせる",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 415,
     "Lvl": 2,
-    "Text": "Along",
-    "Japanese": "平行",
+    "Text": "Amend",
+    "Japanese": "修正する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 416,
     "Lvl": 2,
-    "Text": "Alter",
-    "Japanese": "変更する",
+    "Text": "Amiss",
+    "Japanese": "間違い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 417,
     "Lvl": 2,
-    "Text": "Amaze",
-    "Japanese": "驚かせる",
+    "Text": "Ample",
+    "Japanese": "十分な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 418,
     "Lvl": 2,
-    "Text": "Amend",
-    "Japanese": "修正する",
+    "Text": "Amuse",
+    "Japanese": "楽しませてください",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 419,
     "Lvl": 2,
-    "Text": "Amiss",
-    "Japanese": "間違い",
+    "Text": "Angel",
+    "Japanese": "天使",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 420,
     "Lvl": 2,
-    "Text": "Ample",
-    "Japanese": "十分な",
+    "Text": "Anger",
+    "Japanese": "怒り",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 421,
     "Lvl": 2,
-    "Text": "Amuse",
-    "Japanese": "楽しませてください",
+    "Text": "Angle",
+    "Japanese": "角度",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 422,
     "Lvl": 2,
-    "Text": "Angel",
-    "Japanese": "天使",
+    "Text": "Angry",
+    "Japanese": "怒り",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 423,
     "Lvl": 2,
-    "Text": "Anger",
-    "Japanese": "怒り",
+    "Text": "Ankle",
+    "Japanese": "足首",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 424,
     "Lvl": 2,
-    "Text": "Angle",
-    "Japanese": "角度",
+    "Text": "Apple",
+    "Japanese": "りんご",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 425,
     "Lvl": 2,
-    "Text": "Angry",
-    "Japanese": "怒り",
+    "Text": "Apply",
+    "Japanese": "適用する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 426,
     "Lvl": 2,
-    "Text": "Ankle",
-    "Japanese": "足首",
+    "Text": "Arena",
+    "Japanese": "アリーナ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 427,
     "Lvl": 2,
-    "Text": "Apple",
-    "Japanese": "りんご",
+    "Text": "Argue",
+    "Japanese": "主張する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 428,
     "Lvl": 2,
-    "Text": "Apply",
-    "Japanese": "適用する",
+    "Text": "Arise",
+    "Japanese": "立ち上がれ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 429,
     "Lvl": 2,
-    "Text": "Arena",
-    "Japanese": "アリーナ",
+    "Text": "Armor",
+    "Japanese": "鎧",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 430,
     "Lvl": 2,
-    "Text": "Argue",
-    "Japanese": "主張する",
+    "Text": "Array",
+    "Japanese": "配列",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 431,
     "Lvl": 2,
-    "Text": "Arise",
-    "Japanese": "立ち上がれ",
+    "Text": "Arrow",
+    "Japanese": "矢印",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 432,
     "Lvl": 2,
-    "Text": "Armor",
-    "Japanese": "鎧",
+    "Text": "Asset",
+    "Japanese": "資産",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 433,
     "Lvl": 2,
-    "Text": "Array",
-    "Japanese": "配列",
+    "Text": "Atlas",
+    "Japanese": "アトラス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 434,
     "Lvl": 2,
-    "Text": "Arrow",
-    "Japanese": "矢印",
+    "Text": "Audio",
+    "Japanese": "オーディオ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 435,
     "Lvl": 2,
-    "Text": "Asset",
-    "Japanese": "資産",
+    "Text": "Audit",
+    "Japanese": "監査",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 436,
     "Lvl": 2,
-    "Text": "Atlas",
-    "Japanese": "アトラス",
+    "Text": "Avoid",
+    "Japanese": "避ける",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 437,
     "Lvl": 2,
-    "Text": "Audio",
-    "Japanese": "オーディオ",
+    "Text": "Await",
+    "Japanese": "待つ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 438,
     "Lvl": 2,
-    "Text": "Audit",
-    "Japanese": "監査",
+    "Text": "Awake",
+    "Japanese": "起きている",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 439,
     "Lvl": 2,
-    "Text": "Avoid",
-    "Japanese": "避ける",
+    "Text": "Award",
+    "Japanese": "賞",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 440,
     "Lvl": 2,
-    "Text": "Await",
-    "Japanese": "待つ",
+    "Text": "Aware",
+    "Japanese": "わかっている",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 441,
     "Lvl": 2,
-    "Text": "Awake",
-    "Japanese": "起きている",
+    "Text": "Awful",
+    "Japanese": "ひどい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 442,
     "Lvl": 2,
-    "Text": "Award",
-    "Japanese": "賞",
+    "Text": "Basic",
+    "Japanese": "基本",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 443,
     "Lvl": 2,
-    "Text": "Aware",
-    "Japanese": "わかっている",
+    "Text": "Beach",
+    "Japanese": "ビーチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 444,
     "Lvl": 2,
-    "Text": "Awful",
-    "Japanese": "ひどい",
+    "Text": "Begin",
+    "Japanese": "始める",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 445,
     "Lvl": 2,
-    "Text": "Basic",
-    "Japanese": "基本",
+    "Text": "Below",
+    "Japanese": "下に",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 446,
     "Lvl": 2,
-    "Text": "Beach",
-    "Japanese": "ビーチ",
+    "Text": "Bench",
+    "Japanese": "ベンチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 447,
     "Lvl": 2,
-    "Text": "Begin",
-    "Japanese": "始める",
+    "Text": "Black",
+    "Japanese": "黒",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 448,
     "Lvl": 2,
-    "Text": "Below",
-    "Japanese": "下に",
+    "Text": "Bleed",
+    "Japanese": "出血",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 449,
     "Lvl": 2,
-    "Text": "Bench",
-    "Japanese": "ベンチ",
+    "Text": "Blind",
+    "Japanese": "盲目",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 450,
     "Lvl": 2,
-    "Text": "Black",
-    "Japanese": "黒",
+    "Text": "Block",
+    "Japanese": "ブロック",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 451,
     "Lvl": 2,
-    "Text": "Blind",
-    "Japanese": "盲目",
+    "Text": "Blood",
+    "Japanese": "血",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 452,
     "Lvl": 2,
-    "Text": "Block",
-    "Japanese": "ブロック",
+    "Text": "Board",
+    "Japanese": "ボード",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 453,
     "Lvl": 2,
-    "Text": "Blood",
-    "Japanese": "血",
+    "Text": "Boost",
+    "Japanese": "ブースト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 454,
     "Lvl": 2,
-    "Text": "Board",
-    "Japanese": "ボード",
+    "Text": "Brain",
+    "Japanese": "脳",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 455,
     "Lvl": 2,
-    "Text": "Boost",
-    "Japanese": "ブースト",
+    "Text": "Brave",
+    "Japanese": "勇敢な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 456,
     "Lvl": 2,
-    "Text": "Brain",
-    "Japanese": "脳",
+    "Text": "Bread",
+    "Japanese": "パン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 457,
     "Lvl": 2,
-    "Text": "Brave",
-    "Japanese": "勇敢な",
+    "Text": "Break",
+    "Japanese": "壊す",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 458,
     "Lvl": 2,
-    "Text": "Bread",
-    "Japanese": "パン",
+    "Text": "Brief",
+    "Japanese": "簡単な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 459,
     "Lvl": 2,
-    "Text": "Break",
-    "Japanese": "壊す",
+    "Text": "Bring",
+    "Japanese": "持ってくる",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 460,
     "Lvl": 2,
-    "Text": "Brief",
-    "Japanese": "簡単な",
+    "Text": "Broad",
+    "Japanese": "広範",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 461,
     "Lvl": 2,
-    "Text": "Bring",
-    "Japanese": "持ってくる",
+    "Text": "Build",
+    "Japanese": "建てる",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 462,
     "Lvl": 2,
-    "Text": "Broad",
-    "Japanese": "広範",
+    "Text": "Burst",
+    "Japanese": "バースト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 463,
     "Lvl": 2,
-    "Text": "Build",
-    "Japanese": "建てる",
+    "Text": "Buyer",
+    "Japanese": "買い手",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 464,
     "Lvl": 2,
-    "Text": "Burst",
-    "Japanese": "バースト",
+    "Text": "Cabin",
+    "Japanese": "キャビン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 465,
     "Lvl": 2,
-    "Text": "Buyer",
-    "Japanese": "買い手",
+    "Text": "Cable",
+    "Japanese": "ケーブル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 466,
     "Lvl": 2,
-    "Text": "Cabin",
-    "Japanese": "キャビン",
+    "Text": "Camel",
+    "Japanese": "キャメル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 467,
     "Lvl": 2,
-    "Text": "Cable",
-    "Japanese": "ケーブル",
+    "Text": "Candy",
+    "Japanese": "あめ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 468,
     "Lvl": 2,
-    "Text": "Camel",
-    "Japanese": "キャメル",
+    "Text": "Carry",
+    "Japanese": "運ぶ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 469,
     "Lvl": 2,
-    "Text": "Candy",
-    "Japanese": "あめ",
+    "Text": "Catch",
+    "Japanese": "キャッチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 470,
     "Lvl": 2,
-    "Text": "Carry",
-    "Japanese": "運ぶ",
+    "Text": "Cause",
+    "Japanese": "原因",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 471,
     "Lvl": 2,
-    "Text": "Catch",
-    "Japanese": "キャッチ",
+    "Text": "Chain",
+    "Japanese": "鎖",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 472,
     "Lvl": 2,
-    "Text": "Cause",
-    "Japanese": "原因",
+    "Text": "Chair",
+    "Japanese": "椅子",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 473,
     "Lvl": 2,
-    "Text": "Chain",
-    "Japanese": "鎖",
+    "Text": "Chart",
+    "Japanese": "チャート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 474,
     "Lvl": 2,
-    "Text": "Chair",
-    "Japanese": "椅子",
+    "Text": "Check",
+    "Japanese": "チェック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 475,
     "Lvl": 2,
-    "Text": "Chart",
-    "Japanese": "チャート",
+    "Text": "Chest",
+    "Japanese": "胸",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 476,
     "Lvl": 2,
-    "Text": "Check",
-    "Japanese": "チェック",
+    "Text": "Chief",
+    "Japanese": "チーフ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 477,
     "Lvl": 2,
-    "Text": "Chest",
-    "Japanese": "胸",
+    "Text": "Child",
+    "Japanese": "子供",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 478,
     "Lvl": 2,
-    "Text": "Chief",
-    "Japanese": "チーフ",
+    "Text": "China",
+    "Japanese": "中国",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 479,
     "Lvl": 2,
-    "Text": "Child",
-    "Japanese": "子供",
+    "Text": "Choir",
+    "Japanese": "合唱団",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 480,
     "Lvl": 2,
-    "Text": "China",
-    "Japanese": "中国",
+    "Text": "Civil",
+    "Japanese": "市民",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 481,
     "Lvl": 2,
-    "Text": "Choir",
-    "Japanese": "合唱団",
+    "Text": "Claim",
+    "Japanese": "請求",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 482,
     "Lvl": 2,
-    "Text": "Civil",
-    "Japanese": "市民",
+    "Text": "Class",
+    "Japanese": "クラス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 483,
     "Lvl": 2,
-    "Text": "Claim",
-    "Japanese": "請求",
+    "Text": "Clean",
+    "Japanese": "クリーン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 484,
     "Lvl": 2,
-    "Text": "Class",
-    "Japanese": "クラス",
+    "Text": "Clear",
+    "Japanese": "クリア",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 485,
     "Lvl": 2,
-    "Text": "Clean",
-    "Japanese": "クリーン",
+    "Text": "Climb",
+    "Japanese": "登る",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 486,
     "Lvl": 2,
-    "Text": "Clear",
-    "Japanese": "クリア",
+    "Text": "Clock",
+    "Japanese": "クロック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 487,
     "Lvl": 2,
-    "Text": "Climb",
-    "Japanese": "登る",
+    "Text": "Close",
+    "Japanese": "近い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 488,
     "Lvl": 2,
-    "Text": "Clock",
-    "Japanese": "クロック",
+    "Text": "Cloud",
+    "Japanese": "雲",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 489,
     "Lvl": 2,
-    "Text": "Close",
-    "Japanese": "近い",
+    "Text": "Coach",
+    "Japanese": "コーチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 490,
     "Lvl": 2,
-    "Text": "Cloud",
-    "Japanese": "雲",
+    "Text": "Coast",
+    "Japanese": "海岸",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 491,
     "Lvl": 2,
-    "Text": "Coach",
-    "Japanese": "コーチ",
+    "Text": "Count",
+    "Japanese": "カウント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 492,
     "Lvl": 2,
-    "Text": "Coast",
-    "Japanese": "海岸",
+    "Text": "Court",
+    "Japanese": "裁判所",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 493,
     "Lvl": 2,
-    "Text": "Count",
-    "Japanese": "カウント",
+    "Text": "Cover",
+    "Japanese": "カバー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 494,
     "Lvl": 2,
-    "Text": "Court",
-    "Japanese": "裁判所",
+    "Text": "Craft",
+    "Japanese": "クラフト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 495,
     "Lvl": 2,
-    "Text": "Cover",
-    "Japanese": "カバー",
+    "Text": "Crash",
+    "Japanese": "クラッシュ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 496,
     "Lvl": 2,
-    "Text": "Craft",
-    "Japanese": "クラフト",
+    "Text": "Cream",
+    "Japanese": "クリーム",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 497,
     "Lvl": 2,
-    "Text": "Crash",
-    "Japanese": "クラッシュ",
+    "Text": "Crime",
+    "Japanese": "犯罪",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 498,
     "Lvl": 2,
-    "Text": "Cream",
-    "Japanese": "クリーム",
+    "Text": "Cross",
+    "Japanese": "クロス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 499,
     "Lvl": 2,
-    "Text": "Crime",
-    "Japanese": "犯罪",
+    "Text": "Crowd",
+    "Japanese": "群衆",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 500,
     "Lvl": 2,
-    "Text": "Cross",
-    "Japanese": "クロス",
+    "Text": "Crown",
+    "Japanese": "クラウン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 501,
     "Lvl": 2,
-    "Text": "Crowd",
-    "Japanese": "群衆",
+    "Text": "Curve",
+    "Japanese": "曲線",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 502,
     "Lvl": 2,
-    "Text": "Crown",
-    "Japanese": "クラウン",
+    "Text": "Cycle",
+    "Japanese": "サイクル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 503,
     "Lvl": 2,
-    "Text": "Curve",
-    "Japanese": "曲線",
+    "Text": "Daily",
+    "Japanese": "毎日",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 504,
     "Lvl": 2,
-    "Text": "Cycle",
-    "Japanese": "サイクル",
+    "Text": "Dance",
+    "Japanese": "ダンス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 505,
     "Lvl": 2,
-    "Text": "Daily",
-    "Japanese": "毎日",
+    "Text": "Death",
+    "Japanese": "死",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 506,
     "Lvl": 2,
-    "Text": "Dance",
-    "Japanese": "ダンス",
+    "Text": "Delay",
+    "Japanese": "遅れ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 507,
     "Lvl": 2,
-    "Text": "Death",
-    "Japanese": "死",
+    "Text": "Depth",
+    "Japanese": "深さ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 508,
     "Lvl": 2,
-    "Text": "Delay",
-    "Japanese": "遅れ",
+    "Text": "Devil",
+    "Japanese": "悪魔",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 509,
     "Lvl": 2,
-    "Text": "Depth",
-    "Japanese": "深さ",
+    "Text": "Diary",
+    "Japanese": "日記",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 510,
     "Lvl": 2,
-    "Text": "Devil",
-    "Japanese": "悪魔",
+    "Text": "Dirty",
+    "Japanese": "汚い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 511,
     "Lvl": 2,
-    "Text": "Diary",
-    "Japanese": "日記",
+    "Text": "Donor",
+    "Japanese": "ドナー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 512,
     "Lvl": 2,
-    "Text": "Dirty",
-    "Japanese": "汚い",
+    "Text": "Doubt",
+    "Japanese": "疑い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 513,
     "Lvl": 2,
-    "Text": "Donor",
-    "Japanese": "ドナー",
+    "Text": "Draft",
+    "Japanese": "下書き",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 514,
     "Lvl": 2,
-    "Text": "Doubt",
-    "Japanese": "疑い",
+    "Text": "Drain",
+    "Japanese": "ドレイン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 515,
     "Lvl": 2,
-    "Text": "Draft",
-    "Japanese": "下書き",
+    "Text": "Drama",
+    "Japanese": "ドラマ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 516,
     "Lvl": 2,
-    "Text": "Drain",
-    "Japanese": "ドレイン",
+    "Text": "Dream",
+    "Japanese": "夢",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 517,
     "Lvl": 2,
-    "Text": "Drama",
-    "Japanese": "ドラマ",
+    "Text": "Dress",
+    "Japanese": "ドレス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 518,
     "Lvl": 2,
-    "Text": "Dream",
-    "Japanese": "夢",
+    "Text": "Drink",
+    "Japanese": "飲む",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 519,
     "Lvl": 2,
-    "Text": "Dress",
-    "Japanese": "ドレス",
+    "Text": "Drive",
+    "Japanese": "ドライブ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 520,
     "Lvl": 2,
-    "Text": "Drink",
-    "Japanese": "飲む",
+    "Text": "Early",
+    "Japanese": "早い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 521,
     "Lvl": 2,
-    "Text": "Drive",
-    "Japanese": "ドライブ",
+    "Text": "Earth",
+    "Japanese": "地球",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 522,
     "Lvl": 2,
-    "Text": "Early",
-    "Japanese": "早い",
+    "Text": "Eight",
+    "Japanese": "八",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 523,
     "Lvl": 2,
-    "Text": "Earth",
-    "Japanese": "地球",
+    "Text": "Elite",
+    "Japanese": "エリート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 524,
     "Lvl": 2,
-    "Text": "Eight",
-    "Japanese": "八",
+    "Text": "Empty",
+    "Japanese": "空の",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 525,
     "Lvl": 2,
-    "Text": "Elite",
-    "Japanese": "エリート",
+    "Text": "Enemy",
+    "Japanese": "敵",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 526,
     "Lvl": 2,
-    "Text": "Empty",
-    "Japanese": "空の",
+    "Text": "Enjoy",
+    "Japanese": "楽しむ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 527,
     "Lvl": 2,
-    "Text": "Enemy",
-    "Japanese": "敵",
+    "Text": "Enter",
+    "Japanese": "入力",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 528,
     "Lvl": 2,
-    "Text": "Enjoy",
-    "Japanese": "楽しむ",
+    "Text": "Entry",
+    "Japanese": "エントリ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 529,
     "Lvl": 2,
-    "Text": "Enter",
-    "Japanese": "入力",
+    "Text": "Equal",
+    "Japanese": "等しい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 530,
     "Lvl": 2,
-    "Text": "Entry",
-    "Japanese": "エントリ",
+    "Text": "Error",
+    "Japanese": "エラー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 531,
     "Lvl": 2,
-    "Text": "Equal",
-    "Japanese": "等しい",
+    "Text": "Event",
+    "Japanese": "イベント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 532,
     "Lvl": 2,
-    "Text": "Error",
-    "Japanese": "エラー",
+    "Text": "Every",
+    "Japanese": "毎",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 533,
     "Lvl": 2,
-    "Text": "Event",
-    "Japanese": "イベント",
+    "Text": "Exact",
+    "Japanese": "ちょうど",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 534,
     "Lvl": 2,
-    "Text": "Every",
-    "Japanese": "毎",
+    "Text": "Exist",
+    "Japanese": "存在する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 535,
     "Lvl": 2,
-    "Text": "Exact",
-    "Japanese": "ちょうど",
+    "Text": "Extra",
+    "Japanese": "余分な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 536,
     "Lvl": 2,
-    "Text": "Exist",
-    "Japanese": "存在する",
+    "Text": "Faith",
+    "Japanese": "信仰",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 537,
     "Lvl": 2,
-    "Text": "Extra",
-    "Japanese": "余分な",
+    "Text": "False",
+    "Japanese": "間違い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 538,
     "Lvl": 2,
-    "Text": "Faith",
-    "Japanese": "信仰",
+    "Text": "Fault",
+    "Japanese": "故障",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 539,
     "Lvl": 2,
-    "Text": "False",
-    "Japanese": "間違い",
+    "Text": "Fiber",
+    "Japanese": "ファイバ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 540,
     "Lvl": 2,
-    "Text": "Fault",
-    "Japanese": "故障",
+    "Text": "Field",
+    "Japanese": "分野",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 541,
     "Lvl": 2,
-    "Text": "Fiber",
-    "Japanese": "ファイバ",
+    "Text": "Fifth",
+    "Japanese": "5番目",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 542,
     "Lvl": 2,
-    "Text": "Field",
-    "Japanese": "分野",
+    "Text": "Fifty",
+    "Japanese": "50",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 543,
     "Lvl": 2,
-    "Text": "Fifth",
-    "Japanese": "5番目",
+    "Text": "Fight",
+    "Japanese": "戦い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 544,
     "Lvl": 2,
-    "Text": "Fifty",
-    "Japanese": "50",
+    "Text": "Final",
+    "Japanese": "ファイナル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 545,
     "Lvl": 2,
-    "Text": "Fight",
-    "Japanese": "戦い",
+    "Text": "First",
+    "Japanese": "初め",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 546,
     "Lvl": 2,
-    "Text": "Final",
-    "Japanese": "ファイナル",
+    "Text": "Flash",
+    "Japanese": "フラッシュ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 547,
     "Lvl": 2,
-    "Text": "First",
-    "Japanese": "初め",
+    "Text": "Fleet",
+    "Japanese": "艦隊",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 548,
     "Lvl": 2,
-    "Text": "Flash",
-    "Japanese": "フラッシュ",
+    "Text": "Floor",
+    "Japanese": "床",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 549,
     "Lvl": 2,
-    "Text": "Fleet",
-    "Japanese": "艦隊",
+    "Text": "Fluid",
+    "Japanese": "流体",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 550,
     "Lvl": 2,
-    "Text": "Floor",
-    "Japanese": "床",
+    "Text": "Focus",
+    "Japanese": "集中",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 551,
     "Lvl": 2,
-    "Text": "Fluid",
-    "Japanese": "流体",
+    "Text": "Force",
+    "Japanese": "力",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 552,
     "Lvl": 2,
-    "Text": "Focus",
-    "Japanese": "集中",
+    "Text": "Frame",
+    "Japanese": "フレーム",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 553,
     "Lvl": 2,
-    "Text": "Force",
-    "Japanese": "力",
+    "Text": "Fresh",
+    "Japanese": "新鮮な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 554,
     "Lvl": 2,
-    "Text": "Frame",
-    "Japanese": "フレーム",
+    "Text": "Front",
+    "Japanese": "フロント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 555,
     "Lvl": 2,
-    "Text": "Fresh",
-    "Japanese": "新鮮な",
+    "Text": "Fruit",
+    "Japanese": "フルーツ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 556,
     "Lvl": 2,
-    "Text": "Front",
-    "Japanese": "フロント",
+    "Text": "Funny",
+    "Japanese": "面白い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 557,
     "Lvl": 2,
-    "Text": "Fruit",
-    "Japanese": "フルーツ",
+    "Text": "Ghost",
+    "Japanese": "おばけ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 558,
     "Lvl": 2,
-    "Text": "Funny",
-    "Japanese": "面白い",
+    "Text": "Gauss",
+    "Japanese": "ガウス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 559,
     "Lvl": 2,
-    "Text": "Ghost",
-    "Japanese": "おばけ",
+    "Text": "Glass",
+    "Japanese": "ガラス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 560,
     "Lvl": 2,
-    "Text": "Gauss",
-    "Japanese": "ガウス",
+    "Text": "Globe",
+    "Japanese": "グローブ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 561,
     "Lvl": 2,
-    "Text": "Glass",
-    "Japanese": "ガラス",
+    "Text": "Glory",
+    "Japanese": "栄光",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 562,
     "Lvl": 2,
-    "Text": "Globe",
+    "Text": "Glove",
     "Japanese": "グローブ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 563,
     "Lvl": 2,
-    "Text": "Glory",
-    "Japanese": "栄光",
+    "Text": "Grace",
+    "Japanese": "グレース",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 564,
     "Lvl": 2,
-    "Text": "Glove",
-    "Japanese": "グローブ",
+    "Text": "Grade",
+    "Japanese": "学年",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 565,
     "Lvl": 2,
-    "Text": "Grace",
-    "Japanese": "グレース",
+    "Text": "Grand",
+    "Japanese": "グランド",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 566,
     "Lvl": 2,
-    "Text": "Grade",
-    "Japanese": "学年",
+    "Text": "Grant",
+    "Japanese": "付与",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 567,
     "Lvl": 2,
-    "Text": "Grand",
-    "Japanese": "グランド",
+    "Text": "Graph",
+    "Japanese": "グラフ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 568,
     "Lvl": 2,
-    "Text": "Grant",
-    "Japanese": "付与",
+    "Text": "Grass",
+    "Japanese": "草",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 569,
     "Lvl": 2,
-    "Text": "Graph",
-    "Japanese": "グラフ",
+    "Text": "Great",
+    "Japanese": "素晴らしい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 570,
     "Lvl": 2,
-    "Text": "Grass",
-    "Japanese": "草",
+    "Text": "Green",
+    "Japanese": "緑",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 571,
     "Lvl": 2,
-    "Text": "Great",
-    "Japanese": "素晴らしい",
+    "Text": "Greet",
+    "Japanese": "挨拶する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 572,
     "Lvl": 2,
-    "Text": "Green",
-    "Japanese": "緑",
+    "Text": "Group",
+    "Japanese": "グループ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 573,
     "Lvl": 2,
-    "Text": "Greet",
-    "Japanese": "挨拶する",
+    "Text": "Guard",
+    "Japanese": "ガード",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 574,
     "Lvl": 2,
-    "Text": "Group",
-    "Japanese": "グループ",
+    "Text": "Guess",
+    "Japanese": "推測",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 575,
     "Lvl": 2,
-    "Text": "Guard",
-    "Japanese": "ガード",
+    "Text": "Guest",
+    "Japanese": "ゲスト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 576,
     "Lvl": 2,
-    "Text": "Guess",
-    "Japanese": "推測",
+    "Text": "Guide",
+    "Japanese": "ガイド",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 577,
     "Lvl": 2,
-    "Text": "Guest",
-    "Japanese": "ゲスト",
+    "Text": "Habit",
+    "Japanese": "癖",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 578,
     "Lvl": 2,
-    "Text": "Guide",
-    "Japanese": "ガイド",
+    "Text": "Happy",
+    "Japanese": "ハッピー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 579,
     "Lvl": 2,
-    "Text": "Habit",
-    "Japanese": "癖",
+    "Text": "Heart",
+    "Japanese": "心臓",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 580,
     "Lvl": 2,
-    "Text": "Happy",
-    "Japanese": "ハッピー",
+    "Text": "Heavy",
+    "Japanese": "重い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 581,
     "Lvl": 2,
-    "Text": "Heart",
-    "Japanese": "心臓",
+    "Text": "Hello",
+    "Japanese": "こんにちは",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 582,
     "Lvl": 2,
-    "Text": "Heavy",
-    "Japanese": "重い",
+    "Text": "Honey",
+    "Japanese": "ハニー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 583,
     "Lvl": 2,
-    "Text": "Hello",
-    "Japanese": "こんにちは",
+    "Text": "Honor",
+    "Japanese": "名誉",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 584,
     "Lvl": 2,
-    "Text": "Honey",
-    "Japanese": "ハニー",
+    "Text": "Horse",
+    "Japanese": "馬",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 585,
     "Lvl": 2,
-    "Text": "Honor",
-    "Japanese": "名誉",
+    "Text": "Hotel",
+    "Japanese": "ホテル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 586,
     "Lvl": 2,
-    "Text": "Horse",
-    "Japanese": "馬",
+    "Text": "House",
+    "Japanese": "家",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 587,
     "Lvl": 2,
-    "Text": "Hotel",
-    "Japanese": "ホテル",
+    "Text": "Human",
+    "Japanese": "人間",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 588,
     "Lvl": 2,
-    "Text": "House",
-    "Japanese": "家",
+    "Text": "Ideal",
+    "Japanese": "理想的",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 589,
     "Lvl": 2,
-    "Text": "Human",
-    "Japanese": "人間",
+    "Text": "Image",
+    "Japanese": "画像",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 590,
     "Lvl": 2,
-    "Text": "Ideal",
-    "Japanese": "理想的",
+    "Text": "Index",
+    "Japanese": "索引",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 591,
     "Lvl": 2,
-    "Text": "Image",
-    "Japanese": "画像",
+    "Text": "Inner",
+    "Japanese": "内側",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 592,
     "Lvl": 2,
-    "Text": "Index",
-    "Japanese": "索引",
+    "Text": "Input",
+    "Japanese": "入力",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 593,
     "Lvl": 2,
-    "Text": "Inner",
-    "Japanese": "内側",
+    "Text": "Issue",
+    "Japanese": "問題",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 594,
     "Lvl": 2,
-    "Text": "Input",
-    "Japanese": "入力",
+    "Text": "Joint",
+    "Japanese": "ジョイント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 595,
     "Lvl": 2,
-    "Text": "Issue",
-    "Japanese": "問題",
+    "Text": "Judge",
+    "Japanese": "裁判官",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 596,
     "Lvl": 2,
-    "Text": "Joint",
-    "Japanese": "ジョイント",
+    "Text": "Juice",
+    "Japanese": "ジュース",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 597,
     "Lvl": 2,
-    "Text": "Judge",
-    "Japanese": "裁判官",
+    "Text": "Knife",
+    "Japanese": "ナイフ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 598,
     "Lvl": 2,
-    "Text": "Juice",
-    "Japanese": "ジュース",
+    "Text": "Knock",
+    "Japanese": "ノック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 599,
     "Lvl": 2,
-    "Text": "Knife",
-    "Japanese": "ナイフ",
+    "Text": "Label",
+    "Japanese": "ラベル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 600,
     "Lvl": 2,
-    "Text": "Knock",
-    "Japanese": "ノック",
+    "Text": "Labor",
+    "Japanese": "労働",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 601,
     "Lvl": 2,
-    "Text": "Label",
-    "Japanese": "ラベル",
+    "Text": "Large",
+    "Japanese": "大きい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 602,
     "Lvl": 2,
-    "Text": "Labor",
-    "Japanese": "労働",
+    "Text": "Laser",
+    "Japanese": "レーザ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 603,
     "Lvl": 2,
-    "Text": "Large",
-    "Japanese": "大きい",
+    "Text": "Laugh",
+    "Japanese": "笑う",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 604,
     "Lvl": 2,
-    "Text": "Laser",
-    "Japanese": "レーザ",
+    "Text": "Layer",
+    "Japanese": "層",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 605,
     "Lvl": 2,
-    "Text": "Laugh",
-    "Japanese": "笑う",
+    "Text": "Learn",
+    "Japanese": "学ぶ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 606,
     "Lvl": 2,
-    "Text": "Layer",
-    "Japanese": "層",
+    "Text": "Least",
+    "Japanese": "少しでも",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 607,
     "Lvl": 2,
-    "Text": "Learn",
-    "Japanese": "学ぶ",
+    "Text": "Leave",
+    "Japanese": "離れる",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 608,
     "Lvl": 2,
-    "Text": "Least",
-    "Japanese": "少しでも",
+    "Text": "Legal",
+    "Japanese": "法律上の",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 609,
     "Lvl": 2,
-    "Text": "Leave",
-    "Japanese": "離れる",
+    "Text": "Level",
+    "Japanese": "レベル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 610,
     "Lvl": 2,
-    "Text": "Legal",
-    "Japanese": "法律上の",
+    "Text": "Light",
+    "Japanese": "ライト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 611,
     "Lvl": 2,
-    "Text": "Level",
-    "Japanese": "レベル",
+    "Text": "Limit",
+    "Japanese": "制限",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 612,
     "Lvl": 2,
-    "Text": "Light",
-    "Japanese": "ライト",
+    "Text": "Liver",
+    "Japanese": "肝臓",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 613,
     "Lvl": 2,
-    "Text": "Limit",
-    "Japanese": "制限",
+    "Text": "Local",
+    "Japanese": "地元",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 614,
     "Lvl": 2,
-    "Text": "Liver",
-    "Japanese": "肝臓",
+    "Text": "Logic",
+    "Japanese": "論理",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 615,
     "Lvl": 2,
-    "Text": "Local",
-    "Japanese": "地元",
+    "Text": "Loose",
+    "Japanese": "ゆるい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 616,
     "Lvl": 2,
-    "Text": "Logic",
-    "Japanese": "論理",
+    "Text": "Lower",
+    "Japanese": "より低い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 617,
     "Lvl": 2,
-    "Text": "Loose",
-    "Japanese": "ゆるい",
+    "Text": "Lucky",
+    "Japanese": "ラッキー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 618,
     "Lvl": 2,
-    "Text": "Lower",
-    "Japanese": "より低い",
+    "Text": "Lunch",
+    "Japanese": "ランチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 619,
     "Lvl": 2,
-    "Text": "Lucky",
-    "Japanese": "ラッキー",
+    "Text": "Magic",
+    "Japanese": "魔法",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 620,
     "Lvl": 2,
-    "Text": "Lunch",
-    "Japanese": "ランチ",
+    "Text": "Major",
+    "Japanese": "選考科目",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 621,
     "Lvl": 2,
-    "Text": "Magic",
-    "Japanese": "魔法",
+    "Text": "Maker",
+    "Japanese": "メーカー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 622,
     "Lvl": 2,
-    "Text": "Major",
-    "Japanese": "選考科目",
+    "Text": "March",
+    "Japanese": "行進",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 623,
     "Lvl": 2,
-    "Text": "Maker",
-    "Japanese": "メーカー",
+    "Text": "Match",
+    "Japanese": "マッチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 624,
     "Lvl": 2,
-    "Text": "March",
-    "Japanese": "行進",
+    "Text": "Maybe",
+    "Japanese": "多分",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 625,
     "Lvl": 2,
-    "Text": "Match",
-    "Japanese": "マッチ",
+    "Text": "Mayor",
+    "Japanese": "市長",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 626,
     "Lvl": 2,
-    "Text": "Maybe",
-    "Japanese": "多分",
+    "Text": "Media",
+    "Japanese": "メディア",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 627,
     "Lvl": 2,
-    "Text": "Mayor",
-    "Japanese": "市長",
+    "Text": "Metal",
+    "Japanese": "金属",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 628,
     "Lvl": 2,
-    "Text": "Media",
-    "Japanese": "メディア",
+    "Text": "Might",
+    "Japanese": "かもしれない",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 629,
     "Lvl": 2,
-    "Text": "Metal",
-    "Japanese": "金属",
+    "Text": "Minor",
+    "Japanese": "マイナー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 630,
     "Lvl": 2,
-    "Text": "Might",
-    "Japanese": "かもしれない",
+    "Text": "Model",
+    "Japanese": "モデル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 631,
     "Lvl": 2,
-    "Text": "Minor",
-    "Japanese": "マイナー",
+    "Text": "Money",
+    "Japanese": "お金",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 632,
     "Lvl": 2,
-    "Text": "Model",
-    "Japanese": "モデル",
+    "Text": "Month",
+    "Japanese": "月",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 633,
     "Lvl": 2,
-    "Text": "Money",
-    "Japanese": "お金",
+    "Text": "Moral",
+    "Japanese": "道徳",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 634,
     "Lvl": 2,
-    "Text": "Month",
-    "Japanese": "月",
+    "Text": "Motor",
+    "Japanese": "モーター",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 635,
     "Lvl": 2,
-    "Text": "Moral",
-    "Japanese": "道徳",
+    "Text": "Mount",
+    "Japanese": "マウント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 636,
     "Lvl": 2,
-    "Text": "Motor",
-    "Japanese": "モーター",
+    "Text": "Mouse",
+    "Japanese": "ねずみ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 637,
     "Lvl": 2,
-    "Text": "Mount",
-    "Japanese": "マウント",
+    "Text": "Mouth",
+    "Japanese": "口",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 638,
     "Lvl": 2,
-    "Text": "Mouse",
-    "Japanese": "ねずみ",
+    "Text": "Movie",
+    "Japanese": "映画",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 639,
     "Lvl": 2,
-    "Text": "Mouth",
-    "Japanese": "口",
+    "Text": "Music",
+    "Japanese": "音楽",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 640,
     "Lvl": 2,
-    "Text": "Movie",
-    "Japanese": "映画",
+    "Text": "Night",
+    "Japanese": "夜",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 641,
     "Lvl": 2,
-    "Text": "Music",
-    "Japanese": "音楽",
+    "Text": "Noise",
+    "Japanese": "ノイズ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 642,
     "Lvl": 2,
-    "Text": "Night",
-    "Japanese": "夜",
+    "Text": "North",
+    "Japanese": "北",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 643,
     "Lvl": 2,
-    "Text": "Noise",
-    "Japanese": "ノイズ",
+    "Text": "Novel",
+    "Japanese": "小説",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 644,
     "Lvl": 2,
-    "Text": "North",
-    "Japanese": "北",
+    "Text": "Nurse",
+    "Japanese": "看護師",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 645,
     "Lvl": 2,
-    "Text": "Novel",
-    "Japanese": "小説",
+    "Text": "Ocean",
+    "Japanese": "海",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 646,
     "Lvl": 2,
-    "Text": "Nurse",
-    "Japanese": "看護師",
+    "Text": "Offer",
+    "Japanese": "オファー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 647,
     "Lvl": 2,
-    "Text": "Ocean",
-    "Japanese": "海",
+    "Text": "Often",
+    "Japanese": "頻繁",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 648,
     "Lvl": 2,
-    "Text": "Offer",
-    "Japanese": "オファー",
+    "Text": "Order",
+    "Japanese": "注文",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 649,
     "Lvl": 2,
-    "Text": "Often",
-    "Japanese": "頻繁",
+    "Text": "Other",
+    "Japanese": "他の",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 650,
     "Lvl": 2,
-    "Text": "Order",
-    "Japanese": "注文",
+    "Text": "Outer",
+    "Japanese": "外側",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 651,
     "Lvl": 2,
-    "Text": "Other",
-    "Japanese": "他の",
+    "Text": "Owner",
+    "Japanese": "所有者",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 652,
     "Lvl": 2,
-    "Text": "Outer",
-    "Japanese": "外側",
+    "Text": "Paint",
+    "Japanese": "ペイント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 653,
     "Lvl": 2,
-    "Text": "Owner",
-    "Japanese": "所有者",
+    "Text": "Panel",
+    "Japanese": "パネル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 654,
     "Lvl": 2,
-    "Text": "Paint",
-    "Japanese": "ペイント",
+    "Text": "Paper",
+    "Japanese": "紙",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 655,
     "Lvl": 2,
-    "Text": "Panel",
-    "Japanese": "パネル",
+    "Text": "Party",
+    "Japanese": "パーティー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 656,
     "Lvl": 2,
-    "Text": "Paper",
-    "Japanese": "紙",
+    "Text": "Peace",
+    "Japanese": "平和",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 657,
     "Lvl": 2,
-    "Text": "Party",
-    "Japanese": "パーティー",
+    "Text": "Phase",
+    "Japanese": "段階",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 658,
     "Lvl": 2,
-    "Text": "Peace",
-    "Japanese": "平和",
+    "Text": "Phone",
+    "Japanese": "電話",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 659,
     "Lvl": 2,
-    "Text": "Phase",
-    "Japanese": "段階",
+    "Text": "Photo",
+    "Japanese": "写真",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 660,
     "Lvl": 2,
-    "Text": "Phone",
-    "Japanese": "電話",
+    "Text": "Piece",
+    "Japanese": "ピース",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 661,
     "Lvl": 2,
-    "Text": "Photo",
-    "Japanese": "写真",
+    "Text": "Pilot",
+    "Japanese": "パイロット",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 662,
     "Lvl": 2,
-    "Text": "Piece",
-    "Japanese": "ピース",
+    "Text": "Pitch",
+    "Japanese": "ピッチ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 663,
     "Lvl": 2,
-    "Text": "Pilot",
-    "Japanese": "パイロット",
+    "Text": "Place",
+    "Japanese": "場所",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 664,
     "Lvl": 2,
-    "Text": "Pitch",
-    "Japanese": "ピッチ",
+    "Text": "Plain",
+    "Japanese": "無地",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 665,
     "Lvl": 2,
-    "Text": "Place",
-    "Japanese": "場所",
+    "Text": "Plane",
+    "Japanese": "飛行機",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 666,
     "Lvl": 2,
-    "Text": "Plain",
-    "Japanese": "無地",
+    "Text": "Plant",
+    "Japanese": "植物",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 667,
     "Lvl": 2,
-    "Text": "Plane",
-    "Japanese": "飛行機",
+    "Text": "Plate",
+    "Japanese": "皿",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 668,
     "Lvl": 2,
-    "Text": "Plant",
-    "Japanese": "植物",
+    "Text": "Point",
+    "Japanese": "ポイント",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 669,
     "Lvl": 2,
-    "Text": "Plate",
-    "Japanese": "皿",
+    "Text": "Pound",
+    "Japanese": "ポンド",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 670,
     "Lvl": 2,
-    "Text": "Point",
-    "Japanese": "ポイント",
+    "Text": "Power",
+    "Japanese": "力",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 671,
     "Lvl": 2,
-    "Text": "Pound",
-    "Japanese": "ポンド",
+    "Text": "Press",
+    "Japanese": "プレス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 672,
     "Lvl": 2,
-    "Text": "Power",
-    "Japanese": "力",
+    "Text": "Price",
+    "Japanese": "価格",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 673,
     "Lvl": 2,
-    "Text": "Press",
-    "Japanese": "プレス",
+    "Text": "Pride",
+    "Japanese": "誇り",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 674,
     "Lvl": 2,
-    "Text": "Price",
-    "Japanese": "価格",
+    "Text": "Prime",
+    "Japanese": "プライム",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 675,
     "Lvl": 2,
-    "Text": "Pride",
-    "Japanese": "誇り",
+    "Text": "Print",
+    "Japanese": "印刷",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 676,
     "Lvl": 2,
-    "Text": "Prime",
-    "Japanese": "プライム",
+    "Text": "Prior",
+    "Japanese": "前",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 677,
     "Lvl": 2,
-    "Text": "Print",
-    "Japanese": "印刷",
+    "Text": "Prize",
+    "Japanese": "賞",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 678,
     "Lvl": 2,
-    "Text": "Prior",
-    "Japanese": "前",
+    "Text": "Proof",
+    "Japanese": "証拠",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 679,
     "Lvl": 2,
-    "Text": "Prize",
-    "Japanese": "賞",
+    "Text": "Proud",
+    "Japanese": "誇りに思う",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 680,
     "Lvl": 2,
-    "Text": "Proof",
-    "Japanese": "証拠",
+    "Text": "Prove",
+    "Japanese": "証明する",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 681,
     "Lvl": 2,
-    "Text": "Proud",
-    "Japanese": "誇りに思う",
+    "Text": "Queen",
+    "Japanese": "女王",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 682,
     "Lvl": 2,
-    "Text": "Prove",
-    "Japanese": "証明する",
+    "Text": "Quick",
+    "Japanese": "素早い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 683,
     "Lvl": 2,
-    "Text": "Queen",
-    "Japanese": "女王",
+    "Text": "Quiet",
+    "Japanese": "静かな",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 684,
     "Lvl": 2,
-    "Text": "Quick",
-    "Japanese": "素早い",
+    "Text": "Quite",
+    "Japanese": "とても",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 685,
     "Lvl": 2,
-    "Text": "Quiet",
-    "Japanese": "静かな",
+    "Text": "Quote",
+    "Japanese": "引用",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 686,
     "Lvl": 2,
-    "Text": "Quite",
-    "Japanese": "とても",
+    "Text": "Radio",
+    "Japanese": "無線",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 687,
     "Lvl": 2,
-    "Text": "Quote",
-    "Japanese": "引用",
+    "Text": "Raise",
+    "Japanese": "上げる",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 688,
     "Lvl": 2,
-    "Text": "Radio",
-    "Japanese": "無線",
+    "Text": "Range",
+    "Japanese": "範囲",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 689,
     "Lvl": 2,
-    "Text": "Raise",
-    "Japanese": "上げる",
+    "Text": "Rapid",
+    "Japanese": "急速な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 690,
     "Lvl": 2,
-    "Text": "Range",
-    "Japanese": "範囲",
+    "Text": "Ratio",
+    "Japanese": "比率",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 691,
     "Lvl": 2,
-    "Text": "Rapid",
-    "Japanese": "急速な",
+    "Text": "Reach",
+    "Japanese": "到着",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 692,
     "Lvl": 2,
-    "Text": "Ratio",
-    "Japanese": "比率",
+    "Text": "Ready",
+    "Japanese": "準備ができて",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 693,
     "Lvl": 2,
-    "Text": "Reach",
-    "Japanese": "到着",
+    "Text": "Relax",
+    "Japanese": "リラックス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 694,
     "Lvl": 2,
-    "Text": "Ready",
-    "Japanese": "準備ができて",
+    "Text": "Reply",
+    "Japanese": "返事",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 695,
     "Lvl": 2,
-    "Text": "Relax",
-    "Japanese": "リラックス",
+    "Text": "Right",
+    "Japanese": "右",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 696,
     "Lvl": 2,
-    "Text": "Reply",
-    "Japanese": "返事",
+    "Text": "River",
+    "Japanese": "川",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 697,
     "Lvl": 2,
-    "Text": "Right",
-    "Japanese": "右",
+    "Text": "Rough",
+    "Japanese": "粗い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 698,
     "Lvl": 2,
-    "Text": "River",
-    "Japanese": "川",
+    "Text": "Round",
+    "Japanese": "ラウンド",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 699,
     "Lvl": 2,
-    "Text": "Rough",
-    "Japanese": "粗い",
+    "Text": "Route",
+    "Japanese": "ルート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 700,
     "Lvl": 2,
-    "Text": "Round",
-    "Japanese": "ラウンド",
+    "Text": "Royal",
+    "Japanese": "ロイヤル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 701,
     "Lvl": 2,
-    "Text": "Route",
-    "Japanese": "ルート",
+    "Text": "Rural",
+    "Japanese": "田舎",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 702,
     "Lvl": 2,
-    "Text": "Royal",
-    "Japanese": "ロイヤル",
+    "Text": "Scale",
+    "Japanese": "規模",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 703,
     "Lvl": 2,
-    "Text": "Rural",
-    "Japanese": "田舎",
+    "Text": "Scene",
+    "Japanese": "シーン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 704,
     "Lvl": 2,
-    "Text": "Scale",
-    "Japanese": "規模",
+    "Text": "Scope",
+    "Japanese": "範囲",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 705,
     "Lvl": 2,
-    "Text": "Scene",
-    "Japanese": "シーン",
+    "Text": "Score",
+    "Japanese": "スコア",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 706,
     "Lvl": 2,
-    "Text": "Scope",
-    "Japanese": "範囲",
+    "Text": "Sense",
+    "Japanese": "センス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 707,
     "Lvl": 2,
-    "Text": "Score",
-    "Japanese": "スコア",
+    "Text": "Serve",
+    "Japanese": "仕える",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 708,
     "Lvl": 2,
-    "Text": "Sense",
-    "Japanese": "センス",
+    "Text": "Seven",
+    "Japanese": "セブン",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 709,
     "Lvl": 2,
-    "Text": "Serve",
-    "Japanese": "仕える",
+    "Text": "Shape",
+    "Japanese": "形",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 710,
     "Lvl": 2,
-    "Text": "Seven",
-    "Japanese": "セブン",
+    "Text": "Share",
+    "Japanese": "共有",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 711,
     "Lvl": 2,
-    "Text": "Shape",
-    "Japanese": "形",
+    "Text": "Sharp",
+    "Japanese": "シャープ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 712,
     "Lvl": 2,
-    "Text": "Share",
-    "Japanese": "共有",
+    "Text": "Sheet",
+    "Japanese": "シート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 713,
     "Lvl": 2,
-    "Text": "Sharp",
-    "Japanese": "シャープ",
+    "Text": "Shelf",
+    "Japanese": "棚",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 714,
     "Lvl": 2,
-    "Text": "Sheet",
-    "Japanese": "シート",
+    "Text": "Shell",
+    "Japanese": "シェル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 715,
     "Lvl": 2,
-    "Text": "Shelf",
-    "Japanese": "棚",
+    "Text": "Shift",
+    "Japanese": "シフト",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 716,
     "Lvl": 2,
-    "Text": "Shell",
-    "Japanese": "シェル",
+    "Text": "Shirt",
+    "Japanese": "シャツ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 717,
     "Lvl": 2,
-    "Text": "Shift",
-    "Japanese": "シフト",
+    "Text": "Shock",
+    "Japanese": "ショック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 718,
     "Lvl": 2,
-    "Text": "Shirt",
-    "Japanese": "シャツ",
+    "Text": "Shoot",
+    "Japanese": "シュート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 719,
     "Lvl": 2,
-    "Text": "Shock",
-    "Japanese": "ショック",
+    "Text": "Short",
+    "Japanese": "短い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 720,
     "Lvl": 2,
-    "Text": "Shoot",
-    "Japanese": "シュート",
+    "Text": "Shout",
+    "Japanese": "叫ぶ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 721,
     "Lvl": 2,
-    "Text": "Short",
-    "Japanese": "短い",
+    "Text": "Sight",
+    "Japanese": "視力",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 722,
     "Lvl": 2,
-    "Text": "Shout",
-    "Japanese": "叫ぶ",
+    "Text": "Silly",
+    "Japanese": "馬鹿な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 723,
     "Lvl": 2,
-    "Text": "Sight",
-    "Japanese": "視力",
+    "Text": "Since",
+    "Japanese": "以来",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 724,
     "Lvl": 2,
-    "Text": "Silly",
-    "Japanese": "馬鹿な",
+    "Text": "Skill",
+    "Japanese": "スキル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 725,
     "Lvl": 2,
-    "Text": "Since",
-    "Japanese": "以来",
+    "Text": "Skirt",
+    "Japanese": "スカート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 726,
     "Lvl": 2,
-    "Text": "Skill",
-    "Japanese": "スキル",
+    "Text": "Sleep",
+    "Japanese": "寝る",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 727,
     "Lvl": 2,
-    "Text": "Skirt",
-    "Japanese": "スカート",
+    "Text": "Slide",
+    "Japanese": "スライド",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 728,
     "Lvl": 2,
-    "Text": "Sleep",
-    "Japanese": "寝る",
+    "Text": "Small",
+    "Japanese": "小さい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 729,
     "Lvl": 2,
-    "Text": "Slide",
-    "Japanese": "スライド",
+    "Text": "Smart",
+    "Japanese": "頭いい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 730,
     "Lvl": 2,
-    "Text": "Small",
-    "Japanese": "小さい",
+    "Text": "Smile",
+    "Japanese": "笑顔",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 731,
     "Lvl": 2,
-    "Text": "Smart",
-    "Japanese": "頭いい",
+    "Text": "Smoke",
+    "Japanese": "煙",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 732,
     "Lvl": 2,
-    "Text": "Smile",
-    "Japanese": "笑顔",
+    "Text": "Snake",
+    "Japanese": "蛇",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 733,
     "Lvl": 2,
-    "Text": "Smoke",
-    "Japanese": "煙",
+    "Text": "Solid",
+    "Japanese": "固体",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 734,
     "Lvl": 2,
-    "Text": "Snake",
-    "Japanese": "蛇",
+    "Text": "Solve",
+    "Japanese": "解決する",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 735,
     "Lvl": 2,
-    "Text": "Solid",
-    "Japanese": "固体",
+    "Text": "Sound",
+    "Japanese": "音",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 736,
     "Lvl": 2,
-    "Text": "Solve",
-    "Japanese": "解決する",
+    "Text": "South",
+    "Japanese": "南",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 737,
     "Lvl": 2,
-    "Text": "Sound",
-    "Japanese": "音",
+    "Text": "Space",
+    "Japanese": "空間",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 738,
     "Lvl": 2,
-    "Text": "South",
-    "Japanese": "南",
+    "Text": "Speak",
+    "Japanese": "話す",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 739,
     "Lvl": 2,
-    "Text": "Space",
-    "Japanese": "空間",
+    "Text": "Speed",
+    "Japanese": "スピード",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 740,
     "Lvl": 2,
-    "Text": "Speak",
-    "Japanese": "話す",
+    "Text": "Spell",
+    "Japanese": "スペル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 741,
     "Lvl": 2,
-    "Text": "Speed",
-    "Japanese": "スピード",
+    "Text": "Spend",
+    "Japanese": "過ごす",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 742,
     "Lvl": 2,
-    "Text": "Spell",
-    "Japanese": "スペル",
+    "Text": "Split",
+    "Japanese": "決裂",
+    "isSafe": false,
     "Len": 5
   },
   {
     "Id": 743,
     "Lvl": 2,
-    "Text": "Spend",
-    "Japanese": "過ごす",
+    "Text": "Sport",
+    "Japanese": "スポーツ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 744,
     "Lvl": 2,
-    "Text": "Split",
-    "Japanese": "スプリット",
+    "Text": "Staff",
+    "Japanese": "スタッフ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 745,
     "Lvl": 2,
-    "Text": "Sport",
-    "Japanese": "スポーツ",
+    "Text": "Stage",
+    "Japanese": "ステージ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 746,
     "Lvl": 2,
-    "Text": "Staff",
-    "Japanese": "スタッフ",
+    "Text": "Stake",
+    "Japanese": "ステーク",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 747,
     "Lvl": 2,
-    "Text": "Stage",
-    "Japanese": "ステージ",
+    "Text": "Stand",
+    "Japanese": "立つ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 748,
     "Lvl": 2,
-    "Text": "Stake",
-    "Japanese": "ステーク",
+    "Text": "Start",
+    "Japanese": "始める",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 749,
     "Lvl": 2,
-    "Text": "Stand",
-    "Japanese": "立つ",
+    "Text": "State",
+    "Japanese": "州",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 750,
     "Lvl": 2,
-    "Text": "Start",
-    "Japanese": "始める",
+    "Text": "Steam",
+    "Japanese": "スチーム",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 751,
     "Lvl": 2,
-    "Text": "State",
-    "Japanese": "州",
+    "Text": "Steel",
+    "Japanese": "鋼鉄",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 752,
     "Lvl": 2,
-    "Text": "Steam",
-    "Japanese": "スチーム",
+    "Text": "Stick",
+    "Japanese": "スティック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 753,
     "Lvl": 2,
-    "Text": "Steel",
-    "Japanese": "鋼鉄",
+    "Text": "Still",
+    "Japanese": "まだ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 754,
     "Lvl": 2,
-    "Text": "Stick",
-    "Japanese": "スティック",
+    "Text": "Stock",
+    "Japanese": "ストック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 755,
     "Lvl": 2,
-    "Text": "Still",
-    "Japanese": "まだ",
+    "Text": "Stone",
+    "Japanese": "石",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 756,
     "Lvl": 2,
-    "Text": "Stock",
-    "Japanese": "ストック",
+    "Text": "Store",
+    "Japanese": "店",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 757,
     "Lvl": 2,
-    "Text": "Stone",
-    "Japanese": "石",
+    "Text": "Storm",
+    "Japanese": "嵐",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 758,
     "Lvl": 2,
-    "Text": "Store",
-    "Japanese": "店",
+    "Text": "Story",
+    "Japanese": "話",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 759,
     "Lvl": 2,
-    "Text": "Storm",
-    "Japanese": "嵐",
+    "Text": "Strip",
+    "Japanese": "ストリップ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 760,
     "Lvl": 2,
-    "Text": "Story",
-    "Japanese": "話",
+    "Text": "Stuck",
+    "Japanese": "立ち往生",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 761,
     "Lvl": 2,
-    "Text": "Strip",
-    "Japanese": "ストリップ",
+    "Text": "Study",
+    "Japanese": "勉強",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 762,
     "Lvl": 2,
-    "Text": "Stuck",
-    "Japanese": "立ち往生",
+    "Text": "Style",
+    "Japanese": "スタイル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 763,
     "Lvl": 2,
-    "Text": "Study",
-    "Japanese": "勉強",
+    "Text": "Sugar",
+    "Japanese": "砂糖",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 764,
     "Lvl": 2,
-    "Text": "Style",
-    "Japanese": "スタイル",
+    "Text": "Suite",
+    "Japanese": "スイート",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 765,
     "Lvl": 2,
-    "Text": "Sugar",
-    "Japanese": "砂糖",
+    "Text": "Super",
+    "Japanese": "素晴らしい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 766,
     "Lvl": 2,
-    "Text": "Suite",
-    "Japanese": "スイート",
+    "Text": "Sweet",
+    "Japanese": "甘い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 767,
     "Lvl": 2,
-    "Text": "Super",
-    "Japanese": "素晴らしい",
+    "Text": "Table",
+    "Japanese": "テーブル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 768,
     "Lvl": 2,
-    "Text": "Sweet",
-    "Japanese": "甘い",
+    "Text": "Taste",
+    "Japanese": "味",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 769,
     "Lvl": 2,
-    "Text": "Table",
-    "Japanese": "テーブル",
+    "Text": "Teach",
+    "Japanese": "教える",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 770,
     "Lvl": 2,
-    "Text": "Taste",
-    "Japanese": "味",
+    "Text": "Terms",
+    "Japanese": "条項",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 771,
     "Lvl": 2,
-    "Text": "Teach",
-    "Japanese": "教える",
+    "Text": "Thank",
+    "Japanese": "感謝",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 772,
     "Lvl": 2,
-    "Text": "Terms",
-    "Japanese": "条項",
+    "Text": "Their",
+    "Japanese": "彼らの",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 773,
     "Lvl": 2,
-    "Text": "Thank",
-    "Japanese": "感謝",
+    "Text": "Theme",
+    "Japanese": "テーマ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 774,
     "Lvl": 2,
-    "Text": "Their",
-    "Japanese": "彼らの",
+    "Text": "There",
+    "Japanese": "そこには",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 775,
     "Lvl": 2,
-    "Text": "Theme",
-    "Japanese": "テーマ",
+    "Text": "These",
+    "Japanese": "これら",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 776,
     "Lvl": 2,
-    "Text": "There",
-    "Japanese": "そこには",
+    "Text": "Thick",
+    "Japanese": "厚い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 777,
     "Lvl": 2,
-    "Text": "These",
-    "Japanese": "これら",
+    "Text": "Thing",
+    "Japanese": "もの",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 778,
     "Lvl": 2,
-    "Text": "Thick",
-    "Japanese": "厚い",
+    "Text": "Think",
+    "Japanese": "考える",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 779,
     "Lvl": 2,
-    "Text": "Thing",
-    "Japanese": "もの",
+    "Text": "Third",
+    "Japanese": "三番目",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 780,
     "Lvl": 2,
-    "Text": "Think",
-    "Japanese": "考える",
+    "Text": "Those",
+    "Japanese": "それらの",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 781,
     "Lvl": 2,
-    "Text": "Third",
-    "Japanese": "三番目",
+    "Text": "Three",
+    "Japanese": "三つ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 782,
     "Lvl": 2,
-    "Text": "Those",
-    "Japanese": "それらの",
+    "Text": "Throw",
+    "Japanese": "投げる",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 783,
     "Lvl": 2,
-    "Text": "Three",
-    "Japanese": "三つ",
+    "Text": "Tight",
+    "Japanese": "きつい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 784,
     "Lvl": 2,
-    "Text": "Throw",
-    "Japanese": "投げる",
+    "Text": "Tired",
+    "Japanese": "疲れた",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 785,
     "Lvl": 2,
-    "Text": "Tight",
-    "Japanese": "きつい",
+    "Text": "Title",
+    "Japanese": "タイトル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 786,
     "Lvl": 2,
-    "Text": "Tired",
-    "Japanese": "疲れた",
+    "Text": "Today",
+    "Japanese": "今日",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 787,
     "Lvl": 2,
-    "Text": "Title",
-    "Japanese": "タイトル",
+    "Text": "Topic",
+    "Japanese": "トピック",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 788,
     "Lvl": 2,
-    "Text": "Today",
-    "Japanese": "今日",
+    "Text": "Total",
+    "Japanese": "合計",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 789,
     "Lvl": 2,
-    "Text": "Topic",
-    "Japanese": "トピック",
+    "Text": "Touch",
+    "Japanese": "触る",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 790,
     "Lvl": 2,
-    "Text": "Total",
-    "Japanese": "合計",
+    "Text": "Tough",
+    "Japanese": "厳しい",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 791,
     "Lvl": 2,
-    "Text": "Touch",
-    "Japanese": "触る",
+    "Text": "Tower",
+    "Japanese": "タワー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 792,
     "Lvl": 2,
-    "Text": "Tough",
-    "Japanese": "厳しい",
+    "Text": "Track",
+    "Japanese": "追跡",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 793,
     "Lvl": 2,
-    "Text": "Tower",
-    "Japanese": "タワー",
+    "Text": "Trade",
+    "Japanese": "貿易",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 794,
     "Lvl": 2,
-    "Text": "Track",
-    "Japanese": "追跡",
+    "Text": "Train",
+    "Japanese": "電車",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 795,
     "Lvl": 2,
-    "Text": "Trade",
-    "Japanese": "貿易",
+    "Text": "Treat",
+    "Japanese": "扱う",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 796,
     "Lvl": 2,
-    "Text": "Train",
-    "Japanese": "電車",
+    "Text": "Trend",
+    "Japanese": "傾向",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 797,
     "Lvl": 2,
-    "Text": "Treat",
-    "Japanese": "扱う",
+    "Text": "Trial",
+    "Japanese": "トライアル",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 798,
     "Lvl": 2,
-    "Text": "Trend",
-    "Japanese": "傾向",
+    "Text": "Trunk",
+    "Japanese": "トランク",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 799,
     "Lvl": 2,
-    "Text": "Trial",
-    "Japanese": "トライアル",
+    "Text": "Trust",
+    "Japanese": "信頼",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 800,
     "Lvl": 2,
-    "Text": "Trunk",
-    "Japanese": "トランク",
+    "Text": "Truth",
+    "Japanese": "真実",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 801,
     "Lvl": 2,
-    "Text": "Trust",
-    "Japanese": "信頼",
+    "Text": "Twice",
+    "Japanese": "2回",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 802,
     "Lvl": 2,
-    "Text": "Truth",
-    "Japanese": "真実",
+    "Text": "Under",
+    "Japanese": "下",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 803,
     "Lvl": 2,
-    "Text": "Twice",
-    "Japanese": "2回",
+    "Text": "Union",
+    "Japanese": "連合",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 804,
     "Lvl": 2,
-    "Text": "Under",
-    "Japanese": "下",
+    "Text": "Unity",
+    "Japanese": "団結",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 805,
     "Lvl": 2,
-    "Text": "Union",
-    "Japanese": "連合",
+    "Text": "Until",
+    "Japanese": "それまで",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 806,
     "Lvl": 2,
-    "Text": "Unity",
-    "Japanese": "団結",
+    "Text": "Upper",
+    "Japanese": "アッパー",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 807,
     "Lvl": 2,
-    "Text": "Until",
-    "Japanese": "それまで",
+    "Text": "Upset",
+    "Japanese": "動揺",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 808,
     "Lvl": 2,
-    "Text": "Upper",
-    "Japanese": "アッパー",
+    "Text": "Urban",
+    "Japanese": "都会的な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 809,
     "Lvl": 2,
-    "Text": "Upset",
-    "Japanese": "動揺",
+    "Text": "Usage",
+    "Japanese": "使用法",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 810,
     "Lvl": 2,
-    "Text": "Urban",
-    "Japanese": "都会的な",
+    "Text": "Usual",
+    "Japanese": "いつもの",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 811,
     "Lvl": 2,
-    "Text": "Usage",
-    "Japanese": "使用法",
+    "Text": "Valid",
+    "Japanese": "有効",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 812,
     "Lvl": 2,
-    "Text": "Usual",
-    "Japanese": "いつもの",
+    "Text": "Value",
+    "Japanese": "価値",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 813,
     "Lvl": 2,
-    "Text": "Valid",
-    "Japanese": "有効",
+    "Text": "Video",
+    "Japanese": "ビデオ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 814,
     "Lvl": 2,
-    "Text": "Value",
-    "Japanese": "価値",
+    "Text": "Virus",
+    "Japanese": "ウイルス",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 815,
     "Lvl": 2,
-    "Text": "Video",
-    "Japanese": "ビデオ",
+    "Text": "Visit",
+    "Japanese": "訪問",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 816,
     "Lvl": 2,
-    "Text": "Virus",
-    "Japanese": "ウイルス",
+    "Text": "Vital",
+    "Japanese": "重要な",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 817,
     "Lvl": 2,
-    "Text": "Visit",
-    "Japanese": "訪問",
+    "Text": "Voice",
+    "Japanese": "声",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 818,
     "Lvl": 2,
-    "Text": "Vital",
-    "Japanese": "重要な",
+    "Text": "Voter",
+    "Japanese": "有権者",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 819,
     "Lvl": 2,
-    "Text": "Voice",
-    "Japanese": "声",
+    "Text": "Watch",
+    "Japanese": "時計",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 820,
     "Lvl": 2,
-    "Text": "Voter",
-    "Japanese": "有権者",
+    "Text": "Water",
+    "Japanese": "水",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 821,
     "Lvl": 2,
-    "Text": "Watch",
-    "Japanese": "時計",
+    "Text": "Wheel",
+    "Japanese": "車輪",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 822,
     "Lvl": 2,
-    "Text": "Water",
-    "Japanese": "水",
+    "Text": "Where",
+    "Japanese": "どこ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 823,
     "Lvl": 2,
-    "Text": "Wheel",
-    "Japanese": "車輪",
+    "Text": "Which",
+    "Japanese": "どれの",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 824,
     "Lvl": 2,
-    "Text": "Where",
-    "Japanese": "どこ",
+    "Text": "While",
+    "Japanese": "その間",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 825,
     "Lvl": 2,
-    "Text": "Which",
-    "Japanese": "どれの",
+    "Text": "White",
+    "Japanese": "白",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 826,
     "Lvl": 2,
-    "Text": "While",
-    "Japanese": "その間",
+    "Text": "Whole",
+    "Japanese": "全体",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 827,
     "Lvl": 2,
-    "Text": "White",
-    "Japanese": "白",
+    "Text": "Woman",
+    "Japanese": "女性",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 828,
     "Lvl": 2,
-    "Text": "Whole",
-    "Japanese": "全体",
+    "Text": "World",
+    "Japanese": "世界",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 829,
     "Lvl": 2,
-    "Text": "Woman",
-    "Japanese": "女性",
+    "Text": "Worry",
+    "Japanese": "心配",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 830,
     "Lvl": 2,
-    "Text": "World",
-    "Japanese": "世界",
+    "Text": "Worth",
+    "Japanese": "価値",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 831,
     "Lvl": 2,
-    "Text": "Worry",
-    "Japanese": "心配",
+    "Text": "Write",
+    "Japanese": "書く",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 832,
     "Lvl": 2,
-    "Text": "Worth",
-    "Japanese": "価値",
+    "Text": "Wrong",
+    "Japanese": "間違っている",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 833,
     "Lvl": 2,
-    "Text": "Write",
-    "Japanese": "書く",
+    "Text": "Yield",
+    "Japanese": "収率",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 834,
     "Lvl": 2,
-    "Text": "Wrong",
-    "Japanese": "間違っている",
+    "Text": "Young",
+    "Japanese": "若い",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 835,
     "Lvl": 2,
-    "Text": "Yield",
-    "Japanese": "収率",
+    "Text": "Youth",
+    "Japanese": "若者",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 836,
     "Lvl": 2,
-    "Text": "Young",
-    "Japanese": "若い",
+    "Text": "Zebra",
+    "Japanese": "シマウマ",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 837,
     "Lvl": 2,
-    "Text": "Youth",
-    "Japanese": "若者",
+    "Text": "Zesty",
+    "Japanese": "ピリッとした",
+    "isSafe": true,
     "Len": 5
   },
   {
     "Id": 838,
-    "Lvl": 2,
-    "Text": "Zebra",
-    "Japanese": "シマウマ",
-    "Len": 5
+    "Lvl": 3,
+    "Text": "Abacus",
+    "Japanese": "そろばん",
+    "isSafe": true,
+    "Len": 6
   },
   {
     "Id": 839,
-    "Lvl": 2,
-    "Text": "Zippy",
-    "Japanese": "ジッピー",
-    "Len": 5
+    "Lvl": 3,
+    "Text": "Abduct",
+    "Japanese": "誘拐",
+    "isSafe": false,
+    "Len": 6
   },
   {
     "Id": 840,
-    "Lvl": 2,
-    "Text": "Zesty",
-    "Japanese": "ピリッとした",
-    "Len": 5
+    "Lvl": 3,
+    "Text": "Afraid",
+    "Japanese": "恐れている",
+    "isSafe": true,
+    "Len": 6
   },
   {
     "Id": 841,
     "Lvl": 3,
-    "Text": "Abacus",
-    "Japanese": "そろばん",
+    "Text": "Abject",
+    "Japanese": "卑劣な",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 842,
     "Lvl": 3,
-    "Text": "Abduct",
-    "Japanese": "誘拐",
+    "Text": "Ablaze",
+    "Japanese": "燃え上がる",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 843,
     "Lvl": 3,
-    "Text": "Afraid",
-    "Japanese": "恐れている",
+    "Text": "Aboard",
+    "Japanese": "船上で",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 844,
     "Lvl": 3,
-    "Text": "Abject",
-    "Japanese": "卑劣な",
+    "Text": "Absorb",
+    "Japanese": "吸収する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 845,
     "Lvl": 3,
-    "Text": "Ablaze",
-    "Japanese": "燃え上がる",
+    "Text": "Absurd",
+    "Japanese": "ばかげている",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 846,
     "Lvl": 3,
-    "Text": "Aboard",
-    "Japanese": "船上で",
+    "Text": "Accent",
+    "Japanese": "アクセント",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 847,
     "Lvl": 3,
-    "Text": "Absorb",
-    "Japanese": "吸収する",
+    "Text": "Accept",
+    "Japanese": "受け入れる",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 848,
     "Lvl": 3,
-    "Text": "Absurd",
-    "Japanese": "ばかげている",
+    "Text": "Access",
+    "Japanese": "アクセス",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 849,
     "Lvl": 3,
-    "Text": "Accent",
-    "Japanese": "アクセント",
+    "Text": "Accord",
+    "Japanese": "アコード",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 850,
     "Lvl": 3,
-    "Text": "Accept",
-    "Japanese": "受け入れる",
+    "Text": "Across",
+    "Japanese": "横切って",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 851,
     "Lvl": 3,
-    "Text": "Access",
-    "Japanese": "アクセス",
+    "Text": "Backup",
+    "Japanese": "バックアップ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 852,
     "Lvl": 3,
-    "Text": "Accord",
-    "Japanese": "アコード",
+    "Text": "Badger",
+    "Japanese": "アナグマ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 853,
     "Lvl": 3,
-    "Text": "Across",
-    "Japanese": "横切って",
+    "Text": "Bakery",
+    "Japanese": "ベーカリー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 854,
     "Lvl": 3,
-    "Text": "Backup",
-    "Japanese": "バックアップ",
+    "Text": "Ballot",
+    "Japanese": "投票用紙",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 855,
     "Lvl": 3,
-    "Text": "Badger",
-    "Japanese": "アナグマ",
+    "Text": "Banner",
+    "Japanese": "バナー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 856,
     "Lvl": 3,
-    "Text": "Bakery",
-    "Japanese": "ベーカリー",
+    "Text": "Barley",
+    "Japanese": "大麦",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 857,
     "Lvl": 3,
-    "Text": "Ballot",
-    "Japanese": "投票用紙",
+    "Text": "Basket",
+    "Japanese": "バスケット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 858,
     "Lvl": 3,
-    "Text": "Banner",
-    "Japanese": "バナー",
+    "Text": "Battle",
+    "Japanese": "戦い",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 859,
     "Lvl": 3,
-    "Text": "Barley",
-    "Japanese": "大麦",
+    "Text": "Beacon",
+    "Japanese": "ビーコン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 860,
     "Lvl": 3,
-    "Text": "Basket",
-    "Japanese": "バスケット",
+    "Text": "Beaver",
+    "Japanese": "ビーバー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 861,
     "Lvl": 3,
-    "Text": "Battle",
-    "Japanese": "戦い",
+    "Text": "Become",
+    "Japanese": "なる",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 862,
     "Lvl": 3,
-    "Text": "Beacon",
-    "Japanese": "ビーコン",
+    "Text": "Before",
+    "Japanese": "前に",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 863,
     "Lvl": 3,
-    "Text": "Beaver",
-    "Japanese": "ビーバー",
+    "Text": "Camera",
+    "Japanese": "カメラ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 864,
     "Lvl": 3,
-    "Text": "Become",
-    "Japanese": "なる",
+    "Text": "Cancel",
+    "Japanese": "キャンセル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 865,
     "Lvl": 3,
-    "Text": "Before",
-    "Japanese": "前に",
+    "Text": "Candle",
+    "Japanese": "キャンドル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 866,
     "Lvl": 3,
-    "Text": "Camera",
-    "Japanese": "カメラ",
+    "Text": "Canvas",
+    "Japanese": "キャンバス",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 867,
     "Lvl": 3,
-    "Text": "Cancel",
-    "Japanese": "キャンセル",
+    "Text": "Carbon",
+    "Japanese": "炭素",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 868,
     "Lvl": 3,
-    "Text": "Candle",
-    "Japanese": "キャンドル",
+    "Text": "Castle",
+    "Japanese": "城",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 869,
     "Lvl": 3,
-    "Text": "Canvas",
-    "Japanese": "キャンバス",
+    "Text": "Casual",
+    "Japanese": "カジュアル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 870,
     "Lvl": 3,
-    "Text": "Carbon",
-    "Japanese": "炭素",
+    "Text": "Caught",
+    "Japanese": "つかまった",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 871,
     "Lvl": 3,
-    "Text": "Castle",
-    "Japanese": "城",
+    "Text": "Census",
+    "Japanese": "国勢調査",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 872,
     "Lvl": 3,
-    "Text": "Casual",
-    "Japanese": "カジュアル",
+    "Text": "Center",
+    "Japanese": "中心",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 873,
     "Lvl": 3,
-    "Text": "Caught",
-    "Japanese": "つかまった",
+    "Text": "Chance",
+    "Japanese": "チャンス",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 874,
     "Lvl": 3,
-    "Text": "Census",
-    "Japanese": "国勢調査",
+    "Text": "Change",
+    "Japanese": "変化",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 875,
     "Lvl": 3,
-    "Text": "Center",
-    "Japanese": "中心",
+    "Text": "Dagger",
+    "Japanese": "短剣",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 876,
     "Lvl": 3,
-    "Text": "Chance",
-    "Japanese": "チャンス",
+    "Text": "Damage",
+    "Japanese": "ダメージ",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 877,
     "Lvl": 3,
-    "Text": "Change",
-    "Japanese": "変化",
+    "Text": "Dancer",
+    "Japanese": "ダンサー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 878,
     "Lvl": 3,
-    "Text": "Dagger",
-    "Japanese": "短剣",
+    "Text": "Danger",
+    "Japanese": "危険",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 879,
     "Lvl": 3,
-    "Text": "Damage",
-    "Japanese": "ダメージ",
+    "Text": "Daring",
+    "Japanese": "大胆",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 880,
     "Lvl": 3,
-    "Text": "Dancer",
-    "Japanese": "ダンサー",
+    "Text": "Darken",
+    "Japanese": "暗くする",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 881,
     "Lvl": 3,
-    "Text": "Danger",
-    "Japanese": "危険",
+    "Text": "Debate",
+    "Japanese": "議論",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 882,
     "Lvl": 3,
-    "Text": "Daring",
-    "Japanese": "大胆",
+    "Text": "Decade",
+    "Japanese": "十年",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 883,
     "Lvl": 3,
-    "Text": "Darken",
-    "Japanese": "暗くする",
+    "Text": "Decide",
+    "Japanese": "決める",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 884,
     "Lvl": 3,
-    "Text": "Debate",
-    "Japanese": "議論",
+    "Text": "Decree",
+    "Japanese": "法令",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 885,
     "Lvl": 3,
-    "Text": "Decade",
-    "Japanese": "十年",
+    "Text": "Defeat",
+    "Japanese": "敗北",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 886,
     "Lvl": 3,
-    "Text": "Decide",
-    "Japanese": "決める",
+    "Text": "Defend",
+    "Japanese": "守る",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 887,
     "Lvl": 3,
-    "Text": "Decree",
-    "Japanese": "法令",
+    "Text": "Extend",
+    "Japanese": "伸ばす",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 888,
     "Lvl": 3,
-    "Text": "Defeat",
-    "Japanese": "敗北",
+    "Text": "Earner",
+    "Japanese": "稼ぎ手",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 889,
     "Lvl": 3,
-    "Text": "Defend",
-    "Japanese": "守る",
+    "Text": "Easily",
+    "Japanese": "簡単に",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 890,
     "Lvl": 3,
-    "Text": "Extend",
-    "Japanese": "伸ばす",
+    "Text": "Echoed",
+    "Japanese": "反響した",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 891,
     "Lvl": 3,
-    "Text": "Earner",
-    "Japanese": "稼ぎ手",
+    "Text": "Editor",
+    "Japanese": "エディタ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 892,
     "Lvl": 3,
-    "Text": "Easily",
-    "Japanese": "簡単に",
+    "Text": "Effect",
+    "Japanese": "効果",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 893,
     "Lvl": 3,
-    "Text": "Echoed",
-    "Japanese": "反響した",
+    "Text": "Effort",
+    "Japanese": "努力",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 894,
     "Lvl": 3,
-    "Text": "Editor",
-    "Japanese": "エディタ",
+    "Text": "Eighth",
+    "Japanese": "8番目",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 895,
     "Lvl": 3,
-    "Text": "Effect",
-    "Japanese": "効果",
+    "Text": "Either",
+    "Japanese": "どちらか",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 896,
     "Lvl": 3,
-    "Text": "Effort",
-    "Japanese": "努力",
+    "Text": "Except",
+    "Japanese": "を除外する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 897,
     "Lvl": 3,
-    "Text": "Eighth",
-    "Japanese": "8番目",
+    "Text": "Fabric",
+    "Japanese": "ファブリック",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 898,
     "Lvl": 3,
-    "Text": "Either",
-    "Japanese": "どちらか",
+    "Text": "Factor",
+    "Japanese": "要素",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 899,
     "Lvl": 3,
-    "Text": "Except",
-    "Japanese": "を除外する",
+    "Text": "Failed",
+    "Japanese": "失敗した",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 900,
     "Lvl": 3,
-    "Text": "Fabric",
-    "Japanese": "ファブリック",
+    "Text": "Fairly",
+    "Japanese": "かなり",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 901,
     "Lvl": 3,
-    "Text": "Factor",
-    "Japanese": "要素",
+    "Text": "Family",
+    "Japanese": "家族",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 902,
     "Lvl": 3,
-    "Text": "Failed",
-    "Japanese": "失敗した",
+    "Text": "Famous",
+    "Japanese": "有名な",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 903,
     "Lvl": 3,
-    "Text": "Fairly",
-    "Japanese": "かなり",
+    "Text": "Farmer",
+    "Japanese": "農家",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 904,
     "Lvl": 3,
-    "Text": "Family",
-    "Japanese": "家族",
+    "Text": "Father",
+    "Japanese": "父親",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 905,
     "Lvl": 3,
-    "Text": "Famous",
-    "Japanese": "有名な",
+    "Text": "Faucet",
+    "Japanese": "蛇口",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 906,
     "Lvl": 3,
-    "Text": "Farmer",
-    "Japanese": "農家",
+    "Text": "Faulty",
+    "Japanese": "不良",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 907,
     "Lvl": 3,
-    "Text": "Father",
-    "Japanese": "父親",
+    "Text": "Feared",
+    "Japanese": "恐れていた",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 908,
     "Lvl": 3,
-    "Text": "Faucet",
-    "Japanese": "蛇口",
+    "Text": "Fellow",
+    "Japanese": "仲間",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 909,
     "Lvl": 3,
-    "Text": "Faulty",
-    "Japanese": "不良",
+    "Text": "Gadget",
+    "Japanese": "ガジェット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 910,
     "Lvl": 3,
-    "Text": "Feared",
-    "Japanese": "恐れていた",
+    "Text": "Galaxy",
+    "Japanese": "銀河",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 911,
     "Lvl": 3,
-    "Text": "Fellow",
-    "Japanese": "仲間",
+    "Text": "Gallon",
+    "Japanese": "ガロン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 912,
     "Lvl": 3,
-    "Text": "Gadget",
-    "Japanese": "ガジェット",
+    "Text": "Garden",
+    "Japanese": "庭",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 913,
     "Lvl": 3,
-    "Text": "Galaxy",
-    "Japanese": "銀河",
+    "Text": "Garlic",
+    "Japanese": "ニンニク",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 914,
     "Lvl": 3,
-    "Text": "Gallon",
-    "Japanese": "ガロン",
+    "Text": "Gather",
+    "Japanese": "集める",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 915,
     "Lvl": 3,
-    "Text": "Garden",
-    "Japanese": "庭",
+    "Text": "Gazing",
+    "Japanese": "見つめる",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 916,
     "Lvl": 3,
-    "Text": "Garlic",
-    "Japanese": "ニンニク",
+    "Text": "Gently",
+    "Japanese": "優しく",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 917,
     "Lvl": 3,
-    "Text": "Gather",
-    "Japanese": "集める",
+    "Text": "Ghetto",
+    "Japanese": "ゲットー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 918,
     "Lvl": 3,
-    "Text": "Gazing",
-    "Japanese": "見つめる",
+    "Text": "Google",
+    "Japanese": "グーグル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 919,
     "Lvl": 3,
-    "Text": "Gently",
-    "Japanese": "優しく",
+    "Text": "Giggle",
+    "Japanese": "くすくす笑う",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 920,
     "Lvl": 3,
-    "Text": "Ghetto",
-    "Japanese": "ゲットー",
+    "Text": "Glance",
+    "Japanese": "一目",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 921,
     "Lvl": 3,
-    "Text": "Google",
-    "Japanese": "グーグル",
+    "Text": "Habits",
+    "Japanese": "習慣",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 922,
     "Lvl": 3,
-    "Text": "Giggle",
-    "Japanese": "くすくす笑う",
+    "Text": "Hammer",
+    "Japanese": "ハンマー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 923,
     "Lvl": 3,
-    "Text": "Glance",
-    "Japanese": "一目",
+    "Text": "Handle",
+    "Japanese": "ハンドル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 924,
     "Lvl": 3,
-    "Text": "Habits",
-    "Japanese": "習慣",
+    "Text": "Happen",
+    "Japanese": "起こる",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 925,
     "Lvl": 3,
-    "Text": "Hammer",
-    "Japanese": "ハンマー",
+    "Text": "Harbor",
+    "Japanese": "港",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 926,
     "Lvl": 3,
-    "Text": "Handle",
-    "Japanese": "ハンドル",
+    "Text": "Hardly",
+    "Japanese": "しそうにない",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 927,
     "Lvl": 3,
-    "Text": "Happen",
-    "Japanese": "起こる",
+    "Text": "Hatred",
+    "Japanese": "憎しみ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 928,
     "Lvl": 3,
-    "Text": "Harbor",
-    "Japanese": "港",
+    "Text": "Hazard",
+    "Japanese": "危険",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 929,
     "Lvl": 3,
-    "Text": "Hardly",
-    "Japanese": "しそうにない",
+    "Text": "Health",
+    "Japanese": "健康",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 930,
     "Lvl": 3,
-    "Text": "Hatred",
-    "Japanese": "憎しみ",
+    "Text": "Header",
+    "Japanese": "ヘッダ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 931,
     "Lvl": 3,
-    "Text": "Hazard",
-    "Japanese": "危険",
+    "Text": "Hearts",
+    "Japanese": "ハート",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 932,
     "Lvl": 3,
-    "Text": "Health",
-    "Japanese": "健康",
+    "Text": "Heated",
+    "Japanese": "加熱",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 933,
     "Lvl": 3,
-    "Text": "Header",
-    "Japanese": "ヘッダ",
+    "Text": "Ironic",
+    "Japanese": "皮肉なことに",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 934,
     "Lvl": 3,
-    "Text": "Hearts",
-    "Japanese": "ハート",
+    "Text": "Idling",
+    "Japanese": "アイドリング",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 935,
     "Lvl": 3,
-    "Text": "Heated",
-    "Japanese": "加熱",
+    "Text": "Ignore",
+    "Japanese": "無視する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 936,
     "Lvl": 3,
-    "Text": "Ironic",
-    "Japanese": "皮肉なことに",
+    "Text": "Island",
+    "Japanese": "島",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 937,
     "Lvl": 3,
-    "Text": "Idling",
-    "Japanese": "アイドリング",
+    "Text": "Images",
+    "Japanese": "画像",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 938,
     "Lvl": 3,
-    "Text": "Ignore",
-    "Japanese": "無視する",
+    "Text": "Immune",
+    "Japanese": "免疫",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 939,
     "Lvl": 3,
-    "Text": "Island",
-    "Japanese": "島",
+    "Text": "Impact",
+    "Japanese": "インパクト",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 940,
     "Lvl": 3,
-    "Text": "Images",
-    "Japanese": "画像",
+    "Text": "Import",
+    "Japanese": "輸入",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 941,
     "Lvl": 3,
-    "Text": "Immune",
-    "Japanese": "免疫",
+    "Text": "Indeed",
+    "Japanese": "確かに",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 942,
     "Lvl": 3,
-    "Text": "Impact",
-    "Japanese": "インパクト",
+    "Text": "Indoor",
+    "Japanese": "屋内",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 943,
     "Lvl": 3,
-    "Text": "Import",
-    "Japanese": "輸入",
+    "Text": "Induce",
+    "Japanese": "誘発する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 944,
     "Lvl": 3,
-    "Text": "Indeed",
-    "Japanese": "確かに",
+    "Text": "Jacket",
+    "Japanese": "ジャケット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 945,
     "Lvl": 3,
-    "Text": "Indoor",
-    "Japanese": "屋内",
+    "Text": "Jaguar",
+    "Japanese": "ジャガー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 946,
     "Lvl": 3,
-    "Text": "Induce",
-    "Japanese": "誘発する",
+    "Text": "Jammed",
+    "Japanese": "詰まった",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 947,
     "Lvl": 3,
-    "Text": "Jacket",
-    "Japanese": "ジャケット",
+    "Text": "Jargon",
+    "Japanese": "専門用語",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 948,
     "Lvl": 3,
-    "Text": "Jaguar",
-    "Japanese": "ジャガー",
+    "Text": "Jersey",
+    "Japanese": "ジャージー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 949,
     "Lvl": 3,
-    "Text": "Jammed",
-    "Japanese": "詰まった",
+    "Text": "Jester",
+    "Japanese": "道化師",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 950,
     "Lvl": 3,
-    "Text": "Jargon",
-    "Japanese": "専門用語",
+    "Text": "Jigsaw",
+    "Japanese": "ジグソーパズル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 951,
     "Lvl": 3,
-    "Text": "Jersey",
-    "Japanese": "ジャージー",
+    "Text": "Jingle",
+    "Japanese": "ジングル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 952,
     "Lvl": 3,
-    "Text": "Jester",
-    "Japanese": "道化師",
+    "Text": "Jogger",
+    "Japanese": "ジョガー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 953,
     "Lvl": 3,
-    "Text": "Jigsaw",
-    "Japanese": "ジグソーパズル",
+    "Text": "Joined",
+    "Japanese": "参加しました",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 954,
     "Lvl": 3,
-    "Text": "Jingle",
-    "Japanese": "ジングル",
+    "Text": "Joints",
+    "Japanese": "関節",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 955,
     "Lvl": 3,
-    "Text": "Jogger",
-    "Japanese": "ジョガー",
+    "Text": "Kicked",
+    "Japanese": "蹴られた",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 956,
     "Lvl": 3,
-    "Text": "Joined",
-    "Japanese": "参加しました",
+    "Text": "Kidnap",
+    "Japanese": "誘拐",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 957,
     "Lvl": 3,
-    "Text": "Joints",
-    "Japanese": "関節",
+    "Text": "Kidney",
+    "Japanese": "腎臓",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 958,
     "Lvl": 3,
-    "Text": "Kicked",
-    "Japanese": "蹴られた",
+    "Text": "Killer",
+    "Japanese": "キラー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 959,
     "Lvl": 3,
-    "Text": "Kidnap",
-    "Japanese": "誘拐",
+    "Text": "Kindle",
+    "Japanese": "ペンシル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 960,
     "Lvl": 3,
-    "Text": "Kidney",
-    "Japanese": "腎臓",
+    "Text": "Kindly",
+    "Japanese": "どうぞ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 961,
     "Lvl": 3,
-    "Text": "Killer",
-    "Japanese": "キラー",
+    "Text": "Kelvin",
+    "Japanese": "ケルビン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 962,
     "Lvl": 3,
-    "Text": "Kindle",
-    "Japanese": "ペンシル",
+    "Text": "Kitten",
+    "Japanese": "子猫",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 963,
     "Lvl": 3,
-    "Text": "Kindly",
-    "Japanese": "どうぞ",
+    "Text": "Knight",
+    "Japanese": "騎士",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 964,
     "Lvl": 3,
-    "Text": "Kelvin",
-    "Japanese": "ケルビン",
+    "Text": "Knives",
+    "Japanese": "ナイフ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 965,
     "Lvl": 3,
-    "Text": "Kitten",
-    "Japanese": "子猫",
+    "Text": "Knocks",
+    "Japanese": "ノック",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 966,
     "Lvl": 3,
-    "Text": "Knight",
-    "Japanese": "騎士",
+    "Text": "Labels",
+    "Japanese": "ラベル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 967,
     "Lvl": 3,
-    "Text": "Knives",
-    "Japanese": "ナイフ",
+    "Text": "Ladder",
+    "Japanese": "ラダー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 968,
     "Lvl": 3,
-    "Text": "Knocks",
-    "Japanese": "ノック",
+    "Text": "Ladies",
+    "Japanese": "女性の皆さん",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 969,
     "Lvl": 3,
-    "Text": "Labels",
-    "Japanese": "ラベル",
+    "Text": "Laptop",
+    "Japanese": "ラップトップ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 970,
     "Lvl": 3,
-    "Text": "Ladder",
-    "Japanese": "ラダー",
+    "Text": "Larger",
+    "Japanese": "より大きな",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 971,
     "Lvl": 3,
-    "Text": "Ladies",
-    "Japanese": "女性の皆さん",
+    "Text": "Latest",
+    "Japanese": "最新",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 972,
     "Lvl": 3,
-    "Text": "Laptop",
-    "Japanese": "ラップトップ",
+    "Text": "Launch",
+    "Japanese": "打ち上げ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 973,
     "Lvl": 3,
-    "Text": "Larger",
-    "Japanese": "より大きな",
+    "Text": "Layout",
+    "Japanese": "レイアウト",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 974,
     "Lvl": 3,
-    "Text": "Latest",
-    "Japanese": "最新",
+    "Text": "Leader",
+    "Japanese": "リーダー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 975,
     "Lvl": 3,
-    "Text": "Launch",
-    "Japanese": "打ち上げ",
+    "Text": "League",
+    "Japanese": "リーグ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 976,
     "Lvl": 3,
-    "Text": "Layout",
-    "Japanese": "レイアウト",
+    "Text": "Leaves",
+    "Japanese": "葉",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 977,
     "Lvl": 3,
-    "Text": "Leader",
-    "Japanese": "リーダー",
+    "Text": "Legend",
+    "Japanese": "伝説",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 978,
     "Lvl": 3,
-    "Text": "League",
-    "Japanese": "リーグ",
+    "Text": "Magnet",
+    "Japanese": "磁石",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 979,
     "Lvl": 3,
-    "Text": "Leaves",
-    "Japanese": "葉",
+    "Text": "Maiden",
+    "Japanese": "乙女",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 980,
     "Lvl": 3,
-    "Text": "Legend",
-    "Japanese": "伝説",
+    "Text": "Mainly",
+    "Japanese": "主に",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 981,
     "Lvl": 3,
-    "Text": "Magnet",
-    "Japanese": "磁石",
+    "Text": "Makeup",
+    "Japanese": "補う",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 982,
     "Lvl": 3,
-    "Text": "Maiden",
-    "Japanese": "乙女",
+    "Text": "Making",
+    "Japanese": "製作",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 983,
     "Lvl": 3,
-    "Text": "Mainly",
-    "Japanese": "主に",
+    "Text": "Manage",
+    "Japanese": "管理",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 984,
     "Lvl": 3,
-    "Text": "Makeup",
-    "Japanese": "補う",
+    "Text": "Manner",
+    "Japanese": "作法",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 985,
     "Lvl": 3,
-    "Text": "Making",
-    "Japanese": "作る",
+    "Text": "Manual",
+    "Japanese": "マニュアル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 986,
     "Lvl": 3,
-    "Text": "Manage",
-    "Japanese": "管理",
+    "Text": "Marble",
+    "Japanese": "大理石",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 987,
     "Lvl": 3,
-    "Text": "Manner",
-    "Japanese": "作法",
+    "Text": "Margin",
+    "Japanese": "マージン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 988,
     "Lvl": 3,
-    "Text": "Manual",
-    "Japanese": "マニュアル",
+    "Text": "Market",
+    "Japanese": "市場",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 989,
     "Lvl": 3,
-    "Text": "Marble",
-    "Japanese": "大理石",
+    "Text": "Master",
+    "Japanese": "マスター",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 990,
     "Lvl": 3,
-    "Text": "Margin",
-    "Japanese": "マージン",
+    "Text": "Murder",
+    "Japanese": "殺人",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 991,
     "Lvl": 3,
-    "Text": "Market",
-    "Japanese": "市場",
+    "Text": "Namely",
+    "Japanese": "すなわち",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 992,
     "Lvl": 3,
-    "Text": "Master",
-    "Japanese": "マスター",
+    "Text": "Narrow",
+    "Japanese": "狭い",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 993,
     "Lvl": 3,
-    "Text": "Namely",
-    "Japanese": "すなわち",
+    "Text": "Native",
+    "Japanese": "ネイティブ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 994,
     "Lvl": 3,
-    "Text": "Narrow",
-    "Japanese": "狭い",
+    "Text": "Nature",
+    "Japanese": "自然",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 995,
     "Lvl": 3,
-    "Text": "Native",
-    "Japanese": "ネイティブ",
+    "Text": "Nearby",
+    "Japanese": "近く",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 996,
     "Lvl": 3,
-    "Text": "Nature",
-    "Japanese": "自然",
+    "Text": "Nearly",
+    "Japanese": "ほぼ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 997,
     "Lvl": 3,
-    "Text": "Nearby",
-    "Japanese": "近く",
+    "Text": "Needed",
+    "Japanese": "必要",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 998,
     "Lvl": 3,
-    "Text": "Nearly",
-    "Japanese": "ほぼ",
+    "Text": "Nephew",
+    "Japanese": "甥",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 999,
     "Lvl": 3,
-    "Text": "Needed",
-    "Japanese": "必要",
+    "Text": "Nerves",
+    "Japanese": "神経",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1000,
     "Lvl": 3,
-    "Text": "Nephew",
-    "Japanese": "甥",
+    "Text": "Newest",
+    "Japanese": "最新",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1001,
     "Lvl": 3,
-    "Text": "Nerves",
-    "Japanese": "神経",
+    "Text": "Nickel",
+    "Japanese": "ニッケル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1002,
     "Lvl": 3,
-    "Text": "Newest",
-    "Japanese": "最新",
+    "Text": "Nights",
+    "Japanese": "夜",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1003,
     "Lvl": 3,
-    "Text": "Nickel",
-    "Japanese": "ニッケル",
+    "Text": "Object",
+    "Japanese": "物体",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1004,
     "Lvl": 3,
-    "Text": "Nights",
-    "Japanese": "夜",
+    "Text": "Oblige",
+    "Japanese": "義務付ける",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1005,
     "Lvl": 3,
-    "Text": "Object",
-    "Japanese": "物体",
+    "Text": "Obtain",
+    "Japanese": "得る",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1006,
     "Lvl": 3,
-    "Text": "Oblige",
-    "Japanese": "義務付ける",
+    "Text": "Occupy",
+    "Japanese": "占める",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1007,
     "Lvl": 3,
-    "Text": "Obtain",
-    "Japanese": "得る",
+    "Text": "Occurs",
+    "Japanese": "発生する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1008,
     "Lvl": 3,
-    "Text": "Occupy",
-    "Japanese": "占める",
+    "Text": "Option",
+    "Japanese": "オプション",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1009,
     "Lvl": 3,
-    "Text": "Occurs",
-    "Japanese": "発生する",
+    "Text": "Offend",
+    "Japanese": "侮辱する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1010,
     "Lvl": 3,
-    "Text": "Option",
-    "Japanese": "オプション",
+    "Text": "Office",
+    "Japanese": "オフィス",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1011,
     "Lvl": 3,
-    "Text": "Offend",
-    "Japanese": "侮辱する",
+    "Text": "Offset",
+    "Japanese": "オフセット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1012,
     "Lvl": 3,
-    "Text": "Office",
-    "Japanese": "オフィス",
+    "Text": "Oldest",
+    "Japanese": "最古",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1013,
     "Lvl": 3,
-    "Text": "Offset",
-    "Japanese": "オフセット",
+    "Text": "Online",
+    "Japanese": "オンライン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1014,
     "Lvl": 3,
-    "Text": "Oldest",
-    "Japanese": "最古",
+    "Text": "Opened",
+    "Japanese": "オープンしました",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1015,
     "Lvl": 3,
-    "Text": "Online",
-    "Japanese": "オンライン",
+    "Text": "Packet",
+    "Japanese": "パケット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1016,
     "Lvl": 3,
-    "Text": "Opened",
-    "Japanese": "オープンしました",
+    "Text": "Parent",
+    "Japanese": "親",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1017,
     "Lvl": 3,
-    "Text": "Packet",
-    "Japanese": "パケット",
+    "Text": "Parish",
+    "Japanese": "教区",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1018,
     "Lvl": 3,
-    "Text": "Parent",
-    "Japanese": "親",
+    "Text": "Parker",
+    "Japanese": "パーカー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1019,
     "Lvl": 3,
-    "Text": "Parish",
-    "Japanese": "教区",
+    "Text": "Partly",
+    "Japanese": "部分的に",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1020,
     "Lvl": 3,
-    "Text": "Parker",
-    "Japanese": "パーカー",
+    "Text": "Passed",
+    "Japanese": "合格した",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1021,
     "Lvl": 3,
-    "Text": "Partly",
-    "Japanese": "部分的に",
+    "Text": "Pastel",
+    "Japanese": "パステル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1022,
     "Lvl": 3,
-    "Text": "Passed",
-    "Japanese": "合格した",
+    "Text": "Patrol",
+    "Japanese": "パトロール",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1023,
     "Lvl": 3,
-    "Text": "Pastel",
-    "Japanese": "パステル",
+    "Text": "Paused",
+    "Japanese": "一時停止",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1024,
     "Lvl": 3,
-    "Text": "Patrol",
-    "Japanese": "パトロール",
+    "Text": "Peanut",
+    "Japanese": "落花生",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1025,
     "Lvl": 3,
-    "Text": "Paused",
-    "Japanese": "一時停止",
+    "Text": "Pencil",
+    "Japanese": "鉛筆",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1026,
     "Lvl": 3,
-    "Text": "Peanut",
-    "Japanese": "落花生",
+    "Text": "Period",
+    "Japanese": "期間",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1027,
     "Lvl": 3,
-    "Text": "Pencil",
-    "Japanese": "鉛筆",
+    "Text": "Plague",
+    "Japanese": "ペスト",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1028,
     "Lvl": 3,
-    "Text": "Period",
-    "Japanese": "期間",
+    "Text": "Quakes",
+    "Japanese": "地震",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1029,
     "Lvl": 3,
-    "Text": "Plague",
-    "Japanese": "ペスト",
+    "Text": "Quartz",
+    "Japanese": "石英",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1030,
     "Lvl": 3,
-    "Text": "Quakes",
-    "Japanese": "地震",
+    "Text": "Queasy",
+    "Japanese": "吐き気がする",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 1031,
     "Lvl": 3,
-    "Text": "Quartz",
-    "Japanese": "石英",
+    "Text": "Queens",
+    "Japanese": "クイーンズ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1032,
     "Lvl": 3,
-    "Text": "Queasy",
-    "Japanese": "吐き気がする",
+    "Text": "Quench",
+    "Japanese": "クエンチ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1033,
     "Lvl": 3,
-    "Text": "Queens",
-    "Japanese": "クイーンズ",
+    "Text": "Quests",
+    "Japanese": "クエスト",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1034,
     "Lvl": 3,
-    "Text": "Quench",
-    "Japanese": "クエンチ",
+    "Text": "Queued",
+    "Japanese": "キューに追加済み",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1035,
     "Lvl": 3,
-    "Text": "Quests",
-    "Japanese": "クエスト",
+    "Text": "Queues",
+    "Japanese": "キュー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1036,
     "Lvl": 3,
-    "Text": "Queued",
-    "Japanese": "キューに追加済み",
+    "Text": "Quiche",
+    "Japanese": "キッシュ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1037,
     "Lvl": 3,
-    "Text": "Queues",
-    "Japanese": "キュー",
+    "Text": "Quotes",
+    "Japanese": "名言集",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1038,
     "Lvl": 3,
-    "Text": "Quiche",
-    "Japanese": "キッシュ",
+    "Text": "Quoted",
+    "Japanese": "引用",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1039,
     "Lvl": 3,
-    "Text": "Quotes",
-    "Japanese": "名言集",
+    "Text": "Rabbit",
+    "Japanese": "うさぎ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1040,
     "Lvl": 3,
-    "Text": "Quoted",
-    "Japanese": "引用",
+    "Text": "Racing",
+    "Japanese": "レース",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1041,
     "Lvl": 3,
-    "Text": "Rabbit",
-    "Japanese": "うさぎ",
+    "Text": "Radios",
+    "Japanese": "ラジオ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1042,
     "Lvl": 3,
-    "Text": "Racing",
-    "Japanese": "レース",
+    "Text": "Raised",
+    "Japanese": "育てた",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1043,
     "Lvl": 3,
-    "Text": "Radios",
-    "Japanese": "ラジオ",
+    "Text": "Random",
+    "Japanese": "ランダム",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1044,
     "Lvl": 3,
-    "Text": "Raised",
-    "Japanese": "育てた",
+    "Text": "Rarely",
+    "Japanese": "めったに",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1045,
     "Lvl": 3,
-    "Text": "Random",
-    "Japanese": "ランダム",
+    "Text": "Rating",
+    "Japanese": "評価",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1046,
     "Lvl": 3,
-    "Text": "Rarely",
-    "Japanese": "めったに",
+    "Text": "Rather",
+    "Japanese": "それよりも",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1047,
     "Lvl": 3,
-    "Text": "Rating",
-    "Japanese": "評価",
+    "Text": "Reader",
+    "Japanese": "リーダー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1048,
     "Lvl": 3,
-    "Text": "Rather",
-    "Japanese": "それよりも",
+    "Text": "Reaper",
+    "Japanese": "リーパー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1049,
     "Lvl": 3,
-    "Text": "Reader",
-    "Japanese": "リーダー",
+    "Text": "Really",
+    "Japanese": "本当に",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1050,
     "Lvl": 3,
-    "Text": "Really",
-    "Japanese": "本当に",
+    "Text": "Reason",
+    "Japanese": "理由",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1051,
     "Lvl": 3,
-    "Text": "Reason",
-    "Japanese": "理由",
+    "Text": "Recall",
+    "Japanese": "想起",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1052,
     "Lvl": 3,
-    "Text": "Recall",
-    "Japanese": "想起",
+    "Text": "Safety",
+    "Japanese": "安全性",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1053,
     "Lvl": 3,
-    "Text": "Safety",
-    "Japanese": "安全性",
+    "Text": "Salary",
+    "Japanese": "給料",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1054,
     "Lvl": 3,
-    "Text": "Salary",
-    "Japanese": "給料",
+    "Text": "Sample",
+    "Japanese": "サンプル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1055,
     "Lvl": 3,
-    "Text": "Sample",
-    "Japanese": "サンプル",
+    "Text": "Saving",
+    "Japanese": "保存",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1056,
     "Lvl": 3,
-    "Text": "Saving",
-    "Japanese": "保存",
+    "Text": "Scales",
+    "Japanese": "スケール",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1057,
     "Lvl": 3,
-    "Text": "Scales",
-    "Japanese": "スケール",
+    "Text": "Scared",
+    "Japanese": "怖がった",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1058,
     "Lvl": 3,
-    "Text": "Scared",
-    "Japanese": "怖がった",
+    "Text": "Scheme",
+    "Japanese": "スキーム",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1059,
     "Lvl": 3,
-    "Text": "Scheme",
-    "Japanese": "スキーム",
+    "Text": "School",
+    "Japanese": "学校",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1060,
     "Lvl": 3,
-    "Text": "School",
-    "Japanese": "学校",
+    "Text": "Screen",
+    "Japanese": "画面",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1061,
     "Lvl": 3,
-    "Text": "Screen",
-    "Japanese": "画面",
+    "Text": "Search",
+    "Japanese": "検索",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1062,
     "Lvl": 3,
-    "Text": "Search",
-    "Japanese": "検索",
+    "Text": "Season",
+    "Japanese": "季節",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1063,
     "Lvl": 3,
-    "Text": "Season",
-    "Japanese": "季節",
+    "Text": "Second",
+    "Japanese": "2番",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1064,
     "Lvl": 3,
-    "Text": "Second",
-    "Japanese": "2番",
+    "Text": "Tables",
+    "Japanese": "表",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1065,
     "Lvl": 3,
-    "Text": "Tables",
-    "Japanese": "表",
+    "Text": "Tablet",
+    "Japanese": "錠剤",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1066,
     "Lvl": 3,
-    "Text": "Tablet",
-    "Japanese": "錠剤",
+    "Text": "Tackle",
+    "Japanese": "取り組む",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1067,
     "Lvl": 3,
-    "Text": "Tackle",
-    "Japanese": "取り組む",
+    "Text": "Talent",
+    "Japanese": "タレント",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1068,
     "Lvl": 3,
-    "Text": "Talent",
-    "Japanese": "タレント",
+    "Text": "Target",
+    "Japanese": "ターゲット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1069,
     "Lvl": 3,
-    "Text": "Target",
-    "Japanese": "ターゲット",
+    "Text": "Tasted",
+    "Japanese": "味見した",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1070,
     "Lvl": 3,
-    "Text": "Tasted",
-    "Japanese": "味見した",
+    "Text": "Taught",
+    "Japanese": "教えた",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1071,
     "Lvl": 3,
-    "Text": "Taught",
-    "Japanese": "教えた",
+    "Text": "Teamed",
+    "Japanese": "チームを組んだ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1072,
     "Lvl": 3,
-    "Text": "Teamed",
-    "Japanese": "チームを組んだ",
+    "Text": "Teapot",
+    "Japanese": "ティーポット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1073,
     "Lvl": 3,
-    "Text": "Teapot",
-    "Japanese": "ティーポット",
+    "Text": "Temper",
+    "Japanese": "気性",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1074,
     "Lvl": 3,
-    "Text": "Temper",
-    "Japanese": "気性",
+    "Text": "Tennis",
+    "Japanese": "テニス",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1075,
     "Lvl": 3,
-    "Text": "Tennis",
-    "Japanese": "テニス",
+    "Text": "Thanks",
+    "Japanese": "ありがとう",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1076,
     "Lvl": 3,
-    "Text": "Thanks",
-    "Japanese": "ありがとう",
+    "Text": "Umpire",
+    "Japanese": "審判",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1077,
     "Lvl": 3,
-    "Text": "Umpire",
-    "Japanese": "審判",
+    "Text": "Unable",
+    "Japanese": "できません",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1078,
     "Lvl": 3,
-    "Text": "Unable",
-    "Japanese": "できません",
+    "Text": "Unbind",
+    "Japanese": "バインドを解除する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1079,
     "Lvl": 3,
-    "Text": "Unbind",
-    "Japanese": "バインドを解除する",
+    "Text": "Uncles",
+    "Japanese": "叔父たち",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1080,
     "Lvl": 3,
-    "Text": "Uncles",
-    "Japanese": "叔父たち",
+    "Text": "Upward",
+    "Japanese": "上向き",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1081,
     "Lvl": 3,
-    "Text": "Upward",
-    "Japanese": "上向き",
+    "Text": "Unfold",
+    "Japanese": "展開する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1082,
     "Lvl": 3,
-    "Text": "Unfold",
-    "Japanese": "展開する",
+    "Text": "Unhook",
+    "Japanese": "フックを外す",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1083,
     "Lvl": 3,
-    "Text": "Unhook",
-    "Japanese": "フックを外す",
+    "Text": "Unique",
+    "Japanese": "個性的",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1084,
     "Lvl": 3,
-    "Text": "Unique",
-    "Japanese": "個性的",
+    "Text": "United",
+    "Japanese": "団結した",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1085,
     "Lvl": 3,
-    "Text": "United",
-    "Japanese": "ユナイテッド",
+    "Text": "Unjust",
+    "Japanese": "不当",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1086,
     "Lvl": 3,
-    "Text": "Unjust",
-    "Japanese": "不当",
+    "Text": "Unload",
+    "Japanese": "荷降ろし",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1087,
     "Lvl": 3,
-    "Text": "Unload",
-    "Japanese": "荷降ろし",
+    "Text": "Unpaid",
+    "Japanese": "未払い",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1088,
     "Lvl": 3,
-    "Text": "Unpaid",
-    "Japanese": "未払い",
+    "Text": "Vacant",
+    "Japanese": "空いている",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1089,
     "Lvl": 3,
-    "Text": "Vacant",
-    "Japanese": "空いている",
+    "Text": "Vacuum",
+    "Japanese": "真空",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1090,
     "Lvl": 3,
-    "Text": "Vacuum",
-    "Japanese": "真空",
+    "Text": "Valley",
+    "Japanese": "谷",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1091,
     "Lvl": 3,
-    "Text": "Valley",
-    "Japanese": "谷",
+    "Text": "Valued",
+    "Japanese": "高く評価されています",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1092,
     "Lvl": 3,
-    "Text": "Valued",
-    "Japanese": "高く評価されています",
+    "Text": "Valves",
+    "Japanese": "バルブ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1093,
     "Lvl": 3,
-    "Text": "Valves",
-    "Japanese": "バルブ",
+    "Text": "Vanish",
+    "Japanese": "消える",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1094,
     "Lvl": 3,
-    "Text": "Vanish",
-    "Japanese": "消える",
+    "Text": "Vanity",
+    "Japanese": "虚栄心",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1095,
     "Lvl": 3,
-    "Text": "Vanity",
-    "Japanese": "虚栄心",
+    "Text": "Varied",
+    "Japanese": "多種多様",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1096,
     "Lvl": 3,
-    "Text": "Varied",
-    "Japanese": "多種多様",
+    "Text": "Vaster",
+    "Japanese": "より広大な",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1097,
     "Lvl": 3,
-    "Text": "Vaster",
-    "Japanese": "ヴァスター",
+    "Text": "Vaults",
+    "Japanese": "金庫室",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1098,
     "Lvl": 3,
-    "Text": "Vaults",
-    "Japanese": "金庫室",
+    "Text": "Vector",
+    "Japanese": "ベクター",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1099,
     "Lvl": 3,
-    "Text": "Vector",
-    "Japanese": "ベクター",
+    "Text": "Vendor",
+    "Japanese": "ベンダー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1100,
     "Lvl": 3,
-    "Text": "Vendor",
-    "Japanese": "ベンダー",
+    "Text": "Wagons",
+    "Japanese": "ワゴン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1101,
     "Lvl": 3,
-    "Text": "Wagons",
-    "Japanese": "ワゴン",
+    "Text": "Waited",
+    "Japanese": "待った",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1102,
     "Lvl": 3,
-    "Text": "Waited",
-    "Japanese": "待った",
+    "Text": "Waking",
+    "Japanese": "目覚め",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1103,
     "Lvl": 3,
-    "Text": "Waking",
-    "Japanese": "目覚め",
+    "Text": "Walked",
+    "Japanese": "歩いた",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1104,
     "Lvl": 3,
-    "Text": "Walked",
-    "Japanese": "歩いた",
+    "Text": "Wallet",
+    "Japanese": "財布",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 1105,
     "Lvl": 3,
-    "Text": "Wallet",
-    "Japanese": "財布",
+    "Text": "Walnut",
+    "Japanese": "ウォールナット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1106,
     "Lvl": 3,
-    "Text": "Walnut",
-    "Japanese": "ウォールナット",
+    "Text": "Wander",
+    "Japanese": "放浪する",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1107,
     "Lvl": 3,
-    "Text": "Wander",
-    "Japanese": "放浪する",
+    "Text": "Wanted",
+    "Japanese": "指名手配",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 1108,
     "Lvl": 3,
-    "Text": "Wanted",
-    "Japanese": "指名手配",
+    "Text": "Washed",
+    "Japanese": "洗った",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1109,
     "Lvl": 3,
-    "Text": "Washed",
-    "Japanese": "洗った",
+    "Text": "Wasted",
+    "Japanese": "無駄になった",
+    "isSafe": false,
     "Len": 6
   },
   {
     "Id": 1110,
     "Lvl": 3,
-    "Text": "Wasted",
-    "Japanese": "無駄になった",
+    "Text": "Waters",
+    "Japanese": "ウォーターズ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1111,
     "Lvl": 3,
-    "Text": "Waters",
-    "Japanese": "ウォーターズ",
+    "Text": "Wealth",
+    "Japanese": "富",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1112,
     "Lvl": 3,
-    "Text": "Wealth",
-    "Japanese": "富",
+    "Text": "Xylary",
+    "Japanese": "キシラリー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1113,
     "Lvl": 3,
-    "Text": "Xylary",
-    "Japanese": "キシラリー",
+    "Text": "Xylems",
+    "Japanese": "木部",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1114,
     "Lvl": 3,
-    "Text": "Xylems",
-    "Japanese": "木部",
+    "Text": "Xenial",
+    "Japanese": "ゼニアル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1115,
     "Lvl": 3,
-    "Text": "Xenial",
-    "Japanese": "ゼニアル",
+    "Text": "Xeroma",
+    "Japanese": "ゼロマ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1116,
     "Lvl": 3,
-    "Text": "Xeroma",
-    "Japanese": "ゼロマ",
+    "Text": "Xylans",
+    "Japanese": "キシラン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1117,
     "Lvl": 3,
-    "Text": "Xylans",
-    "Japanese": "キシラン",
+    "Text": "Xylene",
+    "Japanese": "キシレン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1118,
     "Lvl": 3,
-    "Text": "Xylene",
-    "Japanese": "キシレン",
+    "Text": "Yachts",
+    "Japanese": "ヨット",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1119,
     "Lvl": 3,
-    "Text": "Yachts",
-    "Japanese": "ヨット",
+    "Text": "Yapped",
+    "Japanese": "ギャップした",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1120,
     "Lvl": 3,
-    "Text": "Yapped",
-    "Japanese": "ギャップした",
+    "Text": "Yawned",
+    "Japanese": "あくびをした",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1121,
     "Lvl": 3,
-    "Text": "Yawned",
-    "Japanese": "あくびをした",
+    "Text": "Yearly",
+    "Japanese": "年間",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1122,
     "Lvl": 3,
-    "Text": "Yearly",
-    "Japanese": "年間",
+    "Text": "Yeasts",
+    "Japanese": "酵母",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1123,
     "Lvl": 3,
-    "Text": "Yeasts",
-    "Japanese": "酵母",
+    "Text": "Yelled",
+    "Japanese": "叫んだ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1124,
     "Lvl": 3,
-    "Text": "Yelled",
-    "Japanese": "叫んだ",
+    "Text": "Yellow",
+    "Japanese": "黄色",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1125,
     "Lvl": 3,
-    "Text": "Yellow",
-    "Japanese": "黄色",
+    "Text": "Yeoman",
+    "Japanese": "ヨーマン",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1126,
     "Lvl": 3,
-    "Text": "Yeoman",
-    "Japanese": "ヨーマン",
+    "Text": "Yodels",
+    "Japanese": "ヨーデル",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1127,
     "Lvl": 3,
-    "Text": "Yodels",
-    "Japanese": "ヨーデル",
+    "Text": "Yogurt",
+    "Japanese": "ヨーグルト",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1128,
     "Lvl": 3,
-    "Text": "Yogurt",
-    "Japanese": "ヨーグルト",
+    "Text": "Yonder",
+    "Japanese": "彼方",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1129,
     "Lvl": 3,
-    "Text": "Yonder",
-    "Japanese": "彼方",
+    "Text": "Zapped",
+    "Japanese": "感電した",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1130,
     "Lvl": 3,
-    "Text": "Zapped",
-    "Japanese": "感電した",
+    "Text": "Zealot",
+    "Japanese": "熱狂者",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1131,
     "Lvl": 3,
-    "Text": "Zealot",
-    "Japanese": "熱狂者",
+    "Text": "Zebras",
+    "Japanese": "シマウマ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1132,
     "Lvl": 3,
-    "Text": "Zebras",
-    "Japanese": "シマウマ",
+    "Text": "Zenith",
+    "Japanese": "天頂",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1133,
     "Lvl": 3,
-    "Text": "Zenith",
-    "Japanese": "天頂",
+    "Text": "Zapper",
+    "Japanese": "ザッパー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1134,
     "Lvl": 3,
-    "Text": "Zapper",
-    "Japanese": "ザッパー",
+    "Text": "Zeroes",
+    "Japanese": "ゼロ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1135,
     "Lvl": 3,
-    "Text": "Zeroes",
-    "Japanese": "ゼロ",
+    "Text": "Zigzag",
+    "Japanese": "ジグザグ",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1136,
     "Lvl": 3,
-    "Text": "Zigzag",
-    "Japanese": "ジグザグ",
+    "Text": "Zinger",
+    "Japanese": "ジンガー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1137,
     "Lvl": 3,
-    "Text": "Zinger",
-    "Japanese": "ジンガー",
+    "Text": "Zinnia",
+    "Japanese": "ジニア",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1138,
     "Lvl": 3,
-    "Text": "Zinnia",
-    "Japanese": "ジニア",
+    "Text": "Zipped",
+    "Japanese": "ジッパー付き",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1139,
     "Lvl": 3,
-    "Text": "Zipped",
-    "Japanese": "ジッパー付き",
+    "Text": "Zipper",
+    "Japanese": "ジッパー",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1140,
     "Lvl": 3,
-    "Text": "Zipper",
-    "Japanese": "ジッパー",
+    "Text": "Zodiac",
+    "Japanese": "星座",
+    "isSafe": true,
     "Len": 6
   },
   {
     "Id": 1141,
-    "Lvl": 3,
-    "Text": "Zodiac",
-    "Japanese": "星座",
-    "Len": 6
+    "Lvl": 4,
+    "Text": "Abdomen",
+    "Japanese": "腹部",
+    "isSafe": true,
+    "Len": 7
   },
   {
     "Id": 1142,
     "Lvl": 4,
-    "Text": "Abdomen",
-    "Japanese": "腹部",
+    "Text": "Ability",
+    "Japanese": "能力",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1143,
     "Lvl": 4,
-    "Text": "Ability",
-    "Japanese": "能力",
+    "Text": "Abolish",
+    "Japanese": "廃止する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1144,
     "Lvl": 4,
-    "Text": "Abolish",
-    "Japanese": "廃止する",
+    "Text": "Absence",
+    "Japanese": "不在",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1145,
     "Lvl": 4,
-    "Text": "Absence",
-    "Japanese": "不在",
+    "Text": "Academy",
+    "Japanese": "アカデミー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1146,
     "Lvl": 4,
-    "Text": "Academy",
-    "Japanese": "アカデミー",
+    "Text": "Acclaim",
+    "Japanese": "称賛",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1147,
     "Lvl": 4,
-    "Text": "Acclaim",
-    "Japanese": "称賛",
+    "Text": "Acquire",
+    "Japanese": "取得する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1148,
     "Lvl": 4,
-    "Text": "Acquire",
-    "Japanese": "取得する",
+    "Text": "Address",
+    "Japanese": "住所",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1149,
     "Lvl": 4,
-    "Text": "Address",
-    "Japanese": "住所",
+    "Text": "Adverse",
+    "Japanese": "不利な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1150,
     "Lvl": 4,
-    "Text": "Adverse",
-    "Japanese": "不利な",
+    "Text": "Advised",
+    "Japanese": "助言した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1151,
     "Lvl": 4,
-    "Text": "Advised",
-    "Japanese": "助言した",
+    "Text": "Against",
+    "Japanese": "に対して",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1152,
     "Lvl": 4,
-    "Text": "Against",
-    "Japanese": "に対して",
+    "Text": "Airport",
+    "Japanese": "空港",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1153,
     "Lvl": 4,
-    "Text": "Airport",
-    "Japanese": "空港",
+    "Text": "Alcohol",
+    "Japanese": "アルコール",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1154,
     "Lvl": 4,
-    "Text": "Alcohol",
-    "Japanese": "アルコール",
+    "Text": "Alleged",
+    "Japanese": "とされる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1155,
     "Lvl": 4,
-    "Text": "Alleged",
-    "Japanese": "とされる",
+    "Text": "Already",
+    "Japanese": "すでに",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1156,
     "Lvl": 4,
-    "Text": "Already",
-    "Japanese": "すでに",
+    "Text": "Amazing",
+    "Japanese": "すばらしい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1157,
     "Lvl": 4,
-    "Text": "Amazing",
-    "Japanese": "すばらしい",
+    "Text": "Analyst",
+    "Japanese": "アナリスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1158,
     "Lvl": 4,
-    "Text": "Analyst",
-    "Japanese": "アナリスト",
+    "Text": "Ancient",
+    "Japanese": "古代",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1159,
     "Lvl": 4,
-    "Text": "Ancient",
-    "Japanese": "古代",
+    "Text": "Angelic",
+    "Japanese": "天使のような",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1160,
     "Lvl": 4,
-    "Text": "Angelic",
-    "Japanese": "天使のような",
+    "Text": "Animals",
+    "Japanese": "動物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1161,
     "Lvl": 4,
-    "Text": "Animals",
-    "Japanese": "動物",
+    "Text": "Anxiety",
+    "Japanese": "不安",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1162,
     "Lvl": 4,
-    "Text": "Anxiety",
-    "Japanese": "不安",
+    "Text": "Appoint",
+    "Japanese": "任命する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1163,
     "Lvl": 4,
-    "Text": "Appoint",
-    "Japanese": "任命する",
+    "Text": "Approve",
+    "Japanese": "承認する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1164,
     "Lvl": 4,
-    "Text": "Approve",
-    "Japanese": "承認する",
+    "Text": "Aquatic",
+    "Japanese": "水生",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1165,
     "Lvl": 4,
-    "Text": "Aquatic",
-    "Japanese": "水生",
+    "Text": "Archive",
+    "Japanese": "アーカイブ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1166,
     "Lvl": 4,
-    "Text": "Archive",
-    "Japanese": "アーカイブ",
+    "Text": "Arrival",
+    "Japanese": "到着",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1167,
     "Lvl": 4,
-    "Text": "Arrival",
-    "Japanese": "到着",
+    "Text": "Artists",
+    "Japanese": "アーティスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1168,
     "Lvl": 4,
-    "Text": "Artists",
-    "Japanese": "アーティスト",
+    "Text": "Ashamed",
+    "Japanese": "恥ずかしい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1169,
     "Lvl": 4,
-    "Text": "Ashamed",
-    "Japanese": "恥ずかしい",
+    "Text": "Aspects",
+    "Japanese": "側面",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1170,
     "Lvl": 4,
-    "Text": "Aspects",
-    "Japanese": "側面",
+    "Text": "Asphalt",
+    "Japanese": "アスファルト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1171,
     "Lvl": 4,
-    "Text": "Asphalt",
-    "Japanese": "アスファルト",
+    "Text": "Assault",
+    "Japanese": "暴行",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1172,
     "Lvl": 4,
-    "Text": "Assault",
-    "Japanese": "暴行",
+    "Text": "Athlete",
+    "Japanese": "アスリート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1173,
     "Lvl": 4,
-    "Text": "Athlete",
-    "Japanese": "アスリート",
+    "Text": "Attempt",
+    "Japanese": "試み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1174,
     "Lvl": 4,
-    "Text": "Attempt",
-    "Japanese": "試み",
+    "Text": "Attract",
+    "Japanese": "引きつける",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1175,
     "Lvl": 4,
-    "Text": "Attract",
-    "Japanese": "引きつける",
+    "Text": "Auction",
+    "Japanese": "オークション",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1176,
     "Lvl": 4,
-    "Text": "Auction",
-    "Japanese": "オークション",
+    "Text": "Auditor",
+    "Japanese": "監査人",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1177,
     "Lvl": 4,
-    "Text": "Auditor",
-    "Japanese": "監査人",
+    "Text": "Average",
+    "Japanese": "平均",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1178,
     "Lvl": 4,
-    "Text": "Average",
-    "Japanese": "平均",
+    "Text": "Awesome",
+    "Japanese": "素晴らしい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1179,
     "Lvl": 4,
-    "Text": "Awesome",
-    "Japanese": "素晴らしい",
+    "Text": "Azimuth",
+    "Japanese": "方位角",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1180,
     "Lvl": 4,
-    "Text": "Azimuth",
-    "Japanese": "方位角",
+    "Text": "Backlog",
+    "Japanese": "やり残し",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1181,
     "Lvl": 4,
-    "Text": "Backlog",
-    "Japanese": "やり残し",
+    "Text": "Baggage",
+    "Japanese": "手荷物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1182,
     "Lvl": 4,
-    "Text": "Baggage",
-    "Japanese": "手荷物",
+    "Text": "Balance",
+    "Japanese": "バランス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1183,
     "Lvl": 4,
-    "Text": "Balance",
-    "Japanese": "バランス",
+    "Text": "Balloon",
+    "Japanese": "バルーン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1184,
     "Lvl": 4,
-    "Text": "Balloon",
-    "Japanese": "バルーン",
+    "Text": "Banking",
+    "Japanese": "銀行業務",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1185,
     "Lvl": 4,
-    "Text": "Banking",
-    "Japanese": "銀行業務",
+    "Text": "Banners",
+    "Japanese": "バナー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1186,
     "Lvl": 4,
-    "Text": "Banners",
-    "Japanese": "バナー",
+    "Text": "Banquet",
+    "Japanese": "バンケット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1187,
     "Lvl": 4,
-    "Text": "Banquet",
-    "Japanese": "バンケット",
+    "Text": "Bargain",
+    "Japanese": "お買い得",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1188,
     "Lvl": 4,
-    "Text": "Bargain",
-    "Japanese": "お買い得",
+    "Text": "Barrier",
+    "Japanese": "バリア",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1189,
     "Lvl": 4,
-    "Text": "Barrier",
-    "Japanese": "バリア",
+    "Text": "Battery",
+    "Japanese": "バッテリー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1190,
     "Lvl": 4,
-    "Text": "Battery",
-    "Japanese": "バッテリー",
+    "Text": "Beaming",
+    "Japanese": "満面の笑み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1191,
     "Lvl": 4,
-    "Text": "Beaming",
-    "Japanese": "満面の笑み",
+    "Text": "Because",
+    "Japanese": "なぜなら",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1192,
     "Lvl": 4,
-    "Text": "Because",
-    "Japanese": "なぜなら",
+    "Text": "Believe",
+    "Japanese": "信じる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1193,
     "Lvl": 4,
-    "Text": "Believe",
-    "Japanese": "信じる",
+    "Text": "Benefit",
+    "Japanese": "利点",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1194,
     "Lvl": 4,
-    "Text": "Benefit",
-    "Japanese": "利点",
+    "Text": "Bicycle",
+    "Japanese": "自転車",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1195,
     "Lvl": 4,
-    "Text": "Bicycle",
-    "Japanese": "自転車",
+    "Text": "Binding",
+    "Japanese": "バインディング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1196,
     "Lvl": 4,
-    "Text": "Binding",
-    "Japanese": "バインディング",
+    "Text": "Biology",
+    "Japanese": "生物学",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1197,
     "Lvl": 4,
-    "Text": "Biology",
-    "Japanese": "生物学",
+    "Text": "Bizarre",
+    "Japanese": "奇妙だ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1198,
     "Lvl": 4,
-    "Text": "Bizarre",
-    "Japanese": "奇妙だ",
+    "Text": "Blanket",
+    "Japanese": "ブランケット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1199,
     "Lvl": 4,
-    "Text": "Blanket",
-    "Japanese": "ブランケット",
+    "Text": "Blessed",
+    "Japanese": "祝福された",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1200,
     "Lvl": 4,
-    "Text": "Blessed",
-    "Japanese": "祝福された",
+    "Text": "Blossom",
+    "Japanese": "花",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1201,
     "Lvl": 4,
-    "Text": "Blossom",
-    "Japanese": "花",
+    "Text": "Boating",
+    "Japanese": "ボート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1202,
     "Lvl": 4,
-    "Text": "Boating",
-    "Japanese": "ボート",
+    "Text": "Boulder",
+    "Japanese": "ボルダー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1203,
     "Lvl": 4,
-    "Text": "Boulder",
-    "Japanese": "ボルダー",
+    "Text": "Booking",
+    "Japanese": "予約",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1204,
     "Lvl": 4,
-    "Text": "Booking",
-    "Japanese": "予約",
+    "Text": "Bounced",
+    "Japanese": "跳ね返った",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1205,
     "Lvl": 4,
-    "Text": "Bounced",
-    "Japanese": "跳ね返った",
+    "Text": "Bravery",
+    "Japanese": "勇気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1206,
     "Lvl": 4,
-    "Text": "Bravery",
-    "Japanese": "勇気",
+    "Text": "Breathe",
+    "Japanese": "息をする",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1207,
     "Lvl": 4,
-    "Text": "Breathe",
-    "Japanese": "息をする",
+    "Text": "Briefly",
+    "Japanese": "簡単に言うと",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1208,
     "Lvl": 4,
-    "Text": "Briefly",
-    "Japanese": "簡単に言うと",
+    "Text": "Broaden",
+    "Japanese": "広げる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1209,
     "Lvl": 4,
-    "Text": "Broaden",
-    "Japanese": "広げる",
+    "Text": "Brother",
+    "Japanese": "兄弟",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1210,
     "Lvl": 4,
-    "Text": "Brother",
-    "Japanese": "兄弟",
+    "Text": "Builder",
+    "Japanese": "ビルダー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1211,
     "Lvl": 4,
-    "Text": "Builder",
-    "Japanese": "ビルダー",
+    "Text": "Burning",
+    "Japanese": "燃焼",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1212,
     "Lvl": 4,
-    "Text": "Burning",
-    "Japanese": "燃焼",
+    "Text": "Cabinet",
+    "Japanese": "キャビネット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1213,
     "Lvl": 4,
-    "Text": "Cabinet",
-    "Japanese": "キャビネット",
+    "Text": "Calcium",
+    "Japanese": "カルシウム",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1214,
     "Lvl": 4,
-    "Text": "Calcium",
-    "Japanese": "カルシウム",
+    "Text": "Calcite",
+    "Japanese": "方解石",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1215,
     "Lvl": 4,
-    "Text": "Calcite",
-    "Japanese": "方解石",
+    "Text": "Caliber",
+    "Japanese": "口径",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1216,
     "Lvl": 4,
-    "Text": "Caliber",
-    "Japanese": "口径",
+    "Text": "Calling",
+    "Japanese": "呼び出し",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1217,
     "Lvl": 4,
-    "Text": "Calling",
-    "Japanese": "呼び出し",
+    "Text": "Calming",
+    "Japanese": "心を落ち着かせる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1218,
     "Lvl": 4,
-    "Text": "Calming",
-    "Japanese": "心を落ち着かせる",
+    "Text": "Cameras",
+    "Japanese": "カメラ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1219,
     "Lvl": 4,
-    "Text": "Cameras",
-    "Japanese": "カメラ",
+    "Text": "Camping",
+    "Japanese": "キャンプ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1220,
     "Lvl": 4,
-    "Text": "Camping",
-    "Japanese": "キャンプ",
+    "Text": "Capable",
+    "Japanese": "有能",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1221,
     "Lvl": 4,
-    "Text": "Capable",
-    "Japanese": "有能",
+    "Text": "Capital",
+    "Japanese": "資本",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1222,
     "Lvl": 4,
-    "Text": "Capital",
-    "Japanese": "資本",
+    "Text": "Captain",
+    "Japanese": "キャプテン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1223,
     "Lvl": 4,
-    "Text": "Captain",
-    "Japanese": "キャプテン",
+    "Text": "Caption",
+    "Japanese": "キャプション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1224,
     "Lvl": 4,
-    "Text": "Caption",
-    "Japanese": "キャプション",
+    "Text": "Capture",
+    "Japanese": "捕獲",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1225,
     "Lvl": 4,
-    "Text": "Capture",
-    "Japanese": "捕獲",
+    "Text": "Cardiac",
+    "Japanese": "心臓",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1226,
     "Lvl": 4,
-    "Text": "Cardiac",
-    "Japanese": "心臓",
+    "Text": "Careful",
+    "Japanese": "注意深い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1227,
     "Lvl": 4,
-    "Text": "Careful",
-    "Japanese": "注意深い",
+    "Text": "Carried",
+    "Japanese": "運んだ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1228,
     "Lvl": 4,
-    "Text": "Carried",
-    "Japanese": "運んだ",
+    "Text": "Cartoon",
+    "Japanese": "漫画",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1229,
     "Lvl": 4,
-    "Text": "Cartoon",
-    "Japanese": "漫画",
+    "Text": "Cascade",
+    "Japanese": "カスケード",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1230,
     "Lvl": 4,
-    "Text": "Cascade",
-    "Japanese": "カスケード",
+    "Text": "Catalog",
+    "Japanese": "カタログ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1231,
     "Lvl": 4,
-    "Text": "Catalog",
-    "Japanese": "カタログ",
+    "Text": "Caution",
+    "Japanese": "注意",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1232,
     "Lvl": 4,
-    "Text": "Caution",
-    "Japanese": "注意",
+    "Text": "Ceiling",
+    "Japanese": "シーリング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1233,
     "Lvl": 4,
-    "Text": "Ceiling",
-    "Japanese": "シーリング",
+    "Text": "Central",
+    "Japanese": "中央",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1234,
     "Lvl": 4,
-    "Text": "Central",
-    "Japanese": "中央",
+    "Text": "Century",
+    "Japanese": "世紀",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1235,
     "Lvl": 4,
-    "Text": "Century",
-    "Japanese": "世紀",
+    "Text": "Certain",
+    "Japanese": "ある",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1236,
     "Lvl": 4,
-    "Text": "Certain",
-    "Japanese": "ある",
+    "Text": "Chamber",
+    "Japanese": "チャンバー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1237,
     "Lvl": 4,
-    "Text": "Chamber",
-    "Japanese": "チャンバー",
+    "Text": "Channel",
+    "Japanese": "チャネル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1238,
     "Lvl": 4,
-    "Text": "Channel",
-    "Japanese": "チャネル",
+    "Text": "Chapter",
+    "Japanese": "章",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1239,
     "Lvl": 4,
-    "Text": "Chapter",
-    "Japanese": "章",
+    "Text": "Charity",
+    "Japanese": "慈善活動",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1240,
     "Lvl": 4,
-    "Text": "Charity",
-    "Japanese": "慈善活動",
+    "Text": "Charter",
+    "Japanese": "チャーター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1241,
     "Lvl": 4,
-    "Text": "Charter",
-    "Japanese": "チャーター",
+    "Text": "Cheaper",
+    "Japanese": "より安い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1242,
     "Lvl": 4,
-    "Text": "Cheaper",
-    "Japanese": "より安い",
+    "Text": "Checked",
+    "Japanese": "確認済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1243,
     "Lvl": 4,
-    "Text": "Checked",
-    "Japanese": "確認済み",
+    "Text": "Chicken",
+    "Japanese": "鶏肉",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1244,
     "Lvl": 4,
-    "Text": "Chicken",
-    "Japanese": "チキン",
+    "Text": "Chimney",
+    "Japanese": "煙突",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1245,
     "Lvl": 4,
-    "Text": "Chimney",
-    "Japanese": "煙突",
+    "Text": "Chronic",
+    "Japanese": "慢性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1246,
     "Lvl": 4,
-    "Text": "Chronic",
-    "Japanese": "慢性",
+    "Text": "Circuit",
+    "Japanese": "回路",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1247,
     "Lvl": 4,
-    "Text": "Circuit",
-    "Japanese": "回路",
+    "Text": "Citizen",
+    "Japanese": "市民",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1248,
     "Lvl": 4,
-    "Text": "Citizen",
-    "Japanese": "市民",
+    "Text": "Classic",
+    "Japanese": "クラシック",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1249,
     "Lvl": 4,
-    "Text": "Classic",
-    "Japanese": "クラシック",
+    "Text": "Cleaner",
+    "Japanese": "クリーナー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1250,
     "Lvl": 4,
-    "Text": "Cleaner",
-    "Japanese": "クリーナー",
+    "Text": "Climate",
+    "Japanese": "気候",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1251,
     "Lvl": 4,
-    "Text": "Climate",
-    "Japanese": "気候",
+    "Text": "Closure",
+    "Japanese": "閉鎖",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1252,
     "Lvl": 4,
-    "Text": "Closure",
-    "Japanese": "閉鎖",
+    "Text": "Coastal",
+    "Japanese": "沿岸部",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1253,
     "Lvl": 4,
-    "Text": "Coastal",
-    "Japanese": "沿岸部",
+    "Text": "Collect",
+    "Japanese": "集める",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1254,
     "Lvl": 4,
-    "Text": "Collect",
-    "Japanese": "集める",
+    "Text": "College",
+    "Japanese": "カレッジ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1255,
     "Lvl": 4,
-    "Text": "College",
-    "Japanese": "カレッジ",
+    "Text": "Combine",
+    "Japanese": "組み合わせる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1256,
     "Lvl": 4,
-    "Text": "Combine",
-    "Japanese": "組み合わせる",
+    "Text": "Comfort",
+    "Japanese": "快適",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1257,
     "Lvl": 4,
-    "Text": "Comfort",
-    "Japanese": "快適",
+    "Text": "Command",
+    "Japanese": "指示",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1258,
     "Lvl": 4,
-    "Text": "Command",
-    "Japanese": "指示",
+    "Text": "Comment",
+    "Japanese": "コメント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1259,
     "Lvl": 4,
-    "Text": "Comment",
-    "Japanese": "コメント",
+    "Text": "Compact",
+    "Japanese": "コンパクト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1260,
     "Lvl": 4,
-    "Text": "Compact",
-    "Japanese": "コンパクト",
+    "Text": "Company",
+    "Japanese": "会社",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1261,
     "Lvl": 4,
-    "Text": "Company",
-    "Japanese": "会社",
+    "Text": "Compare",
+    "Japanese": "比較する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1262,
     "Lvl": 4,
-    "Text": "Compare",
-    "Japanese": "比較する",
+    "Text": "Compass",
+    "Japanese": "コンパス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1263,
     "Lvl": 4,
-    "Text": "Compass",
-    "Japanese": "コンパス",
+    "Text": "Complex",
+    "Japanese": "複雑な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1264,
     "Lvl": 4,
-    "Text": "Complex",
-    "Japanese": "複雑な",
+    "Text": "Concept",
+    "Japanese": "コンセプト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1265,
     "Lvl": 4,
-    "Text": "Concept",
-    "Japanese": "コンセプト",
+    "Text": "Concern",
+    "Japanese": "懸念",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1266,
     "Lvl": 4,
-    "Text": "Concern",
-    "Japanese": "懸念",
+    "Text": "Concert",
+    "Japanese": "コンサート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1267,
     "Lvl": 4,
-    "Text": "Concert",
-    "Japanese": "コンサート",
+    "Text": "Conduct",
+    "Japanese": "行為",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1268,
     "Lvl": 4,
-    "Text": "Conduct",
-    "Japanese": "行為",
+    "Text": "Confirm",
+    "Japanese": "確認する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1269,
     "Lvl": 4,
-    "Text": "Confirm",
-    "Japanese": "確認する",
+    "Text": "Connect",
+    "Japanese": "接続する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1270,
     "Lvl": 4,
-    "Text": "Connect",
-    "Japanese": "接続する",
+    "Text": "Consent",
+    "Japanese": "同意",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1271,
     "Lvl": 4,
-    "Text": "Consent",
-    "Japanese": "同意",
+    "Text": "Contact",
+    "Japanese": "接触",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1272,
     "Lvl": 4,
-    "Text": "Contact",
-    "Japanese": "接触",
+    "Text": "Contain",
+    "Japanese": "含む",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1273,
     "Lvl": 4,
-    "Text": "Contain",
-    "Japanese": "含む",
+    "Text": "Context",
+    "Japanese": "コンテクスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1274,
     "Lvl": 4,
-    "Text": "Context",
-    "Japanese": "コンテクスト",
+    "Text": "Control",
+    "Japanese": "コントロール",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1275,
     "Lvl": 4,
-    "Text": "Control",
-    "Japanese": "コントロール",
+    "Text": "Convert",
+    "Japanese": "変換する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1276,
     "Lvl": 4,
-    "Text": "Convert",
-    "Japanese": "変換する",
+    "Text": "Cookies",
+    "Japanese": "クッキー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1277,
     "Lvl": 4,
-    "Text": "Cookies",
-    "Japanese": "クッキー",
+    "Text": "Cooking",
+    "Japanese": "料理",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1278,
     "Lvl": 4,
-    "Text": "Cooking",
-    "Japanese": "料理",
+    "Text": "Correct",
+    "Japanese": "正しい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1279,
     "Lvl": 4,
-    "Text": "Correct",
-    "Japanese": "正しい",
+    "Text": "Council",
+    "Japanese": "評議会",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1280,
     "Lvl": 4,
-    "Text": "Council",
-    "Japanese": "評議会",
+    "Text": "Counter",
+    "Japanese": "カウンタ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1281,
     "Lvl": 4,
-    "Text": "Counter",
-    "Japanese": "カウンタ",
+    "Text": "Country",
+    "Japanese": "国",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1282,
     "Lvl": 4,
-    "Text": "Country",
-    "Japanese": "国",
+    "Text": "Couples",
+    "Japanese": "カップル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1283,
     "Lvl": 4,
-    "Text": "Couples",
-    "Japanese": "カップル",
+    "Text": "Courage",
+    "Japanese": "勇気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1284,
     "Lvl": 4,
-    "Text": "Courage",
-    "Japanese": "勇気",
+    "Text": "Courses",
+    "Japanese": "コース",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1285,
     "Lvl": 4,
-    "Text": "Courses",
-    "Japanese": "コース",
+    "Text": "Covered",
+    "Japanese": "カバーされている",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1286,
     "Lvl": 4,
-    "Text": "Covered",
-    "Japanese": "カバーされている",
+    "Text": "Cracked",
+    "Japanese": "ひび割れた",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1287,
     "Lvl": 4,
-    "Text": "Cracked",
-    "Japanese": "ひび割れた",
+    "Text": "Crafted",
+    "Japanese": "クラフト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1288,
     "Lvl": 4,
-    "Text": "Crafted",
-    "Japanese": "クラフト",
+    "Text": "Created",
+    "Japanese": "作成済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1289,
     "Lvl": 4,
-    "Text": "Created",
-    "Japanese": "作成済み",
+    "Text": "Credits",
+    "Japanese": "クレジット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1290,
     "Lvl": 4,
-    "Text": "Credits",
-    "Japanese": "クレジット",
+    "Text": "Cricket",
+    "Japanese": "クリケット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1291,
     "Lvl": 4,
-    "Text": "Cricket",
-    "Japanese": "クリケット",
+    "Text": "Crimson",
+    "Japanese": "クリムゾン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1292,
     "Lvl": 4,
-    "Text": "Crimson",
-    "Japanese": "クリムゾン",
+    "Text": "Crucial",
+    "Japanese": "重要な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1293,
     "Lvl": 4,
-    "Text": "Crucial",
-    "Japanese": "重要な",
+    "Text": "Crystal",
+    "Japanese": "結晶",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1294,
     "Lvl": 4,
-    "Text": "Crystal",
-    "Japanese": "結晶",
+    "Text": "Culture",
+    "Japanese": "文化",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1295,
     "Lvl": 4,
-    "Text": "Culture",
-    "Japanese": "文化",
+    "Text": "Current",
+    "Japanese": "現在",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1296,
     "Lvl": 4,
-    "Text": "Current",
-    "Japanese": "現在",
+    "Text": "Curtain",
+    "Japanese": "カーテン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1297,
     "Lvl": 4,
-    "Text": "Curtain",
-    "Japanese": "カーテン",
+    "Text": "Custody",
+    "Japanese": "親権",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1298,
     "Lvl": 4,
-    "Text": "Custody",
-    "Japanese": "親権",
+    "Text": "Customs",
+    "Japanese": "税関",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1299,
     "Lvl": 4,
-    "Text": "Customs",
-    "Japanese": "税関",
+    "Text": "Cutting",
+    "Japanese": "切断",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1300,
     "Lvl": 4,
-    "Text": "Cutting",
-    "Japanese": "切断",
+    "Text": "Cycling",
+    "Japanese": "サイクリング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1301,
     "Lvl": 4,
-    "Text": "Cycling",
-    "Japanese": "サイクリング",
+    "Text": "Damaged",
+    "Japanese": "損傷",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1302,
     "Lvl": 4,
-    "Text": "Damaged",
-    "Japanese": "損傷",
+    "Text": "Dancing",
+    "Japanese": "ダンシング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1303,
     "Lvl": 4,
-    "Text": "Dancing",
-    "Japanese": "ダンシング",
+    "Text": "Dangers",
+    "Japanese": "危険性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1304,
     "Lvl": 4,
-    "Text": "Dangers",
-    "Japanese": "危険性",
+    "Text": "Darkest",
+    "Japanese": "最も暗い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1305,
     "Lvl": 4,
-    "Text": "Darkest",
-    "Japanese": "最も暗い",
+    "Text": "Darling",
+    "Japanese": "ダーリン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1306,
     "Lvl": 4,
-    "Text": "Darling",
-    "Japanese": "ダーリン",
+    "Text": "Daycare",
+    "Japanese": "託児所",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1307,
     "Lvl": 4,
-    "Text": "Daycare",
-    "Japanese": "託児所",
+    "Text": "Dealing",
+    "Japanese": "取引",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1308,
     "Lvl": 4,
-    "Text": "Dealing",
-    "Japanese": "取引",
+    "Text": "Debated",
+    "Japanese": "議論した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1309,
     "Lvl": 4,
-    "Text": "Debated",
-    "Japanese": "議論した",
+    "Text": "Decades",
+    "Japanese": "数十年",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1310,
     "Lvl": 4,
-    "Text": "Decades",
-    "Japanese": "数十年",
+    "Text": "Deceive",
+    "Japanese": "欺く",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1311,
     "Lvl": 4,
-    "Text": "Deceive",
-    "Japanese": "欺く",
+    "Text": "Decimal",
+    "Japanese": "小数",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1312,
     "Lvl": 4,
-    "Text": "Decimal",
-    "Japanese": "小数",
+    "Text": "Declare",
+    "Japanese": "宣言する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1313,
     "Lvl": 4,
-    "Text": "Declare",
-    "Japanese": "宣言する",
+    "Text": "Decline",
+    "Japanese": "衰退",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1314,
     "Lvl": 4,
-    "Text": "Decline",
-    "Japanese": "衰退",
+    "Text": "Decreed",
+    "Japanese": "布告した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1315,
     "Lvl": 4,
-    "Text": "Decreed",
-    "Japanese": "布告した",
+    "Text": "Deepest",
+    "Japanese": "最も深い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1316,
     "Lvl": 4,
-    "Text": "Deepest",
-    "Japanese": "最も深い",
+    "Text": "Default",
+    "Japanese": "デフォルト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1317,
     "Lvl": 4,
-    "Text": "Default",
-    "Japanese": "デフォルト",
+    "Text": "Defense",
+    "Japanese": "防衛",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1318,
     "Lvl": 4,
-    "Text": "Defense",
-    "Japanese": "防衛",
+    "Text": "Deficit",
+    "Japanese": "赤字",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1319,
     "Lvl": 4,
-    "Text": "Deficit",
-    "Japanese": "赤字",
+    "Text": "Defined",
+    "Japanese": "定義済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1320,
     "Lvl": 4,
-    "Text": "Defined",
-    "Japanese": "定義済み",
+    "Text": "Defrost",
+    "Japanese": "解凍する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1321,
     "Lvl": 4,
-    "Text": "Defrost",
-    "Japanese": "解凍する",
+    "Text": "Delayed",
+    "Japanese": "遅延",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1322,
     "Lvl": 4,
-    "Text": "Delayed",
-    "Japanese": "遅延",
+    "Text": "Delight",
+    "Japanese": "喜び",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1323,
     "Lvl": 4,
-    "Text": "Delight",
-    "Japanese": "喜び",
+    "Text": "Deliver",
+    "Japanese": "届ける",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1324,
     "Lvl": 4,
-    "Text": "Deliver",
-    "Japanese": "届ける",
+    "Text": "Demands",
+    "Japanese": "要求",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1325,
     "Lvl": 4,
-    "Text": "Demands",
-    "Japanese": "要求",
+    "Text": "Density",
+    "Japanese": "密度",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1326,
     "Lvl": 4,
-    "Text": "Density",
-    "Japanese": "密度",
+    "Text": "Dentist",
+    "Japanese": "歯医者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1327,
     "Lvl": 4,
-    "Text": "Dentist",
-    "Japanese": "歯医者",
+    "Text": "Depends",
+    "Japanese": "場合による",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1328,
     "Lvl": 4,
-    "Text": "Depends",
-    "Japanese": "場合による",
+    "Text": "Deposit",
+    "Japanese": "デポジット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1329,
     "Lvl": 4,
-    "Text": "Deposit",
-    "Japanese": "デポジット",
+    "Text": "Deprive",
+    "Japanese": "奪う",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1330,
     "Lvl": 4,
-    "Text": "Deprive",
-    "Japanese": "奪う",
+    "Text": "Descend",
+    "Japanese": "下降する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1331,
     "Lvl": 4,
-    "Text": "Descend",
-    "Japanese": "下降する",
+    "Text": "Deserve",
+    "Japanese": "値する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1332,
     "Lvl": 4,
-    "Text": "Deserve",
-    "Japanese": "値する",
+    "Text": "Desktop",
+    "Japanese": "デスクトップ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1333,
     "Lvl": 4,
-    "Text": "Desktop",
-    "Japanese": "デスクトップ",
+    "Text": "Destroy",
+    "Japanese": "破壊する",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1334,
     "Lvl": 4,
-    "Text": "Destroy",
-    "Japanese": "破壊する",
+    "Text": "Details",
+    "Japanese": "詳細",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1335,
     "Lvl": 4,
-    "Text": "Details",
-    "Japanese": "詳細",
+    "Text": "Develop",
+    "Japanese": "開発する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1336,
     "Lvl": 4,
-    "Text": "Develop",
-    "Japanese": "開発する",
+    "Text": "Devices",
+    "Japanese": "デバイス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1337,
     "Lvl": 4,
-    "Text": "Devices",
-    "Japanese": "デバイス",
+    "Text": "Devoted",
+    "Japanese": "献身的",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1338,
     "Lvl": 4,
-    "Text": "Devoted",
-    "Japanese": "献身的",
+    "Text": "Diamond",
+    "Japanese": "ダイヤモンド",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1339,
     "Lvl": 4,
-    "Text": "Diamond",
-    "Japanese": "ダイヤモンド",
+    "Text": "Dictate",
+    "Japanese": "口述する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1340,
     "Lvl": 4,
-    "Text": "Dictate",
-    "Japanese": "口述する",
+    "Text": "Digital",
+    "Japanese": "デジタル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1341,
     "Lvl": 4,
-    "Text": "Digital",
-    "Japanese": "デジタル",
+    "Text": "Dignity",
+    "Japanese": "尊厳",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1342,
     "Lvl": 4,
-    "Text": "Dignity",
-    "Japanese": "尊厳",
+    "Text": "Dilemma",
+    "Japanese": "ジレンマ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1343,
     "Lvl": 4,
-    "Text": "Dilemma",
-    "Japanese": "ジレンマ",
+    "Text": "Dimming",
+    "Japanese": "調光",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1344,
     "Lvl": 4,
-    "Text": "Dimming",
-    "Japanese": "調光",
+    "Text": "Diorite",
+    "Japanese": "閃緑岩",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1345,
     "Lvl": 4,
-    "Text": "Diorite",
-    "Japanese": "閃緑岩",
+    "Text": "Directs",
+    "Japanese": "指示する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1346,
     "Lvl": 4,
-    "Text": "Directs",
-    "Japanese": "指示する",
+    "Text": "Discard",
+    "Japanese": "破棄",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1347,
     "Lvl": 4,
-    "Text": "Discard",
-    "Japanese": "破棄",
+    "Text": "Discern",
+    "Japanese": "見分ける",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1348,
     "Lvl": 4,
-    "Text": "Discern",
-    "Japanese": "見分ける",
+    "Text": "Discuss",
+    "Japanese": "話し合う",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1349,
     "Lvl": 4,
-    "Text": "Discuss",
-    "Japanese": "話し合う",
+    "Text": "Disease",
+    "Japanese": "病気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1350,
     "Lvl": 4,
-    "Text": "Disease",
-    "Japanese": "病気",
+    "Text": "Display",
+    "Japanese": "画面",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1351,
     "Lvl": 4,
-    "Text": "Display",
-    "Japanese": "画面",
+    "Text": "Dispute",
+    "Japanese": "紛争",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1352,
     "Lvl": 4,
-    "Text": "Dispute",
-    "Japanese": "紛争",
+    "Text": "Distant",
+    "Japanese": "遠く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1353,
     "Lvl": 4,
-    "Text": "Distant",
-    "Japanese": "遠く",
+    "Text": "Distort",
+    "Japanese": "歪ませる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1354,
     "Lvl": 4,
-    "Text": "Distort",
-    "Japanese": "歪ませる",
+    "Text": "Disturb",
+    "Japanese": "乱す",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1355,
     "Lvl": 4,
-    "Text": "Disturb",
-    "Japanese": "乱す",
+    "Text": "Diverse",
+    "Japanese": "多様な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1356,
     "Lvl": 4,
-    "Text": "Diverse",
-    "Japanese": "多様な",
+    "Text": "Divided",
+    "Japanese": "分割",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1357,
     "Lvl": 4,
-    "Text": "Divided",
-    "Japanese": "分割",
+    "Text": "Divorce",
+    "Japanese": "離婚",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1358,
     "Lvl": 4,
-    "Text": "Divorce",
-    "Japanese": "離婚",
+    "Text": "Doctors",
+    "Japanese": "医師",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1359,
     "Lvl": 4,
-    "Text": "Doctors",
-    "Japanese": "医師",
+    "Text": "Dollars",
+    "Japanese": "ドル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1360,
     "Lvl": 4,
-    "Text": "Dollars",
-    "Japanese": "ドル",
+    "Text": "Dolphin",
+    "Japanese": "イルカ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1361,
     "Lvl": 4,
-    "Text": "Dolphin",
-    "Japanese": "イルカ",
+    "Text": "Domains",
+    "Japanese": "ドメイン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1362,
     "Lvl": 4,
-    "Text": "Domains",
-    "Japanese": "ドメイン",
+    "Text": "Donated",
+    "Japanese": "寄付",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1363,
     "Lvl": 4,
-    "Text": "Donated",
-    "Japanese": "寄付",
+    "Text": "Doorway",
+    "Japanese": "戸口",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1364,
     "Lvl": 4,
-    "Text": "Doorway",
-    "Japanese": "戸口",
+    "Text": "Dormant",
+    "Japanese": "睡眠状態",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1365,
     "Lvl": 4,
-    "Text": "Dormant",
-    "Japanese": "睡眠状態",
+    "Text": "Doubled",
+    "Japanese": "2倍",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1366,
     "Lvl": 4,
-    "Text": "Doubled",
-    "Japanese": "2倍",
+    "Text": "Doubted",
+    "Japanese": "疑わしい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1367,
     "Lvl": 4,
-    "Text": "Doubted",
-    "Japanese": "疑わしい",
+    "Text": "Drafted",
+    "Japanese": "ドラフト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1368,
     "Lvl": 4,
-    "Text": "Drafted",
-    "Japanese": "ドラフト",
+    "Text": "Dragons",
+    "Japanese": "ドラゴン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1369,
     "Lvl": 4,
-    "Text": "Dragons",
-    "Japanese": "ドラゴン",
+    "Text": "Drained",
+    "Japanese": "消耗した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1370,
     "Lvl": 4,
-    "Text": "Drained",
-    "Japanese": "消耗した",
+    "Text": "Drawing",
+    "Japanese": "描画",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1371,
     "Lvl": 4,
-    "Text": "Drawing",
-    "Japanese": "描画",
+    "Text": "Dreamed",
+    "Japanese": "夢を見た",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1372,
     "Lvl": 4,
-    "Text": "Dreamed",
-    "Japanese": "夢を見た",
+    "Text": "Dressed",
+    "Japanese": "服を着た",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1373,
     "Lvl": 4,
-    "Text": "Dressed",
-    "Japanese": "服を着た",
+    "Text": "Drilled",
+    "Japanese": "ドリル加工",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1374,
     "Lvl": 4,
-    "Text": "Drilled",
-    "Japanese": "ドリル加工",
+    "Text": "Drivers",
+    "Japanese": "ドライバー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1375,
     "Lvl": 4,
-    "Text": "Drivers",
-    "Japanese": "ドライバー",
+    "Text": "Driving",
+    "Japanese": "運転",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1376,
     "Lvl": 4,
-    "Text": "Driving",
-    "Japanese": "運転",
+    "Text": "Dropped",
+    "Japanese": "ドロップ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1377,
     "Lvl": 4,
-    "Text": "Dropped",
-    "Japanese": "ドロップされました",
+    "Text": "Drought",
+    "Japanese": "干ばつ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1378,
     "Lvl": 4,
-    "Text": "Drought",
-    "Japanese": "干ばつ",
+    "Text": "Drunken",
+    "Japanese": "酔っ払い",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1379,
     "Lvl": 4,
-    "Text": "Drunken",
-    "Japanese": "酔っ払い",
+    "Text": "Duality",
+    "Japanese": "二元性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1380,
     "Lvl": 4,
-    "Text": "Duality",
-    "Japanese": "二元性",
+    "Text": "Ductile",
+    "Japanese": "延性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1381,
     "Lvl": 4,
-    "Text": "Ductile",
-    "Japanese": "延性",
+    "Text": "Dungeon",
+    "Japanese": "ダンジョン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1382,
     "Lvl": 4,
-    "Text": "Dungeon",
-    "Japanese": "ダンジョン",
+    "Text": "Durable",
+    "Japanese": "耐久性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1383,
     "Lvl": 4,
-    "Text": "Durable",
-    "Japanese": "耐久性",
+    "Text": "Dustpan",
+    "Japanese": "ちりとり",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1384,
     "Lvl": 4,
-    "Text": "Dustpan",
-    "Japanese": "ちりとり",
+    "Text": "Dwarfed",
+    "Japanese": "矮小な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1385,
     "Lvl": 4,
-    "Text": "Dwarfed",
-    "Japanese": "矮小な",
+    "Text": "Dynamic",
+    "Japanese": "動的",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1386,
     "Lvl": 4,
-    "Text": "Dynamic",
-    "Japanese": "動的",
+    "Text": "Dynasty",
+    "Japanese": "王朝",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1387,
     "Lvl": 4,
-    "Text": "Dynasty",
-    "Japanese": "王朝",
+    "Text": "Eagerly",
+    "Japanese": "熱心に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1388,
     "Lvl": 4,
-    "Text": "Eagerly",
-    "Japanese": "熱心に",
+    "Text": "Earache",
+    "Japanese": "耳痛",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1389,
     "Lvl": 4,
-    "Text": "Earache",
-    "Japanese": "耳痛",
+    "Text": "Earldom",
+    "Japanese": "伯爵領",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1390,
     "Lvl": 4,
-    "Text": "Earldom",
-    "Japanese": "伯爵領",
+    "Text": "Earlier",
+    "Japanese": "以前",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1391,
     "Lvl": 4,
-    "Text": "Earlier",
-    "Japanese": "以前",
+    "Text": "Earring",
+    "Japanese": "イヤリング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1392,
     "Lvl": 4,
-    "Text": "Earring",
-    "Japanese": "イヤリング",
+    "Text": "Earthed",
+    "Japanese": "アース済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1393,
     "Lvl": 4,
-    "Text": "Earthed",
-    "Japanese": "アース済み",
+    "Text": "Eastern",
+    "Japanese": "東部",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1394,
     "Lvl": 4,
-    "Text": "Eastern",
-    "Japanese": "東部",
+    "Text": "Echoing",
+    "Japanese": "反響する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1395,
     "Lvl": 4,
-    "Text": "Echoing",
-    "Japanese": "反響する",
+    "Text": "Eclipse",
+    "Japanese": "日食",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1396,
     "Lvl": 4,
-    "Text": "Eclipse",
-    "Japanese": "日食",
+    "Text": "Ecology",
+    "Japanese": "生態学",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1397,
     "Lvl": 4,
-    "Text": "Ecology",
-    "Japanese": "生態学",
+    "Text": "Economy",
+    "Japanese": "経済",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1398,
     "Lvl": 4,
-    "Text": "Economy",
-    "Japanese": "経済",
+    "Text": "Edifice",
+    "Japanese": "建造物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1399,
     "Lvl": 4,
-    "Text": "Edifice",
-    "Japanese": "建造物",
+    "Text": "Editing",
+    "Japanese": "編集",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1400,
     "Lvl": 4,
-    "Text": "Editing",
-    "Japanese": "編集",
+    "Text": "Edition",
+    "Japanese": "版",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1401,
     "Lvl": 4,
-    "Text": "Edition",
-    "Japanese": "版",
+    "Text": "Editors",
+    "Japanese": "編集者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1402,
     "Lvl": 4,
-    "Text": "Editors",
-    "Japanese": "編集者",
+    "Text": "Educate",
+    "Japanese": "教育する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1403,
     "Lvl": 4,
-    "Text": "Educate",
-    "Japanese": "教育する",
+    "Text": "Efforts",
+    "Japanese": "努力",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1404,
     "Lvl": 4,
-    "Text": "Efforts",
-    "Japanese": "努力",
+    "Text": "Egghead",
+    "Japanese": "インテリ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1405,
     "Lvl": 4,
-    "Text": "Egghead",
-    "Japanese": "インテリ",
+    "Text": "Elastic",
+    "Japanese": "伸縮性のある",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1406,
     "Lvl": 4,
-    "Text": "Elastic",
-    "Japanese": "伸縮性のある",
+    "Text": "Elderly",
+    "Japanese": "お年寄り",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1407,
     "Lvl": 4,
-    "Text": "Elderly",
-    "Japanese": "お年寄り",
+    "Text": "Elegant",
+    "Japanese": "エレガント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1408,
     "Lvl": 4,
-    "Text": "Elegant",
-    "Japanese": "エレガント",
+    "Text": "Element",
+    "Japanese": "要素",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1409,
     "Lvl": 4,
-    "Text": "Element",
-    "Japanese": "要素",
+    "Text": "Elevate",
+    "Japanese": "高める",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1410,
     "Lvl": 4,
-    "Text": "Elevate",
-    "Japanese": "高める",
+    "Text": "Ellipse",
+    "Japanese": "楕円",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1411,
     "Lvl": 4,
-    "Text": "Ellipse",
-    "Japanese": "楕円",
+    "Text": "Evasive",
+    "Japanese": "回避的",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1412,
     "Lvl": 4,
-    "Text": "Evasive",
-    "Japanese": "回避的",
+    "Text": "Everest",
+    "Japanese": "エベレスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1413,
     "Lvl": 4,
-    "Text": "Everest",
-    "Japanese": "エベレスト",
+    "Text": "Exactly",
+    "Japanese": "その通り",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1414,
     "Lvl": 4,
-    "Text": "Exactly",
-    "Japanese": "その通り",
+    "Text": "Example",
+    "Japanese": "例",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1415,
     "Lvl": 4,
-    "Text": "Example",
-    "Japanese": "例",
+    "Text": "Exceeds",
+    "Japanese": "超える",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1416,
     "Lvl": 4,
-    "Text": "Exceeds",
-    "Japanese": "超える",
+    "Text": "Excepts",
+    "Japanese": "例外",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1417,
     "Lvl": 4,
-    "Text": "Excepts",
-    "Japanese": "例外",
+    "Text": "Exclaim",
+    "Japanese": "叫ぶ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1418,
     "Lvl": 4,
-    "Text": "Exclaim",
-    "Japanese": "叫ぶ",
+    "Text": "Exclude",
+    "Japanese": "除外する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1419,
     "Lvl": 4,
-    "Text": "Exclude",
-    "Japanese": "除外する",
+    "Text": "Execute",
+    "Japanese": "実行する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1420,
     "Lvl": 4,
-    "Text": "Execute",
-    "Japanese": "実行する",
+    "Text": "Exhaust",
+    "Japanese": "排気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1421,
     "Lvl": 4,
-    "Text": "Exhaust",
-    "Japanese": "排気",
+    "Text": "Exhibit",
+    "Japanese": "展示する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1422,
     "Lvl": 4,
-    "Text": "Exhibit",
-    "Japanese": "展示する",
+    "Text": "Existed",
+    "Japanese": "存在した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1423,
     "Lvl": 4,
-    "Text": "Existed",
-    "Japanese": "存在した",
+    "Text": "Expands",
+    "Japanese": "展開する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1424,
     "Lvl": 4,
-    "Text": "Expands",
-    "Japanese": "展開する",
+    "Text": "Expects",
+    "Japanese": "期待する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1425,
     "Lvl": 4,
-    "Text": "Expects",
-    "Japanese": "期待する",
+    "Text": "Expense",
+    "Japanese": "費用",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1426,
     "Lvl": 4,
-    "Text": "Expense",
-    "Japanese": "費用",
+    "Text": "Experts",
+    "Japanese": "専門家",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1427,
     "Lvl": 4,
-    "Text": "Experts",
-    "Japanese": "専門家",
+    "Text": "Explain",
+    "Japanese": "説明する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1428,
     "Lvl": 4,
-    "Text": "Explain",
-    "Japanese": "説明する",
+    "Text": "Explore",
+    "Japanese": "探検する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1429,
     "Lvl": 4,
-    "Text": "Explore",
-    "Japanese": "探検する",
+    "Text": "Exports",
+    "Japanese": "輸出",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1430,
     "Lvl": 4,
-    "Text": "Exports",
-    "Japanese": "輸出",
+    "Text": "Exposed",
+    "Japanese": "露出",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1431,
     "Lvl": 4,
-    "Text": "Exposed",
-    "Japanese": "露出",
+    "Text": "Express",
+    "Japanese": "急行",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1432,
     "Lvl": 4,
-    "Text": "Express",
-    "Japanese": "急行",
+    "Text": "Extends",
+    "Japanese": "拡張する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1433,
     "Lvl": 4,
-    "Text": "Extends",
-    "Japanese": "拡張する",
+    "Text": "Extinct",
+    "Japanese": "絶滅した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1434,
     "Lvl": 4,
-    "Text": "Extinct",
-    "Japanese": "絶滅した",
+    "Text": "Extract",
+    "Japanese": "抽出する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1435,
     "Lvl": 4,
-    "Text": "Extract",
-    "Japanese": "抽出する",
+    "Text": "Extreme",
+    "Japanese": "過激",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1436,
     "Lvl": 4,
-    "Text": "Extreme",
-    "Japanese": "過激",
+    "Text": "Eyeball",
+    "Japanese": "眼球",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1437,
     "Lvl": 4,
-    "Text": "Eyeball",
-    "Japanese": "眼球",
+    "Text": "Eyesore",
+    "Japanese": "目障り",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1438,
     "Lvl": 4,
-    "Text": "Eyesore",
-    "Japanese": "目障り",
+    "Text": "Fabrics",
+    "Japanese": "生地",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1439,
     "Lvl": 4,
-    "Text": "Fabrics",
-    "Japanese": "生地",
+    "Text": "Factory",
+    "Japanese": "工場",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1440,
     "Lvl": 4,
-    "Text": "Factory",
-    "Japanese": "工場",
+    "Text": "Faculty",
+    "Japanese": "学部",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1441,
     "Lvl": 4,
-    "Text": "Faculty",
-    "Japanese": "学部",
+    "Text": "Failing",
+    "Japanese": "失敗する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1442,
     "Lvl": 4,
-    "Text": "Failing",
-    "Japanese": "失敗する",
+    "Text": "Failure",
+    "Japanese": "失敗",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1443,
     "Lvl": 4,
-    "Text": "Failure",
-    "Japanese": "失敗",
+    "Text": "Fainter",
+    "Japanese": "かすかな",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1444,
     "Lvl": 4,
-    "Text": "Fainter",
-    "Japanese": "かすかな",
+    "Text": "Fairway",
+    "Japanese": "フェアウェイ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1445,
     "Lvl": 4,
-    "Text": "Fairway",
-    "Japanese": "フェアウェイ",
+    "Text": "Falling",
+    "Japanese": "落下",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1446,
     "Lvl": 4,
-    "Text": "Falling",
-    "Japanese": "落下",
+    "Text": "Fantasy",
+    "Japanese": "ファンタジー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1447,
     "Lvl": 4,
-    "Text": "Fantasy",
-    "Japanese": "ファンタジー",
+    "Text": "Farmers",
+    "Japanese": "農民",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1448,
     "Lvl": 4,
-    "Text": "Farmers",
-    "Japanese": "農民",
+    "Text": "Farther",
+    "Japanese": "さらに",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1449,
     "Lvl": 4,
-    "Text": "Farther",
-    "Japanese": "さらに",
+    "Text": "Fashion",
+    "Japanese": "ファッション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1450,
     "Lvl": 4,
-    "Text": "Fashion",
-    "Japanese": "ファッション",
+    "Text": "Fastest",
+    "Japanese": "最速",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1451,
     "Lvl": 4,
-    "Text": "Fastest",
-    "Japanese": "最速",
+    "Text": "Fatigue",
+    "Japanese": "倦怠感",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1452,
     "Lvl": 4,
-    "Text": "Fatigue",
-    "Japanese": "倦怠感",
+    "Text": "Faucets",
+    "Japanese": "蛇口",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1453,
     "Lvl": 4,
-    "Text": "Faucets",
-    "Japanese": "蛇口",
+    "Text": "Favored",
+    "Japanese": "優遇された",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1454,
     "Lvl": 4,
-    "Text": "Favored",
-    "Japanese": "優遇された",
+    "Text": "Fearful",
+    "Japanese": "恐ろしい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1455,
     "Lvl": 4,
-    "Text": "Fearful",
-    "Japanese": "恐ろしい",
+    "Text": "Feather",
+    "Japanese": "フェザー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1456,
     "Lvl": 4,
-    "Text": "Feather",
-    "Japanese": "フェザー",
+    "Text": "Feature",
+    "Japanese": "特徴",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1457,
     "Lvl": 4,
-    "Text": "Feature",
-    "Japanese": "特徴",
+    "Text": "Federal",
+    "Japanese": "連邦政府",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1458,
     "Lvl": 4,
-    "Text": "Federal",
-    "Japanese": "連邦政府",
+    "Text": "Feeling",
+    "Japanese": "フィーリング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1459,
     "Lvl": 4,
-    "Text": "Feeling",
-    "Japanese": "フィーリング",
+    "Text": "Fellows",
+    "Japanese": "フェロー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1460,
     "Lvl": 4,
-    "Text": "Fellows",
-    "Japanese": "フェロー",
+    "Text": "Females",
+    "Japanese": "女性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1461,
     "Lvl": 4,
-    "Text": "Females",
-    "Japanese": "女性",
+    "Text": "Fencing",
+    "Japanese": "フェンシング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1462,
     "Lvl": 4,
-    "Text": "Fencing",
-    "Japanese": "フェンシング",
+    "Text": "Ferment",
+    "Japanese": "発酵",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1463,
     "Lvl": 4,
-    "Text": "Ferment",
-    "Japanese": "発酵",
+    "Text": "Festive",
+    "Japanese": "お祝いムード",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1464,
     "Lvl": 4,
-    "Text": "Festive",
-    "Japanese": "お祝いムード",
+    "Text": "Fiction",
+    "Japanese": "フィクション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1465,
     "Lvl": 4,
-    "Text": "Fiction",
-    "Japanese": "フィクション",
+    "Text": "Fifteen",
+    "Japanese": "15",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1466,
     "Lvl": 4,
-    "Text": "Fifteen",
-    "Japanese": "15",
+    "Text": "Figured",
+    "Japanese": "そうだと思った",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1467,
     "Lvl": 4,
-    "Text": "Figured",
-    "Japanese": "そうだと思った",
+    "Text": "Filling",
+    "Japanese": "充填",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1468,
     "Lvl": 4,
-    "Text": "Filling",
-    "Japanese": "充填",
+    "Text": "Filters",
+    "Japanese": "フィルター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1469,
     "Lvl": 4,
-    "Text": "Filters",
-    "Japanese": "フィルター",
+    "Text": "Finally",
+    "Japanese": "ついに",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1470,
     "Lvl": 4,
-    "Text": "Finally",
-    "Japanese": "ついに",
+    "Text": "Finance",
+    "Japanese": "ファイナンス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1471,
     "Lvl": 4,
-    "Text": "Finance",
-    "Japanese": "ファイナンス",
+    "Text": "Finding",
+    "Japanese": "発見",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1472,
     "Lvl": 4,
-    "Text": "Finding",
-    "Japanese": "発見",
+    "Text": "Firearm",
+    "Japanese": "銃器",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1473,
     "Lvl": 4,
-    "Text": "Firearm",
-    "Japanese": "銃器",
+    "Text": "Fireman",
+    "Japanese": "消防士",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1474,
     "Lvl": 4,
-    "Text": "Fireman",
-    "Japanese": "消防士",
+    "Text": "Firstly",
+    "Japanese": "まず第一に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1475,
     "Lvl": 4,
-    "Text": "Firstly",
-    "Japanese": "まず第一に",
+    "Text": "Fitness",
+    "Japanese": "フィットネス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1476,
     "Lvl": 4,
-    "Text": "Fitness",
-    "Japanese": "フィットネス",
+    "Text": "Fixable",
+    "Japanese": "修理可能",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1477,
     "Lvl": 4,
-    "Text": "Fixable",
-    "Japanese": "修理可能",
+    "Text": "Flagger",
+    "Japanese": "旗振り係",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1478,
     "Lvl": 4,
-    "Text": "Flagger",
-    "Japanese": "旗振り係",
+    "Text": "Flaring",
+    "Japanese": "フレアリング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1479,
     "Lvl": 4,
-    "Text": "Flaring",
-    "Japanese": "フレアリング",
+    "Text": "Flatter",
+    "Japanese": "お世辞を言う",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1480,
     "Lvl": 4,
-    "Text": "Flatter",
-    "Japanese": "お世辞を言う",
+    "Text": "Flavors",
+    "Japanese": "フレーバー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1481,
     "Lvl": 4,
-    "Text": "Flavors",
-    "Japanese": "フレーバー",
+    "Text": "Flicker",
+    "Japanese": "ちらつき",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1482,
     "Lvl": 4,
-    "Text": "Flicker",
-    "Japanese": "ちらつき",
+    "Text": "Flights",
+    "Japanese": "フライト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1483,
     "Lvl": 4,
-    "Text": "Flights",
-    "Japanese": "フライト",
+    "Text": "Flowers",
+    "Japanese": "花",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1484,
     "Lvl": 4,
-    "Text": "Flowers",
-    "Japanese": "花",
+    "Text": "Flowing",
+    "Japanese": "流れる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1485,
     "Lvl": 4,
-    "Text": "Flowing",
-    "Japanese": "流れる",
+    "Text": "Flushed",
+    "Japanese": "紅潮した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1486,
     "Lvl": 4,
-    "Text": "Flushed",
-    "Japanese": "紅潮した",
+    "Text": "Focused",
+    "Japanese": "集中",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1487,
     "Lvl": 4,
-    "Text": "Focused",
-    "Japanese": "集中",
+    "Text": "Folding",
+    "Japanese": "折りたたみ式",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1488,
     "Lvl": 4,
-    "Text": "Folding",
-    "Japanese": "折りたたみ式",
+    "Text": "Follows",
+    "Japanese": "続く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1489,
     "Lvl": 4,
-    "Text": "Follows",
-    "Japanese": "続く",
+    "Text": "Footage",
+    "Japanese": "映像",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1490,
     "Lvl": 4,
-    "Text": "Footage",
-    "Japanese": "映像",
+    "Text": "Foreign",
+    "Japanese": "外国",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1491,
     "Lvl": 4,
-    "Text": "Foreign",
-    "Japanese": "外国",
+    "Text": "Forever",
+    "Japanese": "永遠に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1492,
     "Lvl": 4,
-    "Text": "Forever",
-    "Japanese": "永遠に",
+    "Text": "Forgive",
+    "Japanese": "許す",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1493,
     "Lvl": 4,
-    "Text": "Forgive",
-    "Japanese": "許す",
+    "Text": "Formats",
+    "Japanese": "フォーマット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1494,
     "Lvl": 4,
-    "Text": "Formats",
-    "Japanese": "フォーマット",
+    "Text": "Formula",
+    "Japanese": "式",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1495,
     "Lvl": 4,
-    "Text": "Formula",
-    "Japanese": "式",
+    "Text": "Fortune",
+    "Japanese": "運",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1496,
     "Lvl": 4,
-    "Text": "Fortune",
-    "Japanese": "運",
+    "Text": "Forward",
+    "Japanese": "フォワード",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1497,
     "Lvl": 4,
-    "Text": "Forward",
-    "Japanese": "フォワード",
+    "Text": "Founded",
+    "Japanese": "設立",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1498,
     "Lvl": 4,
-    "Text": "Founded",
-    "Japanese": "設立",
+    "Text": "Fragile",
+    "Japanese": "壊れやすい",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1499,
     "Lvl": 4,
-    "Text": "Fragile",
-    "Japanese": "壊れやすい",
+    "Text": "Freedom",
+    "Japanese": "自由",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1500,
     "Lvl": 4,
-    "Text": "Freedom",
-    "Japanese": "自由",
+    "Text": "Freezer",
+    "Japanese": "冷凍庫",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1501,
     "Lvl": 4,
-    "Text": "Freezer",
-    "Japanese": "冷凍庫",
+    "Text": "Freight",
+    "Japanese": "貨物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1502,
     "Lvl": 4,
-    "Text": "Freight",
-    "Japanese": "貨物",
+    "Text": "Friends",
+    "Japanese": "友達",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1503,
     "Lvl": 4,
-    "Text": "Friends",
-    "Japanese": "友達",
+    "Text": "Frontal",
+    "Japanese": "正面",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1504,
     "Lvl": 4,
-    "Text": "Frontal",
-    "Japanese": "正面",
+    "Text": "Fullest",
+    "Japanese": "最大",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1505,
     "Lvl": 4,
-    "Text": "Fullest",
-    "Japanese": "最大",
+    "Text": "Funding",
+    "Japanese": "資金調達",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1506,
     "Lvl": 4,
-    "Text": "Funding",
-    "Japanese": "資金調達",
+    "Text": "Funeral",
+    "Japanese": "葬儀",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1507,
     "Lvl": 4,
-    "Text": "Funeral",
-    "Japanese": "葬儀",
+    "Text": "Furious",
+    "Japanese": "激怒",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1508,
     "Lvl": 4,
-    "Text": "Furious",
-    "Japanese": "激怒",
+    "Text": "Furnish",
+    "Japanese": "家具",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1509,
     "Lvl": 4,
-    "Text": "Furnish",
-    "Japanese": "家具",
+    "Text": "Further",
+    "Japanese": "さらに遠く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1510,
     "Lvl": 4,
-    "Text": "Further",
-    "Japanese": "さらに遠く",
+    "Text": "Gallery",
+    "Japanese": "ギャラリー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1511,
     "Lvl": 4,
-    "Text": "Gallery",
-    "Japanese": "ギャラリー",
+    "Text": "Garbage",
+    "Japanese": "ごみ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1512,
     "Lvl": 4,
-    "Text": "Garbage",
-    "Japanese": "ごみ",
+    "Text": "Gardens",
+    "Japanese": "庭園",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1513,
     "Lvl": 4,
-    "Text": "Gardens",
-    "Japanese": "庭園",
+    "Text": "Garment",
+    "Japanese": "衣服",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1514,
     "Lvl": 4,
-    "Text": "Garment",
-    "Japanese": "衣服",
+    "Text": "Gaseous",
+    "Japanese": "気体",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1515,
     "Lvl": 4,
-    "Text": "Gaseous",
-    "Japanese": "気体",
+    "Text": "Gateway",
+    "Japanese": "ゲートウェイ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1516,
     "Lvl": 4,
-    "Text": "Gateway",
-    "Japanese": "ゲートウェイ",
+    "Text": "General",
+    "Japanese": "一般的な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1517,
     "Lvl": 4,
-    "Text": "General",
-    "Japanese": "一般的な",
+    "Text": "Genetic",
+    "Japanese": "遺伝子",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1518,
     "Lvl": 4,
-    "Text": "Genetic",
-    "Japanese": "遺伝子",
+    "Text": "Genuine",
+    "Japanese": "本物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1519,
     "Lvl": 4,
-    "Text": "Genuine",
-    "Japanese": "本物",
+    "Text": "Getting",
+    "Japanese": "入手",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1520,
     "Lvl": 4,
-    "Text": "Getting",
-    "Japanese": "入手",
+    "Text": "Ghostly",
+    "Japanese": "幽霊のような",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1521,
     "Lvl": 4,
-    "Text": "Ghostly",
-    "Japanese": "幽霊のような",
+    "Text": "Grafted",
+    "Japanese": "接ぎ木",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1522,
     "Lvl": 4,
-    "Text": "Grafted",
-    "Japanese": "接ぎ木",
+    "Text": "Grammar",
+    "Japanese": "文法",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1523,
     "Lvl": 4,
-    "Text": "Grammar",
-    "Japanese": "文法",
+    "Text": "Granite",
+    "Japanese": "花崗岩",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1524,
     "Lvl": 4,
-    "Text": "Granite",
-    "Japanese": "花崗岩",
+    "Text": "Graphic",
+    "Japanese": "グラフィック",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1525,
     "Lvl": 4,
-    "Text": "Graphic",
-    "Japanese": "グラフィック",
+    "Text": "Gravity",
+    "Japanese": "重力",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1526,
     "Lvl": 4,
-    "Text": "Gravity",
-    "Japanese": "重力",
+    "Text": "Greatly",
+    "Japanese": "非常に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1527,
     "Lvl": 4,
-    "Text": "Greatly",
-    "Japanese": "非常に",
+    "Text": "Grocery",
+    "Japanese": "食料品",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1528,
     "Lvl": 4,
-    "Text": "Grocery",
-    "Japanese": "食料品",
+    "Text": "Growing",
+    "Japanese": "成長",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1529,
     "Lvl": 4,
-    "Text": "Growing",
-    "Japanese": "成長",
+    "Text": "Grownup",
+    "Japanese": "成長した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1530,
     "Lvl": 4,
-    "Text": "Grownup",
-    "Japanese": "成長した",
+    "Text": "Grubbed",
+    "Japanese": "掘り起こされた",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1531,
     "Lvl": 4,
-    "Text": "Grubbed",
-    "Japanese": "掘り起こされた",
+    "Text": "Grumble",
+    "Japanese": "ぶつぶつ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1532,
     "Lvl": 4,
-    "Text": "Grumble",
-    "Japanese": "ぶつぶつ",
+    "Text": "Grunted",
+    "Japanese": "うなり声をあげた",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1533,
     "Lvl": 4,
-    "Text": "Grunted",
-    "Japanese": "うなり声をあげた",
+    "Text": "Guarded",
+    "Japanese": "警戒",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1534,
     "Lvl": 4,
-    "Text": "Guarded",
-    "Japanese": "警戒",
+    "Text": "Guitars",
+    "Japanese": "ギター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1535,
     "Lvl": 4,
-    "Text": "Guitars",
-    "Japanese": "ギター",
+    "Text": "Halogen",
+    "Japanese": "ハロゲン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1536,
     "Lvl": 4,
-    "Text": "Halogen",
-    "Japanese": "ハロゲン",
+    "Text": "Halting",
+    "Japanese": "停止",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1537,
     "Lvl": 4,
-    "Text": "Halting",
-    "Japanese": "停止",
+    "Text": "Handful",
+    "Japanese": "一握り",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1538,
     "Lvl": 4,
-    "Text": "Handful",
-    "Japanese": "一握り",
+    "Text": "Handing",
+    "Japanese": "取り扱い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1539,
     "Lvl": 4,
-    "Text": "Handing",
-    "Japanese": "取り扱い",
+    "Text": "Handily",
+    "Japanese": "便利に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1540,
     "Lvl": 4,
-    "Text": "Handily",
-    "Japanese": "便利に",
+    "Text": "Hangars",
+    "Japanese": "格納庫",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1541,
     "Lvl": 4,
-    "Text": "Hangars",
-    "Japanese": "格納庫",
+    "Text": "Hanging",
+    "Japanese": "吊り下げ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1542,
     "Lvl": 4,
-    "Text": "Hanging",
-    "Japanese": "吊り下げ",
+    "Text": "Happily",
+    "Japanese": "幸せに",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1543,
     "Lvl": 4,
-    "Text": "Happily",
-    "Japanese": "幸せに",
+    "Text": "Harbors",
+    "Japanese": "港湾",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1544,
     "Lvl": 4,
-    "Text": "Harbors",
-    "Japanese": "港湾",
+    "Text": "Harvest",
+    "Japanese": "収穫",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1545,
     "Lvl": 4,
-    "Text": "Harvest",
-    "Japanese": "収穫",
+    "Text": "Hastily",
+    "Japanese": "急いで",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1546,
     "Lvl": 4,
-    "Text": "Hastily",
-    "Japanese": "急いで",
+    "Text": "Healthy",
+    "Japanese": "健康",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1547,
     "Lvl": 4,
-    "Text": "Healthy",
-    "Japanese": "健康",
+    "Text": "Hearing",
+    "Japanese": "聴覚",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1548,
     "Lvl": 4,
-    "Text": "Hearing",
-    "Japanese": "聴覚",
+    "Text": "Heaters",
+    "Japanese": "ヒーター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1549,
     "Lvl": 4,
-    "Text": "Heaters",
-    "Japanese": "ヒーター",
+    "Text": "Heating",
+    "Japanese": "加熱",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1550,
     "Lvl": 4,
-    "Text": "Heating",
-    "Japanese": "加熱",
+    "Text": "Heavily",
+    "Japanese": "重く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1551,
     "Lvl": 4,
-    "Text": "Heavily",
-    "Japanese": "重く",
+    "Text": "Helpful",
+    "Japanese": "役立つ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1552,
     "Lvl": 4,
-    "Text": "Helpful",
-    "Japanese": "役立つ",
+    "Text": "Helping",
+    "Japanese": "手助けする",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1553,
     "Lvl": 4,
-    "Text": "Helping",
-    "Japanese": "手助けする",
+    "Text": "Heroics",
+    "Japanese": "英雄的行為",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1554,
     "Lvl": 4,
-    "Text": "Heroics",
-    "Japanese": "英雄的行為",
+    "Text": "Heroine",
+    "Japanese": "ヒロイン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1555,
     "Lvl": 4,
-    "Text": "Heroine",
-    "Japanese": "ヒロイン",
+    "Text": "Hexagon",
+    "Japanese": "六角形",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1556,
     "Lvl": 4,
-    "Text": "Hexagon",
-    "Japanese": "六角形",
+    "Text": "History",
+    "Japanese": "歴史",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1557,
     "Lvl": 4,
-    "Text": "History",
-    "Japanese": "歴史",
+    "Text": "Hobbies",
+    "Japanese": "趣味",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1558,
     "Lvl": 4,
-    "Text": "Hobbies",
-    "Japanese": "趣味",
+    "Text": "Holiday",
+    "Japanese": "休日",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1559,
     "Lvl": 4,
-    "Text": "Holiday",
-    "Japanese": "休日",
+    "Text": "Honesty",
+    "Japanese": "正直",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1560,
     "Lvl": 4,
-    "Text": "Honesty",
-    "Japanese": "正直",
+    "Text": "Hopeful",
+    "Japanese": "希望",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1561,
     "Lvl": 4,
-    "Text": "Hopeful",
-    "Japanese": "希望",
+    "Text": "Horizon",
+    "Japanese": "地平線",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1562,
     "Lvl": 4,
-    "Text": "Horizon",
-    "Japanese": "地平線",
+    "Text": "Horrors",
+    "Japanese": "ホラー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1563,
     "Lvl": 4,
-    "Text": "Horrors",
-    "Japanese": "ホラー",
+    "Text": "Hostage",
+    "Japanese": "人質",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1564,
     "Lvl": 4,
-    "Text": "Hostage",
-    "Japanese": "人質",
+    "Text": "However",
+    "Japanese": "しかし",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1565,
     "Lvl": 4,
-    "Text": "However",
-    "Japanese": "しかし",
+    "Text": "Hundred",
+    "Japanese": "百",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1566,
     "Lvl": 4,
-    "Text": "Hundred",
-    "Japanese": "百",
+    "Text": "Hungers",
+    "Japanese": "飢え",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1567,
     "Lvl": 4,
-    "Text": "Hungers",
-    "Japanese": "飢え",
+    "Text": "Hunting",
+    "Japanese": "狩猟",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1568,
     "Lvl": 4,
-    "Text": "Hunting",
-    "Japanese": "狩猟",
+    "Text": "Hurried",
+    "Japanese": "急いで",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1569,
     "Lvl": 4,
-    "Text": "Hurried",
-    "Japanese": "急いで",
+    "Text": "Hydrant",
+    "Japanese": "消火栓",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1570,
     "Lvl": 4,
-    "Text": "Hydrant",
-    "Japanese": "消火栓",
+    "Text": "Hydrate",
+    "Japanese": "水分補給",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1571,
     "Lvl": 4,
-    "Text": "Hydrate",
-    "Japanese": "水分補給",
+    "Text": "Hygiene",
+    "Japanese": "衛生",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1572,
     "Lvl": 4,
-    "Text": "Hygiene",
-    "Japanese": "衛生",
+    "Text": "Iceberg",
+    "Japanese": "氷山",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1573,
     "Lvl": 4,
-    "Text": "Iceberg",
-    "Japanese": "氷山",
+    "Text": "Iceland",
+    "Japanese": "アイスランド",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1574,
     "Lvl": 4,
-    "Text": "Iceland",
-    "Japanese": "アイスランド",
+    "Text": "Ignited",
+    "Japanese": "発火した",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1575,
     "Lvl": 4,
-    "Text": "Ignited",
-    "Japanese": "点火",
+    "Text": "Ignored",
+    "Japanese": "無視",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1576,
     "Lvl": 4,
-    "Text": "Ignored",
-    "Japanese": "無視",
+    "Text": "Illegal",
+    "Japanese": "違法",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1577,
     "Lvl": 4,
-    "Text": "Illegal",
-    "Japanese": "違法",
+    "Text": "Illness",
+    "Japanese": "病気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1578,
     "Lvl": 4,
-    "Text": "Illness",
-    "Japanese": "病気",
+    "Text": "Imagery",
+    "Japanese": "画像",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1579,
     "Lvl": 4,
-    "Text": "Imagery",
-    "Japanese": "画像",
+    "Text": "Imagine",
+    "Japanese": "想像する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1580,
     "Lvl": 4,
-    "Text": "Imagine",
-    "Japanese": "想像する",
+    "Text": "Imaging",
+    "Japanese": "イメージング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1581,
     "Lvl": 4,
-    "Text": "Imaging",
-    "Japanese": "イメージング",
+    "Text": "Immense",
+    "Japanese": "巨大な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1582,
     "Lvl": 4,
-    "Text": "Immense",
-    "Japanese": "巨大な",
+    "Text": "Immoral",
+    "Japanese": "不道徳な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1583,
     "Lvl": 4,
-    "Text": "Immoral",
-    "Japanese": "不道徳な",
+    "Text": "Impacts",
+    "Japanese": "影響",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1584,
     "Lvl": 4,
-    "Text": "Impacts",
-    "Japanese": "影響",
+    "Text": "Implied",
+    "Japanese": "暗示",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1585,
     "Lvl": 4,
-    "Text": "Implied",
-    "Japanese": "暗示",
+    "Text": "Imports",
+    "Japanese": "輸入品",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1586,
     "Lvl": 4,
-    "Text": "Imports",
-    "Japanese": "輸入品",
+    "Text": "Imposed",
+    "Japanese": "課せられた",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1587,
     "Lvl": 4,
-    "Text": "Imposed",
-    "Japanese": "課せられた",
+    "Text": "Improve",
+    "Japanese": "改善する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1588,
     "Lvl": 4,
-    "Text": "Improve",
-    "Japanese": "改善する",
+    "Text": "Impulse",
+    "Japanese": "衝動",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1589,
     "Lvl": 4,
-    "Text": "Impulse",
-    "Japanese": "衝動",
+    "Text": "Inbound",
+    "Japanese": "受信",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1590,
     "Lvl": 4,
-    "Text": "Inbound",
-    "Japanese": "受信",
+    "Text": "Include",
+    "Japanese": "含む",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1591,
     "Lvl": 4,
-    "Text": "Include",
-    "Japanese": "含む",
+    "Text": "Incomes",
+    "Japanese": "収入",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1592,
     "Lvl": 4,
-    "Text": "Incomes",
-    "Japanese": "収入",
+    "Text": "Indexes",
+    "Japanese": "索引",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1593,
     "Lvl": 4,
-    "Text": "Indexes",
-    "Japanese": "索引",
+    "Text": "Indices",
+    "Japanese": "指数",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1594,
     "Lvl": 4,
-    "Text": "Indices",
-    "Japanese": "指数",
+    "Text": "Indulge",
+    "Japanese": "贅沢する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1595,
     "Lvl": 4,
-    "Text": "Indulge",
-    "Japanese": "贅沢する",
+    "Text": "Infancy",
+    "Japanese": "乳幼児期",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1596,
     "Lvl": 4,
-    "Text": "Infancy",
-    "Japanese": "乳幼児期",
+    "Text": "Inflict",
+    "Japanese": "与える",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1597,
     "Lvl": 4,
-    "Text": "Inflict",
-    "Japanese": "与える",
+    "Text": "Informs",
+    "Japanese": "通知する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1598,
     "Lvl": 4,
-    "Text": "Informs",
-    "Japanese": "通知する",
+    "Text": "Infused",
+    "Japanese": "注入",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1599,
     "Lvl": 4,
-    "Text": "Infused",
-    "Japanese": "注入",
+    "Text": "Ingrown",
+    "Japanese": "埋没",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1600,
     "Lvl": 4,
-    "Text": "Ingrown",
-    "Japanese": "埋没",
+    "Text": "Inhabit",
+    "Japanese": "住む",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1601,
     "Lvl": 4,
-    "Text": "Inhabit",
-    "Japanese": "住む",
+    "Text": "Inherit",
+    "Japanese": "継承する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1602,
     "Lvl": 4,
-    "Text": "Inherit",
-    "Japanese": "継承する",
+    "Text": "Initial",
+    "Japanese": "イニシャル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1603,
     "Lvl": 4,
-    "Text": "Initial",
-    "Japanese": "イニシャル",
+    "Text": "Injured",
+    "Japanese": "怪我した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1604,
     "Lvl": 4,
-    "Text": "Injured",
-    "Japanese": "怪我した",
+    "Text": "Inkpots",
+    "Japanese": "インク壺",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1605,
     "Lvl": 4,
-    "Text": "Inkpots",
-    "Japanese": "インク壺",
+    "Text": "Inquiry",
+    "Japanese": "問い合わせ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1606,
     "Lvl": 4,
-    "Text": "Inquiry",
-    "Japanese": "問い合わせ",
+    "Text": "Insider",
+    "Japanese": "インサイダー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1607,
     "Lvl": 4,
-    "Text": "Insider",
-    "Japanese": "インサイダー",
+    "Text": "Insight",
+    "Japanese": "洞察力",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1608,
     "Lvl": 4,
-    "Text": "Insight",
-    "Japanese": "洞察力",
+    "Text": "Inspect",
+    "Japanese": "検査",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1609,
     "Lvl": 4,
-    "Text": "Inspect",
-    "Japanese": "検査",
+    "Text": "Inspire",
+    "Japanese": "鼓舞する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1610,
     "Lvl": 4,
-    "Text": "Inspire",
-    "Japanese": "鼓舞する",
+    "Text": "Install",
+    "Japanese": "インストール",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1611,
     "Lvl": 4,
-    "Text": "Install",
-    "Japanese": "インストール",
+    "Text": "Instant",
+    "Japanese": "インスタント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1612,
     "Lvl": 4,
-    "Text": "Instant",
-    "Japanese": "インスタント",
+    "Text": "Instead",
+    "Japanese": "その代わり",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1613,
     "Lvl": 4,
-    "Text": "Instead",
-    "Japanese": "その代わり",
+    "Text": "Insular",
+    "Japanese": "島嶼部",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1614,
     "Lvl": 4,
-    "Text": "Insular",
-    "Japanese": "島嶼部",
+    "Text": "Insulin",
+    "Japanese": "インスリン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1615,
     "Lvl": 4,
-    "Text": "Insulin",
-    "Japanese": "インスリン",
+    "Text": "Integer",
+    "Japanese": "整数",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1616,
     "Lvl": 4,
-    "Text": "Integer",
-    "Japanese": "整数",
+    "Text": "Intends",
+    "Japanese": "意図する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1617,
     "Lvl": 4,
-    "Text": "Intends",
-    "Japanese": "意図する",
+    "Text": "Interim",
+    "Japanese": "暫定",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1618,
     "Lvl": 4,
-    "Text": "Interim",
-    "Japanese": "暫定",
+    "Text": "Involve",
+    "Japanese": "関与する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1619,
     "Lvl": 4,
-    "Text": "Involve",
-    "Japanese": "関与する",
+    "Text": "Islands",
+    "Japanese": "島々",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1620,
     "Lvl": 4,
-    "Text": "Islands",
-    "Japanese": "島々",
+    "Text": "Isotope",
+    "Japanese": "アイソトープ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1621,
     "Lvl": 4,
-    "Text": "Isotope",
-    "Japanese": "アイソトープ",
+    "Text": "Issuing",
+    "Japanese": "発行",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1622,
     "Lvl": 4,
-    "Text": "Issuing",
-    "Japanese": "発行",
+    "Text": "Italian",
+    "Japanese": "イタリア語",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1623,
     "Lvl": 4,
-    "Text": "Italian",
-    "Japanese": "イタリア語",
+    "Text": "Iterate",
+    "Japanese": "反復する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1624,
     "Lvl": 4,
-    "Text": "Iterate",
-    "Japanese": "反復する",
+    "Text": "Jacuzzi",
+    "Japanese": "ジャグジー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1625,
     "Lvl": 4,
-    "Text": "Jacuzzi",
-    "Japanese": "ジャグジー",
+    "Text": "Jackets",
+    "Japanese": "ジャケット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1626,
     "Lvl": 4,
-    "Text": "Jackets",
-    "Japanese": "ジャケット",
+    "Text": "Jailers",
+    "Japanese": "看守",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1627,
     "Lvl": 4,
-    "Text": "Jailers",
-    "Japanese": "看守",
+    "Text": "Janitor",
+    "Japanese": "用務員",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1628,
     "Lvl": 4,
-    "Text": "Janitor",
-    "Japanese": "用務員",
+    "Text": "Jasmine",
+    "Japanese": "ジャスミン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1629,
     "Lvl": 4,
-    "Text": "Jasmine",
-    "Japanese": "ジャスミン",
+    "Text": "Javelin",
+    "Japanese": "ジャベリン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1630,
     "Lvl": 4,
-    "Text": "Javelin",
-    "Japanese": "ジャベリン",
+    "Text": "Jealous",
+    "Japanese": "嫉妬深い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1631,
     "Lvl": 4,
-    "Text": "Jealous",
-    "Japanese": "嫉妬深い",
+    "Text": "Jewelry",
+    "Japanese": "ジュエリー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1632,
     "Lvl": 4,
-    "Text": "Jewelry",
-    "Japanese": "ジュエリー",
+    "Text": "Jointly",
+    "Japanese": "共同で",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1633,
     "Lvl": 4,
-    "Text": "Jointly",
-    "Japanese": "共同で",
+    "Text": "Journal",
+    "Japanese": "ジャーナル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1634,
     "Lvl": 4,
-    "Text": "Journal",
-    "Japanese": "ジャーナル",
+    "Text": "Journey",
+    "Japanese": "旅",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1635,
     "Lvl": 4,
-    "Text": "Journey",
-    "Japanese": "旅",
+    "Text": "Judging",
+    "Japanese": "審査",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1636,
     "Lvl": 4,
-    "Text": "Judging",
-    "Japanese": "審査",
+    "Text": "Jugular",
+    "Japanese": "頸静脈",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1637,
     "Lvl": 4,
-    "Text": "Jugular",
-    "Japanese": "頸静脈",
+    "Text": "Jumping",
+    "Japanese": "ジャンプ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1638,
     "Lvl": 4,
-    "Text": "Jumping",
-    "Japanese": "ジャンプ",
+    "Text": "Juniors",
+    "Japanese": "ジュニア",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1639,
     "Lvl": 4,
-    "Text": "Juniors",
-    "Japanese": "ジュニア",
+    "Text": "Jupiter",
+    "Japanese": "木星",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1640,
     "Lvl": 4,
-    "Text": "Jupiter",
-    "Japanese": "木星",
+    "Text": "Justify",
+    "Japanese": "正当化する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1641,
     "Lvl": 4,
-    "Text": "Justify",
-    "Japanese": "正当化する",
+    "Text": "Ketchup",
+    "Japanese": "ケチャップ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1642,
     "Lvl": 4,
-    "Text": "Ketchup",
-    "Japanese": "ケチャップ",
+    "Text": "Keynote",
+    "Japanese": "基調",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1643,
     "Lvl": 4,
-    "Text": "Keynote",
-    "Japanese": "基調",
+    "Text": "Keyword",
+    "Japanese": "キーワード",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1644,
     "Lvl": 4,
-    "Text": "Keyword",
-    "Japanese": "キーワード",
+    "Text": "Kidneys",
+    "Japanese": "腎臓",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1645,
     "Lvl": 4,
-    "Text": "Kidneys",
-    "Japanese": "腎臓",
+    "Text": "Kindred",
+    "Japanese": "親族",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1646,
     "Lvl": 4,
-    "Text": "Kindred",
-    "Japanese": "親族",
+    "Text": "Kingdom",
+    "Japanese": "王国",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1647,
     "Lvl": 4,
-    "Text": "Kingdom",
-    "Japanese": "王国",
+    "Text": "Kitchen",
+    "Japanese": "台所",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1648,
     "Lvl": 4,
-    "Text": "Kitchen",
-    "Japanese": "台所",
+    "Text": "Knitted",
+    "Japanese": "ニット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1649,
     "Lvl": 4,
-    "Text": "Knitted",
-    "Japanese": "ニット",
+    "Text": "Knowing",
+    "Japanese": "知っている",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1650,
     "Lvl": 4,
-    "Text": "Knowing",
-    "Japanese": "知っている",
+    "Text": "Knuckle",
+    "Japanese": "ナックル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1651,
     "Lvl": 4,
-    "Text": "Knuckle",
-    "Japanese": "ナックル",
+    "Text": "Krypton",
+    "Japanese": "クリプトン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1652,
     "Lvl": 4,
-    "Text": "Krypton",
-    "Japanese": "クリプトン",
+    "Text": "Labeled",
+    "Japanese": "ラベル付き",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1653,
     "Lvl": 4,
-    "Text": "Labeled",
-    "Japanese": "ラベル付き",
+    "Text": "Lantern",
+    "Japanese": "ランタン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1654,
     "Lvl": 4,
-    "Text": "Lantern",
-    "Japanese": "ランタン",
+    "Text": "Laptops",
+    "Japanese": "ノートパソコン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1655,
     "Lvl": 4,
-    "Text": "Laptops",
-    "Japanese": "ノートパソコン",
+    "Text": "Largest",
+    "Japanese": "最大",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1656,
     "Lvl": 4,
-    "Text": "Largest",
-    "Japanese": "最大",
+    "Text": "Learned",
+    "Japanese": "学んだ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1657,
     "Lvl": 4,
-    "Text": "Learned",
-    "Japanese": "学んだ",
+    "Text": "Leather",
+    "Japanese": "レザー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1658,
     "Lvl": 4,
-    "Text": "Leather",
-    "Japanese": "レザー",
+    "Text": "Lecture",
+    "Japanese": "講義",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1659,
     "Lvl": 4,
-    "Text": "Lecture",
-    "Japanese": "講義",
+    "Text": "Leisure",
+    "Japanese": "レジャー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1660,
     "Lvl": 4,
-    "Text": "Leisure",
-    "Japanese": "レジャー",
+    "Text": "Letters",
+    "Japanese": "手紙",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1661,
     "Lvl": 4,
-    "Text": "Letters",
-    "Japanese": "手紙",
+    "Text": "Library",
+    "Japanese": "図書館",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1662,
     "Lvl": 4,
-    "Text": "Library",
-    "Japanese": "図書館",
+    "Text": "License",
+    "Japanese": "ライセンス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1663,
     "Lvl": 4,
-    "Text": "License",
-    "Japanese": "ライセンス",
+    "Text": "Limited",
+    "Japanese": "限定",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1664,
     "Lvl": 4,
-    "Text": "Limited",
-    "Japanese": "限定",
+    "Text": "Listing",
+    "Japanese": "リスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1665,
     "Lvl": 4,
-    "Text": "Listing",
-    "Japanese": "リスト",
+    "Text": "Literal",
+    "Japanese": "リテラル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1666,
     "Lvl": 4,
-    "Text": "Literal",
-    "Japanese": "リテラル",
+    "Text": "Lobster",
+    "Japanese": "ロブスター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1667,
     "Lvl": 4,
-    "Text": "Lobster",
-    "Japanese": "ロブスター",
+    "Text": "Logical",
+    "Japanese": "論理的",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1668,
     "Lvl": 4,
-    "Text": "Logical",
-    "Japanese": "論理的",
+    "Text": "Looking",
+    "Japanese": "探しています",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1669,
     "Lvl": 4,
-    "Text": "Looking",
-    "Japanese": "探しています",
+    "Text": "Lottery",
+    "Japanese": "宝くじ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1670,
     "Lvl": 4,
-    "Text": "Lottery",
-    "Japanese": "宝くじ",
+    "Text": "Loyalty",
+    "Japanese": "忠誠心",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1671,
     "Lvl": 4,
-    "Text": "Loyalty",
-    "Japanese": "忠誠心",
+    "Text": "Luggage",
+    "Japanese": "荷物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1672,
     "Lvl": 4,
-    "Text": "Luggage",
-    "Japanese": "荷物",
+    "Text": "Machine",
+    "Japanese": "機械",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1673,
     "Lvl": 4,
-    "Text": "Machine",
-    "Japanese": "機械",
+    "Text": "Magnify",
+    "Japanese": "拡大",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1674,
     "Lvl": 4,
-    "Text": "Magnify",
-    "Japanese": "拡大",
+    "Text": "Mailbox",
+    "Japanese": "メールボックス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1675,
     "Lvl": 4,
-    "Text": "Mailbox",
-    "Japanese": "メールボックス",
+    "Text": "Manager",
+    "Japanese": "マネージャー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1676,
     "Lvl": 4,
-    "Text": "Manager",
-    "Japanese": "マネージャー",
+    "Text": "Mansion",
+    "Japanese": "大邸宅",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1677,
     "Lvl": 4,
-    "Text": "Mansion",
-    "Japanese": "大邸宅",
+    "Text": "Margins",
+    "Japanese": "マージン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1678,
     "Lvl": 4,
-    "Text": "Margins",
-    "Japanese": "マージン",
+    "Text": "Markers",
+    "Japanese": "マーカー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1679,
     "Lvl": 4,
-    "Text": "Markers",
-    "Japanese": "マーカー",
+    "Text": "Markets",
+    "Japanese": "市場",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1680,
     "Lvl": 4,
-    "Text": "Markets",
-    "Japanese": "市場",
+    "Text": "Married",
+    "Japanese": "既婚",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1681,
     "Lvl": 4,
-    "Text": "Married",
-    "Japanese": "既婚",
+    "Text": "Massive",
+    "Japanese": "大規模",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1682,
     "Lvl": 4,
-    "Text": "Massive",
-    "Japanese": "大規模",
+    "Text": "Maximum",
+    "Japanese": "最大",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1683,
     "Lvl": 4,
-    "Text": "Maximum",
-    "Japanese": "最大",
+    "Text": "Meaning",
+    "Japanese": "意味",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1684,
     "Lvl": 4,
-    "Text": "Meaning",
-    "Japanese": "意味",
+    "Text": "Measure",
+    "Japanese": "測定",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1685,
     "Lvl": 4,
-    "Text": "Measure",
-    "Japanese": "測定",
+    "Text": "Medical",
+    "Japanese": "医学",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1686,
     "Lvl": 4,
-    "Text": "Medical",
-    "Japanese": "医学",
+    "Text": "Meeting",
+    "Japanese": "ミーティング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1687,
     "Lvl": 4,
-    "Text": "Meeting",
-    "Japanese": "ミーティング",
+    "Text": "Mention",
+    "Japanese": "言及",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1688,
     "Lvl": 4,
-    "Text": "Mention",
-    "Japanese": "言及",
+    "Text": "Message",
+    "Japanese": "メッセージ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1689,
     "Lvl": 4,
-    "Text": "Message",
-    "Japanese": "メッセージ",
+    "Text": "Methods",
+    "Japanese": "方法",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1690,
     "Lvl": 4,
-    "Text": "Methods",
-    "Japanese": "方法",
+    "Text": "Million",
+    "Japanese": "百万",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1691,
     "Lvl": 4,
-    "Text": "Million",
-    "Japanese": "百万",
+    "Text": "Minimum",
+    "Japanese": "最小",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1692,
     "Lvl": 4,
-    "Text": "Minimum",
-    "Japanese": "最小",
+    "Text": "Minutes",
+    "Japanese": "分",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1693,
     "Lvl": 4,
-    "Text": "Minutes",
-    "Japanese": "分",
+    "Text": "Miracle",
+    "Japanese": "奇跡",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1694,
     "Lvl": 4,
-    "Text": "Miracle",
-    "Japanese": "奇跡",
+    "Text": "Missing",
+    "Japanese": "ない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1695,
     "Lvl": 4,
-    "Text": "Missing",
-    "Japanese": "ない",
+    "Text": "Mission",
+    "Japanese": "ミッション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1696,
     "Lvl": 4,
-    "Text": "Mission",
-    "Japanese": "ミッション",
+    "Text": "Mistake",
+    "Japanese": "間違い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1697,
     "Lvl": 4,
-    "Text": "Mistake",
-    "Japanese": "間違い",
+    "Text": "Mixture",
+    "Japanese": "混合",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1698,
     "Lvl": 4,
-    "Text": "Mixture",
-    "Japanese": "混合",
+    "Text": "Monitor",
+    "Japanese": "モニター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1699,
     "Lvl": 4,
-    "Text": "Monitor",
-    "Japanese": "モニター",
+    "Text": "Monthly",
+    "Japanese": "月刊",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1700,
     "Lvl": 4,
-    "Text": "Monthly",
-    "Japanese": "月刊",
+    "Text": "Morning",
+    "Japanese": "朝",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1701,
     "Lvl": 4,
-    "Text": "Morning",
-    "Japanese": "朝",
+    "Text": "Musical",
+    "Japanese": "ミュージカル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1702,
     "Lvl": 4,
-    "Text": "Musical",
-    "Japanese": "ミュージカル",
+    "Text": "Mystery",
+    "Japanese": "ミステリー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1703,
     "Lvl": 4,
-    "Text": "Mystery",
-    "Japanese": "ミステリー",
+    "Text": "Natural",
+    "Japanese": "自然",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1704,
     "Lvl": 4,
-    "Text": "Natural",
-    "Japanese": "自然",
+    "Text": "Nearest",
+    "Japanese": "最寄りの",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1705,
     "Lvl": 4,
-    "Text": "Nearest",
-    "Japanese": "最寄りの",
+    "Text": "Necktie",
+    "Japanese": "ネクタイ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1706,
     "Lvl": 4,
-    "Text": "Necktie",
-    "Japanese": "ネクタイ",
+    "Text": "Neither",
+    "Japanese": "どちらでもない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1707,
     "Lvl": 4,
-    "Text": "Neither",
-    "Japanese": "どちらでもない",
+    "Text": "Nervous",
+    "Japanese": "神経質",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1708,
     "Lvl": 4,
-    "Text": "Nervous",
-    "Japanese": "神経質",
+    "Text": "Network",
+    "Japanese": "ネットワーク",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1709,
     "Lvl": 4,
-    "Text": "Network",
-    "Japanese": "ネットワーク",
+    "Text": "Neutral",
+    "Japanese": "中性",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1710,
     "Lvl": 4,
-    "Text": "Neutral",
-    "Japanese": "中性",
+    "Text": "Nominal",
+    "Japanese": "名目",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1711,
     "Lvl": 4,
-    "Text": "Nominal",
-    "Japanese": "名目",
+    "Text": "Nothing",
+    "Japanese": "何もない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1712,
     "Lvl": 4,
-    "Text": "Nothing",
-    "Japanese": "何もない",
+    "Text": "Nowhere",
+    "Japanese": "どこにもない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1713,
     "Lvl": 4,
-    "Text": "Nowhere",
-    "Japanese": "どこにもない",
+    "Text": "Numbers",
+    "Japanese": "数字",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1714,
     "Lvl": 4,
-    "Text": "Numbers",
-    "Japanese": "数字",
+    "Text": "Numeric",
+    "Japanese": "数値",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1715,
     "Lvl": 4,
-    "Text": "Numeric",
-    "Japanese": "数値",
+    "Text": "Objects",
+    "Japanese": "オブジェクト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1716,
     "Lvl": 4,
-    "Text": "Objects",
-    "Japanese": "オブジェクト",
+    "Text": "Observe",
+    "Japanese": "観察する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1717,
     "Lvl": 4,
-    "Text": "Observe",
-    "Japanese": "観察する",
+    "Text": "Obvious",
+    "Japanese": "明らか",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1718,
     "Lvl": 4,
-    "Text": "Obvious",
-    "Japanese": "明らか",
+    "Text": "Offered",
+    "Japanese": "提供される",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1719,
     "Lvl": 4,
-    "Text": "Offered",
-    "Japanese": "提供される",
+    "Text": "Officer",
+    "Japanese": "役員",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1720,
     "Lvl": 4,
-    "Text": "Officer",
-    "Japanese": "役員",
+    "Text": "Ongoing",
+    "Japanese": "継続中",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1721,
     "Lvl": 4,
-    "Text": "Ongoing",
-    "Japanese": "継続中",
+    "Text": "Operate",
+    "Japanese": "操作する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1722,
     "Lvl": 4,
-    "Text": "Operate",
-    "Japanese": "操作する",
+    "Text": "Opinion",
+    "Japanese": "意見",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1723,
     "Lvl": 4,
-    "Text": "Opinion",
-    "Japanese": "意見",
+    "Text": "Optical",
+    "Japanese": "光学",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1724,
     "Lvl": 4,
-    "Text": "Optical",
-    "Japanese": "光学",
+    "Text": "Optimal",
+    "Japanese": "最適",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1725,
     "Lvl": 4,
-    "Text": "Optimal",
-    "Japanese": "最適",
+    "Text": "Options",
+    "Japanese": "オプション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1726,
     "Lvl": 4,
-    "Text": "Options",
-    "Japanese": "オプション",
+    "Text": "Ordered",
+    "Japanese": "注文しました",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1727,
     "Lvl": 4,
-    "Text": "Ordered",
-    "Japanese": "注文しました",
+    "Text": "Organic",
+    "Japanese": "オーガニック",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1728,
     "Lvl": 4,
-    "Text": "Organic",
-    "Japanese": "オーガニック",
+    "Text": "Outdoor",
+    "Japanese": "屋外",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1729,
     "Lvl": 4,
-    "Text": "Outdoor",
-    "Japanese": "屋外",
+    "Text": "Outline",
+    "Japanese": "概要",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1730,
     "Lvl": 4,
-    "Text": "Outline",
-    "Japanese": "概要",
+    "Text": "Outside",
+    "Japanese": "外",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1731,
     "Lvl": 4,
-    "Text": "Outside",
-    "Japanese": "外",
+    "Text": "Overall",
+    "Japanese": "全体",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1732,
     "Lvl": 4,
-    "Text": "Overall",
-    "Japanese": "全体",
+    "Text": "Package",
+    "Japanese": "パッケージ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1733,
     "Lvl": 4,
-    "Text": "Package",
-    "Japanese": "パッケージ",
+    "Text": "Painted",
+    "Japanese": "塗装済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1734,
     "Lvl": 4,
-    "Text": "Painted",
-    "Japanese": "塗装済み",
+    "Text": "Parents",
+    "Japanese": "両親",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1735,
     "Lvl": 4,
-    "Text": "Parents",
-    "Japanese": "両親",
+    "Text": "Partner",
+    "Japanese": "パートナー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1736,
     "Lvl": 4,
-    "Text": "Partner",
-    "Japanese": "パートナー",
+    "Text": "Passage",
+    "Japanese": "通路",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1737,
     "Lvl": 4,
-    "Text": "Passage",
-    "Japanese": "通路",
+    "Text": "Passive",
+    "Japanese": "受け身",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1738,
     "Lvl": 4,
-    "Text": "Passive",
-    "Japanese": "受け身",
+    "Text": "Patient",
+    "Japanese": "忍耐強い",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1739,
     "Lvl": 4,
-    "Text": "Patient",
-    "Japanese": "忍耐強い",
+    "Text": "Pattern",
+    "Japanese": "パターン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1740,
     "Lvl": 4,
-    "Text": "Pattern",
-    "Japanese": "パターン",
+    "Text": "Payment",
+    "Japanese": "支払い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1741,
     "Lvl": 4,
-    "Text": "Payment",
-    "Japanese": "支払い",
+    "Text": "Penalty",
+    "Japanese": "罰則",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1742,
     "Lvl": 4,
-    "Text": "Penalty",
-    "Japanese": "罰則",
+    "Text": "Pension",
+    "Japanese": "年金",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1743,
     "Lvl": 4,
-    "Text": "Pension",
-    "Japanese": "年金",
+    "Text": "Percent",
+    "Japanese": "パーセント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1744,
     "Lvl": 4,
-    "Text": "Percent",
-    "Japanese": "パーセント",
+    "Text": "Perfect",
+    "Japanese": "完璧",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1745,
     "Lvl": 4,
-    "Text": "Perfect",
-    "Japanese": "完璧",
+    "Text": "Perform",
+    "Japanese": "実行する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1746,
     "Lvl": 4,
-    "Text": "Perform",
-    "Japanese": "実行する",
+    "Text": "Periods",
+    "Japanese": "期間",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1747,
     "Lvl": 4,
-    "Text": "Periods",
-    "Japanese": "期間",
+    "Text": "Permits",
+    "Japanese": "許可証",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1748,
     "Lvl": 4,
-    "Text": "Permits",
-    "Japanese": "許可証",
+    "Text": "Persist",
+    "Japanese": "粘り強く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1749,
     "Lvl": 4,
-    "Text": "Persist",
-    "Japanese": "粘り強く",
+    "Text": "Physics",
+    "Japanese": "物理",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1750,
     "Lvl": 4,
-    "Text": "Physics",
-    "Japanese": "物理",
+    "Text": "Picture",
+    "Japanese": "写真",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1751,
     "Lvl": 4,
-    "Text": "Picture",
-    "Japanese": "写真",
+    "Text": "Pioneer",
+    "Japanese": "開拓",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1752,
     "Lvl": 4,
-    "Text": "Pioneer",
-    "Japanese": "開拓",
+    "Text": "Planned",
+    "Japanese": "計画",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1753,
     "Lvl": 4,
-    "Text": "Planned",
-    "Japanese": "計画",
+    "Text": "Plastic",
+    "Japanese": "プラスチック",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1754,
     "Lvl": 4,
-    "Text": "Plastic",
-    "Japanese": "プラスチック",
+    "Text": "Players",
+    "Japanese": "選手たち",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1755,
     "Lvl": 4,
-    "Text": "Players",
-    "Japanese": "選手たち",
+    "Text": "Playing",
+    "Japanese": "プレイ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1756,
     "Lvl": 4,
-    "Text": "Playing",
-    "Japanese": "プレイ",
+    "Text": "Pleased",
+    "Japanese": "喜んで",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1757,
     "Lvl": 4,
-    "Text": "Pleased",
-    "Japanese": "喜んで",
+    "Text": "Pointer",
+    "Japanese": "ポインター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1758,
     "Lvl": 4,
-    "Text": "Pointer",
-    "Japanese": "ポインター",
+    "Text": "Popular",
+    "Japanese": "人気のある",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1759,
     "Lvl": 4,
-    "Text": "Popular",
-    "Japanese": "人気のある",
+    "Text": "Portion",
+    "Japanese": "部分",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1760,
     "Lvl": 4,
-    "Text": "Portion",
-    "Japanese": "部分",
+    "Text": "Postage",
+    "Japanese": "送料",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1761,
     "Lvl": 4,
-    "Text": "Postage",
-    "Japanese": "送料",
+    "Text": "Poverty",
+    "Japanese": "貧困",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1762,
     "Lvl": 4,
-    "Text": "Poverty",
-    "Japanese": "貧困",
+    "Text": "Powered",
+    "Japanese": "パワード",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1763,
     "Lvl": 4,
-    "Text": "Powered",
-    "Japanese": "パワード",
+    "Text": "Precise",
+    "Japanese": "正確な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1764,
     "Lvl": 4,
-    "Text": "Precise",
-    "Japanese": "正確な",
+    "Text": "Predict",
+    "Japanese": "予測する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1765,
     "Lvl": 4,
-    "Text": "Predict",
-    "Japanese": "予測する",
+    "Text": "Prepare",
+    "Japanese": "準備する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1766,
     "Lvl": 4,
-    "Text": "Prepare",
-    "Japanese": "準備する",
+    "Text": "Present",
+    "Japanese": "現在",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1767,
     "Lvl": 4,
-    "Text": "Present",
-    "Japanese": "現在",
+    "Text": "Prevent",
+    "Japanese": "防ぐ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1768,
     "Lvl": 4,
-    "Text": "Prevent",
-    "Japanese": "防ぐ",
+    "Text": "Primary",
+    "Japanese": "主要な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1769,
     "Lvl": 4,
-    "Text": "Primary",
-    "Japanese": "主要な",
+    "Text": "Printer",
+    "Japanese": "プリンター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1770,
     "Lvl": 4,
-    "Text": "Printer",
-    "Japanese": "プリンター",
+    "Text": "Privacy",
+    "Japanese": "プライバシー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1771,
     "Lvl": 4,
-    "Text": "Privacy",
-    "Japanese": "プライバシー",
+    "Text": "Private",
+    "Japanese": "プライベート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1772,
     "Lvl": 4,
-    "Text": "Private",
-    "Japanese": "プライベート",
+    "Text": "Problem",
+    "Japanese": "問題",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1773,
     "Lvl": 4,
-    "Text": "Problem",
-    "Japanese": "問題",
+    "Text": "Process",
+    "Japanese": "プロセス",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1774,
     "Lvl": 4,
-    "Text": "Process",
-    "Japanese": "プロセス",
+    "Text": "Produce",
+    "Japanese": "生産する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1775,
     "Lvl": 4,
-    "Text": "Produce",
-    "Japanese": "生産する",
+    "Text": "Product",
+    "Japanese": "製品",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1776,
     "Lvl": 4,
-    "Text": "Product",
-    "Japanese": "製品",
+    "Text": "Profile",
+    "Japanese": "プロフィール",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1777,
     "Lvl": 4,
-    "Text": "Profile",
-    "Japanese": "プロフィール",
+    "Text": "Program",
+    "Japanese": "プログラム",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1778,
     "Lvl": 4,
-    "Text": "Program",
-    "Japanese": "プログラム",
+    "Text": "Project",
+    "Japanese": "プロジェクト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1779,
     "Lvl": 4,
-    "Text": "Project",
-    "Japanese": "プロジェクト",
+    "Text": "Promise",
+    "Japanese": "約束",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1780,
     "Lvl": 4,
-    "Text": "Promise",
-    "Japanese": "約束",
+    "Text": "Promote",
+    "Japanese": "推進する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1781,
     "Lvl": 4,
-    "Text": "Promote",
-    "Japanese": "推進する",
+    "Text": "Protect",
+    "Japanese": "守る",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1782,
     "Lvl": 4,
-    "Text": "Protect",
-    "Japanese": "守る",
+    "Text": "Protein",
+    "Japanese": "タンパク質",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1783,
     "Lvl": 4,
-    "Text": "Protein",
-    "Japanese": "タンパク質",
+    "Text": "Proudly",
+    "Japanese": "誇りを持って",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1784,
     "Lvl": 4,
-    "Text": "Proudly",
-    "Japanese": "誇りを持って",
+    "Text": "Provide",
+    "Japanese": "提供する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1785,
     "Lvl": 4,
-    "Text": "Provide",
-    "Japanese": "提供する",
+    "Text": "Publish",
+    "Japanese": "公開",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1786,
     "Lvl": 4,
-    "Text": "Publish",
-    "Japanese": "公開",
+    "Text": "Purpose",
+    "Japanese": "目的",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1787,
     "Lvl": 4,
-    "Text": "Purpose",
-    "Japanese": "目的",
+    "Text": "Quality",
+    "Japanese": "品質",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1788,
     "Lvl": 4,
-    "Text": "Quality",
-    "Japanese": "品質",
+    "Text": "Quantum",
+    "Japanese": "量子",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1789,
     "Lvl": 4,
-    "Text": "Quantum",
-    "Japanese": "量子",
+    "Text": "Quarter",
+    "Japanese": "四半期",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1790,
     "Lvl": 4,
-    "Text": "Quarter",
-    "Japanese": "四半期",
+    "Text": "Queries",
+    "Japanese": "クエリ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1791,
     "Lvl": 4,
-    "Text": "Queries",
-    "Japanese": "クエリ",
+    "Text": "Quietly",
+    "Japanese": "静かに",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1792,
     "Lvl": 4,
-    "Text": "Quietly",
-    "Japanese": "静かに",
+    "Text": "Quizzed",
+    "Japanese": "質問された",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1793,
     "Lvl": 4,
-    "Text": "Quizzed",
-    "Japanese": "質問された",
+    "Text": "Radiant",
+    "Japanese": "輝く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1794,
     "Lvl": 4,
-    "Text": "Radiant",
-    "Japanese": "輝く",
+    "Text": "Radical",
+    "Japanese": "ラジカル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1795,
     "Lvl": 4,
-    "Text": "Radical",
-    "Japanese": "ラジカル",
+    "Text": "Railway",
+    "Japanese": "鉄道",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1796,
     "Lvl": 4,
-    "Text": "Railway",
-    "Japanese": "鉄道",
+    "Text": "Raising",
+    "Japanese": "育てる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1797,
     "Lvl": 4,
-    "Text": "Raising",
-    "Japanese": "育てる",
+    "Text": "Ranging",
+    "Japanese": "範囲",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1798,
     "Lvl": 4,
-    "Text": "Ranging",
-    "Japanese": "範囲",
+    "Text": "Rapidly",
+    "Japanese": "急速に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1799,
     "Lvl": 4,
-    "Text": "Rapidly",
-    "Japanese": "急速に",
+    "Text": "Reading",
+    "Japanese": "読む",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1800,
     "Lvl": 4,
-    "Text": "Reading",
-    "Japanese": "読む",
+    "Text": "Reality",
+    "Japanese": "現実",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1801,
     "Lvl": 4,
-    "Text": "Reality",
-    "Japanese": "現実",
+    "Text": "Realize",
+    "Japanese": "気づく",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1802,
     "Lvl": 4,
-    "Text": "Realize",
-    "Japanese": "気づく",
+    "Text": "Reasons",
+    "Japanese": "理由",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1803,
     "Lvl": 4,
-    "Text": "Reasons",
-    "Japanese": "理由",
+    "Text": "Receipt",
+    "Japanese": "レシート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1804,
     "Lvl": 4,
-    "Text": "Receipt",
-    "Japanese": "レシート",
+    "Text": "Receive",
+    "Japanese": "受け取る",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1805,
     "Lvl": 4,
-    "Text": "Receive",
-    "Japanese": "受け取る",
+    "Text": "Recipes",
+    "Japanese": "レシピ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1806,
     "Lvl": 4,
-    "Text": "Recipes",
-    "Japanese": "レシピ",
+    "Text": "Records",
+    "Japanese": "記録",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1807,
     "Lvl": 4,
-    "Text": "Records",
-    "Japanese": "記録",
+    "Text": "Recover",
+    "Japanese": "回復する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1808,
     "Lvl": 4,
-    "Text": "Recover",
-    "Japanese": "回復する",
+    "Text": "Recycle",
+    "Japanese": "リサイクル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1809,
     "Lvl": 4,
-    "Text": "Recycle",
-    "Japanese": "リサイクル",
+    "Text": "Reduced",
+    "Japanese": "削減",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1810,
     "Lvl": 4,
-    "Text": "Reduced",
-    "Japanese": "削減",
+    "Text": "Reflect",
+    "Japanese": "反映する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1811,
     "Lvl": 4,
-    "Text": "Reflect",
-    "Japanese": "反映する",
+    "Text": "Refresh",
+    "Japanese": "更新",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1812,
     "Lvl": 4,
-    "Text": "Refresh",
-    "Japanese": "更新",
+    "Text": "Refusal",
+    "Japanese": "拒否",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1813,
     "Lvl": 4,
-    "Text": "Refusal",
-    "Japanese": "拒否",
+    "Text": "Regards",
+    "Japanese": "よろしくお願いいたします",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1814,
     "Lvl": 4,
-    "Text": "Regards",
-    "Japanese": "よろしくお願いいたします",
+    "Text": "Regency",
+    "Japanese": "摂政",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1815,
     "Lvl": 4,
-    "Text": "Regency",
-    "Japanese": "摂政",
+    "Text": "Regular",
+    "Japanese": "通常",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1816,
     "Lvl": 4,
-    "Text": "Regular",
-    "Japanese": "通常",
+    "Text": "Related",
+    "Japanese": "関連している",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1817,
     "Lvl": 4,
-    "Text": "Related",
-    "Japanese": "関連している",
+    "Text": "Release",
+    "Japanese": "リリース",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1818,
     "Lvl": 4,
-    "Text": "Release",
-    "Japanese": "リリース",
+    "Text": "Relieve",
+    "Japanese": "和らげる",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1819,
     "Lvl": 4,
-    "Text": "Relieve",
-    "Japanese": "和らげる",
+    "Text": "Relying",
+    "Japanese": "頼る",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1820,
     "Lvl": 4,
-    "Text": "Relying",
-    "Japanese": "頼る",
+    "Text": "Remains",
+    "Japanese": "遺物",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1821,
     "Lvl": 4,
-    "Text": "Remains",
-    "Japanese": "遺物",
+    "Text": "Remarks",
+    "Japanese": "備考",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1822,
     "Lvl": 4,
-    "Text": "Remarks",
-    "Japanese": "備考",
+    "Text": "Reminds",
+    "Japanese": "リマインダー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1823,
     "Lvl": 4,
-    "Text": "Reminds",
-    "Japanese": "リマインダー",
+    "Text": "Removal",
+    "Japanese": "除去",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1824,
     "Lvl": 4,
-    "Text": "Removal",
-    "Japanese": "除去",
+    "Text": "Replace",
+    "Japanese": "交換する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1825,
     "Lvl": 4,
-    "Text": "Replace",
-    "Japanese": "交換する",
+    "Text": "Reports",
+    "Japanese": "報告書",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1826,
     "Lvl": 4,
-    "Text": "Reports",
-    "Japanese": "報告書",
+    "Text": "Request",
+    "Japanese": "リクエスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1827,
     "Lvl": 4,
-    "Text": "Request",
-    "Japanese": "リクエスト",
+    "Text": "Require",
+    "Japanese": "必要とする",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1828,
     "Lvl": 4,
-    "Text": "Require",
-    "Japanese": "必要とする",
+    "Text": "Resorts",
+    "Japanese": "リゾート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1829,
     "Lvl": 4,
-    "Text": "Resorts",
-    "Japanese": "リゾート",
+    "Text": "Respect",
+    "Japanese": "尊敬",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1830,
     "Lvl": 4,
-    "Text": "Respect",
-    "Japanese": "尊敬",
+    "Text": "Respond",
+    "Japanese": "応答する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1831,
     "Lvl": 4,
-    "Text": "Respond",
-    "Japanese": "応答する",
+    "Text": "Restore",
+    "Japanese": "復元する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1832,
     "Lvl": 4,
-    "Text": "Restore",
-    "Japanese": "復元する",
+    "Text": "Results",
+    "Japanese": "結果",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1833,
     "Lvl": 4,
-    "Text": "Results",
-    "Japanese": "結果",
+    "Text": "Retired",
+    "Japanese": "退職",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1834,
     "Lvl": 4,
-    "Text": "Retired",
-    "Japanese": "退職",
+    "Text": "Returns",
+    "Japanese": "返品",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1835,
     "Lvl": 4,
-    "Text": "Returns",
-    "Japanese": "返品",
+    "Text": "Revenue",
+    "Japanese": "収益",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1836,
     "Lvl": 4,
-    "Text": "Revenue",
-    "Japanese": "収益",
+    "Text": "Reverse",
+    "Japanese": "逆行する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1837,
     "Lvl": 4,
-    "Text": "Reverse",
-    "Japanese": "逆行する",
+    "Text": "Reviews",
+    "Japanese": "レビュー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1838,
     "Lvl": 4,
-    "Text": "Reviews",
-    "Japanese": "レビュー",
+    "Text": "Rewards",
+    "Japanese": "報酬",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1839,
     "Lvl": 4,
-    "Text": "Rewards",
-    "Japanese": "報酬",
+    "Text": "Richter",
+    "Japanese": "リヒター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1840,
     "Lvl": 4,
-    "Text": "Richter",
-    "Japanese": "リヒター",
+    "Text": "Roadway",
+    "Japanese": "道路",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1841,
     "Lvl": 4,
-    "Text": "Roadway",
-    "Japanese": "道路",
+    "Text": "Routine",
+    "Japanese": "ルーティーン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1842,
     "Lvl": 4,
-    "Text": "Routine",
-    "Japanese": "ルーティーン",
+    "Text": "Running",
+    "Japanese": "ランニング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1843,
     "Lvl": 4,
-    "Text": "Running",
-    "Japanese": "ランニング",
+    "Text": "Sailing",
+    "Japanese": "セーリング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1844,
     "Lvl": 4,
-    "Text": "Sailing",
-    "Japanese": "セーリング",
+    "Text": "Samples",
+    "Japanese": "サンプル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1845,
     "Lvl": 4,
-    "Text": "Samples",
-    "Japanese": "サンプル",
+    "Text": "Savings",
+    "Japanese": "節約",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1846,
     "Lvl": 4,
-    "Text": "Savings",
-    "Japanese": "節約",
+    "Text": "Scanner",
+    "Japanese": "スキャナー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1847,
     "Lvl": 4,
-    "Text": "Scanner",
-    "Japanese": "スキャナー",
+    "Text": "Science",
+    "Japanese": "科学",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1848,
     "Lvl": 4,
-    "Text": "Science",
-    "Japanese": "科学",
+    "Text": "Screens",
+    "Japanese": "スクリーン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1849,
     "Lvl": 4,
-    "Text": "Screens",
-    "Japanese": "スクリーン",
+    "Text": "Scripts",
+    "Japanese": "スクリプト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1850,
     "Lvl": 4,
-    "Text": "Scripts",
-    "Japanese": "スクリプト",
+    "Text": "Seafood",
+    "Japanese": "シーフード",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1851,
     "Lvl": 4,
-    "Text": "Seafood",
-    "Japanese": "シーフード",
+    "Text": "Seaside",
+    "Japanese": "シーサイド",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1852,
     "Lvl": 4,
-    "Text": "Seaside",
-    "Japanese": "シーサイド",
+    "Text": "Seasons",
+    "Japanese": "季節",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1853,
     "Lvl": 4,
-    "Text": "Seasons",
-    "Japanese": "季節",
+    "Text": "Section",
+    "Japanese": "セクション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1854,
     "Lvl": 4,
-    "Text": "Section",
-    "Japanese": "セクション",
+    "Text": "Segment",
+    "Japanese": "セグメント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1855,
     "Lvl": 4,
-    "Text": "Segment",
-    "Japanese": "セグメント",
+    "Text": "Sensors",
+    "Japanese": "センサー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1856,
     "Lvl": 4,
-    "Text": "Sensors",
-    "Japanese": "センサー",
+    "Text": "Serious",
+    "Japanese": "深刻な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1857,
     "Lvl": 4,
-    "Text": "Serious",
-    "Japanese": "深刻な",
+    "Text": "Servant",
+    "Japanese": "サーバント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1858,
     "Lvl": 4,
-    "Text": "Servant",
-    "Japanese": "サーバント",
+    "Text": "Session",
+    "Japanese": "セッション",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1859,
     "Lvl": 4,
-    "Text": "Session",
-    "Japanese": "セッション",
+    "Text": "Setting",
+    "Japanese": "設定",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1860,
     "Lvl": 4,
-    "Text": "Setting",
-    "Japanese": "設定",
+    "Text": "Seventh",
+    "Japanese": "7番目",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1861,
     "Lvl": 4,
-    "Text": "Seventh",
-    "Japanese": "7番目",
+    "Text": "Several",
+    "Japanese": "いくつかの",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1862,
     "Lvl": 4,
-    "Text": "Several",
-    "Japanese": "いくつかの",
+    "Text": "Shelter",
+    "Japanese": "シェルター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1863,
     "Lvl": 4,
-    "Text": "Shelter",
-    "Japanese": "シェルター",
+    "Text": "Shining",
+    "Japanese": "シャイニング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1864,
     "Lvl": 4,
-    "Text": "Shining",
-    "Japanese": "シャイニング",
+    "Text": "Shipped",
+    "Japanese": "発送済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1865,
     "Lvl": 4,
-    "Text": "Shipped",
-    "Japanese": "発送済み",
+    "Text": "Shorten",
+    "Japanese": "短縮する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1866,
     "Lvl": 4,
-    "Text": "Shorten",
-    "Japanese": "短縮する",
+    "Text": "Signify",
+    "Japanese": "意味する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1867,
     "Lvl": 4,
-    "Text": "Signify",
-    "Japanese": "意味する",
+    "Text": "Similar",
+    "Japanese": "似ている",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1868,
     "Lvl": 4,
-    "Text": "Similar",
-    "Japanese": "似ている",
+    "Text": "Singing",
+    "Japanese": "歌う",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1869,
     "Lvl": 4,
-    "Text": "Singing",
-    "Japanese": "歌う",
+    "Text": "Sisters",
+    "Japanese": "姉妹",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1870,
     "Lvl": 4,
-    "Text": "Sisters",
-    "Japanese": "姉妹",
+    "Text": "Skilled",
+    "Japanese": "熟練した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1871,
     "Lvl": 4,
-    "Text": "Skilled",
-    "Japanese": "熟練した",
+    "Text": "Smoking",
+    "Japanese": "喫煙",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1872,
     "Lvl": 4,
-    "Text": "Smoking",
-    "Japanese": "喫煙",
+    "Text": "Society",
+    "Japanese": "社会",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1873,
     "Lvl": 4,
-    "Text": "Society",
-    "Japanese": "社会",
+    "Text": "Soldier",
+    "Japanese": "兵士",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1874,
     "Lvl": 4,
-    "Text": "Soldier",
-    "Japanese": "兵士",
+    "Text": "Someone",
+    "Japanese": "誰か",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1875,
     "Lvl": 4,
-    "Text": "Someone",
-    "Japanese": "誰か",
+    "Text": "Special",
+    "Japanese": "特別",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1876,
     "Lvl": 4,
-    "Text": "Special",
-    "Japanese": "特別",
+    "Text": "Species",
+    "Japanese": "種",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1877,
     "Lvl": 4,
-    "Text": "Species",
-    "Japanese": "種",
+    "Text": "Specify",
+    "Japanese": "特定",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1878,
     "Lvl": 4,
-    "Text": "Specify",
-    "Japanese": "特定",
+    "Text": "Specter",
+    "Japanese": "スペクター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1879,
     "Lvl": 4,
-    "Text": "Specter",
-    "Japanese": "スペクター",
+    "Text": "Spinach",
+    "Japanese": "ほうれん草",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1880,
     "Lvl": 4,
-    "Text": "Spinach",
-    "Japanese": "ほうれん草",
+    "Text": "Sponsor",
+    "Japanese": "スポンサー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1881,
     "Lvl": 4,
-    "Text": "Sponsor",
-    "Japanese": "スポンサー",
+    "Text": "Stadium",
+    "Japanese": "スタジアム",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1882,
     "Lvl": 4,
-    "Text": "Stadium",
-    "Japanese": "スタジアム",
+    "Text": "Staging",
+    "Japanese": "ステージング",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1883,
     "Lvl": 4,
-    "Text": "Staging",
-    "Japanese": "ステージング",
+    "Text": "Started",
+    "Japanese": "開始しました",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1884,
     "Lvl": 4,
-    "Text": "Started",
-    "Japanese": "開始しました",
+    "Text": "Station",
+    "Japanese": "駅",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1885,
     "Lvl": 4,
-    "Text": "Station",
-    "Japanese": "駅",
+    "Text": "Statute",
+    "Japanese": "法令",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1886,
     "Lvl": 4,
-    "Text": "Statute",
-    "Japanese": "法令",
+    "Text": "Staying",
+    "Japanese": "滞在",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1887,
     "Lvl": 4,
-    "Text": "Staying",
-    "Japanese": "滞在",
+    "Text": "Storage",
+    "Japanese": "ストレージ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1888,
     "Lvl": 4,
-    "Text": "Storage",
-    "Japanese": "ストレージ",
+    "Text": "Strange",
+    "Japanese": "奇妙な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1889,
     "Lvl": 4,
-    "Text": "Strange",
-    "Japanese": "奇妙な",
+    "Text": "Streams",
+    "Japanese": "ストリーム",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1890,
     "Lvl": 4,
-    "Text": "Streams",
-    "Japanese": "ストリーム",
+    "Text": "Streets",
+    "Japanese": "通り",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1891,
     "Lvl": 4,
-    "Text": "Streets",
-    "Japanese": "通り",
+    "Text": "Stretch",
+    "Japanese": "ストレッチ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1892,
     "Lvl": 4,
-    "Text": "Stretch",
-    "Japanese": "ストレッチ",
+    "Text": "Student",
+    "Japanese": "学生",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1893,
     "Lvl": 4,
-    "Text": "Student",
-    "Japanese": "学生",
+    "Text": "Studies",
+    "Japanese": "研究",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1894,
     "Lvl": 4,
-    "Text": "Studies",
-    "Japanese": "研究",
+    "Text": "Subject",
+    "Japanese": "主題",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1895,
     "Lvl": 4,
-    "Text": "Subject",
-    "Japanese": "主題",
+    "Text": "Succeed",
+    "Japanese": "成功する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1896,
     "Lvl": 4,
-    "Text": "Succeed",
-    "Japanese": "成功する",
+    "Text": "Success",
+    "Japanese": "成功",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1897,
     "Lvl": 4,
-    "Text": "Success",
-    "Japanese": "成功",
+    "Text": "Suggest",
+    "Japanese": "提案する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1898,
     "Lvl": 4,
-    "Text": "Suggest",
-    "Japanese": "提案する",
+    "Text": "Summary",
+    "Japanese": "まとめ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1899,
     "Lvl": 4,
-    "Text": "Summary",
-    "Japanese": "まとめ",
+    "Text": "Sunrise",
+    "Japanese": "日の出",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1900,
     "Lvl": 4,
-    "Text": "Sunrise",
-    "Japanese": "日の出",
+    "Text": "Support",
+    "Japanese": "サポート",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1901,
     "Lvl": 4,
-    "Text": "Support",
-    "Japanese": "サポート",
+    "Text": "Suppose",
+    "Japanese": "仮定する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1902,
     "Lvl": 4,
-    "Text": "Suppose",
-    "Japanese": "仮定する",
+    "Text": "Surface",
+    "Japanese": "表面",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1903,
     "Lvl": 4,
-    "Text": "Surface",
-    "Japanese": "表面",
+    "Text": "Surgery",
+    "Japanese": "手術",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1904,
     "Lvl": 4,
-    "Text": "Surgery",
-    "Japanese": "手術",
+    "Text": "Surplus",
+    "Japanese": "余剰",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1905,
     "Lvl": 4,
-    "Text": "Surplus",
-    "Japanese": "余剰",
+    "Text": "Survive",
+    "Japanese": "生き残る",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1906,
     "Lvl": 4,
-    "Text": "Survive",
-    "Japanese": "生き残る",
+    "Text": "Suspect",
+    "Japanese": "容疑者",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1907,
     "Lvl": 4,
-    "Text": "Suspect",
-    "Japanese": "容疑者",
+    "Text": "Systems",
+    "Japanese": "システム",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1908,
     "Lvl": 4,
-    "Text": "Systems",
-    "Japanese": "システム",
+    "Text": "Tablets",
+    "Japanese": "錠剤",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1909,
     "Lvl": 4,
-    "Text": "Tablets",
-    "Japanese": "錠剤",
+    "Text": "Talking",
+    "Japanese": "話す",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1910,
     "Lvl": 4,
-    "Text": "Talking",
-    "Japanese": "話す",
+    "Text": "Targets",
+    "Japanese": "ターゲット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1911,
     "Lvl": 4,
-    "Text": "Targets",
-    "Japanese": "ターゲット",
+    "Text": "Teacher",
+    "Japanese": "教師",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1912,
     "Lvl": 4,
-    "Text": "Teacher",
-    "Japanese": "教師",
+    "Text": "Tension",
+    "Japanese": "張力",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1913,
     "Lvl": 4,
-    "Text": "Tension",
-    "Japanese": "張力",
+    "Text": "Terrain",
+    "Japanese": "地形",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1914,
     "Lvl": 4,
-    "Text": "Terrain",
-    "Japanese": "地形",
+    "Text": "Testing",
+    "Japanese": "テスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1915,
     "Lvl": 4,
-    "Text": "Testing",
-    "Japanese": "テスト",
+    "Text": "Textile",
+    "Japanese": "繊維",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1916,
     "Lvl": 4,
-    "Text": "Textile",
-    "Japanese": "繊維",
+    "Text": "Theater",
+    "Japanese": "劇場",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1917,
     "Lvl": 4,
-    "Text": "Theater",
-    "Japanese": "劇場",
+    "Text": "Therapy",
+    "Japanese": "治療",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1918,
     "Lvl": 4,
-    "Text": "Therapy",
-    "Japanese": "治療",
+    "Text": "Thermal",
+    "Japanese": "熱",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1919,
     "Lvl": 4,
-    "Text": "Thermal",
-    "Japanese": "熱",
+    "Text": "Thinker",
+    "Japanese": "思想家",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1920,
     "Lvl": 4,
-    "Text": "Thinker",
-    "Japanese": "思想家",
+    "Text": "Thirsty",
+    "Japanese": "喉が渇いた",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1921,
     "Lvl": 4,
-    "Text": "Thirsty",
-    "Japanese": "喉が渇いた",
+    "Text": "Thought",
+    "Japanese": "考え",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1922,
     "Lvl": 4,
-    "Text": "Thought",
-    "Japanese": "考え",
+    "Text": "Threads",
+    "Japanese": "スレッド",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1923,
     "Lvl": 4,
-    "Text": "Threads",
-    "Japanese": "スレッド",
+    "Text": "Threats",
+    "Japanese": "脅威",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1924,
     "Lvl": 4,
-    "Text": "Threats",
-    "Japanese": "脅威",
+    "Text": "Through",
+    "Japanese": "を通して",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1925,
     "Lvl": 4,
-    "Text": "Through",
-    "Japanese": "を通して",
+    "Text": "Tickets",
+    "Japanese": "チケット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1926,
     "Lvl": 4,
-    "Text": "Tickets",
-    "Japanese": "チケット",
+    "Text": "Tonight",
+    "Japanese": "今夜",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1927,
     "Lvl": 4,
-    "Text": "Tonight",
-    "Japanese": "今夜",
+    "Text": "Topical",
+    "Japanese": "局所的",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1928,
     "Lvl": 4,
-    "Text": "Topical",
-    "Japanese": "局所的",
+    "Text": "Totally",
+    "Japanese": "完全に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1929,
     "Lvl": 4,
-    "Text": "Totally",
-    "Japanese": "完全に",
+    "Text": "Tourism",
+    "Japanese": "観光",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1930,
     "Lvl": 4,
-    "Text": "Tourism",
-    "Japanese": "観光",
+    "Text": "Towards",
+    "Japanese": "に向かって",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1931,
     "Lvl": 4,
-    "Text": "Towards",
-    "Japanese": "に向かって",
+    "Text": "Traffic",
+    "Japanese": "渋滞",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1932,
     "Lvl": 4,
-    "Text": "Traffic",
-    "Japanese": "渋滞",
+    "Text": "Tragedy",
+    "Japanese": "悲劇",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1933,
     "Lvl": 4,
-    "Text": "Tragedy",
-    "Japanese": "悲劇",
+    "Text": "Trained",
+    "Japanese": "訓練済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1934,
     "Lvl": 4,
-    "Text": "Trained",
-    "Japanese": "訓練済み",
+    "Text": "Transit",
+    "Japanese": "公共交通機関",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1935,
     "Lvl": 4,
-    "Text": "Transit",
-    "Japanese": "交通機関",
+    "Text": "Trapped",
+    "Japanese": "閉じ込められた",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1936,
     "Lvl": 4,
-    "Text": "Trapped",
-    "Japanese": "閉じ込められた",
+    "Text": "Travels",
+    "Japanese": "旅行",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1937,
     "Lvl": 4,
-    "Text": "Travels",
-    "Japanese": "旅行",
+    "Text": "Treated",
+    "Japanese": "治療済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1938,
     "Lvl": 4,
-    "Text": "Treated",
-    "Japanese": "治療済み",
+    "Text": "Trident",
+    "Japanese": "トライデント",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1939,
     "Lvl": 4,
-    "Text": "Trident",
-    "Japanese": "トライデント",
+    "Text": "Trigger",
+    "Japanese": "トリガー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1940,
     "Lvl": 4,
-    "Text": "Trigger",
-    "Japanese": "トリガー",
+    "Text": "Trilogy",
+    "Japanese": "三部作",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1941,
     "Lvl": 4,
-    "Text": "Trilogy",
-    "Japanese": "三部作",
+    "Text": "Triumph",
+    "Japanese": "勝利",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1942,
     "Lvl": 4,
-    "Text": "Triumph",
-    "Japanese": "勝利",
+    "Text": "Trouble",
+    "Japanese": "トラブル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1943,
     "Lvl": 4,
-    "Text": "Trouble",
-    "Japanese": "トラブル",
+    "Text": "Trumpet",
+    "Japanese": "トランペット",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1944,
     "Lvl": 4,
-    "Text": "Trumpet",
-    "Japanese": "トランペット",
+    "Text": "Trustee",
+    "Japanese": "受託者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1945,
     "Lvl": 4,
-    "Text": "Trustee",
-    "Japanese": "受託者",
+    "Text": "Tuesday",
+    "Japanese": "火曜日",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1946,
     "Lvl": 4,
-    "Text": "Tuesday",
-    "Japanese": "火曜日",
+    "Text": "Tuition",
+    "Japanese": "学費",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1947,
     "Lvl": 4,
-    "Text": "Tuition",
-    "Japanese": "学費",
+    "Text": "Turbine",
+    "Japanese": "タービン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1948,
     "Lvl": 4,
-    "Text": "Turbine",
-    "Japanese": "タービン",
+    "Text": "Turnkey",
+    "Japanese": "ターンキー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1949,
     "Lvl": 4,
-    "Text": "Turnkey",
-    "Japanese": "ターンキー",
+    "Text": "Twitter",
+    "Japanese": "ツイッター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1950,
     "Lvl": 4,
-    "Text": "Twitter",
-    "Japanese": "ツイッター",
+    "Text": "Typical",
+    "Japanese": "典型的な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1951,
     "Lvl": 4,
-    "Text": "Typical",
-    "Japanese": "典型的な",
+    "Text": "Typists",
+    "Japanese": "タイピスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1952,
     "Lvl": 4,
-    "Text": "Typists",
-    "Japanese": "タイピスト",
+    "Text": "Unaware",
+    "Japanese": "気づいていない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1953,
     "Lvl": 4,
-    "Text": "Unaware",
-    "Japanese": "気づいていない",
+    "Text": "Unbound",
+    "Japanese": "アンバウンド",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1954,
     "Lvl": 4,
-    "Text": "Unbound",
-    "Japanese": "アンバウンド",
+    "Text": "Unclear",
+    "Japanese": "不明",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1955,
     "Lvl": 4,
-    "Text": "Unclear",
-    "Japanese": "不明",
+    "Text": "Unfolds",
+    "Japanese": "展開する",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1956,
     "Lvl": 4,
-    "Text": "Unfolds",
-    "Japanese": "展開する",
+    "Text": "Uniform",
+    "Japanese": "均一",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1957,
     "Lvl": 4,
-    "Text": "Uniform",
-    "Japanese": "均一",
+    "Text": "Unknown",
+    "Japanese": "未知",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1958,
     "Lvl": 4,
-    "Text": "Unknown",
-    "Japanese": "未知",
+    "Text": "Unlucky",
+    "Japanese": "不運",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1959,
     "Lvl": 4,
-    "Text": "Unlucky",
-    "Japanese": "不運",
+    "Text": "Unusual",
+    "Japanese": "普通でない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1960,
     "Lvl": 4,
-    "Text": "Unusual",
-    "Japanese": "普通でない",
+    "Text": "Updated",
+    "Japanese": "更新済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1961,
     "Lvl": 4,
-    "Text": "Updated",
-    "Japanese": "更新済み",
+    "Text": "Useless",
+    "Japanese": "使い物にならない",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1962,
     "Lvl": 4,
-    "Text": "Useless",
-    "Japanese": "使い物にならない",
+    "Text": "Utility",
+    "Japanese": "ユーティリティ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1963,
     "Lvl": 4,
-    "Text": "Utility",
-    "Japanese": "ユーティリティ",
+    "Text": "Vacancy",
+    "Japanese": "求人情報",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1964,
     "Lvl": 4,
-    "Text": "Vacancy",
-    "Japanese": "求人情報",
+    "Text": "Vaccine",
+    "Japanese": "ワクチン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1965,
     "Lvl": 4,
-    "Text": "Vaccine",
-    "Japanese": "ワクチン",
+    "Text": "Vaguely",
+    "Japanese": "漠然と",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1966,
     "Lvl": 4,
-    "Text": "Vaguely",
-    "Japanese": "漠然と",
+    "Text": "Valiant",
+    "Japanese": "勇敢な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1967,
     "Lvl": 4,
-    "Text": "Valiant",
-    "Japanese": "勇敢な",
+    "Text": "Validly",
+    "Japanese": "有効に",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1968,
     "Lvl": 4,
-    "Text": "Validly",
-    "Japanese": "有効に",
+    "Text": "Valleys",
+    "Japanese": "谷",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1969,
     "Lvl": 4,
-    "Text": "Valleys",
-    "Japanese": "谷",
+    "Text": "Vampire",
+    "Japanese": "吸血鬼",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1970,
     "Lvl": 4,
-    "Text": "Vampire",
-    "Japanese": "吸血鬼",
+    "Text": "Vanilla",
+    "Japanese": "バニラ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1971,
     "Lvl": 4,
-    "Text": "Vanilla",
-    "Japanese": "バニラ",
+    "Text": "Variant",
+    "Japanese": "変異体",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1972,
     "Lvl": 4,
-    "Text": "Variant",
-    "Japanese": "変異体",
+    "Text": "Various",
+    "Japanese": "様々な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1973,
     "Lvl": 4,
-    "Text": "Various",
-    "Japanese": "様々な",
+    "Text": "Vaulted",
+    "Japanese": "アーチ型",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1974,
     "Lvl": 4,
-    "Text": "Vaulted",
-    "Japanese": "アーチ型",
+    "Text": "Vehicle",
+    "Japanese": "車両",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1975,
     "Lvl": 4,
-    "Text": "Vehicle",
-    "Japanese": "車両",
+    "Text": "Vending",
+    "Japanese": "自動販売機",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1976,
     "Lvl": 4,
-    "Text": "Vending",
-    "Japanese": "自動販売機",
+    "Text": "Venture",
+    "Japanese": "ベンチャー",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1977,
     "Lvl": 4,
-    "Text": "Venture",
-    "Japanese": "ベンチャー",
+    "Text": "Verdict",
+    "Japanese": "評決",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1978,
     "Lvl": 4,
-    "Text": "Verdict",
-    "Japanese": "評決",
+    "Text": "Version",
+    "Japanese": "バージョン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1979,
     "Lvl": 4,
-    "Text": "Version",
-    "Japanese": "バージョン",
+    "Text": "Vessels",
+    "Japanese": "船舶",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1980,
     "Lvl": 4,
-    "Text": "Vessels",
-    "Japanese": "船舶",
+    "Text": "Veteran",
+    "Japanese": "ベテラン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1981,
     "Lvl": 4,
-    "Text": "Veteran",
-    "Japanese": "ベテラン",
+    "Text": "Vibrant",
+    "Japanese": "鮮やかな",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1982,
     "Lvl": 4,
-    "Text": "Vibrant",
-    "Japanese": "鮮やかな",
+    "Text": "Victims",
+    "Japanese": "被害者",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1983,
     "Lvl": 4,
-    "Text": "Victims",
-    "Japanese": "被害者",
+    "Text": "Victory",
+    "Japanese": "勝利",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1984,
     "Lvl": 4,
-    "Text": "Victory",
-    "Japanese": "勝利",
+    "Text": "Viewers",
+    "Japanese": "視聴者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1985,
     "Lvl": 4,
-    "Text": "Viewers",
-    "Japanese": "視聴者",
+    "Text": "Village",
+    "Japanese": "村",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1986,
     "Lvl": 4,
-    "Text": "Village",
-    "Japanese": "村",
+    "Text": "Violent",
+    "Japanese": "暴力的",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 1987,
     "Lvl": 4,
-    "Text": "Violent",
-    "Japanese": "暴力的",
+    "Text": "Virtual",
+    "Japanese": "バーチャル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1988,
     "Lvl": 4,
-    "Text": "Virtual",
-    "Japanese": "バーチャル",
+    "Text": "Visible",
+    "Japanese": "見える",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1989,
     "Lvl": 4,
-    "Text": "Visible",
-    "Japanese": "見える",
+    "Text": "Visions",
+    "Japanese": "ビジョン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1990,
     "Lvl": 4,
-    "Text": "Visions",
-    "Japanese": "ビジョン",
+    "Text": "Visitor",
+    "Japanese": "ビジター",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1991,
     "Lvl": 4,
-    "Text": "Visitor",
-    "Japanese": "ビジター",
+    "Text": "Visuals",
+    "Japanese": "ビジュアル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1992,
     "Lvl": 4,
-    "Text": "Visuals",
-    "Japanese": "ビジュアル",
+    "Text": "Vitamin",
+    "Japanese": "ビタミン",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1993,
     "Lvl": 4,
-    "Text": "Vitamin",
-    "Japanese": "ビタミン",
+    "Text": "Vividly",
+    "Japanese": "鮮やかに",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1994,
     "Lvl": 4,
-    "Text": "Vividly",
-    "Japanese": "鮮やかに",
+    "Text": "Volcano",
+    "Japanese": "火山",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1995,
     "Lvl": 4,
-    "Text": "Volcano",
-    "Japanese": "火山",
+    "Text": "Voltage",
+    "Japanese": "電圧",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1996,
     "Lvl": 4,
-    "Text": "Voltage",
-    "Japanese": "電圧",
+    "Text": "Volumes",
+    "Japanese": "巻",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1997,
     "Lvl": 4,
-    "Text": "Volumes",
-    "Japanese": "巻",
+    "Text": "Voyages",
+    "Japanese": "航海",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1998,
     "Lvl": 4,
-    "Text": "Voyages",
-    "Japanese": "航海",
+    "Text": "Vulture",
+    "Japanese": "ハゲワシ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 1999,
     "Lvl": 4,
-    "Text": "Vulture",
-    "Japanese": "ハゲワシ",
+    "Text": "Waiting",
+    "Japanese": "待っている",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2000,
     "Lvl": 4,
-    "Text": "Waiting",
-    "Japanese": "待っている",
+    "Text": "Warding",
+    "Japanese": "防護",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2001,
     "Lvl": 4,
-    "Text": "Warding",
-    "Japanese": "防護",
+    "Text": "Wallets",
+    "Japanese": "財布",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2002,
     "Lvl": 4,
-    "Text": "Wallets",
-    "Japanese": "財布",
+    "Text": "Warming",
+    "Japanese": "温暖化",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2003,
     "Lvl": 4,
-    "Text": "Warming",
-    "Japanese": "温暖化",
+    "Text": "Warning",
+    "Japanese": "警告",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2004,
     "Lvl": 4,
-    "Text": "Warning",
-    "Japanese": "警告",
+    "Text": "Warrant",
+    "Japanese": "令状",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2005,
     "Lvl": 4,
-    "Text": "Warrant",
-    "Japanese": "令状",
+    "Text": "Warship",
+    "Japanese": "軍艦",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2006,
     "Lvl": 4,
-    "Text": "Warship",
-    "Japanese": "軍艦",
+    "Text": "Washing",
+    "Japanese": "洗浄",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2007,
     "Lvl": 4,
-    "Text": "Washing",
-    "Japanese": "洗浄",
+    "Text": "Watches",
+    "Japanese": "腕時計",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2008,
     "Lvl": 4,
-    "Text": "Watches",
-    "Japanese": "腕時計",
+    "Text": "Wealthy",
+    "Japanese": "裕福な",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2009,
     "Lvl": 4,
-    "Text": "Wealthy",
-    "Japanese": "裕福な",
+    "Text": "Weather",
+    "Japanese": "天気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2010,
     "Lvl": 4,
-    "Text": "Weather",
-    "Japanese": "天気",
+    "Text": "Webcast",
+    "Japanese": "ウェブキャスト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2011,
     "Lvl": 4,
-    "Text": "Webcast",
-    "Japanese": "ウェブキャスト",
+    "Text": "Website",
+    "Japanese": "Webサイト",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2012,
     "Lvl": 4,
-    "Text": "Website",
-    "Japanese": "Webサイト",
+    "Text": "Wedding",
+    "Japanese": "結婚式",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2013,
     "Lvl": 4,
-    "Text": "Wedding",
-    "Japanese": "結婚式",
+    "Text": "Weekend",
+    "Japanese": "週末",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2014,
     "Lvl": 4,
-    "Text": "Weekend",
-    "Japanese": "週末",
+    "Text": "Weights",
+    "Japanese": "重量",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2015,
     "Lvl": 4,
-    "Text": "Weights",
-    "Japanese": "重量",
+    "Text": "Welcome",
+    "Japanese": "いらっしゃいませ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2016,
     "Lvl": 4,
-    "Text": "Welcome",
-    "Japanese": "いらっしゃいませ",
+    "Text": "Welfare",
+    "Japanese": "福祉",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2017,
     "Lvl": 4,
-    "Text": "Welfare",
-    "Japanese": "福祉",
+    "Text": "Western",
+    "Japanese": "西洋",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2018,
     "Lvl": 4,
-    "Text": "Western",
-    "Japanese": "西部",
+    "Text": "Wetness",
+    "Japanese": "湿り気",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2019,
     "Lvl": 4,
-    "Text": "Wetness",
-    "Japanese": "濡れ",
+    "Text": "Wheeled",
+    "Japanese": "車輪付き",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2020,
     "Lvl": 4,
-    "Text": "Wheeled",
-    "Japanese": "車輪付き",
+    "Text": "Whereas",
+    "Japanese": "一方",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2021,
     "Lvl": 4,
-    "Text": "Whereas",
-    "Japanese": "一方",
+    "Text": "Whether",
+    "Japanese": "かどうか",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2022,
     "Lvl": 4,
-    "Text": "Whether",
-    "Japanese": "かどうか",
+    "Text": "Whisper",
+    "Japanese": "ささやき",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2023,
     "Lvl": 4,
-    "Text": "Whisper",
-    "Japanese": "ささやき",
+    "Text": "Whistle",
+    "Japanese": "ホイッスル",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2024,
     "Lvl": 4,
-    "Text": "Whistle",
-    "Japanese": "ホイッスル",
+    "Text": "Whoever",
+    "Japanese": "誰でも",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2025,
     "Lvl": 4,
-    "Text": "Whoever",
-    "Japanese": "誰でも",
+    "Text": "Windows",
+    "Japanese": "Windows",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 2026,
     "Lvl": 4,
-    "Text": "Windows",
-    "Japanese": "Windows",
+    "Text": "Winners",
+    "Japanese": "受賞者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2027,
     "Lvl": 4,
-    "Text": "Winners",
-    "Japanese": "受賞者",
+    "Text": "Winning",
+    "Japanese": "勝利",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2028,
     "Lvl": 4,
-    "Text": "Winning",
-    "Japanese": "勝利",
+    "Text": "Winters",
+    "Japanese": "ウィンターズ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2029,
     "Lvl": 4,
-    "Text": "Winters",
-    "Japanese": "ウィンターズ",
+    "Text": "Wishing",
+    "Japanese": "願いを込めて",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2030,
     "Lvl": 4,
-    "Text": "Wishing",
-    "Japanese": "願いを込めて",
+    "Text": "Witness",
+    "Japanese": "目撃者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2031,
     "Lvl": 4,
-    "Text": "Witness",
-    "Japanese": "目撃者",
+    "Text": "Workday",
+    "Japanese": "ワークデイ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2032,
     "Lvl": 4,
-    "Text": "Workday",
-    "Japanese": "ワークデイ",
+    "Text": "Workers",
+    "Japanese": "労働者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2033,
     "Lvl": 4,
-    "Text": "Workers",
-    "Japanese": "労働者",
+    "Text": "Working",
+    "Japanese": "働く",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2034,
     "Lvl": 4,
-    "Text": "Working",
-    "Japanese": "働く",
+    "Text": "Workman",
+    "Japanese": "労働者",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2035,
     "Lvl": 4,
-    "Text": "Workman",
-    "Japanese": "労働者",
+    "Text": "Workout",
+    "Japanese": "いい結果",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2036,
     "Lvl": 4,
-    "Text": "Workout",
-    "Japanese": "いい結果",
+    "Text": "Worship",
+    "Japanese": "崇拝",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 2037,
     "Lvl": 4,
-    "Text": "Worship",
-    "Japanese": "崇拝",
+    "Text": "Wrapped",
+    "Japanese": "包装済み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2038,
     "Lvl": 4,
-    "Text": "Wrapped",
-    "Japanese": "包装済み",
+    "Text": "Wrestle",
+    "Japanese": "レスリング",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 2039,
     "Lvl": 4,
-    "Text": "Wrestle",
-    "Japanese": "レスリング",
+    "Text": "Wrinkle",
+    "Japanese": "しわ",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2040,
     "Lvl": 4,
-    "Text": "Wrinkle",
-    "Japanese": "しわ",
+    "Text": "Writing",
+    "Japanese": "書き込み",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2041,
     "Lvl": 4,
-    "Text": "Writing",
-    "Japanese": "書き込み",
+    "Text": "Written",
+    "Japanese": "執筆",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2042,
     "Lvl": 4,
-    "Text": "Written",
-    "Japanese": "執筆",
+    "Text": "Yandere",
+    "Japanese": "ヤンデレ",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 2043,
     "Lvl": 4,
-    "Text": "Yandere",
-    "Japanese": "ヤンデレ",
+    "Text": "Yawning",
+    "Japanese": "あくび",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2044,
     "Lvl": 4,
-    "Text": "Yawning",
-    "Japanese": "あくび",
+    "Text": "Yielded",
+    "Japanese": "譲り渡した",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2045,
     "Lvl": 4,
-    "Text": "Yielded",
-    "Japanese": "譲り渡した",
+    "Text": "Younger",
+    "Japanese": "若い",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2046,
     "Lvl": 4,
-    "Text": "Younger",
-    "Japanese": "若い",
+    "Text": "Zoology",
+    "Japanese": "動物学",
+    "isSafe": true,
     "Len": 7
   },
   {
     "Id": 2047,
     "Lvl": 4,
-    "Text": "Zoology",
-    "Japanese": "動物学",
+    "Text": "Zenless",
+    "Japanese": "禅のない",
+    "isSafe": false,
     "Len": 7
   },
   {
     "Id": 2048,
-    "Lvl": 4,
-    "Text": "Zenless",
-    "Japanese": "禅のない",
-    "Len": 7
+    "Lvl": 5,
+    "Text": "Abnormal",
+    "Japanese": "異常な",
+    "isSafe": true,
+    "Len": 8
   },
   {
     "Id": 2049,
     "Lvl": 5,
-    "Text": "Abnormal",
-    "Japanese": "異常な",
+    "Text": "Absolute",
+    "Japanese": "絶対",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2050,
     "Lvl": 5,
-    "Text": "Absolute",
-    "Japanese": "絶対",
+    "Text": "Abstract",
+    "Japanese": "抽象的な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2051,
     "Lvl": 5,
-    "Text": "Abstract",
-    "Japanese": "抽象的な",
+    "Text": "Academic",
+    "Japanese": "アカデミック",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2052,
     "Lvl": 5,
-    "Text": "Academic",
-    "Japanese": "アカデミック",
+    "Text": "Accepted",
+    "Japanese": "承認済み",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2053,
     "Lvl": 5,
-    "Text": "Accepted",
-    "Japanese": "承認済み",
+    "Text": "Accident",
+    "Japanese": "事故",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2054,
     "Lvl": 5,
-    "Text": "Accident",
-    "Japanese": "事故",
+    "Text": "Accuracy",
+    "Japanese": "正確さ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2055,
     "Lvl": 5,
-    "Text": "Accuracy",
-    "Japanese": "正確さ",
+    "Text": "Accurate",
+    "Japanese": "正確な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2056,
     "Lvl": 5,
-    "Text": "Accurate",
-    "Japanese": "正確な",
+    "Text": "Achieved",
+    "Japanese": "達成",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2057,
     "Lvl": 5,
-    "Text": "Achieved",
-    "Japanese": "達成",
+    "Text": "Acquired",
+    "Japanese": "取得した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2058,
     "Lvl": 5,
-    "Text": "Acquired",
-    "Japanese": "取得した",
+    "Text": "Activity",
+    "Japanese": "活動",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2059,
     "Lvl": 5,
-    "Text": "Activity",
-    "Japanese": "活動",
+    "Text": "Actually",
+    "Japanese": "実は",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2060,
     "Lvl": 5,
-    "Text": "Actually",
-    "Japanese": "実は",
+    "Text": "Addition",
+    "Japanese": "追加",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2061,
     "Lvl": 5,
-    "Text": "Addition",
-    "Japanese": "追加",
+    "Text": "Adequate",
+    "Japanese": "十分な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2062,
     "Lvl": 5,
-    "Text": "Adequate",
-    "Japanese": "十分な",
+    "Text": "Adjacent",
+    "Japanese": "隣接",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2063,
     "Lvl": 5,
-    "Text": "Adjacent",
-    "Japanese": "隣接",
+    "Text": "Adjusted",
+    "Japanese": "調整済み",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2064,
     "Lvl": 5,
-    "Text": "Adjusted",
-    "Japanese": "調整済み",
+    "Text": "Advanced",
+    "Japanese": "高度な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2065,
     "Lvl": 5,
-    "Text": "Advanced",
-    "Japanese": "高度な",
+    "Text": "Advocate",
+    "Japanese": "提唱する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2066,
     "Lvl": 5,
-    "Text": "Advocate",
-    "Japanese": "提唱する",
+    "Text": "Affinity",
+    "Japanese": "親和性",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2067,
     "Lvl": 5,
-    "Text": "Affinity",
-    "Japanese": "親和性",
+    "Text": "Aircraft",
+    "Japanese": "航空機",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2068,
     "Lvl": 5,
-    "Text": "Aircraft",
-    "Japanese": "航空機",
+    "Text": "Alliance",
+    "Japanese": "アライアンス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2069,
     "Lvl": 5,
-    "Text": "Alliance",
-    "Japanese": "アライアンス",
+    "Text": "Alphabet",
+    "Japanese": "アルファベット",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2070,
     "Lvl": 5,
-    "Text": "Alphabet",
-    "Japanese": "アルファベット",
+    "Text": "Analysis",
+    "Japanese": "分析",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2071,
     "Lvl": 5,
-    "Text": "Analysis",
-    "Japanese": "分析",
+    "Text": "Ancestry",
+    "Japanese": "祖先",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2072,
     "Lvl": 5,
-    "Text": "Ancestry",
-    "Japanese": "祖先",
+    "Text": "Announce",
+    "Japanese": "発表する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2073,
     "Lvl": 5,
-    "Text": "Announce",
-    "Japanese": "発表する",
+    "Text": "Apparent",
+    "Japanese": "明らかな",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2074,
     "Lvl": 5,
-    "Text": "Apparent",
-    "Japanese": "明らかな",
+    "Text": "Appetite",
+    "Japanese": "食欲",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2075,
     "Lvl": 5,
-    "Text": "Appetite",
-    "Japanese": "食欲",
+    "Text": "Approval",
+    "Japanese": "承認",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2076,
     "Lvl": 5,
-    "Text": "Approval",
-    "Japanese": "承認",
+    "Text": "Argument",
+    "Japanese": "口論",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2077,
     "Lvl": 5,
-    "Text": "Argument",
-    "Japanese": "口論",
+    "Text": "Artistic",
+    "Japanese": "芸術的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2078,
     "Lvl": 5,
-    "Text": "Artistic",
-    "Japanese": "芸術的",
+    "Text": "Assembly",
+    "Japanese": "組み立て",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2079,
     "Lvl": 5,
-    "Text": "Assembly",
-    "Japanese": "組み立て",
+    "Text": "Attitude",
+    "Japanese": "態度",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2080,
     "Lvl": 5,
-    "Text": "Attitude",
-    "Japanese": "態度",
+    "Text": "Audience",
+    "Japanese": "観客",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2081,
     "Lvl": 5,
-    "Text": "Audience",
-    "Japanese": "観客",
+    "Text": "Backpack",
+    "Japanese": "バックパック",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2082,
     "Lvl": 5,
-    "Text": "Backpack",
-    "Japanese": "バックパック",
+    "Text": "Backward",
+    "Japanese": "後ろ向き",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2083,
     "Lvl": 5,
-    "Text": "Backward",
-    "Japanese": "後ろ向き",
+    "Text": "Bacteria",
+    "Japanese": "細菌",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2084,
     "Lvl": 5,
-    "Text": "Bacteria",
-    "Japanese": "細菌",
+    "Text": "Balanced",
+    "Japanese": "バランスの取れた",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2085,
     "Lvl": 5,
-    "Text": "Balanced",
-    "Japanese": "バランスの取れた",
+    "Text": "Barbecue",
+    "Japanese": "バーベキュー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2086,
     "Lvl": 5,
-    "Text": "Barbecue",
-    "Japanese": "バーベキュー",
+    "Text": "Barriers",
+    "Japanese": "障壁",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2087,
     "Lvl": 5,
-    "Text": "Barriers",
-    "Japanese": "障壁",
+    "Text": "Basement",
+    "Japanese": "地下",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2088,
     "Lvl": 5,
-    "Text": "Basement",
-    "Japanese": "地下",
+    "Text": "Becoming",
+    "Japanese": "になる",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2089,
     "Lvl": 5,
-    "Text": "Becoming",
-    "Japanese": "になる",
+    "Text": "Bedrooms",
+    "Japanese": "寝室",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2090,
     "Lvl": 5,
-    "Text": "Bedrooms",
-    "Japanese": "寝室",
+    "Text": "Behavior",
+    "Japanese": "行動",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2091,
     "Lvl": 5,
-    "Text": "Behavior",
-    "Japanese": "行動",
+    "Text": "Believed",
+    "Japanese": "信じた",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2092,
     "Lvl": 5,
-    "Text": "Believed",
-    "Japanese": "信じた",
+    "Text": "Benefits",
+    "Japanese": "利点",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2093,
     "Lvl": 5,
-    "Text": "Benefits",
-    "Japanese": "利点",
+    "Text": "Beverage",
+    "Japanese": "飲料",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2094,
     "Lvl": 5,
-    "Text": "Beverage",
-    "Japanese": "飲料",
+    "Text": "Birthday",
+    "Japanese": "誕生日",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2095,
     "Lvl": 5,
-    "Text": "Birthday",
-    "Japanese": "誕生日",
+    "Text": "Blocking",
+    "Japanese": "ブロッキング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2096,
     "Lvl": 5,
-    "Text": "Blocking",
-    "Japanese": "ブロッキング",
+    "Text": "Boundary",
+    "Japanese": "境界",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2097,
     "Lvl": 5,
-    "Text": "Boundary",
-    "Japanese": "境界",
+    "Text": "Branches",
+    "Japanese": "支店",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2098,
     "Lvl": 5,
-    "Text": "Branches",
-    "Japanese": "支店",
+    "Text": "Breaking",
+    "Japanese": "速報",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2099,
     "Lvl": 5,
-    "Text": "Breaking",
-    "Japanese": "速報",
+    "Text": "Briefing",
+    "Japanese": "ブリーフィング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2100,
     "Lvl": 5,
-    "Text": "Briefing",
-    "Japanese": "ブリーフィング",
+    "Text": "Brighten",
+    "Japanese": "明るくする",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2101,
     "Lvl": 5,
-    "Text": "Brighten",
-    "Japanese": "明るくする",
+    "Text": "Building",
+    "Japanese": "建物",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2102,
     "Lvl": 5,
-    "Text": "Building",
-    "Japanese": "建物",
+    "Text": "Business",
+    "Japanese": "仕事",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2103,
     "Lvl": 5,
-    "Text": "Business",
-    "Japanese": "仕事",
+    "Text": "Calendar",
+    "Japanese": "カレンダー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2104,
     "Lvl": 5,
-    "Text": "Calendar",
-    "Japanese": "カレンダー",
+    "Text": "Campaign",
+    "Japanese": "キャンペーン",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2105,
     "Lvl": 5,
-    "Text": "Campaign",
-    "Japanese": "キャンペーン",
+    "Text": "Capacity",
+    "Japanese": "容量",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2106,
     "Lvl": 5,
-    "Text": "Capacity",
-    "Japanese": "容量",
+    "Text": "Category",
+    "Japanese": "カテゴリ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2107,
     "Lvl": 5,
-    "Text": "Category",
-    "Japanese": "カテゴリ",
+    "Text": "Catholic",
+    "Japanese": "カトリック",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2108,
     "Lvl": 5,
-    "Text": "Catholic",
-    "Japanese": "カトリック",
+    "Text": "Cautious",
+    "Japanese": "用心深い",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2109,
     "Lvl": 5,
-    "Text": "Cautious",
-    "Japanese": "用心深い",
+    "Text": "Cellular",
+    "Japanese": "セルラー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2110,
     "Lvl": 5,
-    "Text": "Cellular",
-    "Japanese": "セルラー",
+    "Text": "Champion",
+    "Japanese": "チャンピオン",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2111,
     "Lvl": 5,
-    "Text": "Champion",
-    "Japanese": "チャンピオン",
+    "Text": "Changing",
+    "Japanese": "変化",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2112,
     "Lvl": 5,
-    "Text": "Changing",
-    "Japanese": "変化",
+    "Text": "Chapters",
+    "Japanese": "章",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2113,
     "Lvl": 5,
-    "Text": "Chapters",
-    "Japanese": "章",
+    "Text": "Chemical",
+    "Japanese": "化学薬品",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2114,
     "Lvl": 5,
-    "Text": "Chemical",
-    "Japanese": "化学薬品",
+    "Text": "Children",
+    "Japanese": "子供たち",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2115,
     "Lvl": 5,
-    "Text": "Children",
-    "Japanese": "子供たち",
+    "Text": "Circular",
+    "Japanese": "円形",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2116,
     "Lvl": 5,
-    "Text": "Circular",
-    "Japanese": "円形",
+    "Text": "Civilian",
+    "Japanese": "民間人",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2117,
     "Lvl": 5,
-    "Text": "Civilian",
-    "Japanese": "民間人",
+    "Text": "Cleaning",
+    "Japanese": "クリーニング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2118,
     "Lvl": 5,
-    "Text": "Cleaning",
-    "Japanese": "クリーニング",
+    "Text": "Clinical",
+    "Japanese": "臨床",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2119,
     "Lvl": 5,
-    "Text": "Clinical",
-    "Japanese": "臨床",
+    "Text": "Clothing",
+    "Japanese": "衣類",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2120,
     "Lvl": 5,
-    "Text": "Clothing",
-    "Japanese": "衣類",
+    "Text": "Collapse",
+    "Japanese": "崩壊",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2121,
     "Lvl": 5,
-    "Text": "Collapse",
-    "Japanese": "崩壊",
+    "Text": "Colonial",
+    "Japanese": "コロニアル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2122,
     "Lvl": 5,
-    "Text": "Colonial",
-    "Japanese": "コロニアル",
+    "Text": "Combined",
+    "Japanese": "組み合わせ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2123,
     "Lvl": 5,
-    "Text": "Combined",
-    "Japanese": "組み合わせ",
+    "Text": "Commerce",
+    "Japanese": "商業",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2124,
     "Lvl": 5,
-    "Text": "Commerce",
-    "Japanese": "商業",
+    "Text": "Compound",
+    "Japanese": "化合物",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2125,
     "Lvl": 5,
-    "Text": "Compound",
-    "Japanese": "化合物",
+    "Text": "Computer",
+    "Japanese": "コンピューター",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2126,
     "Lvl": 5,
-    "Text": "Computer",
-    "Japanese": "コンピューター",
+    "Text": "Concrete",
+    "Japanese": "コンクリート",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2127,
     "Lvl": 5,
-    "Text": "Concrete",
-    "Japanese": "コンクリート",
+    "Text": "Conflict",
+    "Japanese": "対立",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2128,
     "Lvl": 5,
-    "Text": "Conflict",
-    "Japanese": "対立",
+    "Text": "Constant",
+    "Japanese": "絶え間ない",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2129,
     "Lvl": 5,
-    "Text": "Constant",
-    "Japanese": "絶え間ない",
+    "Text": "Consumer",
+    "Japanese": "消費者",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2130,
     "Lvl": 5,
-    "Text": "Consumer",
-    "Japanese": "消費者",
+    "Text": "Continue",
+    "Japanese": "続く",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2131,
     "Lvl": 5,
-    "Text": "Continue",
-    "Japanese": "続く",
+    "Text": "Contrast",
+    "Japanese": "対比",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2132,
     "Lvl": 5,
-    "Text": "Contrast",
-    "Japanese": "対比",
+    "Text": "Creative",
+    "Japanese": "クリエイティブ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2133,
     "Lvl": 5,
-    "Text": "Creative",
-    "Japanese": "クリエイティブ",
+    "Text": "Critical",
+    "Japanese": "致命的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2134,
     "Lvl": 5,
-    "Text": "Critical",
-    "Japanese": "致命的",
+    "Text": "Cultural",
+    "Japanese": "文化",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2135,
     "Lvl": 5,
-    "Text": "Cultural",
-    "Japanese": "文化",
+    "Text": "Customer",
+    "Japanese": "お客様",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2136,
     "Lvl": 5,
-    "Text": "Customer",
-    "Japanese": "お客様",
+    "Text": "Database",
+    "Japanese": "データベース",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2137,
     "Lvl": 5,
-    "Text": "Database",
-    "Japanese": "データベース",
+    "Text": "Daughter",
+    "Japanese": "娘",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2138,
     "Lvl": 5,
-    "Text": "Daughter",
-    "Japanese": "娘",
+    "Text": "Deadline",
+    "Japanese": "締め切り",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2139,
     "Lvl": 5,
-    "Text": "Deadline",
-    "Japanese": "締め切り",
+    "Text": "Deciding",
+    "Japanese": "決定する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2140,
     "Lvl": 5,
-    "Text": "Deciding",
-    "Japanese": "決定する",
+    "Text": "Decision",
+    "Japanese": "決断",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2141,
     "Lvl": 5,
-    "Text": "Decision",
-    "Japanese": "決断",
+    "Text": "Declared",
+    "Japanese": "宣言された",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2142,
     "Lvl": 5,
-    "Text": "Declared",
-    "Japanese": "宣言された",
+    "Text": "Decorate",
+    "Japanese": "飾る",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2143,
     "Lvl": 5,
-    "Text": "Decorate",
-    "Japanese": "飾る",
+    "Text": "Decrease",
+    "Japanese": "減少",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2144,
     "Lvl": 5,
-    "Text": "Decrease",
-    "Japanese": "減少",
+    "Text": "Deferred",
+    "Japanese": "延期",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2145,
     "Lvl": 5,
-    "Text": "Deferred",
-    "Japanese": "延期",
+    "Text": "Definite",
+    "Japanese": "確定",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2146,
     "Lvl": 5,
-    "Text": "Definite",
-    "Japanese": "確定",
+    "Text": "Delicate",
+    "Japanese": "繊細",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2147,
     "Lvl": 5,
-    "Text": "Delicate",
-    "Japanese": "繊細",
+    "Text": "Delivery",
+    "Japanese": "配達",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2148,
     "Lvl": 5,
-    "Text": "Delivery",
-    "Japanese": "配達",
+    "Text": "Democrat",
+    "Japanese": "民主党",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2149,
     "Lvl": 5,
-    "Text": "Democrat",
-    "Japanese": "民主党",
+    "Text": "Describe",
+    "Japanese": "説明する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2150,
     "Lvl": 5,
-    "Text": "Describe",
-    "Japanese": "説明する",
+    "Text": "Designer",
+    "Japanese": "デザイナー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2151,
     "Lvl": 5,
-    "Text": "Designer",
-    "Japanese": "デザイナー",
+    "Text": "Detailed",
+    "Japanese": "詳細",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2152,
     "Lvl": 5,
-    "Text": "Detailed",
-    "Japanese": "詳細",
+    "Text": "Detected",
+    "Japanese": "検出されました",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2153,
     "Lvl": 5,
-    "Text": "Detected",
-    "Japanese": "検出されました",
+    "Text": "Dialogue",
+    "Japanese": "対話",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2154,
     "Lvl": 5,
-    "Text": "Dialogue",
-    "Japanese": "対話",
+    "Text": "Diameter",
+    "Japanese": "直径",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2155,
     "Lvl": 5,
-    "Text": "Diameter",
-    "Japanese": "直径",
+    "Text": "Directly",
+    "Japanese": "直接",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2156,
     "Lvl": 5,
-    "Text": "Directly",
-    "Japanese": "直接",
+    "Text": "Director",
+    "Japanese": "監督",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2157,
     "Lvl": 5,
-    "Text": "Director",
-    "Japanese": "監督",
+    "Text": "Disabled",
+    "Japanese": "無効",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2158,
     "Lvl": 5,
-    "Text": "Disabled",
-    "Japanese": "無効",
+    "Text": "Disagree",
+    "Japanese": "反対",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2159,
     "Lvl": 5,
-    "Text": "Disagree",
-    "Japanese": "反対",
+    "Text": "Disaster",
+    "Japanese": "災害",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2160,
     "Lvl": 5,
-    "Text": "Disaster",
-    "Japanese": "災害",
+    "Text": "Discover",
+    "Japanese": "発見する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2161,
     "Lvl": 5,
-    "Text": "Discover",
-    "Japanese": "発見する",
+    "Text": "Distance",
+    "Japanese": "距離",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2162,
     "Lvl": 5,
-    "Text": "Distance",
-    "Japanese": "距離",
+    "Text": "Distinct",
+    "Japanese": "明確な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2163,
     "Lvl": 5,
-    "Text": "Distinct",
-    "Japanese": "明確な",
+    "Text": "District",
+    "Japanese": "地区",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2164,
     "Lvl": 5,
-    "Text": "District",
-    "Japanese": "地区",
+    "Text": "Document",
+    "Japanese": "書類",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2165,
     "Lvl": 5,
-    "Text": "Document",
-    "Japanese": "書類",
+    "Text": "Domestic",
+    "Japanese": "国内",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2166,
     "Lvl": 5,
-    "Text": "Domestic",
-    "Japanese": "国内",
+    "Text": "Dominant",
+    "Japanese": "支配的な",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2167,
     "Lvl": 5,
-    "Text": "Dominant",
-    "Japanese": "支配的な",
+    "Text": "Donation",
+    "Japanese": "寄付",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2168,
     "Lvl": 5,
-    "Text": "Donation",
-    "Japanese": "寄付",
+    "Text": "Download",
+    "Japanese": "ダウンロード",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2169,
     "Lvl": 5,
-    "Text": "Download",
-    "Japanese": "ダウンロード",
+    "Text": "Dramatic",
+    "Japanese": "劇的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2170,
     "Lvl": 5,
-    "Text": "Dramatic",
-    "Japanese": "劇的",
+    "Text": "Duration",
+    "Japanese": "間隔",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2171,
     "Lvl": 5,
-    "Text": "Duration",
-    "Japanese": "間隔",
+    "Text": "Dynamics",
+    "Japanese": "ダイナミクス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2172,
     "Lvl": 5,
-    "Text": "Dynamics",
-    "Japanese": "ダイナミクス",
+    "Text": "Earnings",
+    "Japanese": "収益",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2173,
     "Lvl": 5,
-    "Text": "Earnings",
-    "Japanese": "収益",
+    "Text": "Economic",
+    "Japanese": "経済",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2174,
     "Lvl": 5,
-    "Text": "Economic",
-    "Japanese": "経済",
+    "Text": "Editions",
+    "Japanese": "版",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2175,
     "Lvl": 5,
-    "Text": "Editions",
-    "Japanese": "版",
+    "Text": "Educated",
+    "Japanese": "教育を受けた",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2176,
     "Lvl": 5,
-    "Text": "Educated",
-    "Japanese": "教育を受けた",
+    "Text": "Election",
+    "Japanese": "選挙",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2177,
     "Lvl": 5,
-    "Text": "Election",
-    "Japanese": "選挙",
+    "Text": "Electric",
+    "Japanese": "電気",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2178,
     "Lvl": 5,
-    "Text": "Electric",
-    "Japanese": "電気",
+    "Text": "Elements",
+    "Japanese": "要素",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2179,
     "Lvl": 5,
-    "Text": "Elements",
-    "Japanese": "要素",
+    "Text": "Elephant",
+    "Japanese": "象",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2180,
     "Lvl": 5,
-    "Text": "Elephant",
-    "Japanese": "象",
+    "Text": "Eligible",
+    "Japanese": "適格",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2181,
     "Lvl": 5,
-    "Text": "Eligible",
-    "Japanese": "適格",
+    "Text": "Emphasis",
+    "Japanese": "強調",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2182,
     "Lvl": 5,
-    "Text": "Emphasis",
-    "Japanese": "強調",
+    "Text": "Employee",
+    "Japanese": "従業員",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2183,
     "Lvl": 5,
-    "Text": "Employee",
-    "Japanese": "従業員",
+    "Text": "Enabling",
+    "Japanese": "有効化",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2184,
     "Lvl": 5,
-    "Text": "Enabling",
-    "Japanese": "有効化",
+    "Text": "Engineer",
+    "Japanese": "エンジニア",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2185,
     "Lvl": 5,
-    "Text": "Engineer",
-    "Japanese": "エンジニア",
+    "Text": "Enormous",
+    "Japanese": "巨大な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2186,
     "Lvl": 5,
-    "Text": "Enormous",
-    "Japanese": "巨大な",
+    "Text": "Entirely",
+    "Japanese": "全体的に",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2187,
     "Lvl": 5,
-    "Text": "Entirely",
-    "Japanese": "全体的に",
+    "Text": "Entrance",
+    "Japanese": "入り口",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2188,
     "Lvl": 5,
-    "Text": "Entrance",
-    "Japanese": "入り口",
+    "Text": "Envelope",
+    "Japanese": "封筒",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2189,
     "Lvl": 5,
-    "Text": "Envelope",
-    "Japanese": "封筒",
+    "Text": "Equality",
+    "Japanese": "平等",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2190,
     "Lvl": 5,
-    "Text": "Equality",
-    "Japanese": "平等",
+    "Text": "Equation",
+    "Japanese": "方程式",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2191,
     "Lvl": 5,
-    "Text": "Equation",
-    "Japanese": "方程式",
+    "Text": "Equipped",
+    "Japanese": "装備済み",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2192,
     "Lvl": 5,
-    "Text": "Equipped",
-    "Japanese": "装備済み",
+    "Text": "Estimate",
+    "Japanese": "見積もり",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2193,
     "Lvl": 5,
-    "Text": "Estimate",
-    "Japanese": "見積もり",
+    "Text": "Everyday",
+    "Japanese": "日常",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2194,
     "Lvl": 5,
-    "Text": "Everyday",
-    "Japanese": "日常",
+    "Text": "Evidence",
+    "Japanese": "証拠",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2195,
     "Lvl": 5,
-    "Text": "Evidence",
-    "Japanese": "証拠",
+    "Text": "Exchange",
+    "Japanese": "交換",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2196,
     "Lvl": 5,
-    "Text": "Exchange",
-    "Japanese": "交換",
+    "Text": "Exercise",
+    "Japanese": "エクササイズ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2197,
     "Lvl": 5,
-    "Text": "Exercise",
-    "Japanese": "エクササイズ",
+    "Text": "Existing",
+    "Japanese": "既存",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2198,
     "Lvl": 5,
-    "Text": "Existing",
-    "Japanese": "既存",
+    "Text": "Expanded",
+    "Japanese": "拡張版",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2199,
     "Lvl": 5,
-    "Text": "Expanded",
-    "Japanese": "拡張版",
+    "Text": "Expected",
+    "Japanese": "期待される",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2200,
     "Lvl": 5,
-    "Text": "Expected",
-    "Japanese": "期待される",
+    "Text": "Expenses",
+    "Japanese": "費用",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2201,
     "Lvl": 5,
-    "Text": "Expenses",
-    "Japanese": "費用",
+    "Text": "Explicit",
+    "Japanese": "明示的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2202,
     "Lvl": 5,
-    "Text": "Explicit",
-    "Japanese": "明示的",
+    "Text": "Exposure",
+    "Japanese": "暴露",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2203,
     "Lvl": 5,
-    "Text": "Exposure",
-    "Japanese": "暴露",
+    "Text": "External",
+    "Japanese": "外部の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2204,
     "Lvl": 5,
-    "Text": "External",
-    "Japanese": "外部の",
+    "Text": "Facility",
+    "Japanese": "施設",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2205,
     "Lvl": 5,
-    "Text": "Facility",
-    "Japanese": "施設",
+    "Text": "Factored",
+    "Japanese": "因数分解",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2206,
     "Lvl": 5,
-    "Text": "Factored",
-    "Japanese": "係数化",
+    "Text": "Fairness",
+    "Japanese": "公平性",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2207,
     "Lvl": 5,
-    "Text": "Fairness",
-    "Japanese": "公平性",
+    "Text": "Faithful",
+    "Japanese": "忠実な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2208,
     "Lvl": 5,
-    "Text": "Faithful",
-    "Japanese": "忠実な",
+    "Text": "Familiar",
+    "Japanese": "おなじみ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2209,
     "Lvl": 5,
-    "Text": "Familiar",
-    "Japanese": "おなじみ",
+    "Text": "Families",
+    "Japanese": "家族",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2210,
     "Lvl": 5,
-    "Text": "Families",
-    "Japanese": "家族",
+    "Text": "Favorite",
+    "Japanese": "お気に入り",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2211,
     "Lvl": 5,
-    "Text": "Favorite",
-    "Japanese": "お気に入り",
+    "Text": "Feasible",
+    "Japanese": "実現可能",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2212,
     "Lvl": 5,
-    "Text": "Feasible",
-    "Japanese": "実現可能",
+    "Text": "Featured",
+    "Japanese": "注目の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2213,
     "Lvl": 5,
-    "Text": "Featured",
-    "Japanese": "注目の",
+    "Text": "Feedback",
+    "Japanese": "フィードバック",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2214,
     "Lvl": 5,
-    "Text": "Feedback",
-    "Japanese": "フィードバック",
+    "Text": "Feelings",
+    "Japanese": "感情",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2215,
     "Lvl": 5,
-    "Text": "Feelings",
-    "Japanese": "感情",
+    "Text": "Festival",
+    "Japanese": "フェスティバル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2216,
     "Lvl": 5,
-    "Text": "Festival",
-    "Japanese": "フェスティバル",
+    "Text": "Fighting",
+    "Japanese": "ファインティング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2217,
     "Lvl": 5,
-    "Text": "Fighting",
-    "Japanese": "ファインティング",
+    "Text": "Filipino",
+    "Japanese": "フィリピン人",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2218,
     "Lvl": 5,
-    "Text": "Filipino",
-    "Japanese": "フィリピン人",
+    "Text": "Finished",
+    "Japanese": "終了した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2219,
     "Lvl": 5,
-    "Text": "Finished",
-    "Japanese": "終了した",
+    "Text": "Firewall",
+    "Japanese": "ファイアウォール",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2220,
     "Lvl": 5,
-    "Text": "Firewall",
-    "Japanese": "ファイアウォール",
+    "Text": "Floating",
+    "Japanese": "フローティング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2221,
     "Lvl": 5,
-    "Text": "Floating",
-    "Japanese": "フローティング",
+    "Text": "Focusing",
+    "Japanese": "集中する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2222,
     "Lvl": 5,
-    "Text": "Focusing",
-    "Japanese": "集中する",
+    "Text": "Football",
+    "Japanese": "フットボール",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2223,
     "Lvl": 5,
-    "Text": "Football",
-    "Japanese": "フットボール",
+    "Text": "Forecast",
+    "Japanese": "予報",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2224,
     "Lvl": 5,
-    "Text": "Forecast",
-    "Japanese": "予報",
+    "Text": "Forehead",
+    "Japanese": "額",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2225,
     "Lvl": 5,
-    "Text": "Forehead",
-    "Japanese": "額",
+    "Text": "Forestry",
+    "Japanese": "林業",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2226,
     "Lvl": 5,
-    "Text": "Forestry",
-    "Japanese": "林業",
+    "Text": "Frontend",
+    "Japanese": "フロントエンド",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2227,
     "Lvl": 5,
-    "Text": "Frontend",
-    "Japanese": "フロントエンド",
+    "Text": "Function",
+    "Japanese": "関数",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2228,
     "Lvl": 5,
-    "Text": "Function",
-    "Japanese": "関数",
+    "Text": "Gambling",
+    "Japanese": "ギャンブル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2229,
     "Lvl": 5,
-    "Text": "Gambling",
-    "Japanese": "ギャンブル",
+    "Text": "Gathered",
+    "Japanese": "集まった",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2230,
     "Lvl": 5,
-    "Text": "Gathered",
-    "Japanese": "集まった",
+    "Text": "Generate",
+    "Japanese": "生成する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2231,
     "Lvl": 5,
-    "Text": "Generate",
-    "Japanese": "生成する",
+    "Text": "Generous",
+    "Japanese": "寛大",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2232,
     "Lvl": 5,
-    "Text": "Generous",
-    "Japanese": "寛大",
+    "Text": "Genetics",
+    "Japanese": "遺伝学",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2233,
     "Lvl": 5,
-    "Text": "Genetics",
-    "Japanese": "遺伝学",
+    "Text": "Geometry",
+    "Japanese": "幾何学",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2234,
     "Lvl": 5,
-    "Text": "Geometry",
-    "Japanese": "幾何学",
+    "Text": "Gestures",
+    "Japanese": "ジェスチャー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2235,
     "Lvl": 5,
-    "Text": "Gestures",
-    "Japanese": "ジェスチャー",
+    "Text": "Glossary",
+    "Japanese": "用語集",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2236,
     "Lvl": 5,
-    "Text": "Glossary",
-    "Japanese": "用語集",
+    "Text": "Goodwill",
+    "Japanese": "グッドウィル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2237,
     "Lvl": 5,
-    "Text": "Goodwill",
-    "Japanese": "グッドウィル",
+    "Text": "Gradient",
+    "Japanese": "勾配",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2238,
     "Lvl": 5,
-    "Text": "Gradient",
-    "Japanese": "勾配",
+    "Text": "Graduate",
+    "Japanese": "卒業",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2239,
     "Lvl": 5,
-    "Text": "Graduate",
-    "Japanese": "卒業",
+    "Text": "Graphics",
+    "Japanese": "グラフィック",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2240,
     "Lvl": 5,
-    "Text": "Graphics",
-    "Japanese": "グラフィック",
+    "Text": "Grateful",
+    "Japanese": "ありがたい",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2241,
     "Lvl": 5,
-    "Text": "Grateful",
-    "Japanese": "ありがたい",
+    "Text": "Greeting",
+    "Japanese": "挨拶",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2242,
     "Lvl": 5,
-    "Text": "Greeting",
-    "Japanese": "挨拶",
+    "Text": "Gridiron",
+    "Japanese": "グリッドアイアン",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2243,
     "Lvl": 5,
-    "Text": "Gridiron",
-    "Japanese": "グリッドアイアン",
+    "Text": "Grouping",
+    "Japanese": "グループ分け",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2244,
     "Lvl": 5,
-    "Text": "Grouping",
-    "Japanese": "グループ分け",
+    "Text": "Guidance",
+    "Japanese": "ガイダンス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2245,
     "Lvl": 5,
-    "Text": "Guidance",
-    "Japanese": "ガイダンス",
+    "Text": "Habitual",
+    "Japanese": "習慣的な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2246,
     "Lvl": 5,
-    "Text": "Habitual",
-    "Japanese": "習慣的な",
+    "Text": "Handheld",
+    "Japanese": "手持ち",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2247,
     "Lvl": 5,
-    "Text": "Handheld",
-    "Japanese": "手持ち",
+    "Text": "Handling",
+    "Japanese": "取り扱い",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2248,
     "Lvl": 5,
-    "Text": "Handling",
-    "Japanese": "取り扱い",
+    "Text": "Handsome",
+    "Japanese": "ハンサム",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2249,
     "Lvl": 5,
-    "Text": "Handsome",
-    "Japanese": "ハンサム",
+    "Text": "Hardware",
+    "Japanese": "ハードウェア",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2250,
     "Lvl": 5,
-    "Text": "Hardware",
-    "Japanese": "ハードウェア",
+    "Text": "Headache",
+    "Japanese": "頭痛",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2251,
     "Lvl": 5,
-    "Text": "Headache",
-    "Japanese": "頭痛",
+    "Text": "Headline",
+    "Japanese": "見出し",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2252,
     "Lvl": 5,
-    "Text": "Headline",
-    "Japanese": "見出し",
+    "Text": "Heritage",
+    "Japanese": "遺産",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2253,
     "Lvl": 5,
-    "Text": "Heritage",
-    "Japanese": "遺産",
+    "Text": "Hivemind",
+    "Japanese": "集合意識",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2254,
     "Lvl": 5,
-    "Text": "Hivemind",
-    "Japanese": "集合意識",
+    "Text": "Historic",
+    "Japanese": "歴史的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2255,
     "Lvl": 5,
-    "Text": "Historic",
-    "Japanese": "歴史的",
+    "Text": "Holidays",
+    "Japanese": "休日",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2256,
     "Lvl": 5,
-    "Text": "Holidays",
-    "Japanese": "休日",
+    "Text": "Homeless",
+    "Japanese": "ホームレス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2257,
     "Lvl": 5,
-    "Text": "Homeless",
-    "Japanese": "ホームレス",
+    "Text": "Homework",
+    "Japanese": "宿題",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2258,
     "Lvl": 5,
-    "Text": "Homework",
-    "Japanese": "宿題",
+    "Text": "Honestly",
+    "Japanese": "正直に",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2259,
     "Lvl": 5,
-    "Text": "Honestly",
-    "Japanese": "正直に",
+    "Text": "Hospital",
+    "Japanese": "病院",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2260,
     "Lvl": 5,
-    "Text": "Hospital",
-    "Japanese": "病院",
+    "Text": "Humanity",
+    "Japanese": "人類",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2261,
     "Lvl": 5,
-    "Text": "Humanity",
-    "Japanese": "人類",
+    "Text": "Identify",
+    "Japanese": "識別する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2262,
     "Lvl": 5,
-    "Text": "Identify",
-    "Japanese": "識別する",
+    "Text": "Ideology",
+    "Japanese": "イデオロギー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2263,
     "Lvl": 5,
-    "Text": "Ideology",
-    "Japanese": "イデオロギー",
+    "Text": "Ignorant",
+    "Japanese": "無知",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2264,
     "Lvl": 5,
-    "Text": "Ignorant",
-    "Japanese": "無知",
+    "Text": "Illusion",
+    "Japanese": "錯覚",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2265,
     "Lvl": 5,
-    "Text": "Illusion",
-    "Japanese": "錯覚",
+    "Text": "Immature",
+    "Japanese": "未熟",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2266,
     "Lvl": 5,
-    "Text": "Immature",
-    "Japanese": "未熟",
+    "Text": "Imminent",
+    "Japanese": "差し迫った",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2267,
     "Lvl": 5,
-    "Text": "Imminent",
-    "Japanese": "差し迫った",
+    "Text": "Immortal",
+    "Japanese": "不死身",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2268,
     "Lvl": 5,
-    "Text": "Immortal",
-    "Japanese": "不死身",
+    "Text": "Implicit",
+    "Japanese": "暗黙",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2269,
     "Lvl": 5,
-    "Text": "Implicit",
-    "Japanese": "暗黙",
+    "Text": "Impostor",
+    "Japanese": "偽者",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2270,
     "Lvl": 5,
-    "Text": "Impostor",
-    "Japanese": "偽者",
+    "Text": "Increase",
+    "Japanese": "増加",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2271,
     "Lvl": 5,
-    "Text": "Increase",
-    "Japanese": "増加",
+    "Text": "Indicate",
+    "Japanese": "示す",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2272,
     "Lvl": 5,
-    "Text": "Indicate",
-    "Japanese": "示す",
+    "Text": "Indirect",
+    "Japanese": "間接的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2273,
     "Lvl": 5,
-    "Text": "Indirect",
-    "Japanese": "間接的",
+    "Text": "Industry",
+    "Japanese": "業界",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2274,
     "Lvl": 5,
-    "Text": "Industry",
-    "Japanese": "業界",
+    "Text": "Infinity",
+    "Japanese": "無限",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2275,
     "Lvl": 5,
-    "Text": "Infinity",
-    "Japanese": "無限",
+    "Text": "Inherent",
+    "Japanese": "固有の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2276,
     "Lvl": 5,
-    "Text": "Inherent",
-    "Japanese": "固有の",
+    "Text": "Initials",
+    "Japanese": "イニシャル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2277,
     "Lvl": 5,
-    "Text": "Initials",
-    "Japanese": "イニシャル",
+    "Text": "Innocent",
+    "Japanese": "無実の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2278,
     "Lvl": 5,
-    "Text": "Innocent",
-    "Japanese": "無実の",
+    "Text": "Inquired",
+    "Japanese": "問い合わせた",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2279,
     "Lvl": 5,
-    "Text": "Inquired",
-    "Japanese": "問い合わせた",
+    "Text": "Inscribe",
+    "Japanese": "登録する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2280,
     "Lvl": 5,
-    "Text": "Inscribe",
-    "Japanese": "登録する",
+    "Text": "Instance",
+    "Japanese": "実例",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2281,
     "Lvl": 5,
-    "Text": "Instance",
-    "Japanese": "実例",
+    "Text": "Instinct",
+    "Japanese": "本能",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2282,
     "Lvl": 5,
-    "Text": "Instinct",
-    "Japanese": "本能",
+    "Text": "Instruct",
+    "Japanese": "指示する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2283,
     "Lvl": 5,
-    "Text": "Instruct",
-    "Japanese": "指示する",
+    "Text": "Insulate",
+    "Japanese": "断熱する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2284,
     "Lvl": 5,
-    "Text": "Insulate",
-    "Japanese": "断熱する",
+    "Text": "Interact",
+    "Japanese": "交流する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2285,
     "Lvl": 5,
-    "Text": "Interact",
-    "Japanese": "交流する",
+    "Text": "Interest",
+    "Japanese": "興味",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2286,
     "Lvl": 5,
-    "Text": "Interest",
-    "Japanese": "興味",
+    "Text": "Interior",
+    "Japanese": "インテリア",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2287,
     "Lvl": 5,
-    "Text": "Interior",
-    "Japanese": "インテリア",
+    "Text": "Internal",
+    "Japanese": "内部",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2288,
     "Lvl": 5,
-    "Text": "Internal",
-    "Japanese": "内部",
+    "Text": "Interval",
+    "Japanese": "間隔",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2289,
     "Lvl": 5,
-    "Text": "Interval",
-    "Japanese": "間隔",
+    "Text": "Invasion",
+    "Japanese": "侵入",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2290,
     "Lvl": 5,
-    "Text": "Invasion",
-    "Japanese": "侵入",
+    "Text": "Inventor",
+    "Japanese": "発明家",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2291,
     "Lvl": 5,
-    "Text": "Inventor",
-    "Japanese": "発明家",
+    "Text": "Invested",
+    "Japanese": "投資した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2292,
     "Lvl": 5,
-    "Text": "Invested",
-    "Japanese": "投資した",
+    "Text": "Involved",
+    "Japanese": "関与した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2293,
     "Lvl": 5,
-    "Text": "Involved",
-    "Japanese": "関与した",
+    "Text": "Isolated",
+    "Japanese": "孤立した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2294,
     "Lvl": 5,
-    "Text": "Isolated",
-    "Japanese": "孤立した",
+    "Text": "Japanese",
+    "Japanese": "日本語",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2295,
     "Lvl": 5,
-    "Text": "Japanese",
-    "Japanese": "日本語",
+    "Text": "Jealousy",
+    "Japanese": "嫉妬",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2296,
     "Lvl": 5,
-    "Text": "Jealousy",
-    "Japanese": "嫉妬",
+    "Text": "Journeys",
+    "Japanese": "旅",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2297,
     "Lvl": 5,
-    "Text": "Journeys",
-    "Japanese": "旅",
+    "Text": "Judgment",
+    "Japanese": "判定",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2298,
     "Lvl": 5,
-    "Text": "Judgment",
-    "Japanese": "判定",
+    "Text": "Judicial",
+    "Japanese": "ジュディ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2299,
     "Lvl": 5,
-    "Text": "Judicial",
-    "Japanese": "ジュディ",
+    "Text": "Junction",
+    "Japanese": "ジャンクション",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2300,
     "Lvl": 5,
-    "Text": "Junction",
-    "Japanese": "ジャンクション",
+    "Text": "Keyboard",
+    "Japanese": "キーボード",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2301,
     "Lvl": 5,
-    "Text": "Keyboard",
-    "Japanese": "キーボード",
+    "Text": "Keywords",
+    "Japanese": "キーワード",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2302,
     "Lvl": 5,
-    "Text": "Keywords",
-    "Japanese": "キーワード",
+    "Text": "Kindness",
+    "Japanese": "親切",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2303,
     "Lvl": 5,
-    "Text": "Kindness",
-    "Japanese": "親切",
+    "Text": "Knitting",
+    "Japanese": "編み物",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2304,
     "Lvl": 5,
-    "Text": "Knitting",
-    "Japanese": "編み物",
+    "Text": "Language",
+    "Japanese": "言語",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2305,
     "Lvl": 5,
-    "Text": "Language",
-    "Japanese": "言語",
+    "Text": "Laughter",
+    "Japanese": "笑い",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2306,
     "Lvl": 5,
-    "Text": "Laughter",
-    "Japanese": "笑い",
+    "Text": "Learning",
+    "Japanese": "学ぶ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2307,
     "Lvl": 5,
-    "Text": "Learning",
-    "Japanese": "学ぶ",
+    "Text": "Lectures",
+    "Japanese": "講義",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2308,
     "Lvl": 5,
-    "Text": "Lectures",
-    "Japanese": "講義",
+    "Text": "Lifetime",
+    "Japanese": "一生",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2309,
     "Lvl": 5,
-    "Text": "Lifetime",
-    "Japanese": "一生",
+    "Text": "Lighting",
+    "Japanese": "点灯",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2310,
     "Lvl": 5,
-    "Text": "Lighting",
-    "Japanese": "点灯",
+    "Text": "Literary",
+    "Japanese": "文学",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2311,
     "Lvl": 5,
-    "Text": "Literary",
-    "Japanese": "文学",
+    "Text": "Location",
+    "Japanese": "位置",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2312,
     "Lvl": 5,
-    "Text": "Location",
-    "Japanese": "位置",
+    "Text": "Magnetic",
+    "Japanese": "磁気",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2313,
     "Lvl": 5,
-    "Text": "Magnetic",
-    "Japanese": "磁気",
+    "Text": "Maintain",
+    "Japanese": "維持する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2314,
     "Lvl": 5,
-    "Text": "Maintain",
-    "Japanese": "維持する",
+    "Text": "Majority",
+    "Japanese": "過半数",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2315,
     "Lvl": 5,
-    "Text": "Majority",
-    "Japanese": "過半数",
+    "Text": "Managing",
+    "Japanese": "管理",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2316,
     "Lvl": 5,
-    "Text": "Managing",
-    "Japanese": "管理",
+    "Text": "Manifest",
+    "Japanese": "マニフェスト",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2317,
     "Lvl": 5,
-    "Text": "Manifest",
-    "Japanese": "マニフェスト",
+    "Text": "Marginal",
+    "Japanese": "限界",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2318,
     "Lvl": 5,
-    "Text": "Marginal",
-    "Japanese": "限界",
+    "Text": "Marriage",
+    "Japanese": "結婚",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2319,
     "Lvl": 5,
-    "Text": "Marriage",
-    "Japanese": "結婚",
+    "Text": "Material",
+    "Japanese": "材料",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2320,
     "Lvl": 5,
-    "Text": "Material",
-    "Japanese": "材料",
+    "Text": "Maximize",
+    "Japanese": "最大化する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2321,
     "Lvl": 5,
-    "Text": "Maximize",
-    "Japanese": "最大化する",
+    "Text": "Measured",
+    "Japanese": "測定済み",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2322,
     "Lvl": 5,
-    "Text": "Measured",
-    "Japanese": "測定済み",
+    "Text": "Medicine",
+    "Japanese": "薬",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2323,
     "Lvl": 5,
-    "Text": "Medicine",
-    "Japanese": "薬",
+    "Text": "Meetings",
+    "Japanese": "会議",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2324,
     "Lvl": 5,
-    "Text": "Meetings",
-    "Japanese": "会議",
+    "Text": "Memories",
+    "Japanese": "思い出",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2325,
     "Lvl": 5,
-    "Text": "Memories",
-    "Japanese": "思い出",
+    "Text": "Mentions",
+    "Japanese": "言及",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2326,
     "Lvl": 5,
-    "Text": "Mentions",
-    "Japanese": "言及",
+    "Text": "Messages",
+    "Japanese": "メッセージ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2327,
     "Lvl": 5,
-    "Text": "Messages",
-    "Japanese": "メッセージ",
+    "Text": "Military",
+    "Japanese": "軍隊",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2328,
     "Lvl": 5,
-    "Text": "Military",
-    "Japanese": "軍隊",
+    "Text": "Minimize",
+    "Japanese": "最小化する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2329,
     "Lvl": 5,
-    "Text": "Minimize",
-    "Japanese": "最小化する",
+    "Text": "Minority",
+    "Japanese": "少数",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2330,
     "Lvl": 5,
-    "Text": "Minority",
-    "Japanese": "少数",
+    "Text": "Mobility",
+    "Japanese": "モビリティ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2331,
     "Lvl": 5,
-    "Text": "Mobility",
-    "Japanese": "モビリティ",
+    "Text": "Modeling",
+    "Japanese": "モデリング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2332,
     "Lvl": 5,
-    "Text": "Modeling",
-    "Japanese": "モデリング",
+    "Text": "Moderate",
+    "Japanese": "適度",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2333,
     "Lvl": 5,
-    "Text": "Moderate",
-    "Japanese": "適度",
+    "Text": "Momentum",
+    "Japanese": "モメンタム",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2334,
     "Lvl": 5,
-    "Text": "Momentum",
-    "Japanese": "モメンタム",
+    "Text": "Mountain",
+    "Japanese": "山",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2335,
     "Lvl": 5,
-    "Text": "Mountain",
-    "Japanese": "山",
+    "Text": "Movement",
+    "Japanese": "動き",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2336,
     "Lvl": 5,
-    "Text": "Movement",
-    "Japanese": "動き",
+    "Text": "Multiple",
+    "Japanese": "複数",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2337,
     "Lvl": 5,
-    "Text": "Multiple",
-    "Japanese": "複数",
+    "Text": "Mutation",
+    "Japanese": "突然変異",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2338,
     "Lvl": 5,
-    "Text": "Mutation",
-    "Japanese": "突然変異",
+    "Text": "National",
+    "Japanese": "全国",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2339,
     "Lvl": 5,
-    "Text": "National",
-    "Japanese": "全国",
+    "Text": "Negative",
+    "Japanese": "ネガティブ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2340,
     "Lvl": 5,
-    "Text": "Negative",
-    "Japanese": "ネガティブ",
+    "Text": "Networks",
+    "Japanese": "ネットワーク",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2341,
     "Lvl": 5,
-    "Text": "Networks",
-    "Japanese": "ネットワーク",
+    "Text": "Notebook",
+    "Japanese": "ノート",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2342,
     "Lvl": 5,
-    "Text": "Notebook",
-    "Japanese": "ノート",
+    "Text": "Numerous",
+    "Japanese": "多数の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2343,
     "Lvl": 5,
-    "Text": "Numerous",
-    "Japanese": "多数の",
+    "Text": "Obtained",
+    "Japanese": "入手しました",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2344,
     "Lvl": 5,
-    "Text": "Obtained",
-    "Japanese": "入手しました",
+    "Text": "Occupied",
+    "Japanese": "占有中",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2345,
     "Lvl": 5,
-    "Text": "Occupied",
-    "Japanese": "占有中",
+    "Text": "Occurred",
+    "Japanese": "発生した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2346,
     "Lvl": 5,
-    "Text": "Occurred",
-    "Japanese": "発生した",
+    "Text": "Official",
+    "Japanese": "正式",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2347,
     "Lvl": 5,
-    "Text": "Official",
-    "Japanese": "正式",
+    "Text": "Operated",
+    "Japanese": "運営",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2348,
     "Lvl": 5,
-    "Text": "Operated",
-    "Japanese": "運営",
+    "Text": "Opposite",
+    "Japanese": "反対",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2349,
     "Lvl": 5,
-    "Text": "Opposite",
-    "Japanese": "反対",
+    "Text": "Ordinary",
+    "Japanese": "普通",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2350,
     "Lvl": 5,
-    "Text": "Ordinary",
-    "Japanese": "普通",
+    "Text": "Organize",
+    "Japanese": "整理する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2351,
     "Lvl": 5,
-    "Text": "Organize",
-    "Japanese": "整理する",
+    "Text": "Original",
+    "Japanese": "オリジナル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2352,
     "Lvl": 5,
-    "Text": "Original",
-    "Japanese": "オリジナル",
+    "Text": "Outcomes",
+    "Japanese": "結果",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2353,
     "Lvl": 5,
-    "Text": "Outcomes",
-    "Japanese": "結果",
+    "Text": "Parallel",
+    "Japanese": "平行",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2354,
     "Lvl": 5,
-    "Text": "Parallel",
-    "Japanese": "平行",
+    "Text": "Paranoia",
+    "Japanese": "被害妄想",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2355,
     "Lvl": 5,
-    "Text": "Paranoia",
-    "Japanese": "パラノイア",
+    "Text": "Patients",
+    "Japanese": "患者",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2356,
     "Lvl": 5,
-    "Text": "Patients",
-    "Japanese": "患者",
+    "Text": "Parasite",
+    "Japanese": "寄生虫",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2357,
     "Lvl": 5,
-    "Text": "Parasite",
-    "Japanese": "寄生虫",
+    "Text": "Paradise",
+    "Japanese": "パラダイス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2358,
     "Lvl": 5,
-    "Text": "Paradise",
-    "Japanese": "パラダイス",
+    "Text": "Personal",
+    "Japanese": "個人的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2359,
     "Lvl": 5,
-    "Text": "Personal",
-    "Japanese": "個人的",
+    "Text": "Physical",
+    "Japanese": "物理的な",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2360,
     "Lvl": 5,
-    "Text": "Physical",
-    "Japanese": "物理的な",
+    "Text": "Platform",
+    "Japanese": "プラットフォーム",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2361,
     "Lvl": 5,
-    "Text": "Platform",
-    "Japanese": "プラットフォーム",
+    "Text": "Pleasure",
+    "Japanese": "喜び",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2362,
     "Lvl": 5,
-    "Text": "Pleasure",
-    "Japanese": "喜び",
+    "Text": "Policies",
+    "Japanese": "ポリシー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2363,
     "Lvl": 5,
-    "Text": "Policies",
-    "Japanese": "ポリシー",
+    "Text": "Politics",
+    "Japanese": "政治",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2364,
     "Lvl": 5,
-    "Text": "Politics",
-    "Japanese": "政治",
+    "Text": "Portrait",
+    "Japanese": "肖像画",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2365,
     "Lvl": 5,
-    "Text": "Portrait",
-    "Japanese": "肖像画",
+    "Text": "Position",
+    "Japanese": "位置",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2366,
     "Lvl": 5,
-    "Text": "Position",
-    "Japanese": "位置",
+    "Text": "Positive",
+    "Japanese": "ポジティブ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2367,
     "Lvl": 5,
-    "Text": "Positive",
-    "Japanese": "ポジティブ",
+    "Text": "Possible",
+    "Japanese": "可能",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2368,
     "Lvl": 5,
-    "Text": "Possible",
-    "Japanese": "可能",
+    "Text": "Practice",
+    "Japanese": "練習する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2369,
     "Lvl": 5,
-    "Text": "Practice",
-    "Japanese": "練習する",
+    "Text": "Precious",
+    "Japanese": "貴重な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2370,
     "Lvl": 5,
-    "Text": "Precious",
-    "Japanese": "貴重な",
+    "Text": "Presence",
+    "Japanese": "面前",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2371,
     "Lvl": 5,
-    "Text": "Presence",
-    "Japanese": "面前",
+    "Text": "Pressure",
+    "Japanese": "プレッシャー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2372,
     "Lvl": 5,
-    "Text": "Pressure",
-    "Japanese": "プレッシャー",
+    "Text": "Previous",
+    "Japanese": "前の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2373,
     "Lvl": 5,
-    "Text": "Previous",
-    "Japanese": "前の",
+    "Text": "Priority",
+    "Japanese": "優先度",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2374,
     "Lvl": 5,
-    "Text": "Priority",
-    "Japanese": "優先度",
+    "Text": "Probably",
+    "Japanese": "おそらく",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2375,
     "Lvl": 5,
-    "Text": "Probably",
-    "Japanese": "おそらく",
+    "Text": "Produced",
+    "Japanese": "制作",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2376,
     "Lvl": 5,
-    "Text": "Produced",
-    "Japanese": "制作",
+    "Text": "Producer",
+    "Japanese": "プロデューサー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2377,
     "Lvl": 5,
-    "Text": "Producer",
-    "Japanese": "プロデューサー",
+    "Text": "Products",
+    "Japanese": "製品",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2378,
     "Lvl": 5,
-    "Text": "Products",
-    "Japanese": "製品",
+    "Text": "Progress",
+    "Japanese": "進捗",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2379,
     "Lvl": 5,
-    "Text": "Progress",
-    "Japanese": "進捗",
+    "Text": "Property",
+    "Japanese": "財産",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2380,
     "Lvl": 5,
-    "Text": "Property",
-    "Japanese": "財産",
+    "Text": "Proposal",
+    "Japanese": "提案",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2381,
     "Lvl": 5,
-    "Text": "Proposal",
-    "Japanese": "提案",
+    "Text": "Prospect",
+    "Japanese": "見通し",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2382,
     "Lvl": 5,
-    "Text": "Prospect",
-    "Japanese": "見通し",
+    "Text": "Protocol",
+    "Japanese": "プロトコル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2383,
     "Lvl": 5,
-    "Text": "Protocol",
-    "Japanese": "プロトコル",
+    "Text": "Provided",
+    "Japanese": "提供された",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2384,
     "Lvl": 5,
-    "Text": "Provided",
-    "Japanese": "提供された",
+    "Text": "Purchase",
+    "Japanese": "購入",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2385,
     "Lvl": 5,
-    "Text": "Purchase",
-    "Japanese": "購入",
+    "Text": "Quantity",
+    "Japanese": "量",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2386,
     "Lvl": 5,
-    "Text": "Quantity",
-    "Japanese": "量",
+    "Text": "Question",
+    "Japanese": "質問",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2387,
     "Lvl": 5,
-    "Text": "Question",
-    "Japanese": "質問",
+    "Text": "Radiator",
+    "Japanese": "ラジエーター",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2388,
     "Lvl": 5,
-    "Text": "Radiator",
-    "Japanese": "ラジエーター",
+    "Text": "Reaction",
+    "Japanese": "反応",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2389,
     "Lvl": 5,
-    "Text": "Reaction",
-    "Japanese": "反応",
+    "Text": "Readings",
+    "Japanese": "読書",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2390,
     "Lvl": 5,
-    "Text": "Readings",
-    "Japanese": "読書",
+    "Text": "Received",
+    "Japanese": "受け取った",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2391,
     "Lvl": 5,
-    "Text": "Received",
-    "Japanese": "受け取った",
+    "Text": "Recovery",
+    "Japanese": "回復",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2392,
     "Lvl": 5,
-    "Text": "Recovery",
-    "Japanese": "回復",
+    "Text": "Regional",
+    "Japanese": "地域",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2393,
     "Lvl": 5,
-    "Text": "Regional",
-    "Japanese": "地域",
+    "Text": "Register",
+    "Japanese": "登録する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2394,
     "Lvl": 5,
-    "Text": "Register",
-    "Japanese": "登録する",
+    "Text": "Relative",
+    "Japanese": "相対的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2395,
     "Lvl": 5,
-    "Text": "Relative",
-    "Japanese": "相対的",
+    "Text": "Relevant",
+    "Japanese": "関連する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2396,
     "Lvl": 5,
-    "Text": "Relevant",
-    "Japanese": "関連する",
+    "Text": "Reliable",
+    "Japanese": "信頼性のある",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2397,
     "Lvl": 5,
-    "Text": "Reliable",
-    "Japanese": "信頼性のある",
+    "Text": "Religion",
+    "Japanese": "宗教",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2398,
     "Lvl": 5,
-    "Text": "Religion",
-    "Japanese": "宗教",
+    "Text": "Remember",
+    "Japanese": "覚えて",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2399,
     "Lvl": 5,
-    "Text": "Remember",
-    "Japanese": "覚えて",
+    "Text": "Reporter",
+    "Japanese": "記者",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2400,
     "Lvl": 5,
-    "Text": "Reporter",
-    "Japanese": "記者",
+    "Text": "Required",
+    "Japanese": "必須",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2401,
     "Lvl": 5,
-    "Text": "Required",
-    "Japanese": "必須",
+    "Text": "Research",
+    "Japanese": "研究",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2402,
     "Lvl": 5,
-    "Text": "Research",
-    "Japanese": "研究",
+    "Text": "Resident",
+    "Japanese": "居住者",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2403,
     "Lvl": 5,
-    "Text": "Resident",
-    "Japanese": "居住者",
+    "Text": "Resource",
+    "Japanese": "リソース",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2404,
     "Lvl": 5,
-    "Text": "Resource",
-    "Japanese": "リソース",
+    "Text": "Response",
+    "Japanese": "応答",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2405,
     "Lvl": 5,
-    "Text": "Response",
-    "Japanese": "応答",
+    "Text": "Revision",
+    "Japanese": "リビジョン",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2406,
     "Lvl": 5,
-    "Text": "Revision",
-    "Japanese": "リビジョン",
+    "Text": "Romantic",
+    "Japanese": "ロマンチック",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2407,
     "Lvl": 5,
-    "Text": "Romantic",
-    "Japanese": "ロマンチック",
+    "Text": "Saboteur",
+    "Japanese": "破壊工作員",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2408,
     "Lvl": 5,
-    "Text": "Saboteur",
-    "Japanese": "破壊工作員",
+    "Text": "Sampling",
+    "Japanese": "サンプリング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2409,
     "Lvl": 5,
-    "Text": "Sampling",
-    "Japanese": "サンプリング",
+    "Text": "Scarcely",
+    "Japanese": "ほとんど",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2410,
     "Lvl": 5,
-    "Text": "Scarcely",
-    "Japanese": "ほとんど",
+    "Text": "Scenario",
+    "Japanese": "シナリオ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2411,
     "Lvl": 5,
-    "Text": "Scenario",
-    "Japanese": "シナリオ",
+    "Text": "Schedule",
+    "Japanese": "スケジュール",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2412,
     "Lvl": 5,
-    "Text": "Schedule",
-    "Japanese": "スケジュール",
+    "Text": "Scotland",
+    "Japanese": "スコットランド",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2413,
     "Lvl": 5,
-    "Text": "Scotland",
-    "Japanese": "スコットランド",
+    "Text": "Security",
+    "Japanese": "安全",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2414,
     "Lvl": 5,
-    "Text": "Security",
-    "Japanese": "安全",
+    "Text": "Selected",
+    "Japanese": "選ばれた",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2415,
     "Lvl": 5,
-    "Text": "Selected",
-    "Japanese": "選ばれた",
+    "Text": "Sentence",
+    "Japanese": "文",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2416,
     "Lvl": 5,
-    "Text": "Sentence",
-    "Japanese": "文",
+    "Text": "Separate",
+    "Japanese": "別",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2417,
     "Lvl": 5,
-    "Text": "Separate",
-    "Japanese": "別",
+    "Text": "Sequence",
+    "Japanese": "順序",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2418,
     "Lvl": 5,
-    "Text": "Sequence",
-    "Japanese": "順序",
+    "Text": "Services",
+    "Japanese": "サービス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2419,
     "Lvl": 5,
-    "Text": "Services",
-    "Japanese": "サービス",
+    "Text": "Settings",
+    "Japanese": "設定",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2420,
     "Lvl": 5,
-    "Text": "Settings",
-    "Japanese": "設定",
+    "Text": "Shipment",
+    "Japanese": "出荷",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2421,
     "Lvl": 5,
-    "Text": "Shipment",
-    "Japanese": "出荷",
+    "Text": "Shortage",
+    "Japanese": "不足",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2422,
     "Lvl": 5,
-    "Text": "Shortage",
-    "Japanese": "不足",
+    "Text": "Shoulder",
+    "Japanese": "ショルダー",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2423,
     "Lvl": 5,
-    "Text": "Shoulder",
-    "Japanese": "ショルダー",
+    "Text": "Signaled",
+    "Japanese": "合図",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2424,
     "Lvl": 5,
-    "Text": "Signaled",
-    "Japanese": "合図",
+    "Text": "Software",
+    "Japanese": "ソフトウェア",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2425,
     "Lvl": 5,
-    "Text": "Software",
-    "Japanese": "ソフトウェア",
+    "Text": "Solution",
+    "Japanese": "解決",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2426,
     "Lvl": 5,
-    "Text": "Solution",
-    "Japanese": "解決",
+    "Text": "Somewhat",
+    "Japanese": "幾分",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2427,
     "Lvl": 5,
-    "Text": "Somewhat",
-    "Japanese": "幾分",
+    "Text": "Southern",
+    "Japanese": "南部",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2428,
     "Lvl": 5,
-    "Text": "Southern",
-    "Japanese": "南部",
+    "Text": "Specific",
+    "Japanese": "特定の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2429,
     "Lvl": 5,
-    "Text": "Specific",
-    "Japanese": "特定の",
+    "Text": "Spectrum",
+    "Japanese": "スペクトラム",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2430,
     "Lvl": 5,
-    "Text": "Spectrum",
-    "Japanese": "スペクトラム",
+    "Text": "Standard",
+    "Japanese": "標準",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2431,
     "Lvl": 5,
-    "Text": "Standard",
-    "Japanese": "標準",
+    "Text": "Standing",
+    "Japanese": "立っている",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2432,
     "Lvl": 5,
-    "Text": "Standing",
-    "Japanese": "立っている",
+    "Text": "Starting",
+    "Japanese": "起動",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2433,
     "Lvl": 5,
-    "Text": "Starting",
-    "Japanese": "起動",
+    "Text": "Stations",
+    "Japanese": "駅",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2434,
     "Lvl": 5,
-    "Text": "Stations",
-    "Japanese": "駅",
+    "Text": "Strategy",
+    "Japanese": "戦略",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2435,
     "Lvl": 5,
-    "Text": "Strategy",
-    "Japanese": "戦略",
+    "Text": "Strength",
+    "Japanese": "強さ",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2436,
     "Lvl": 5,
-    "Text": "Strength",
-    "Japanese": "強さ",
+    "Text": "Striking",
+    "Japanese": "印象的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2437,
     "Lvl": 5,
-    "Text": "Striking",
-    "Japanese": "印象的",
+    "Text": "Strongly",
+    "Japanese": "強く",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2438,
     "Lvl": 5,
-    "Text": "Strongly",
-    "Japanese": "強く",
+    "Text": "Struggle",
+    "Japanese": "闘争",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2439,
     "Lvl": 5,
-    "Text": "Struggle",
-    "Japanese": "闘争",
+    "Text": "Students",
+    "Japanese": "学生",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2440,
     "Lvl": 5,
-    "Text": "Students",
-    "Japanese": "学生",
+    "Text": "Studying",
+    "Japanese": "勉強する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2441,
     "Lvl": 5,
-    "Text": "Studying",
-    "Japanese": "勉強する",
+    "Text": "Subjects",
+    "Japanese": "対象者",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2442,
     "Lvl": 5,
-    "Text": "Subjects",
-    "Japanese": "対象者",
+    "Text": "Succeeds",
+    "Japanese": "成功する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2443,
     "Lvl": 5,
-    "Text": "Succeeds",
-    "Japanese": "成功する",
+    "Text": "Suitable",
+    "Japanese": "適切な",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2444,
     "Lvl": 5,
-    "Text": "Suitable",
-    "Japanese": "適切な",
+    "Text": "Superior",
+    "Japanese": "優れた",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2445,
     "Lvl": 5,
-    "Text": "Superior",
-    "Japanese": "優れた",
+    "Text": "Supplied",
+    "Japanese": "供給済み",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2446,
     "Lvl": 5,
-    "Text": "Supplied",
-    "Japanese": "供給済み",
+    "Text": "Supports",
+    "Japanese": "サポート",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2447,
     "Lvl": 5,
-    "Text": "Supports",
-    "Japanese": "サポート",
+    "Text": "Supposed",
+    "Japanese": "想定",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2448,
     "Lvl": 5,
-    "Text": "Supposed",
-    "Japanese": "想定",
+    "Text": "Surprise",
+    "Japanese": "驚き",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2449,
     "Lvl": 5,
-    "Text": "Surprise",
-    "Japanese": "驚き",
+    "Text": "Survival",
+    "Japanese": "サバイバル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2450,
     "Lvl": 5,
-    "Text": "Survival",
-    "Japanese": "サバイバル",
+    "Text": "Swimming",
+    "Japanese": "水泳",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2451,
     "Lvl": 5,
-    "Text": "Swimming",
-    "Japanese": "水泳",
+    "Text": "Syllabus",
+    "Japanese": "シラバス",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2452,
     "Lvl": 5,
-    "Text": "Syllabus",
-    "Japanese": "シラバス",
+    "Text": "Symptoms",
+    "Japanese": "症状",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2453,
     "Lvl": 5,
-    "Text": "Symptoms",
-    "Japanese": "症状",
+    "Text": "Tactical",
+    "Japanese": "戦術的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2454,
     "Lvl": 5,
-    "Text": "Tactical",
-    "Japanese": "戦術的",
+    "Text": "Talented",
+    "Japanese": "才能のある",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2455,
     "Lvl": 5,
-    "Text": "Talented",
-    "Japanese": "才能のある",
+    "Text": "Taxation",
+    "Japanese": "課税",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2456,
     "Lvl": 5,
-    "Text": "Taxation",
-    "Japanese": "課税",
+    "Text": "Teaching",
+    "Japanese": "教育",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2457,
     "Lvl": 5,
-    "Text": "Teaching",
-    "Japanese": "教育",
+    "Text": "Telegram",
+    "Japanese": "電報",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2458,
     "Lvl": 5,
-    "Text": "Telegram",
-    "Japanese": "電報",
+    "Text": "Template",
+    "Japanese": "テンプレート",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2459,
     "Lvl": 5,
-    "Text": "Template",
-    "Japanese": "テンプレート",
+    "Text": "Temporal",
+    "Japanese": "時間的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2460,
     "Lvl": 5,
-    "Text": "Temporal",
-    "Japanese": "時間的",
+    "Text": "Terminal",
+    "Japanese": "ターミナル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2461,
     "Lvl": 5,
-    "Text": "Terminal",
-    "Japanese": "ターミナル",
+    "Text": "Terrible",
+    "Japanese": "ひどい",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2462,
     "Lvl": 5,
-    "Text": "Terrible",
-    "Japanese": "ひどい",
+    "Text": "Thinking",
+    "Japanese": "考え",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2463,
     "Lvl": 5,
-    "Text": "Thinking",
-    "Japanese": "考え",
+    "Text": "Thirteen",
+    "Japanese": "13",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2464,
     "Lvl": 5,
-    "Text": "Thirteen",
-    "Japanese": "13",
+    "Text": "Thorough",
+    "Japanese": "徹底的",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2465,
     "Lvl": 5,
-    "Text": "Thorough",
-    "Japanese": "徹底的",
+    "Text": "Thousand",
+    "Japanese": "千",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2466,
     "Lvl": 5,
-    "Text": "Thousand",
-    "Japanese": "千",
+    "Text": "Together",
+    "Japanese": "一緒に",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2467,
     "Lvl": 5,
-    "Text": "Together",
-    "Japanese": "一緒に",
+    "Text": "Tomorrow",
+    "Japanese": "明日",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2468,
     "Lvl": 5,
-    "Text": "Tomorrow",
-    "Japanese": "明日",
+    "Text": "Tracking",
+    "Japanese": "トラッキング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2469,
     "Lvl": 5,
-    "Text": "Tracking",
-    "Japanese": "トラッキング",
+    "Text": "Training",
+    "Japanese": "トレーニング",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2470,
     "Lvl": 5,
-    "Text": "Training",
-    "Japanese": "トレーニング",
+    "Text": "Transfer",
+    "Japanese": "移行",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2471,
     "Lvl": 5,
-    "Text": "Transfer",
-    "Japanese": "移行",
+    "Text": "Traveled",
+    "Japanese": "旅行した",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2472,
     "Lvl": 5,
-    "Text": "Traveled",
-    "Japanese": "旅行した",
+    "Text": "Treasury",
+    "Japanese": "財務省",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2473,
     "Lvl": 5,
-    "Text": "Treasury",
-    "Japanese": "財務省",
+    "Text": "Triangle",
+    "Japanese": "三角形",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2474,
     "Lvl": 5,
-    "Text": "Triangle",
-    "Japanese": "三角形",
+    "Text": "Tropical",
+    "Japanese": "トロピカル",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2475,
     "Lvl": 5,
-    "Text": "Tropical",
-    "Japanese": "トロピカル",
+    "Text": "Ultimate",
+    "Japanese": "究極の",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2476,
     "Lvl": 5,
-    "Text": "Ultimate",
-    "Japanese": "究極の",
+    "Text": "Umbrella",
+    "Japanese": "傘",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2477,
     "Lvl": 5,
-    "Text": "Umbrella",
-    "Japanese": "傘",
+    "Text": "Underway",
+    "Japanese": "進行中",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2478,
     "Lvl": 5,
-    "Text": "Underway",
-    "Japanese": "進行中",
+    "Text": "Upcoming",
+    "Japanese": "近日公開",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2479,
     "Lvl": 5,
-    "Text": "Upcoming",
-    "Japanese": "近日公開",
+    "Text": "Updating",
+    "Japanese": "更新中",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2480,
     "Lvl": 5,
-    "Text": "Updating",
-    "Japanese": "更新中",
+    "Text": "Upstream",
+    "Japanese": "上流",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2481,
     "Lvl": 5,
-    "Text": "Upstream",
-    "Japanese": "上流",
+    "Text": "Username",
+    "Japanese": "ユーザー名",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2482,
     "Lvl": 5,
-    "Text": "Username",
-    "Japanese": "ユーザー名",
+    "Text": "Vacation",
+    "Japanese": "休暇",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2483,
     "Lvl": 5,
-    "Text": "Vacation",
-    "Japanese": "休暇",
+    "Text": "Variable",
+    "Japanese": "変数",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2484,
     "Lvl": 5,
-    "Text": "Variable",
-    "Japanese": "変数",
+    "Text": "Variance",
+    "Japanese": "分散",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2485,
     "Lvl": 5,
-    "Text": "Variance",
-    "Japanese": "分散",
+    "Text": "Vertical",
+    "Japanese": "垂直",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2486,
     "Lvl": 5,
-    "Text": "Vertical",
-    "Japanese": "垂直",
+    "Text": "Violence",
+    "Japanese": "暴力",
+    "isSafe": false,
     "Len": 8
   },
   {
     "Id": 2487,
     "Lvl": 5,
-    "Text": "Violence",
-    "Japanese": "暴力",
+    "Text": "Visually",
+    "Japanese": "視覚的に",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2488,
     "Lvl": 5,
-    "Text": "Visually",
-    "Japanese": "視覚的に",
+    "Text": "Volatile",
+    "Japanese": "揮発性",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2489,
     "Lvl": 5,
-    "Text": "Volatile",
-    "Japanese": "揮発性",
+    "Text": "Warranty",
+    "Japanese": "保証",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2490,
     "Lvl": 5,
-    "Text": "Warranty",
-    "Japanese": "保証",
+    "Text": "Weakness",
+    "Japanese": "弱点",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2491,
     "Lvl": 5,
-    "Text": "Weakness",
-    "Japanese": "弱点",
+    "Text": "Whenever",
+    "Japanese": "いつでも",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2492,
     "Lvl": 5,
-    "Text": "Whenever",
-    "Japanese": "いつでも",
+    "Text": "Wildlife",
+    "Japanese": "野生生物",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2493,
     "Lvl": 5,
-    "Text": "Wildlife",
-    "Japanese": "野生生物",
+    "Text": "Withdraw",
+    "Japanese": "撤回する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2494,
     "Lvl": 5,
-    "Text": "Withdraw",
-    "Japanese": "撤回する",
+    "Text": "Workload",
+    "Japanese": "作業負荷",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2495,
     "Lvl": 5,
-    "Text": "Workload",
-    "Japanese": "作業負荷",
+    "Text": "Workshop",
+    "Japanese": "ワークショップ",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2496,
     "Lvl": 5,
-    "Text": "Workshop",
-    "Japanese": "ワークショップ",
+    "Text": "Yearbook",
+    "Japanese": "年鑑",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2497,
     "Lvl": 5,
-    "Text": "Yearbook",
-    "Japanese": "年鑑",
+    "Text": "Yielding",
+    "Japanese": "譲歩する",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2498,
     "Lvl": 5,
-    "Text": "Yielding",
-    "Japanese": "譲歩する",
+    "Text": "Youthful",
+    "Japanese": "若々しい",
+    "isSafe": true,
     "Len": 8
   },
   {
     "Id": 2499,
-    "Lvl": 5,
-    "Text": "Youthful",
-    "Japanese": "若々しい",
-    "Len": 8
+    "Lvl": 6,
+    "Text": "Abandoned",
+    "Japanese": "放棄された",
+    "isSafe": true,
+    "Len": 9
   },
   {
     "Id": 2500,
     "Lvl": 6,
-    "Text": "Abandoned",
-    "Japanese": "放棄された",
+    "Text": "Abilities",
+    "Japanese": "能力",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2501,
     "Lvl": 6,
-    "Text": "Abilities",
-    "Japanese": "能力",
+    "Text": "Abolished",
+    "Japanese": "廃止",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2502,
     "Lvl": 6,
-    "Text": "Abolished",
-    "Japanese": "廃止",
+    "Text": "Absorbing",
+    "Japanese": "吸収する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2503,
     "Lvl": 6,
-    "Text": "Absorbing",
-    "Japanese": "吸収する",
+    "Text": "Abundance",
+    "Japanese": "豊富",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2504,
     "Lvl": 6,
-    "Text": "Abundance",
-    "Japanese": "豊富",
+    "Text": "Accompany",
+    "Japanese": "同行する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2505,
     "Lvl": 6,
-    "Text": "Accompany",
-    "Japanese": "同行する",
+    "Text": "According",
+    "Japanese": "によると",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2506,
     "Lvl": 6,
-    "Text": "According",
-    "Japanese": "によると",
+    "Text": "Achieving",
+    "Japanese": "達成する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2507,
     "Lvl": 6,
-    "Text": "Achieving",
-    "Japanese": "達成する",
+    "Text": "Acquiring",
+    "Japanese": "取得する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2508,
     "Lvl": 6,
-    "Text": "Acquiring",
-    "Japanese": "取得する",
+    "Text": "Activated",
+    "Japanese": "有効化済み",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2509,
     "Lvl": 6,
-    "Text": "Activated",
-    "Japanese": "有効化済み",
+    "Text": "Adventure",
+    "Japanese": "アドベンチャー",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2510,
     "Lvl": 6,
-    "Text": "Adventure",
-    "Japanese": "アドベンチャー",
+    "Text": "Bivariate",
+    "Japanese": "二変量",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2511,
     "Lvl": 6,
-    "Text": "Bivariate",
-    "Japanese": "二変量",
+    "Text": "Backstage",
+    "Japanese": "舞台裏",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2512,
     "Lvl": 6,
-    "Text": "Backstage",
-    "Japanese": "舞台裏",
+    "Text": "Backwards",
+    "Japanese": "逆向き",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2513,
     "Lvl": 6,
-    "Text": "Backwards",
-    "Japanese": "逆向き",
+    "Text": "Badminton",
+    "Japanese": "バドミントン",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2514,
     "Lvl": 6,
-    "Text": "Badminton",
-    "Japanese": "バドミントン",
+    "Text": "Ballistic",
+    "Japanese": "弾道",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2515,
     "Lvl": 6,
-    "Text": "Ballistic",
-    "Japanese": "弾道",
+    "Text": "Barbarism",
+    "Japanese": "野蛮行為",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2516,
     "Lvl": 6,
-    "Text": "Barbarism",
-    "Japanese": "野蛮行為",
+    "Text": "Barometer",
+    "Japanese": "バロメーター",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2517,
     "Lvl": 6,
-    "Text": "Barometer",
-    "Japanese": "バロメーター",
+    "Text": "Beautiful",
+    "Japanese": "美しい",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2518,
     "Lvl": 6,
-    "Text": "Beautiful",
-    "Japanese": "美しい",
+    "Text": "Beginning",
+    "Japanese": "始まり",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2519,
     "Lvl": 6,
-    "Text": "Beginning",
-    "Japanese": "始まり",
+    "Text": "Biography",
+    "Japanese": "バイオグラフィー",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2520,
     "Lvl": 6,
-    "Text": "Biography",
-    "Japanese": "バイオグラフィー",
+    "Text": "Calculate",
+    "Japanese": "計算する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2521,
     "Lvl": 6,
-    "Text": "Calculate",
-    "Japanese": "計算する",
+    "Text": "Candidate",
+    "Japanese": "候補者",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2522,
     "Lvl": 6,
-    "Text": "Candidate",
-    "Japanese": "候補者",
+    "Text": "Carefully",
+    "Japanese": "気をつけて",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2523,
     "Lvl": 6,
-    "Text": "Carefully",
-    "Japanese": "気をつけて",
+    "Text": "Celebrity",
+    "Japanese": "有名人",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2524,
     "Lvl": 6,
-    "Text": "Celebrity",
-    "Japanese": "有名人",
+    "Text": "Challenge",
+    "Japanese": "チャレンジ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2525,
     "Lvl": 6,
-    "Text": "Challenge",
-    "Japanese": "チャレンジ",
+    "Text": "Character",
+    "Japanese": "キャラクター",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2526,
     "Lvl": 6,
-    "Text": "Character",
-    "Japanese": "キャラクター",
+    "Text": "Chemistry",
+    "Japanese": "化学",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2527,
     "Lvl": 6,
-    "Text": "Chemistry",
-    "Japanese": "化学",
+    "Text": "Coagulant",
+    "Japanese": "凝固剤",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2528,
     "Lvl": 6,
-    "Text": "Coagulant",
-    "Japanese": "凝固剤",
+    "Text": "Christmas",
+    "Japanese": "クリスマス",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2529,
     "Lvl": 6,
-    "Text": "Christmas",
-    "Japanese": "クリスマス",
+    "Text": "Classical",
+    "Japanese": "クラシック",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2530,
     "Lvl": 6,
-    "Text": "Classical",
-    "Japanese": "クラシック",
+    "Text": "Cognitive",
+    "Japanese": "認知",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2531,
     "Lvl": 6,
-    "Text": "Cognitive",
-    "Japanese": "認知",
+    "Text": "Committee",
+    "Japanese": "委員会",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2532,
     "Lvl": 6,
-    "Text": "Committee",
-    "Japanese": "委員会",
+    "Text": "Complaint",
+    "Japanese": "苦情",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2533,
     "Lvl": 6,
-    "Text": "Complaint",
-    "Japanese": "苦情",
+    "Text": "Ceasefire",
+    "Japanese": "停戦",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2534,
     "Lvl": 6,
-    "Text": "Ceasefire",
-    "Japanese": "停戦",
+    "Text": "Dangerous",
+    "Japanese": "危険な",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2535,
     "Lvl": 6,
-    "Text": "Dangerous",
-    "Japanese": "危険な",
+    "Text": "Dashboard",
+    "Japanese": "ダッシュボード",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2536,
     "Lvl": 6,
-    "Text": "Dashboard",
-    "Japanese": "ダッシュボード",
+    "Text": "Databases",
+    "Japanese": "データベース",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2537,
     "Lvl": 6,
-    "Text": "Databases",
-    "Japanese": "データベース",
+    "Text": "Daybroken",
+    "Japanese": "夜明け",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2538,
     "Lvl": 6,
-    "Text": "Daybroken",
-    "Japanese": "夜明け",
+    "Text": "Debatable",
+    "Japanese": "議論の余地あり",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2539,
     "Lvl": 6,
-    "Text": "Debatable",
-    "Japanese": "議論の余地あり",
+    "Text": "Deception",
+    "Japanese": "欺瞞",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2540,
     "Lvl": 6,
-    "Text": "Deception",
-    "Japanese": "欺瞞",
+    "Text": "Decorated",
+    "Japanese": "装飾された",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2541,
     "Lvl": 6,
-    "Text": "Decorated",
-    "Japanese": "装飾された",
+    "Text": "Dedicated",
+    "Japanese": "ひたむきな",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2542,
     "Lvl": 6,
-    "Text": "Dedicated",
-    "Japanese": "ひたむきな",
+    "Text": "Defending",
+    "Japanese": "防御",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2543,
     "Lvl": 6,
-    "Text": "Defending",
-    "Japanese": "防御",
+    "Text": "Delicious",
+    "Japanese": "美味しい",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2544,
     "Lvl": 6,
-    "Text": "Delicious",
-    "Japanese": "美味しい",
+    "Text": "Departure",
+    "Japanese": "出発",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2545,
     "Lvl": 6,
-    "Text": "Departure",
-    "Japanese": "出発",
+    "Text": "Different",
+    "Japanese": "違う",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2546,
     "Lvl": 6,
-    "Text": "Different",
-    "Japanese": "違う",
+    "Text": "Dissonant",
+    "Japanese": "不協和音",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2547,
     "Lvl": 6,
-    "Text": "Dissonant",
-    "Japanese": "不協和音",
+    "Text": "Economics",
+    "Japanese": "経済",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2548,
     "Lvl": 6,
-    "Text": "Economics",
-    "Japanese": "経済",
+    "Text": "Education",
+    "Japanese": "教育",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2549,
     "Lvl": 6,
-    "Text": "Education",
-    "Japanese": "教育",
+    "Text": "Effective",
+    "Japanese": "効果的",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2550,
     "Lvl": 6,
-    "Text": "Effective",
-    "Japanese": "効果的",
+    "Text": "Efficient",
+    "Japanese": "効率的",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2551,
     "Lvl": 6,
-    "Text": "Efficient",
-    "Japanese": "効率的",
+    "Text": "Elaborate",
+    "Japanese": "精巧な",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2552,
     "Lvl": 6,
-    "Text": "Elaborate",
-    "Japanese": "精巧な",
+    "Text": "Electrons",
+    "Japanese": "電子",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2553,
     "Lvl": 6,
-    "Text": "Electrons",
-    "Japanese": "電子",
+    "Text": "Elemental",
+    "Japanese": "エレメンタル",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2554,
     "Lvl": 6,
-    "Text": "Elemental",
-    "Japanese": "エレメンタル",
+    "Text": "Eliminate",
+    "Japanese": "なくす",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2555,
     "Lvl": 6,
-    "Text": "Eliminate",
-    "Japanese": "なくす",
+    "Text": "Elsewhere",
+    "Japanese": "他の場所では",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2556,
     "Lvl": 6,
-    "Text": "Elsewhere",
-    "Japanese": "他の場所では",
+    "Text": "Emergency",
+    "Japanese": "緊急",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2557,
     "Lvl": 6,
-    "Text": "Emergency",
-    "Japanese": "緊急",
+    "Text": "Emotional",
+    "Japanese": "感情的",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2558,
     "Lvl": 6,
-    "Text": "Emotional",
-    "Japanese": "感情的",
+    "Text": "Emptiness",
+    "Japanese": "空虚",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2559,
     "Lvl": 6,
-    "Text": "Emptiness",
-    "Japanese": "空虚",
+    "Text": "Fabricate",
+    "Japanese": "製造する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2560,
     "Lvl": 6,
-    "Text": "Fabricate",
-    "Japanese": "製造する",
+    "Text": "Factories",
+    "Japanese": "工場",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2561,
     "Lvl": 6,
-    "Text": "Factories",
-    "Japanese": "工場",
+    "Text": "Fantastic",
+    "Japanese": "素晴らしい",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2562,
     "Lvl": 6,
-    "Text": "Fantastic",
-    "Japanese": "素晴らしい",
+    "Text": "Fascinate",
+    "Japanese": "魅了する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2563,
     "Lvl": 6,
-    "Text": "Fascinate",
-    "Japanese": "魅了する",
+    "Text": "Fashioned",
+    "Japanese": "ファッショナブル",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2564,
     "Lvl": 6,
-    "Text": "Fashioned",
-    "Japanese": "ファッショナブル",
+    "Text": "Favorable",
+    "Japanese": "好ましい",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2565,
     "Lvl": 6,
-    "Text": "Favorable",
-    "Japanese": "好ましい",
+    "Text": "Frequency",
+    "Japanese": "頻度",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2566,
     "Lvl": 6,
-    "Text": "Frequency",
-    "Japanese": "頻度",
+    "Text": "Featuring",
+    "Japanese": "特集",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2567,
     "Lvl": 6,
-    "Text": "Featuring",
-    "Japanese": "特集",
+    "Text": "Financial",
+    "Japanese": "金融",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2568,
     "Lvl": 6,
-    "Text": "Financial",
-    "Japanese": "金融",
+    "Text": "Fireworks",
+    "Japanese": "花火",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2569,
     "Lvl": 6,
-    "Text": "Fireworks",
-    "Japanese": "花火",
+    "Text": "Gathering",
+    "Japanese": "集会",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2570,
     "Lvl": 6,
-    "Text": "Gathering",
-    "Japanese": "集会",
+    "Text": "Generated",
+    "Japanese": "生成された",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2571,
     "Lvl": 6,
-    "Text": "Generated",
-    "Japanese": "生成された",
+    "Text": "Generator",
+    "Japanese": "ジェネレータ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2572,
     "Lvl": 6,
-    "Text": "Generator",
-    "Japanese": "ジェネレータ",
+    "Text": "Gentleman",
+    "Japanese": "紳士",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2573,
     "Lvl": 6,
-    "Text": "Gentleman",
-    "Japanese": "紳士",
+    "Text": "Geography",
+    "Japanese": "地理",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2574,
     "Lvl": 6,
-    "Text": "Geography",
-    "Japanese": "地理",
+    "Text": "Geometric",
+    "Japanese": "幾何学的",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2575,
     "Lvl": 6,
-    "Text": "Geometric",
-    "Japanese": "幾何学的",
+    "Text": "Globalize",
+    "Japanese": "グローバル化する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2576,
     "Lvl": 6,
-    "Text": "Globalize",
-    "Japanese": "グローバル化する",
+    "Text": "Glowingly",
+    "Japanese": "輝いて",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2577,
     "Lvl": 6,
-    "Text": "Glowingly",
-    "Japanese": "輝いて",
+    "Text": "Gossipers",
+    "Japanese": "噂好き",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2578,
     "Lvl": 6,
-    "Text": "Gossipers",
-    "Japanese": "噂好き",
+    "Text": "Handshake",
+    "Japanese": "ハンドシェーク",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2579,
     "Lvl": 6,
-    "Text": "Handshake",
-    "Japanese": "ハンドシェーク",
+    "Text": "Happiness",
+    "Japanese": "幸せ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2580,
     "Lvl": 6,
-    "Text": "Happiness",
-    "Japanese": "幸せ",
+    "Text": "Hardships",
+    "Japanese": "苦難",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2581,
     "Lvl": 6,
-    "Text": "Hardships",
-    "Japanese": "苦難",
+    "Text": "Harmonica",
+    "Japanese": "ハーモニカ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2582,
     "Lvl": 6,
-    "Text": "Harmonica",
-    "Japanese": "ハーモニカ",
+    "Text": "Heaviness",
+    "Japanese": "重さ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2583,
     "Lvl": 6,
-    "Text": "Heaviness",
-    "Japanese": "重さ",
+    "Text": "Hydration",
+    "Japanese": "水分補給",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2584,
     "Lvl": 6,
-    "Text": "Hydration",
-    "Japanese": "水分補給",
+    "Text": "Highlight",
+    "Japanese": "ハイライト",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2585,
     "Lvl": 6,
-    "Text": "Highlight",
-    "Japanese": "ハイライト",
+    "Text": "Hijacking",
+    "Japanese": "ハイジャック",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2586,
     "Lvl": 6,
-    "Text": "Hijacking",
-    "Japanese": "ハイジャック",
+    "Text": "Hindsight",
+    "Japanese": "後知恵",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2587,
     "Lvl": 6,
-    "Text": "Hindsight",
-    "Japanese": "後知恵",
+    "Text": "Historian",
+    "Japanese": "歴史家",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2588,
     "Lvl": 6,
-    "Text": "Historian",
-    "Japanese": "歴史家",
+    "Text": "Horoscope",
+    "Japanese": "星占い",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2589,
     "Lvl": 6,
-    "Text": "Horoscope",
-    "Japanese": "星占い",
+    "Text": "Identical",
+    "Japanese": "同一",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2590,
     "Lvl": 6,
-    "Text": "Identical",
-    "Japanese": "同一",
+    "Text": "Ignorance",
+    "Japanese": "無知",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2591,
     "Lvl": 6,
-    "Text": "Ignorance",
-    "Japanese": "無知",
+    "Text": "Immediate",
+    "Japanese": "すぐに",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2592,
     "Lvl": 6,
-    "Text": "Immediate",
-    "Japanese": "すぐに",
+    "Text": "Implement",
+    "Japanese": "埋め込む",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2593,
     "Lvl": 6,
-    "Text": "Implement",
-    "Japanese": "埋め込む",
+    "Text": "Important",
+    "Japanese": "重要",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2594,
     "Lvl": 6,
-    "Text": "Important",
-    "Japanese": "重要",
+    "Text": "Impressed",
+    "Japanese": "感動した",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2595,
     "Lvl": 6,
-    "Text": "Impressed",
-    "Japanese": "感動した",
+    "Text": "Incentive",
+    "Japanese": "インセンティブ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2596,
     "Lvl": 6,
-    "Text": "Incentive",
-    "Japanese": "インセンティブ",
+    "Text": "Including",
+    "Japanese": "含む",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2597,
     "Lvl": 6,
-    "Text": "Including",
-    "Japanese": "含む",
+    "Text": "Indicator",
+    "Japanese": "インジケータ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2598,
     "Lvl": 6,
-    "Text": "Indicator",
-    "Japanese": "インジケータ",
+    "Text": "Inflation",
+    "Japanese": "インフレーション",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2599,
     "Lvl": 6,
-    "Text": "Inflation",
-    "Japanese": "インフレーション",
+    "Text": "Influence",
+    "Japanese": "影響",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2600,
     "Lvl": 6,
-    "Text": "Influence",
-    "Japanese": "影響",
+    "Text": "Jackfruit",
+    "Japanese": "ジャックフルーツ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2601,
     "Lvl": 6,
-    "Text": "Jackfruit",
-    "Japanese": "ジャックフルーツ",
+    "Text": "Jailbreak",
+    "Japanese": "脱獄",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2602,
     "Lvl": 6,
-    "Text": "Jailbreak",
-    "Japanese": "脱獄",
+    "Text": "Japanized",
+    "Japanese": "日本風",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2603,
     "Lvl": 6,
-    "Text": "Japanized",
-    "Japanese": "日本風",
+    "Text": "Jointures",
+    "Japanese": "関節",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2604,
     "Lvl": 6,
-    "Text": "Jointures",
-    "Japanese": "関節",
+    "Text": "Journaled",
+    "Japanese": "日記",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2605,
     "Lvl": 6,
-    "Text": "Journaled",
-    "Japanese": "日記",
+    "Text": "Judiciary",
+    "Japanese": "司法",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2606,
     "Lvl": 6,
-    "Text": "Judiciary",
-    "Japanese": "司法",
+    "Text": "Justified",
+    "Japanese": "正当化された",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2607,
     "Lvl": 6,
-    "Text": "Justified",
-    "Japanese": "正当化された",
+    "Text": "Keelboats",
+    "Japanese": "キールボート",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2608,
     "Lvl": 6,
-    "Text": "Keelboats",
-    "Japanese": "キールボート",
+    "Text": "Keepsakes",
+    "Japanese": "記念品",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2609,
     "Lvl": 6,
-    "Text": "Keepsakes",
-    "Japanese": "記念品",
+    "Text": "Keystroke",
+    "Japanese": "キーストローク",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2610,
     "Lvl": 6,
-    "Text": "Keystroke",
-    "Japanese": "キーストローク",
+    "Text": "Kidnapped",
+    "Japanese": "誘拐された",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2611,
     "Lvl": 6,
-    "Text": "Kidnapped",
-    "Japanese": "誘拐された",
+    "Text": "Landscape",
+    "Japanese": "風景",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2612,
     "Lvl": 6,
-    "Text": "Landscape",
-    "Japanese": "風景",
+    "Text": "Languages",
+    "Japanese": "言語",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2613,
     "Lvl": 6,
-    "Text": "Languages",
-    "Japanese": "言語",
+    "Text": "Lixiviate",
+    "Japanese": "浸出液",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2614,
     "Lvl": 6,
-    "Text": "Lixiviate",
-    "Japanese": "浸出液",
+    "Text": "Launchers",
+    "Japanese": "ランチャー",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2615,
     "Lvl": 6,
-    "Text": "Launchers",
-    "Japanese": "ランチャー",
+    "Text": "Lecturers",
+    "Japanese": "講師",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2616,
     "Lvl": 6,
-    "Text": "Lecturers",
-    "Japanese": "講師",
+    "Text": "Lifestyle",
+    "Japanese": "ライフスタイル",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2617,
     "Lvl": 6,
-    "Text": "Lifestyle",
-    "Japanese": "ライフスタイル",
+    "Text": "Lightning",
+    "Japanese": "稲妻",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2618,
     "Lvl": 6,
-    "Text": "Lightning",
-    "Japanese": "稲妻",
+    "Text": "Logistics",
+    "Japanese": "ロジスティクス",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2619,
     "Lvl": 6,
-    "Text": "Logistics",
-    "Japanese": "ロジスティクス",
+    "Text": "Machinery",
+    "Japanese": "機械",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2620,
     "Lvl": 6,
-    "Text": "Machinery",
-    "Japanese": "機械",
+    "Text": "Magazines",
+    "Japanese": "雑誌",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2621,
     "Lvl": 6,
-    "Text": "Magazines",
-    "Japanese": "雑誌",
+    "Text": "Magnitude",
+    "Japanese": "規模",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2622,
     "Lvl": 6,
-    "Text": "Magnitude",
-    "Japanese": "規模",
+    "Text": "Maintains",
+    "Japanese": "維持する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2623,
     "Lvl": 6,
-    "Text": "Maintains",
-    "Japanese": "維持する",
+    "Text": "Malicious",
+    "Japanese": "悪意のある",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2624,
     "Lvl": 6,
-    "Text": "Malicious",
-    "Japanese": "悪意のある",
+    "Text": "Mandatory",
+    "Japanese": "必須",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2625,
     "Lvl": 6,
-    "Text": "Mandatory",
-    "Japanese": "必須",
+    "Text": "Marketing",
+    "Japanese": "マーケティング",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2626,
     "Lvl": 6,
-    "Text": "Marketing",
-    "Japanese": "マーケティング",
+    "Text": "Materials",
+    "Japanese": "材料",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2627,
     "Lvl": 6,
-    "Text": "Materials",
-    "Japanese": "材料",
+    "Text": "Meanwhile",
+    "Japanese": "その間",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2628,
     "Lvl": 6,
-    "Text": "Meanwhile",
-    "Japanese": "その間",
+    "Text": "Mechanism",
+    "Japanese": "機構",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2629,
     "Lvl": 6,
-    "Text": "Mechanism",
-    "Japanese": "機構",
+    "Text": "Magnesium",
+    "Japanese": "マグネシウム",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2630,
     "Lvl": 6,
-    "Text": "Magnesium",
-    "Japanese": "マグネシウム",
+    "Text": "Mountains",
+    "Japanese": "山々",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2631,
     "Lvl": 6,
-    "Text": "Mountains",
-    "Japanese": "山々",
+    "Text": "Narrative",
+    "Japanese": "物語",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2632,
     "Lvl": 6,
-    "Text": "Narrative",
-    "Japanese": "物語",
+    "Text": "Narrowing",
+    "Japanese": "狭める",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2633,
     "Lvl": 6,
-    "Text": "Narrowing",
-    "Japanese": "狭める",
+    "Text": "Nationals",
+    "Japanese": "全国大会",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2634,
     "Lvl": 6,
-    "Text": "Nationals",
-    "Japanese": "全国大会",
+    "Text": "Naturally",
+    "Japanese": "当然",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2635,
     "Lvl": 6,
-    "Text": "Naturally",
-    "Japanese": "当然",
+    "Text": "Necessary",
+    "Japanese": "必要",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2636,
     "Lvl": 6,
-    "Text": "Necessary",
-    "Japanese": "必要",
+    "Text": "Neighbors",
+    "Japanese": "隣人",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2637,
     "Lvl": 6,
-    "Text": "Neighbors",
-    "Japanese": "隣人",
+    "Text": "Newspaper",
+    "Japanese": "新聞",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2638,
     "Lvl": 6,
-    "Text": "Newspaper",
-    "Japanese": "新聞",
+    "Text": "Nightmare",
+    "Japanese": "悪夢",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2639,
     "Lvl": 6,
-    "Text": "Nightmare",
-    "Japanese": "悪夢",
+    "Text": "Nonprofit",
+    "Japanese": "非営利団体",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2640,
     "Lvl": 6,
-    "Text": "Nonprofit",
-    "Japanese": "非営利団体",
+    "Text": "Notebooks",
+    "Japanese": "ノート",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2641,
     "Lvl": 6,
-    "Text": "Notebooks",
-    "Japanese": "ノート",
+    "Text": "Objection",
+    "Japanese": "異議",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2642,
     "Lvl": 6,
-    "Text": "Objection",
-    "Japanese": "異議",
+    "Text": "Objective",
+    "Japanese": "客観的",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2643,
     "Lvl": 6,
-    "Text": "Objective",
-    "Japanese": "客観的",
+    "Text": "Obligated",
+    "Japanese": "義務を負う",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2644,
     "Lvl": 6,
-    "Text": "Obligated",
-    "Japanese": "義務を負う",
+    "Text": "Observers",
+    "Japanese": "観察者",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2645,
     "Lvl": 6,
-    "Text": "Observers",
-    "Japanese": "観察者",
+    "Text": "Obsession",
+    "Japanese": "執着",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2646,
     "Lvl": 6,
-    "Text": "Obsession",
-    "Japanese": "執着",
+    "Text": "Obstacles",
+    "Japanese": "障害物",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2647,
     "Lvl": 6,
-    "Text": "Obstacles",
-    "Japanese": "障害物",
+    "Text": "Obtaining",
+    "Japanese": "取得",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2648,
     "Lvl": 6,
-    "Text": "Obtaining",
-    "Japanese": "取得",
+    "Text": "Obviously",
+    "Japanese": "明らかに",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2649,
     "Lvl": 6,
-    "Text": "Obviously",
-    "Japanese": "明らかに",
+    "Text": "Occasions",
+    "Japanese": "機会",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2650,
     "Lvl": 6,
-    "Text": "Occasions",
-    "Japanese": "機会",
+    "Text": "Otherwise",
+    "Japanese": "さもないと",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2651,
     "Lvl": 6,
-    "Text": "Otherwise",
-    "Japanese": "さもないと",
+    "Text": "Operation",
+    "Japanese": "手術",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2652,
     "Lvl": 6,
-    "Text": "Operation",
-    "Japanese": "手術",
+    "Text": "Organized",
+    "Japanese": "整頓された",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2653,
     "Lvl": 6,
-    "Text": "Organized",
-    "Japanese": "整頓された",
+    "Text": "Paintings",
+    "Japanese": "絵画",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2654,
     "Lvl": 6,
-    "Text": "Paintings",
-    "Japanese": "絵画",
+    "Text": "Paragraph",
+    "Japanese": "段落",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2655,
     "Lvl": 6,
-    "Text": "Paragraph",
-    "Japanese": "段落",
+    "Text": "Partition",
+    "Japanese": "パーティション",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2656,
     "Lvl": 6,
-    "Text": "Partition",
-    "Japanese": "パーティション",
+    "Text": "Passenger",
+    "Japanese": "乗客",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2657,
     "Lvl": 6,
-    "Text": "Passenger",
-    "Japanese": "乗客",
+    "Text": "Passwords",
+    "Japanese": "パスワード",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2658,
     "Lvl": 6,
-    "Text": "Passwords",
-    "Japanese": "パスワード",
+    "Text": "Penalties",
+    "Japanese": "罰則",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2659,
     "Lvl": 6,
-    "Text": "Penalties",
-    "Japanese": "罰則",
+    "Text": "Perfectly",
+    "Japanese": "完璧に",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2660,
     "Lvl": 6,
-    "Text": "Perfectly",
-    "Japanese": "完璧に",
+    "Text": "Permanent",
+    "Japanese": "永続",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2661,
     "Lvl": 6,
-    "Text": "Permanent",
-    "Japanese": "永続",
+    "Text": "Personnel",
+    "Japanese": "人事",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2662,
     "Lvl": 6,
-    "Text": "Personnel",
-    "Japanese": "人事",
+    "Text": "Platforms",
+    "Japanese": "プラットフォーム",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2663,
     "Lvl": 6,
-    "Text": "Platforms",
-    "Japanese": "プラットフォーム",
+    "Text": "Quadrants",
+    "Japanese": "象限",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2664,
     "Lvl": 6,
-    "Text": "Quadrants",
-    "Japanese": "象限",
+    "Text": "Qualified",
+    "Japanese": "資格のある",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2665,
     "Lvl": 6,
-    "Text": "Qualified",
-    "Japanese": "資格のある",
+    "Text": "Qualities",
+    "Japanese": "特性",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2666,
     "Lvl": 6,
-    "Text": "Qualities",
-    "Japanese": "特性",
+    "Text": "Quantized",
+    "Japanese": "量子化された",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2667,
     "Lvl": 6,
-    "Text": "Quantized",
-    "Japanese": "量子化された",
+    "Text": "Quantizer",
+    "Japanese": "量子化器",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2668,
     "Lvl": 6,
-    "Text": "Quantizer",
-    "Japanese": "量子化器",
+    "Text": "Quarterly",
+    "Japanese": "四半期ごと",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2669,
     "Lvl": 6,
-    "Text": "Quarterly",
-    "Japanese": "四半期ごと",
+    "Text": "Quatrains",
+    "Japanese": "四行詩",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2670,
     "Lvl": 6,
-    "Text": "Quatrains",
-    "Japanese": "四行詩",
+    "Text": "Questions",
+    "Japanese": "質問",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2671,
     "Lvl": 6,
-    "Text": "Questions",
-    "Japanese": "質問",
+    "Text": "Quibbling",
+    "Japanese": "屁理屈",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2672,
     "Lvl": 6,
-    "Text": "Quibbling",
-    "Japanese": "屁理屈",
+    "Text": "Quickness",
+    "Japanese": "素早さ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2673,
     "Lvl": 6,
-    "Text": "Quickness",
-    "Japanese": "素早さ",
+    "Text": "Quiescent",
+    "Japanese": "静止状態",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2674,
     "Lvl": 6,
-    "Text": "Quiescent",
-    "Japanese": "静止状態",
+    "Text": "Quietness",
+    "Japanese": "静寂",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2675,
     "Lvl": 6,
-    "Text": "Quietness",
-    "Japanese": "静寂",
+    "Text": "Quotation",
+    "Japanese": "引用",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2676,
     "Lvl": 6,
-    "Text": "Quotation",
-    "Japanese": "引用",
+    "Text": "Radiation",
+    "Japanese": "放射線",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2677,
     "Lvl": 6,
-    "Text": "Radiation",
-    "Japanese": "放射線",
+    "Text": "Rainfalls",
+    "Japanese": "降雨量",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2678,
     "Lvl": 6,
-    "Text": "Rainfalls",
-    "Japanese": "降雨量",
+    "Text": "Realistic",
+    "Japanese": "リアル",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2679,
     "Lvl": 6,
-    "Text": "Realistic",
-    "Japanese": "リアル",
+    "Text": "Reasoning",
+    "Japanese": "推論",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2680,
     "Lvl": 6,
-    "Text": "Reasoning",
-    "Japanese": "推論",
+    "Text": "Receiving",
+    "Japanese": "受信",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2681,
     "Lvl": 6,
-    "Text": "Receiving",
-    "Japanese": "受信",
+    "Text": "Reference",
+    "Japanese": "参照",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2682,
     "Lvl": 6,
-    "Text": "Reference",
-    "Japanese": "参照",
+    "Text": "Regarding",
+    "Japanese": "に関して",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2683,
     "Lvl": 6,
-    "Text": "Regarding",
-    "Japanese": "に関して",
+    "Text": "Relations",
+    "Japanese": "関係",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2684,
     "Lvl": 6,
-    "Text": "Relations",
-    "Japanese": "関係",
+    "Text": "Religious",
+    "Japanese": "宗教的",
+    "isSafe": false,
     "Len": 9
   },
   {
     "Id": 2685,
     "Lvl": 6,
-    "Text": "Religious",
-    "Japanese": "宗教的",
+    "Text": "Resources",
+    "Japanese": "リソース",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2686,
     "Lvl": 6,
-    "Text": "Resources",
-    "Japanese": "リソース",
+    "Text": "Sacrifice",
+    "Japanese": "犠牲",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2687,
     "Lvl": 6,
-    "Text": "Sacrifice",
-    "Japanese": "犠牲",
+    "Text": "Satisfied",
+    "Japanese": "満足",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2688,
     "Lvl": 6,
-    "Text": "Satisfied",
-    "Japanese": "満足",
+    "Text": "Scenarios",
+    "Japanese": "シナリオ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2689,
     "Lvl": 6,
-    "Text": "Scenarios",
-    "Japanese": "シナリオ",
+    "Text": "Secondary",
+    "Japanese": "二次",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2690,
     "Lvl": 6,
-    "Text": "Secondary",
-    "Japanese": "二次",
+    "Text": "Selection",
+    "Japanese": "選択",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2691,
     "Lvl": 6,
-    "Text": "Selection",
-    "Japanese": "選択",
+    "Text": "Sensitive",
+    "Japanese": "センシティブ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2692,
     "Lvl": 6,
-    "Text": "Sensitive",
-    "Japanese": "センシティブ",
+    "Text": "Supernova",
+    "Japanese": "超新星",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2693,
     "Lvl": 6,
-    "Text": "Supernova",
-    "Japanese": "超新星",
+    "Text": "Situation",
+    "Japanese": "状況",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2694,
     "Lvl": 6,
-    "Text": "Situation",
-    "Japanese": "状況",
+    "Text": "Solutions",
+    "Japanese": "ソリューション",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2695,
     "Lvl": 6,
-    "Text": "Solutions",
-    "Japanese": "ソリューション",
+    "Text": "Something",
+    "Japanese": "何か",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2696,
     "Lvl": 6,
-    "Text": "Something",
-    "Japanese": "何か",
+    "Text": "Specialty",
+    "Japanese": "専門",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2697,
     "Lvl": 6,
-    "Text": "Specialty",
-    "Japanese": "専門",
+    "Text": "Tailoring",
+    "Japanese": "仕立て",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2698,
     "Lvl": 6,
-    "Text": "Tailoring",
-    "Japanese": "仕立て",
+    "Text": "Technical",
+    "Japanese": "テクニカル",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2699,
     "Lvl": 6,
-    "Text": "Technical",
-    "Japanese": "テクニカル",
+    "Text": "Technique",
+    "Japanese": "技術",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2700,
     "Lvl": 6,
-    "Text": "Technique",
-    "Japanese": "技術",
+    "Text": "Telephone",
+    "Japanese": "電話",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2701,
     "Lvl": 6,
-    "Text": "Telephone",
-    "Japanese": "電話",
+    "Text": "Temporary",
+    "Japanese": "一時的",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2702,
     "Lvl": 6,
-    "Text": "Temporary",
-    "Japanese": "一時的",
+    "Text": "Territory",
+    "Japanese": "地域",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2703,
     "Lvl": 6,
-    "Text": "Territory",
-    "Japanese": "地域",
+    "Text": "Therefore",
+    "Japanese": "したがって",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2704,
     "Lvl": 6,
-    "Text": "Therefore",
-    "Japanese": "したがって",
+    "Text": "Thousands",
+    "Japanese": "数千",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2705,
     "Lvl": 6,
-    "Text": "Thousands",
-    "Japanese": "数千",
+    "Text": "Threshold",
+    "Japanese": "しきい値",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2706,
     "Lvl": 6,
-    "Text": "Threshold",
-    "Japanese": "しきい値",
+    "Text": "Tolerance",
+    "Japanese": "許容範囲",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2707,
     "Lvl": 6,
-    "Text": "Tolerance",
-    "Japanese": "許容範囲",
+    "Text": "Tradition",
+    "Japanese": "伝統",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2708,
     "Lvl": 6,
-    "Text": "Tradition",
-    "Japanese": "伝統",
+    "Text": "Transport",
+    "Japanese": "輸送",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2709,
     "Lvl": 6,
-    "Text": "Transport",
-    "Japanese": "輸送",
+    "Text": "Unanimous",
+    "Japanese": "満場一致",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2710,
     "Lvl": 6,
-    "Text": "Unanimous",
-    "Japanese": "満場一致",
+    "Text": "Uncertain",
+    "Japanese": "不確実",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2711,
     "Lvl": 6,
-    "Text": "Uncertain",
-    "Japanese": "不確実",
+    "Text": "Unchanged",
+    "Japanese": "変更なし",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2712,
     "Lvl": 6,
-    "Text": "Unchanged",
-    "Japanese": "変更なし",
+    "Text": "Undefined",
+    "Japanese": "未定義",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2713,
     "Lvl": 6,
-    "Text": "Undefined",
-    "Japanese": "未定義",
+    "Text": "Underline",
+    "Japanese": "下線",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2714,
     "Lvl": 6,
-    "Text": "Underline",
-    "Japanese": "下線",
+    "Text": "Underwent",
+    "Japanese": "経験",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2715,
     "Lvl": 6,
-    "Text": "Underwent",
-    "Japanese": "経験",
+    "Text": "Unlimited",
+    "Japanese": "無制限",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2716,
     "Lvl": 6,
-    "Text": "Unlimited",
-    "Japanese": "無制限",
+    "Text": "Unnatural",
+    "Japanese": "不自然",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2717,
     "Lvl": 6,
-    "Text": "Unnatural",
-    "Japanese": "不自然",
+    "Text": "Unrelated",
+    "Japanese": "関係ない",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2718,
     "Lvl": 6,
-    "Text": "Unrelated",
-    "Japanese": "関係ない",
+    "Text": "Unusually",
+    "Japanese": "珍しい",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2719,
     "Lvl": 6,
-    "Text": "Unusually",
-    "Japanese": "珍しい",
+    "Text": "Vacations",
+    "Japanese": "休暇",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2720,
     "Lvl": 6,
-    "Text": "Vacations",
-    "Japanese": "休暇",
+    "Text": "Valentine",
+    "Japanese": "バレンタインデー",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2721,
     "Lvl": 6,
-    "Text": "Valentine",
-    "Japanese": "バレンタイン",
+    "Text": "Variables",
+    "Japanese": "変数",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2722,
     "Lvl": 6,
-    "Text": "Variables",
-    "Japanese": "変数",
+    "Text": "Variation",
+    "Japanese": "変化",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2723,
     "Lvl": 6,
-    "Text": "Variation",
-    "Japanese": "変化",
+    "Text": "Vegetable",
+    "Japanese": "野菜",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2724,
     "Lvl": 6,
-    "Text": "Vegetable",
-    "Japanese": "野菜",
+    "Text": "Vehicular",
+    "Japanese": "車両",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2725,
     "Lvl": 6,
-    "Text": "Vehicular",
-    "Japanese": "車両",
+    "Text": "Venerable",
+    "Japanese": "尊者",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2726,
     "Lvl": 6,
-    "Text": "Venerable",
-    "Japanese": "尊者",
+    "Text": "Ventilate",
+    "Japanese": "換気する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2727,
     "Lvl": 6,
-    "Text": "Ventilate",
-    "Japanese": "換気する",
+    "Text": "Verbalize",
+    "Japanese": "言葉にする",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2728,
     "Lvl": 6,
-    "Text": "Verbalize",
-    "Japanese": "言葉にする",
+    "Text": "Versatile",
+    "Japanese": "多用途",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2729,
     "Lvl": 6,
-    "Text": "Versatile",
-    "Japanese": "多用途",
+    "Text": "Vibration",
+    "Japanese": "振動",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2730,
     "Lvl": 6,
-    "Text": "Vibration",
-    "Japanese": "振動",
+    "Text": "Violation",
+    "Japanese": "違反",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2731,
     "Lvl": 6,
-    "Text": "Violation",
-    "Japanese": "違反",
+    "Text": "Warehouse",
+    "Japanese": "倉庫",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2732,
     "Lvl": 6,
-    "Text": "Warehouse",
-    "Japanese": "倉庫",
+    "Text": "Watermark",
+    "Japanese": "透かし",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2733,
     "Lvl": 6,
-    "Text": "Watchdogs",
-    "Japanese": "ウォッチ・ドッグス",
+    "Text": "Weakening",
+    "Japanese": "弱体化",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2734,
     "Lvl": 6,
-    "Text": "Watermark",
-    "Japanese": "透かし",
+    "Text": "Weaponize",
+    "Japanese": "武器化する",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2735,
     "Lvl": 6,
-    "Text": "Weakening",
-    "Japanese": "弱体化",
+    "Text": "Weathered",
+    "Japanese": "風化した",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2736,
     "Lvl": 6,
-    "Text": "Weaponize",
-    "Japanese": "武器化する",
+    "Text": "Wednesday",
+    "Japanese": "水曜日",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2737,
     "Lvl": 6,
-    "Text": "Weathered",
-    "Japanese": "風化した",
+    "Text": "Weighting",
+    "Japanese": "重み付け",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2738,
     "Lvl": 6,
-    "Text": "Wednesday",
-    "Japanese": "水曜日",
+    "Text": "Wellbeing",
+    "Japanese": "幸福",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2739,
     "Lvl": 6,
-    "Text": "Weighting",
-    "Japanese": "重み付け",
+    "Text": "Wheelbase",
+    "Japanese": "ホイールベース",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2740,
     "Lvl": 6,
-    "Text": "Wellbeing",
-    "Japanese": "ウェルビーイング",
+    "Text": "Whispered",
+    "Japanese": "ささやき声",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2741,
     "Lvl": 6,
-    "Text": "Wheelbase",
-    "Japanese": "ホイールベース",
+    "Text": "Workplace",
+    "Japanese": "職場",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2742,
     "Lvl": 6,
-    "Text": "Whispered",
-    "Japanese": "ささやき声",
+    "Text": "Xenograft",
+    "Japanese": "異種移植",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2743,
     "Lvl": 6,
-    "Text": "Workplace",
-    "Japanese": "職場",
+    "Text": "Xenoliths",
+    "Japanese": "ゼノリス",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2744,
     "Lvl": 6,
-    "Text": "Xenograft",
-    "Japanese": "異種移植",
+    "Text": "Xenophile",
+    "Japanese": "異種愛好者",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2745,
     "Lvl": 6,
-    "Text": "Xenoliths",
-    "Japanese": "ゼノリス",
+    "Text": "Xerograph",
+    "Japanese": "ゼログラフ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2746,
     "Lvl": 6,
-    "Text": "Xenophile",
-    "Japanese": "異種愛好者",
+    "Text": "Xerophyte",
+    "Japanese": "乾燥地植物",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2747,
     "Lvl": 6,
-    "Text": "Xerograph",
-    "Japanese": "ゼログラフ",
+    "Text": "Xylograph",
+    "Japanese": "木版画",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2748,
     "Lvl": 6,
-    "Text": "Xerophyte",
-    "Japanese": "乾燥地植物",
+    "Text": "Xylophone",
+    "Japanese": "木琴",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2749,
     "Lvl": 6,
-    "Text": "Xylograph",
-    "Japanese": "木版画",
+    "Text": "Xylylenes",
+    "Japanese": "キシリレン",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2750,
     "Lvl": 6,
-    "Text": "Xylophone",
-    "Japanese": "木琴",
+    "Text": "Yardstick",
+    "Japanese": "物差し",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2751,
     "Lvl": 6,
-    "Text": "Xylylenes",
-    "Japanese": "キシリレン",
+    "Text": "Yesterday",
+    "Japanese": "昨日",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2752,
     "Lvl": 6,
-    "Text": "Yardstick",
-    "Japanese": "物差し",
+    "Text": "Yieldable",
+    "Japanese": "譲りやすい",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2753,
     "Lvl": 6,
-    "Text": "Yesterday",
-    "Japanese": "昨日",
+    "Text": "Zealously",
+    "Japanese": "熱心に",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2754,
     "Lvl": 6,
-    "Text": "Yieldable",
-    "Japanese": "譲りやすい",
+    "Text": "Zestfully",
+    "Japanese": "熱心に",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2755,
     "Lvl": 6,
-    "Text": "Zealously",
-    "Japanese": "熱心に",
+    "Text": "Zincified",
+    "Japanese": "亜鉛メッキ",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2756,
     "Lvl": 6,
-    "Text": "Zestfully",
-    "Japanese": "熱心に",
+    "Text": "Zoologies",
+    "Japanese": "動物学",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2757,
     "Lvl": 6,
-    "Text": "Zincified",
-    "Japanese": "亜鉛メッキ",
+    "Text": "Zoologist",
+    "Japanese": "動物学者",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2758,
     "Lvl": 6,
-    "Text": "Zoologies",
-    "Japanese": "動物学",
+    "Text": "Zoophytes",
+    "Japanese": "動物植物",
+    "isSafe": true,
     "Len": 9
   },
   {
     "Id": 2759,
-    "Lvl": 6,
-    "Text": "Zoologist",
-    "Japanese": "動物学者",
-    "Len": 9
+    "Lvl": 7,
+    "Text": "Abandoning",
+    "Japanese": "放棄する",
+    "isSafe": true,
+    "Len": 10
   },
   {
     "Id": 2760,
-    "Lvl": 6,
-    "Text": "Zoophytes",
-    "Japanese": "動物植物",
-    "Len": 9
+    "Lvl": 7,
+    "Text": "Absolutely",
+    "Japanese": "絶対に",
+    "isSafe": true,
+    "Len": 10
   },
   {
     "Id": 2761,
     "Lvl": 7,
-    "Text": "Abandoning",
-    "Japanese": "放棄する",
+    "Text": "Adaptation",
+    "Japanese": "適応",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2762,
     "Lvl": 7,
-    "Text": "Absolutely",
-    "Japanese": "絶対に",
+    "Text": "Accusation",
+    "Japanese": "告発",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2763,
     "Lvl": 7,
-    "Text": "Adaptation",
-    "Japanese": "適応",
+    "Text": "Activation",
+    "Japanese": "アクティベーション",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2764,
     "Lvl": 7,
-    "Text": "Accusation",
-    "Japanese": "告発",
+    "Text": "Admiration",
+    "Japanese": "賞賛",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2765,
     "Lvl": 7,
-    "Text": "Activation",
-    "Japanese": "アクティベーション",
+    "Text": "Allocation",
+    "Japanese": "割り当て",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2766,
     "Lvl": 7,
-    "Text": "Admiration",
-    "Japanese": "賞賛",
+    "Text": "Alteration",
+    "Japanese": "変更",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2767,
     "Lvl": 7,
-    "Text": "Allocation",
-    "Japanese": "割り当て",
+    "Text": "Ambassador",
+    "Japanese": "大使",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2768,
     "Lvl": 7,
-    "Text": "Alteration",
-    "Japanese": "変更",
+    "Text": "Analytical",
+    "Japanese": "分析的",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2769,
     "Lvl": 7,
-    "Text": "Ambassador",
-    "Japanese": "大使",
+    "Text": "Background",
+    "Japanese": "背景",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2770,
     "Lvl": 7,
-    "Text": "Analytical",
-    "Japanese": "分析的",
+    "Text": "Basketball",
+    "Japanese": "バスケットボール",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2771,
     "Lvl": 7,
-    "Text": "Background",
-    "Japanese": "背景",
+    "Text": "Beneficial",
+    "Japanese": "有益",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2772,
     "Lvl": 7,
-    "Text": "Basketball",
-    "Japanese": "バスケットボール",
+    "Text": "Biological",
+    "Japanese": "生物学的",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2773,
     "Lvl": 7,
-    "Text": "Beneficial",
-    "Japanese": "有益",
+    "Text": "Bankruptcy",
+    "Japanese": "破産",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2774,
     "Lvl": 7,
-    "Text": "Biological",
-    "Japanese": "生物学的",
+    "Text": "Brightness",
+    "Japanese": "輝度",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2775,
     "Lvl": 7,
-    "Text": "Bankruptcy",
-    "Japanese": "破産",
+    "Text": "Bottleneck",
+    "Japanese": "ボトルネック",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2776,
     "Lvl": 7,
-    "Text": "Brightness",
-    "Japanese": "輝度",
+    "Text": "Bookkeeper",
+    "Japanese": "簿記係",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2777,
     "Lvl": 7,
-    "Text": "Bottleneck",
-    "Japanese": "ボトルネック",
+    "Text": "Birthplace",
+    "Japanese": "出生地",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2778,
     "Lvl": 7,
-    "Text": "Bookkeeper",
-    "Japanese": "簿記係",
+    "Text": "Broadening",
+    "Japanese": "拡大",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2779,
     "Lvl": 7,
-    "Text": "Birthplace",
-    "Japanese": "出生地",
+    "Text": "Collection",
+    "Japanese": "コレクション",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2780,
     "Lvl": 7,
-    "Text": "Broadening",
-    "Japanese": "拡大",
+    "Text": "Connection",
+    "Japanese": "繋がり",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2781,
     "Lvl": 7,
-    "Text": "Collection",
-    "Japanese": "コレクション",
+    "Text": "Correction",
+    "Japanese": "修正",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2782,
     "Lvl": 7,
-    "Text": "Connection",
-    "Japanese": "繋がり",
+    "Text": "Controller",
+    "Japanese": "コントローラ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2783,
     "Lvl": 7,
-    "Text": "Correction",
-    "Japanese": "修正",
+    "Text": "Comparison",
+    "Japanese": "比較",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2784,
     "Lvl": 7,
-    "Text": "Controller",
-    "Japanese": "コントローラ",
+    "Text": "Consistent",
+    "Japanese": "一貫性のある",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2785,
     "Lvl": 7,
-    "Text": "Comparison",
-    "Japanese": "比較",
+    "Text": "Conclusion",
+    "Japanese": "結論",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2786,
     "Lvl": 7,
-    "Text": "Consistent",
-    "Japanese": "一貫性のある",
+    "Text": "Creativity",
+    "Japanese": "創造性",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2787,
     "Lvl": 7,
-    "Text": "Conclusion",
-    "Japanese": "結論",
+    "Text": "Crocodiles",
+    "Japanese": "ワニ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2788,
     "Lvl": 7,
-    "Text": "Creativity",
-    "Japanese": "創造性",
+    "Text": "Dictionary",
+    "Japanese": "辞書",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2789,
     "Lvl": 7,
-    "Text": "Crocodiles",
-    "Japanese": "ワニ",
+    "Text": "Difference",
+    "Japanese": "違い",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2790,
     "Lvl": 7,
-    "Text": "Dictionary",
-    "Japanese": "辞書",
+    "Text": "Discussion",
+    "Japanese": "議論",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2791,
     "Lvl": 7,
-    "Text": "Difference",
-    "Japanese": "違い",
+    "Text": "Definition",
+    "Japanese": "意味",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2792,
     "Lvl": 7,
-    "Text": "Discussion",
-    "Japanese": "議論",
+    "Text": "Discipline",
+    "Japanese": "規律",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2793,
     "Lvl": 7,
-    "Text": "Definition",
-    "Japanese": "意味",
+    "Text": "Dependence",
+    "Japanese": "依存",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2794,
     "Lvl": 7,
-    "Text": "Discipline",
-    "Japanese": "規律",
+    "Text": "Decorative",
+    "Japanese": "装飾的",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2795,
     "Lvl": 7,
-    "Text": "Dependence",
-    "Japanese": "依存",
+    "Text": "Dedication",
+    "Japanese": "献身",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2796,
     "Lvl": 7,
-    "Text": "Decorative",
-    "Japanese": "装飾的",
+    "Text": "Delegation",
+    "Japanese": "代表団",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2797,
     "Lvl": 7,
-    "Text": "Dedication",
-    "Japanese": "献身",
+    "Text": "Everything",
+    "Japanese": "すべて",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2798,
     "Lvl": 7,
-    "Text": "Delegation",
-    "Japanese": "代表団",
+    "Text": "Experience",
+    "Japanese": "経験",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2799,
     "Lvl": 7,
-    "Text": "Everything",
-    "Japanese": "すべて",
+    "Text": "Evaluation",
+    "Japanese": "評価",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2800,
     "Lvl": 7,
-    "Text": "Experience",
-    "Japanese": "経験",
+    "Text": "Expression",
+    "Japanese": "表現",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2801,
     "Lvl": 7,
-    "Text": "Evaluation",
-    "Japanese": "評価",
+    "Text": "Electronic",
+    "Japanese": "電子",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2802,
     "Lvl": 7,
-    "Text": "Expression",
-    "Japanese": "表現",
+    "Text": "Enrollment",
+    "Japanese": "登録",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2803,
     "Lvl": 7,
-    "Text": "Electronic",
-    "Japanese": "電子",
+    "Text": "Employment",
+    "Japanese": "雇用",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2804,
     "Lvl": 7,
-    "Text": "Enrollment",
-    "Japanese": "登録",
+    "Text": "Efficiency",
+    "Japanese": "効率",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2805,
     "Lvl": 7,
-    "Text": "Employment",
-    "Japanese": "雇用",
+    "Text": "Equivalent",
+    "Japanese": "同等",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2806,
     "Lvl": 7,
-    "Text": "Efficiency",
-    "Japanese": "効率",
+    "Text": "Foundation",
+    "Japanese": "財団",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2807,
     "Lvl": 7,
-    "Text": "Equivalent",
-    "Japanese": "同等",
+    "Text": "Friendship",
+    "Japanese": "友情",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2808,
     "Lvl": 7,
-    "Text": "Foundation",
-    "Japanese": "財団",
+    "Text": "Functional",
+    "Japanese": "機能的",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2809,
     "Lvl": 7,
-    "Text": "Friendship",
-    "Japanese": "友情",
+    "Text": "Federation",
+    "Japanese": "フェデレーション",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2810,
     "Lvl": 7,
-    "Text": "Functional",
-    "Japanese": "機能的",
+    "Text": "Fascinated",
+    "Japanese": "魅了された",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2811,
     "Lvl": 7,
-    "Text": "Federation",
-    "Japanese": "フェデレーション",
+    "Text": "Filtration",
+    "Japanese": "濾過",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2812,
     "Lvl": 7,
-    "Text": "Fascinated",
-    "Japanese": "魅了された",
+    "Text": "Furnishing",
+    "Japanese": "提供",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2813,
     "Lvl": 7,
-    "Text": "Filtration",
-    "Japanese": "濾過",
+    "Text": "Facilitate",
+    "Japanese": "促進する",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2814,
     "Lvl": 7,
-    "Text": "Furnishing",
-    "Japanese": "提供",
+    "Text": "Generation",
+    "Japanese": "世代",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2815,
     "Lvl": 7,
-    "Text": "Facilitate",
-    "Japanese": "促進する",
+    "Text": "Government",
+    "Japanese": "政府",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2816,
     "Lvl": 7,
-    "Text": "Generation",
-    "Japanese": "世代",
+    "Text": "Graduation",
+    "Japanese": "卒業",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2817,
     "Lvl": 7,
-    "Text": "Government",
-    "Japanese": "政府",
+    "Text": "Guidelines",
+    "Japanese": "ガイドライン",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2818,
     "Lvl": 7,
-    "Text": "Graduation",
-    "Japanese": "卒業",
+    "Text": "Greenhouse",
+    "Japanese": "温室",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2819,
     "Lvl": 7,
-    "Text": "Guidelines",
-    "Japanese": "ガイドライン",
+    "Text": "Groundwork",
+    "Japanese": "下地",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2820,
     "Lvl": 7,
-    "Text": "Greenhouse",
-    "Japanese": "温室",
+    "Text": "Gracefully",
+    "Japanese": "優雅に",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2821,
     "Lvl": 7,
-    "Text": "Groundwork",
-    "Japanese": "下地",
+    "Text": "Gatherings",
+    "Japanese": "集会",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2822,
     "Lvl": 7,
-    "Text": "Gracefully",
-    "Japanese": "優雅に",
+    "Text": "Goalkeeper",
+    "Japanese": "ゴールキーパー",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2823,
     "Lvl": 7,
-    "Text": "Gatherings",
-    "Japanese": "集会",
+    "Text": "Goldsmiths",
+    "Japanese": "ゴールドスミス",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2824,
     "Lvl": 7,
-    "Text": "Goalkeeper",
-    "Japanese": "ゴールキーパー",
+    "Text": "Historical",
+    "Japanese": "歴史的",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2825,
     "Lvl": 7,
-    "Text": "Goldsmiths",
-    "Japanese": "ゴールドスミス",
+    "Text": "Households",
+    "Japanese": "世帯",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2826,
     "Lvl": 7,
-    "Text": "Historical",
-    "Japanese": "歴史的",
+    "Text": "Healthcare",
+    "Japanese": "健康管理",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2827,
     "Lvl": 7,
-    "Text": "Households",
-    "Japanese": "世帯",
+    "Text": "Helplessly",
+    "Japanese": "どうしようもなく",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2828,
     "Lvl": 7,
-    "Text": "Healthcare",
-    "Japanese": "健康管理",
+    "Text": "Harmonized",
+    "Japanese": "調和",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2829,
     "Lvl": 7,
-    "Text": "Helplessly",
-    "Japanese": "どうしようもなく",
+    "Text": "Heartbeats",
+    "Japanese": "心臓の鼓動",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2830,
     "Lvl": 7,
-    "Text": "Harmonized",
-    "Japanese": "調和",
+    "Text": "Humanities",
+    "Japanese": "人文科学",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2831,
     "Lvl": 7,
-    "Text": "Heartbeats",
-    "Japanese": "心臓の鼓動",
+    "Text": "Hypothesis",
+    "Japanese": "仮説",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2832,
     "Lvl": 7,
-    "Text": "Humanities",
-    "Japanese": "人文科学",
+    "Text": "Importance",
+    "Japanese": "重要性",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2833,
     "Lvl": 7,
-    "Text": "Hypothesis",
-    "Japanese": "仮説",
+    "Text": "Innovation",
+    "Japanese": "革新",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2834,
     "Lvl": 7,
-    "Text": "Importance",
-    "Japanese": "重要性",
+    "Text": "Investment",
+    "Japanese": "投資",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2835,
     "Lvl": 7,
-    "Text": "Innovation",
-    "Japanese": "革新",
+    "Text": "Inspection",
+    "Japanese": "検査",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2836,
     "Lvl": 7,
-    "Text": "Investment",
-    "Japanese": "投資",
+    "Text": "Instructor",
+    "Japanese": "インストラクター",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2837,
     "Lvl": 7,
-    "Text": "Inspection",
-    "Japanese": "検査",
+    "Text": "Influences",
+    "Japanese": "影響",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2838,
     "Lvl": 7,
-    "Text": "Instructor",
-    "Japanese": "インストラクター",
+    "Text": "Interviews",
+    "Japanese": "インタビュー",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2839,
     "Lvl": 7,
-    "Text": "Influences",
-    "Japanese": "影響",
+    "Text": "Improvised",
+    "Japanese": "即興",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2840,
     "Lvl": 7,
-    "Text": "Interviews",
-    "Japanese": "インタビュー",
+    "Text": "Journalism",
+    "Japanese": "ジャーナリズム",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2841,
     "Lvl": 7,
-    "Text": "Improvised",
-    "Japanese": "即興",
+    "Text": "Justifying",
+    "Japanese": "正当化する",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2842,
     "Lvl": 7,
-    "Text": "Journalism",
-    "Japanese": "ジャーナリズム",
+    "Text": "Juxtaposed",
+    "Japanese": "並置された",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2843,
     "Lvl": 7,
-    "Text": "Justifying",
-    "Japanese": "正当化する",
+    "Text": "Jellybeans",
+    "Japanese": "ジェリービーンズ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2844,
     "Lvl": 7,
-    "Text": "Juxtaposed",
-    "Japanese": "並置された",
+    "Text": "Jovialness",
+    "Japanese": "陽気さ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2845,
     "Lvl": 7,
-    "Text": "Jellybeans",
-    "Japanese": "ジェリービーンズ",
+    "Text": "Judicially",
+    "Japanese": "司法的に",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2846,
     "Lvl": 7,
-    "Text": "Jovialness",
-    "Japanese": "陽気さ",
+    "Text": "Jargonized",
+    "Japanese": "専門用語で",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2847,
     "Lvl": 7,
-    "Text": "Judicially",
-    "Japanese": "司法的に",
+    "Text": "Joyfulness",
+    "Japanese": "喜び",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2848,
     "Lvl": 7,
-    "Text": "Jargonized",
-    "Japanese": "専門用語で",
+    "Text": "Kickboxing",
+    "Japanese": "キックボクシング",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2849,
     "Lvl": 7,
-    "Text": "Joyfulness",
-    "Japanese": "喜び",
+    "Text": "Leadership",
+    "Japanese": "リーダーシップ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2850,
     "Lvl": 7,
-    "Text": "Kickboxing",
-    "Japanese": "キックボクシング",
+    "Text": "Literature",
+    "Japanese": "文学",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2851,
     "Lvl": 7,
-    "Text": "Leadership",
-    "Japanese": "リーダーシップ",
+    "Text": "Likelihood",
+    "Japanese": "可能性",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2852,
     "Lvl": 7,
-    "Text": "Literature",
-    "Japanese": "文学",
+    "Text": "Longitudes",
+    "Japanese": "経度",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2853,
     "Lvl": 7,
-    "Text": "Likelihood",
-    "Japanese": "可能性",
+    "Text": "Labyrinths",
+    "Japanese": "迷路",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2854,
     "Lvl": 7,
-    "Text": "Longitudes",
-    "Japanese": "経度",
+    "Text": "Landscapes",
+    "Japanese": "風景",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2855,
     "Lvl": 7,
-    "Text": "Labyrinths",
-    "Japanese": "迷路",
+    "Text": "Lifeguards",
+    "Japanese": "ライフガード",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2856,
     "Lvl": 7,
-    "Text": "Landscapes",
-    "Japanese": "風景",
+    "Text": "Management",
+    "Japanese": "管理",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2857,
     "Lvl": 7,
-    "Text": "Lifeguards",
-    "Japanese": "ライフガード",
+    "Text": "Motivation",
+    "Japanese": "モチベーション",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2858,
     "Lvl": 7,
-    "Text": "Management",
-    "Japanese": "管理",
+    "Text": "Monitoring",
+    "Japanese": "監視",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2859,
     "Lvl": 7,
-    "Text": "Motivation",
-    "Japanese": "モチベーション",
+    "Text": "Membership",
+    "Japanese": "会員",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2860,
     "Lvl": 7,
-    "Text": "Monitoring",
-    "Japanese": "監視",
+    "Text": "Mastermind",
+    "Japanese": "首謀者",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2861,
     "Lvl": 7,
-    "Text": "Membership",
-    "Japanese": "会員",
+    "Text": "Microphone",
+    "Japanese": "マイクロフォン",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2862,
     "Lvl": 7,
-    "Text": "Mastermind",
-    "Japanese": "首謀者",
+    "Text": "Milestones",
+    "Japanese": "マイルストーン",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2863,
     "Lvl": 7,
-    "Text": "Microphone",
-    "Japanese": "マイクロフォン",
+    "Text": "Modernized",
+    "Japanese": "近代化された",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2864,
     "Lvl": 7,
-    "Text": "Milestones",
-    "Japanese": "マイルストーン",
+    "Text": "Navigation",
+    "Japanese": "ナビゲーション",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2865,
     "Lvl": 7,
-    "Text": "Modernized",
-    "Japanese": "近代化された",
+    "Text": "Nationwide",
+    "Japanese": "全国",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2866,
     "Lvl": 7,
-    "Text": "Navigation",
-    "Japanese": "ナビゲーション",
+    "Text": "Newsletter",
+    "Japanese": "ニュースレター",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2867,
     "Lvl": 7,
-    "Text": "Nationwide",
-    "Japanese": "全国",
+    "Text": "Noteworthy",
+    "Japanese": "注目すべき",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2868,
     "Lvl": 7,
-    "Text": "Newsletter",
-    "Japanese": "ニュースレター",
+    "Text": "Numberless",
+    "Japanese": "数えきれないほど",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2869,
     "Lvl": 7,
-    "Text": "Noteworthy",
-    "Japanese": "注目すべき",
+    "Text": "Nightshift",
+    "Japanese": "夜勤",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2870,
     "Lvl": 7,
-    "Text": "Numberless",
-    "Japanese": "数えきれないほど",
+    "Text": "Narratives",
+    "Japanese": "物語",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2871,
     "Lvl": 7,
-    "Text": "Nightshift",
-    "Japanese": "夜勤",
+    "Text": "Operations",
+    "Japanese": "業務",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2872,
     "Lvl": 7,
-    "Text": "Narratives",
-    "Japanese": "物語",
+    "Text": "Occupation",
+    "Japanese": "職業",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2873,
     "Lvl": 7,
-    "Text": "Operations",
-    "Japanese": "業務",
+    "Text": "Overloaded",
+    "Japanese": "過負荷",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2874,
     "Lvl": 7,
-    "Text": "Occupation",
-    "Japanese": "職業",
+    "Text": "Overlooked",
+    "Japanese": "見落とされている",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2875,
     "Lvl": 7,
-    "Text": "Overloaded",
-    "Japanese": "過負荷",
+    "Text": "Production",
+    "Japanese": "生産",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2876,
     "Lvl": 7,
-    "Text": "Overlooked",
-    "Japanese": "見落とされている",
+    "Text": "Processing",
+    "Japanese": "処理",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2877,
     "Lvl": 7,
-    "Text": "Production",
-    "Japanese": "生産",
+    "Text": "Prediction",
+    "Japanese": "予測",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2878,
     "Lvl": 7,
-    "Text": "Processing",
-    "Japanese": "処理",
+    "Text": "Proportion",
+    "Japanese": "割合",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2879,
     "Lvl": 7,
-    "Text": "Prediction",
-    "Japanese": "予測",
+    "Text": "Permission",
+    "Japanese": "許可",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2880,
     "Lvl": 7,
-    "Text": "Proportion",
-    "Japanese": "割合",
+    "Text": "Population",
+    "Japanese": "人口",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2881,
     "Lvl": 7,
-    "Text": "Permission",
-    "Japanese": "許可",
+    "Text": "Quarantine",
+    "Japanese": "検疫",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2882,
     "Lvl": 7,
-    "Text": "Population",
-    "Japanese": "人口",
+    "Text": "Quickening",
+    "Japanese": "加速",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2883,
     "Lvl": 7,
-    "Text": "Quarantine",
-    "Japanese": "検疫",
+    "Text": "Questioned",
+    "Japanese": "質問された",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2884,
     "Lvl": 7,
-    "Text": "Quickening",
-    "Japanese": "加速",
+    "Text": "Quadratics",
+    "Japanese": "二次方程式",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2885,
     "Lvl": 7,
-    "Text": "Questioned",
-    "Japanese": "質問された",
+    "Text": "Regulation",
+    "Japanese": "規制",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2886,
     "Lvl": 7,
-    "Text": "Quadratics",
-    "Japanese": "二次方程式",
+    "Text": "Reputation",
+    "Japanese": "評判",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2887,
     "Lvl": 7,
-    "Text": "Regulation",
-    "Japanese": "規制",
+    "Text": "Resolution",
+    "Japanese": "解決",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2888,
     "Lvl": 7,
-    "Text": "Reputation",
-    "Japanese": "評判",
+    "Text": "Reflection",
+    "Japanese": "反射",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2889,
     "Lvl": 7,
-    "Text": "Resolution",
-    "Japanese": "解決",
+    "Text": "Revolution",
+    "Japanese": "回転",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2890,
     "Lvl": 7,
-    "Text": "Reflection",
-    "Japanese": "反射",
+    "Text": "Relocation",
+    "Japanese": "転居",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2891,
     "Lvl": 7,
-    "Text": "Revolution",
-    "Japanese": "回転",
+    "Text": "Recreation",
+    "Japanese": "レクリエーション",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2892,
     "Lvl": 7,
-    "Text": "Relocation",
-    "Japanese": "転居",
+    "Text": "Reinforced",
+    "Japanese": "強化",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2893,
     "Lvl": 7,
-    "Text": "Recreation",
-    "Japanese": "レクリエーション",
+    "Text": "Statistics",
+    "Japanese": "統計",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2894,
     "Lvl": 7,
-    "Text": "Reinforced",
-    "Japanese": "強化",
+    "Text": "Transforms",
+    "Japanese": "変換する",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2895,
     "Lvl": 7,
-    "Text": "Statistics",
-    "Japanese": "統計",
+    "Text": "Technology",
+    "Japanese": "テクノロジー",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2896,
     "Lvl": 7,
-    "Text": "Transforms",
-    "Japanese": "変換する",
+    "Text": "Tournament",
+    "Japanese": "トーナメント",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2897,
     "Lvl": 7,
-    "Text": "Technology",
-    "Japanese": "テクノロジー",
+    "Text": "Television",
+    "Japanese": "テレビ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2898,
     "Lvl": 7,
-    "Text": "Tournament",
-    "Japanese": "トーナメント",
+    "Text": "Tremendous",
+    "Japanese": "途方もない",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2899,
     "Lvl": 7,
-    "Text": "Television",
-    "Japanese": "テレビ",
+    "Text": "Tolerances",
+    "Japanese": "許容誤差",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2900,
     "Lvl": 7,
-    "Text": "Tremendous",
-    "Japanese": "途方もない",
+    "Text": "Transistor",
+    "Japanese": "トランジスタ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2901,
     "Lvl": 7,
-    "Text": "Tolerances",
-    "Japanese": "許容誤差",
+    "Text": "Transports",
+    "Japanese": "輸送",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2902,
     "Lvl": 7,
-    "Text": "Transistor",
-    "Japanese": "トランジスタ",
+    "Text": "Treatments",
+    "Japanese": "治療法",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2903,
     "Lvl": 7,
-    "Text": "Transports",
-    "Japanese": "輸送",
+    "Text": "Thresholds",
+    "Japanese": "しきい値",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2904,
     "Lvl": 7,
-    "Text": "Treatments",
-    "Japanese": "治療法",
+    "Text": "Trajectory",
+    "Japanese": "軌跡",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2905,
     "Lvl": 7,
-    "Text": "Thresholds",
-    "Japanese": "しきい値",
+    "Text": "Turbulence",
+    "Japanese": "乱流",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2906,
     "Lvl": 7,
-    "Text": "Trajectory",
-    "Japanese": "軌跡",
+    "Text": "Turnaround",
+    "Japanese": "振り向く",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2907,
     "Lvl": 7,
-    "Text": "Turbulence",
-    "Japanese": "乱流",
+    "Text": "Understand",
+    "Japanese": "理解する",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2908,
     "Lvl": 7,
-    "Text": "Turnaround",
-    "Japanese": "振り向く",
+    "Text": "Undertaken",
+    "Japanese": "実施",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2909,
     "Lvl": 7,
-    "Text": "Understand",
-    "Japanese": "理解する",
+    "Text": "Underlying",
+    "Japanese": "基礎",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2910,
     "Lvl": 7,
-    "Text": "Undertaken",
-    "Japanese": "実施",
+    "Text": "Unpleasant",
+    "Japanese": "不快",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2911,
     "Lvl": 7,
-    "Text": "Underlying",
-    "Japanese": "基礎",
+    "Text": "Unofficial",
+    "Japanese": "非公式",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2912,
     "Lvl": 7,
-    "Text": "Unpleasant",
-    "Japanese": "不快",
+    "Text": "Unbalanced",
+    "Japanese": "不均衡",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2913,
     "Lvl": 7,
-    "Text": "Unofficial",
-    "Japanese": "非公式",
+    "Text": "Unfamiliar",
+    "Japanese": "馴染みのない",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2914,
     "Lvl": 7,
-    "Text": "Unbalanced",
-    "Japanese": "不均衡",
+    "Text": "Unbeliever",
+    "Japanese": "無信者",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2915,
     "Lvl": 7,
-    "Text": "Unfamiliar",
-    "Japanese": "馴染みのない",
+    "Text": "Unthinking",
+    "Japanese": "考えずに",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2916,
     "Lvl": 7,
-    "Text": "Unbeliever",
-    "Japanese": "無信者",
+    "Text": "Unemployed",
+    "Japanese": "失業者",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2917,
     "Lvl": 7,
-    "Text": "Unthinking",
-    "Japanese": "考えずに",
+    "Text": "Unreliable",
+    "Japanese": "信頼できない",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2918,
     "Lvl": 7,
-    "Text": "Unemployed",
-    "Japanese": "失業者",
+    "Text": "Unresolved",
+    "Japanese": "未解決",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2919,
     "Lvl": 7,
-    "Text": "Unreliable",
-    "Japanese": "信頼できない",
+    "Text": "Unorthodox",
+    "Japanese": "型破り",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2920,
     "Lvl": 7,
-    "Text": "Unresolved",
-    "Japanese": "未解決",
+    "Text": "Validation",
+    "Japanese": "検証",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2921,
     "Lvl": 7,
-    "Text": "Unorthodox",
-    "Japanese": "型破り",
+    "Text": "Ventilator",
+    "Japanese": "人工呼吸器",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2922,
     "Lvl": 7,
-    "Text": "Validation",
-    "Japanese": "検証",
+    "Text": "Vegetation",
+    "Japanese": "植生",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2923,
     "Lvl": 7,
-    "Text": "Ventilator",
-    "Japanese": "人工呼吸器",
+    "Text": "Vocabulary",
+    "Japanese": "語彙",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2924,
     "Lvl": 7,
-    "Text": "Vegetation",
-    "Japanese": "植生",
+    "Text": "Volatility",
+    "Japanese": "変動性",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2925,
     "Lvl": 7,
-    "Text": "Vocabulary",
-    "Japanese": "語彙",
+    "Text": "Visibility",
+    "Japanese": "可視性",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2926,
     "Lvl": 7,
-    "Text": "Volatility",
-    "Japanese": "変動性",
+    "Text": "Vindicator",
+    "Japanese": "ヴィンディケーター",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2927,
     "Lvl": 7,
-    "Text": "Visibility",
-    "Japanese": "可視性",
+    "Text": "Vigilantes",
+    "Japanese": "自警団",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2928,
     "Lvl": 7,
-    "Text": "Vindicator",
-    "Japanese": "ヴィンディケーター",
+    "Text": "Waterproof",
+    "Japanese": "防水",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2929,
     "Lvl": 7,
-    "Text": "Vigilantes",
-    "Japanese": "自警団",
+    "Text": "Withdrawal",
+    "Japanese": "撤退",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2930,
     "Lvl": 7,
-    "Text": "Waterproof",
-    "Japanese": "防水",
+    "Text": "Workaholic",
+    "Japanese": "仕事中毒",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2931,
     "Lvl": 7,
-    "Text": "Withdrawal",
-    "Japanese": "撤退",
+    "Text": "Wavelength",
+    "Japanese": "波長",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2932,
     "Lvl": 7,
-    "Text": "Workaholic",
-    "Japanese": "仕事中毒",
+    "Text": "Widespread",
+    "Japanese": "広範囲にわたる",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2933,
     "Lvl": 7,
-    "Text": "Wavelength",
-    "Japanese": "波長",
+    "Text": "Wheelchair",
+    "Japanese": "車椅子",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2934,
     "Lvl": 7,
-    "Text": "Widespread",
-    "Japanese": "広範囲にわたる",
+    "Text": "Whitespace",
+    "Japanese": "空白",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2935,
     "Lvl": 7,
-    "Text": "Wheelchair",
-    "Japanese": "車椅子",
+    "Text": "Woodworker",
+    "Japanese": "木工職人",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2936,
     "Lvl": 7,
-    "Text": "Whitespace",
-    "Japanese": "空白",
+    "Text": "Watchtower",
+    "Japanese": "ものみの塔",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2937,
     "Lvl": 7,
-    "Text": "Woodworker",
-    "Japanese": "木工職人",
+    "Text": "Waterborne",
+    "Japanese": "水系",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2938,
     "Lvl": 7,
-    "Text": "Watchtower",
-    "Japanese": "ものみの塔",
+    "Text": "Xenophobia",
+    "Japanese": "外国人嫌悪",
+    "isSafe": false,
     "Len": 10
   },
   {
     "Id": 2939,
     "Lvl": 7,
-    "Text": "Waterborne",
-    "Japanese": "水系",
+    "Text": "Xenolithic",
+    "Japanese": "異石器",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2940,
     "Lvl": 7,
-    "Text": "Xenophobia",
-    "Japanese": "外国人嫌悪",
+    "Text": "Xenobiotic",
+    "Japanese": "異種生体",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2941,
     "Lvl": 7,
-    "Text": "Xenolithic",
-    "Japanese": "異石器時代の",
+    "Text": "Xylophones",
+    "Japanese": "木琴",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2942,
     "Lvl": 7,
-    "Text": "Xenobiotic",
-    "Japanese": "異種生体",
+    "Text": "Xanthation",
+    "Japanese": "キサントゲン",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2943,
     "Lvl": 7,
-    "Text": "Xylophones",
-    "Japanese": "木琴",
+    "Text": "Xenocrysts",
+    "Japanese": "異種結晶",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2944,
     "Lvl": 7,
-    "Text": "Xanthation",
-    "Japanese": "キサントゲン",
+    "Text": "Xerophytic",
+    "Japanese": "乾燥地性",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2945,
     "Lvl": 7,
-    "Text": "Xenocrysts",
-    "Japanese": "異種結晶",
+    "Text": "Yellowtail",
+    "Japanese": "ブリ",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2946,
     "Lvl": 7,
-    "Text": "Xerophytic",
-    "Japanese": "乾燥地性",
+    "Text": "Yieldingly",
+    "Japanese": "従順に",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2947,
     "Lvl": 7,
-    "Text": "Yellowtail",
-    "Japanese": "ブリ",
+    "Text": "Ytterbiums",
+    "Japanese": "イッテルビウム",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2948,
     "Lvl": 7,
-    "Text": "Yieldingly",
-    "Japanese": "従順に",
+    "Text": "Zookeepers",
+    "Japanese": "動物園の飼育員",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2949,
     "Lvl": 7,
-    "Text": "Ytterbiums",
-    "Japanese": "イッテルビウム",
+    "Text": "Zoological",
+    "Japanese": "動物学",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2950,
     "Lvl": 7,
-    "Text": "Zookeepers",
-    "Japanese": "動物園の飼育員",
+    "Text": "Zoologists",
+    "Japanese": "動物学者",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2951,
     "Lvl": 7,
-    "Text": "Zoological",
-    "Japanese": "動物学",
+    "Text": "Zymologist",
+    "Japanese": "酵素学者",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2952,
     "Lvl": 7,
-    "Text": "Zoologists",
-    "Japanese": "動物学者",
+    "Text": "Zymologies",
+    "Japanese": "酵素学",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2953,
     "Lvl": 7,
-    "Text": "Zymologist",
-    "Japanese": "酵素学者",
+    "Text": "Zirconiums",
+    "Japanese": "ジルコニウム",
+    "isSafe": true,
     "Len": 10
   },
   {
     "Id": 2954,
-    "Lvl": 7,
-    "Text": "Zymologies",
-    "Japanese": "酵素学",
-    "Len": 10
+    "Lvl": 8,
+    "Text": "Abandonment",
+    "Japanese": "放棄",
+    "isSafe": true,
+    "Len": 11
   },
   {
     "Id": 2955,
-    "Lvl": 7,
-    "Text": "Zirconiums",
-    "Japanese": "ジルコニウム",
-    "Len": 10
+    "Lvl": 8,
+    "Text": "Abolishment",
+    "Japanese": "廃止",
+    "isSafe": true,
+    "Len": 11
   },
   {
     "Id": 2956,
     "Lvl": 8,
-    "Text": "Abandonment",
-    "Japanese": "放棄",
+    "Text": "Abbreviated",
+    "Japanese": "略語",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2957,
     "Lvl": 8,
-    "Text": "Abolishment",
-    "Japanese": "廃止",
+    "Text": "Absorbingly",
+    "Japanese": "夢中になって",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2958,
     "Lvl": 8,
-    "Text": "Abbreviated",
-    "Japanese": "略語",
+    "Text": "Accelerated",
+    "Japanese": "加速",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2959,
     "Lvl": 8,
-    "Text": "Absorbingly",
-    "Japanese": "夢中になって",
+    "Text": "Acclimation",
+    "Japanese": "順化",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2960,
     "Lvl": 8,
-    "Text": "Accelerated",
-    "Japanese": "加速",
+    "Text": "Accompanied",
+    "Japanese": "同伴",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2961,
     "Lvl": 8,
-    "Text": "Acclimation",
-    "Japanese": "順化",
+    "Text": "Accountable",
+    "Japanese": "責任を負います",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2962,
     "Lvl": 8,
-    "Text": "Accompanied",
-    "Japanese": "同伴",
+    "Text": "Achievement",
+    "Japanese": "成果",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2963,
     "Lvl": 8,
-    "Text": "Accountable",
-    "Japanese": "責任を負います",
+    "Text": "Acknowledge",
+    "Japanese": "認める",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2964,
     "Lvl": 8,
-    "Text": "Achievement",
-    "Japanese": "成果",
+    "Text": "Backgrounds",
+    "Japanese": "背景",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2965,
     "Lvl": 8,
-    "Text": "Acknowledge",
-    "Japanese": "認める",
+    "Text": "Beneficiary",
+    "Japanese": "受益者",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2966,
     "Lvl": 8,
-    "Text": "Backgrounds",
-    "Japanese": "背景",
+    "Text": "Blacksmiths",
+    "Japanese": "鍛冶屋",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2967,
     "Lvl": 8,
-    "Text": "Beneficiary",
-    "Japanese": "受益者",
+    "Text": "Butterflies",
+    "Japanese": "蝶",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2968,
     "Lvl": 8,
-    "Text": "Blacksmiths",
-    "Japanese": "鍛冶屋",
+    "Text": "Businessman",
+    "Japanese": "実業家",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2969,
     "Lvl": 8,
-    "Text": "Butterflies",
-    "Japanese": "蝶",
+    "Text": "Belongingly",
+    "Japanese": "所属する",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2970,
     "Lvl": 8,
-    "Text": "Businessman",
-    "Japanese": "実業家",
+    "Text": "Bittersweet",
+    "Japanese": "ほろ苦い",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2971,
     "Lvl": 8,
-    "Text": "Belongingly",
-    "Japanese": "所属する",
+    "Text": "Calculating",
+    "Japanese": "計算中",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2972,
     "Lvl": 8,
-    "Text": "Bittersweet",
-    "Japanese": "ほろ苦い",
+    "Text": "Celebration",
+    "Japanese": "お祝い",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2973,
     "Lvl": 8,
-    "Text": "Calculating",
-    "Japanese": "計算中",
+    "Text": "Challenging",
+    "Japanese": "挑戦的",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2974,
     "Lvl": 8,
-    "Text": "Celebration",
-    "Japanese": "お祝い",
+    "Text": "Circulation",
+    "Japanese": "循環",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2975,
     "Lvl": 8,
-    "Text": "Challenging",
-    "Japanese": "挑戦的",
+    "Text": "Collapsible",
+    "Japanese": "折りたたみ式",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2976,
     "Lvl": 8,
-    "Text": "Circulation",
-    "Japanese": "循環",
+    "Text": "Comfortable",
+    "Japanese": "快適",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2977,
     "Lvl": 8,
-    "Text": "Collapsible",
-    "Japanese": "折りたたみ式",
+    "Text": "Committable",
+    "Japanese": "投獄可能",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 2978,
     "Lvl": 8,
-    "Text": "Comfortable",
-    "Japanese": "快適",
+    "Text": "Declaration",
+    "Japanese": "宣言",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2979,
     "Lvl": 8,
-    "Text": "Committable",
-    "Japanese": "投獄可能",
+    "Text": "Decorations",
+    "Japanese": "装飾品",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2980,
     "Lvl": 8,
-    "Text": "Declaration",
-    "Japanese": "宣言",
+    "Text": "Deliberated",
+    "Japanese": "熟慮した",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2981,
     "Lvl": 8,
-    "Text": "Decorations",
-    "Japanese": "装飾品",
+    "Text": "Demonstrate",
+    "Japanese": "実演する",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2982,
     "Lvl": 8,
-    "Text": "Deliberated",
-    "Japanese": "熟慮した",
+    "Text": "Dependently",
+    "Japanese": "依存的に",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2983,
     "Lvl": 8,
-    "Text": "Demonstrate",
-    "Japanese": "実演する",
+    "Text": "Descriptive",
+    "Japanese": "記述的",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2984,
     "Lvl": 8,
-    "Text": "Dependently",
-    "Japanese": "依存的に",
+    "Text": "Development",
+    "Japanese": "発達",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2985,
     "Lvl": 8,
-    "Text": "Descriptive",
-    "Japanese": "記述的",
+    "Text": "Educational",
+    "Japanese": "教育",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2986,
     "Lvl": 8,
-    "Text": "Development",
-    "Japanese": "発達",
+    "Text": "Effectively",
+    "Japanese": "効果的に",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2987,
     "Lvl": 8,
-    "Text": "Educational",
-    "Japanese": "教育",
+    "Text": "Elaborately",
+    "Japanese": "精巧に",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2988,
     "Lvl": 8,
-    "Text": "Effectively",
-    "Japanese": "効果的に",
+    "Text": "Electricity",
+    "Japanese": "電気",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2989,
     "Lvl": 8,
-    "Text": "Elaborately",
-    "Japanese": "精巧に",
+    "Text": "Elimination",
+    "Japanese": "排除",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2990,
     "Lvl": 8,
-    "Text": "Electricity",
-    "Japanese": "電気",
+    "Text": "Embarrassed",
+    "Japanese": "恥ずかしい",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2991,
     "Lvl": 8,
-    "Text": "Elimination",
-    "Japanese": "排除",
+    "Text": "Emphasizing",
+    "Japanese": "強調する",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2992,
     "Lvl": 8,
-    "Text": "Embarrassed",
-    "Japanese": "恥ずかしい",
+    "Text": "Encouraging",
+    "Japanese": "励みになる",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2993,
     "Lvl": 8,
-    "Text": "Emphasizing",
-    "Japanese": "強調する",
+    "Text": "Facilitated",
+    "Japanese": "促進した",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2994,
     "Lvl": 8,
-    "Text": "Encouraging",
-    "Japanese": "励みになる",
+    "Text": "Fascination",
+    "Japanese": "魅力",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2995,
     "Lvl": 8,
-    "Text": "Facilitated",
-    "Japanese": "促進した",
+    "Text": "Federations",
+    "Japanese": "連盟",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2996,
     "Lvl": 8,
-    "Text": "Fascination",
-    "Japanese": "魅力",
+    "Text": "Fertilizing",
+    "Japanese": "施肥",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2997,
     "Lvl": 8,
-    "Text": "Federations",
-    "Japanese": "連盟",
+    "Text": "Flexibility",
+    "Japanese": "柔軟性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2998,
     "Lvl": 8,
-    "Text": "Fertilizing",
-    "Japanese": "施肥",
+    "Text": "Fluctuation",
+    "Japanese": "変動",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 2999,
     "Lvl": 8,
-    "Text": "Flexibility",
-    "Japanese": "柔軟性",
+    "Text": "Formulation",
+    "Japanese": "製剤",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3000,
     "Lvl": 8,
-    "Text": "Fluctuation",
-    "Japanese": "変動",
+    "Text": "Friendships",
+    "Japanese": "友情",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3001,
     "Lvl": 8,
-    "Text": "Formulation",
-    "Japanese": "製剤",
+    "Text": "Generations",
+    "Japanese": "世代",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3002,
     "Lvl": 8,
-    "Text": "Friendships",
-    "Japanese": "友情",
+    "Text": "Graduations",
+    "Japanese": "卒業式",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3003,
     "Lvl": 8,
-    "Text": "Generations",
-    "Japanese": "世代",
+    "Text": "Grandiosity",
+    "Japanese": "誇大性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3004,
     "Lvl": 8,
-    "Text": "Graduations",
-    "Japanese": "卒業式",
+    "Text": "Hospitality",
+    "Japanese": "ホスピタリティ",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3005,
     "Lvl": 8,
-    "Text": "Grandiosity",
-    "Japanese": "誇大性",
+    "Text": "Imagination",
+    "Japanese": "想像",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3006,
     "Lvl": 8,
-    "Text": "Hospitality",
-    "Japanese": "ホスピタリティ",
+    "Text": "Immigration",
+    "Japanese": "移民",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3007,
     "Lvl": 8,
-    "Text": "Imagination",
-    "Japanese": "想像",
+    "Text": "Implication",
+    "Japanese": "意味",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3008,
     "Lvl": 8,
-    "Text": "Immigration",
-    "Japanese": "移民",
+    "Text": "Inaugurated",
+    "Japanese": "就任した",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3009,
     "Lvl": 8,
-    "Text": "Implication",
-    "Japanese": "意味",
+    "Text": "Independent",
+    "Japanese": "独立した",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3010,
     "Lvl": 8,
-    "Text": "Inaugurated",
-    "Japanese": "就任した",
+    "Text": "Journalisms",
+    "Japanese": "ジャーナリズム",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3011,
     "Lvl": 8,
-    "Text": "Independent",
-    "Japanese": "独立した",
+    "Text": "Legislation",
+    "Japanese": "法律",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3012,
     "Lvl": 8,
-    "Text": "Journalisms",
-    "Japanese": "ジャーナリズム",
+    "Text": "Measurement",
+    "Japanese": "測定",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3013,
     "Lvl": 8,
-    "Text": "Legislation",
-    "Japanese": "法律",
+    "Text": "Nationality",
+    "Japanese": "国籍",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3014,
     "Lvl": 8,
-    "Text": "Measurement",
-    "Japanese": "測定",
+    "Text": "Negotiation",
+    "Japanese": "交渉",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3015,
     "Lvl": 8,
-    "Text": "Nationality",
-    "Japanese": "国籍",
+    "Text": "Neighboring",
+    "Japanese": "近隣",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3016,
     "Lvl": 8,
-    "Text": "Negotiation",
-    "Japanese": "交渉",
+    "Text": "Nervousness",
+    "Japanese": "神経質",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3017,
     "Lvl": 8,
-    "Text": "Neighboring",
-    "Japanese": "近隣",
+    "Text": "Networkable",
+    "Japanese": "ネットワーク接続可能",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3018,
     "Lvl": 8,
-    "Text": "Nervousness",
-    "Japanese": "神経質",
+    "Text": "Neutralizer",
+    "Japanese": "中和剤",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3019,
     "Lvl": 8,
-    "Text": "Networkable",
-    "Japanese": "ネットワーク接続可能",
+    "Text": "Nightmarish",
+    "Japanese": "悪夢のような",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3020,
     "Lvl": 8,
-    "Text": "Neutralizer",
-    "Japanese": "中和剤",
+    "Text": "Observation",
+    "Japanese": "観察",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3021,
     "Lvl": 8,
-    "Text": "Nightmarish",
-    "Japanese": "悪夢のような",
+    "Text": "Obstruction",
+    "Japanese": "妨害",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3022,
     "Lvl": 8,
-    "Text": "Observation",
-    "Japanese": "観察",
+    "Text": "Offensively",
+    "Japanese": "攻撃的に",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3023,
     "Lvl": 8,
-    "Text": "Obstruction",
-    "Japanese": "妨害",
+    "Text": "Officialdom",
+    "Japanese": "公式機関",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3024,
     "Lvl": 8,
-    "Text": "Offensively",
-    "Japanese": "攻撃的に",
+    "Text": "Opportunity",
+    "Japanese": "機会",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3025,
     "Lvl": 8,
-    "Text": "Officialdom",
-    "Japanese": "公式機関",
+    "Text": "Orientation",
+    "Japanese": "オリエンテーション",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3026,
     "Lvl": 8,
-    "Text": "Opportunity",
-    "Japanese": "機会",
+    "Text": "Outstanding",
+    "Japanese": "並外れた",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3027,
     "Lvl": 8,
-    "Text": "Orientation",
-    "Japanese": "オリエンテーション",
+    "Text": "Parallelism",
+    "Japanese": "並列構造",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3028,
     "Lvl": 8,
-    "Text": "Outstanding",
-    "Japanese": "並外れた",
+    "Text": "Participant",
+    "Japanese": "参加者",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3029,
     "Lvl": 8,
-    "Text": "Parallelism",
-    "Japanese": "並列構造",
+    "Text": "Particulars",
+    "Japanese": "詳細",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3030,
     "Lvl": 8,
-    "Text": "Participant",
-    "Japanese": "参加者",
+    "Text": "Performance",
+    "Japanese": "パフォーマンス",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3031,
     "Lvl": 8,
-    "Text": "Particulars",
-    "Japanese": "詳細",
+    "Text": "Personality",
+    "Japanese": "人格",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3032,
     "Lvl": 8,
-    "Text": "Performance",
-    "Japanese": "パフォーマンス",
+    "Text": "Perspective",
+    "Japanese": "視点",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3033,
     "Lvl": 8,
-    "Text": "Personality",
-    "Japanese": "人格",
+    "Text": "Photography",
+    "Japanese": "写真",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3034,
     "Lvl": 8,
-    "Text": "Perspective",
-    "Japanese": "視点",
+    "Text": "Possibility",
+    "Japanese": "可能性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3035,
     "Lvl": 8,
-    "Text": "Photography",
-    "Japanese": "写真",
+    "Text": "Preparation",
+    "Japanese": "準備",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3036,
     "Lvl": 8,
-    "Text": "Possibility",
-    "Japanese": "可能性",
+    "Text": "Programming",
+    "Japanese": "プログラミング",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3037,
     "Lvl": 8,
-    "Text": "Preparation",
-    "Japanese": "準備",
+    "Text": "Quadruplets",
+    "Japanese": "四つ子",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3038,
     "Lvl": 8,
-    "Text": "Programming",
-    "Japanese": "プログラミング",
+    "Text": "Qualitative",
+    "Japanese": "定性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3039,
     "Lvl": 8,
-    "Text": "Quadruplets",
-    "Japanese": "四つ子",
+    "Text": "Quantitying",
+    "Japanese": "数量",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3040,
     "Lvl": 8,
-    "Text": "Qualitative",
-    "Japanese": "定性",
+    "Text": "Quarrelsome",
+    "Japanese": "喧嘩好きな",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3041,
     "Lvl": 8,
-    "Text": "Quantitying",
-    "Japanese": "数量",
+    "Text": "Quarterback",
+    "Japanese": "クォーターバック",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3042,
     "Lvl": 8,
-    "Text": "Quarrelsome",
-    "Japanese": "喧嘩好きな",
+    "Text": "Quarterdeck",
+    "Japanese": "後甲板",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3043,
     "Lvl": 8,
-    "Text": "Quarterback",
-    "Japanese": "クォーターバック",
+    "Text": "Questioning",
+    "Japanese": "質問",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3044,
     "Lvl": 8,
-    "Text": "Quarterdeck",
-    "Japanese": "後甲板",
+    "Text": "Radiational",
+    "Japanese": "放射線",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3045,
     "Lvl": 8,
-    "Text": "Questioning",
-    "Japanese": "質問",
+    "Text": "Rationality",
+    "Japanese": "合理性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3046,
     "Lvl": 8,
-    "Text": "Radiational",
-    "Japanese": "放射線",
+    "Text": "Realization",
+    "Japanese": "実現",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3047,
     "Lvl": 8,
-    "Text": "Rationality",
-    "Japanese": "合理性",
+    "Text": "Recognition",
+    "Japanese": "認識",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3048,
     "Lvl": 8,
-    "Text": "Realization",
-    "Japanese": "実現",
+    "Text": "Reconstruct",
+    "Japanese": "再構築",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3049,
     "Lvl": 8,
-    "Text": "Recognition",
-    "Japanese": "認識",
+    "Text": "Redirection",
+    "Japanese": "リダイレクション",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3050,
     "Lvl": 8,
-    "Text": "Reconstruct",
-    "Japanese": "再構築",
+    "Text": "Refinerment",
+    "Japanese": "精製",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3051,
     "Lvl": 8,
-    "Text": "Redirection",
-    "Japanese": "リダイレクション",
+    "Text": "Replacement",
+    "Japanese": "交換",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3052,
     "Lvl": 8,
-    "Text": "Refinerment",
-    "Japanese": "精製",
+    "Text": "Requirement",
+    "Japanese": "要件",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3053,
     "Lvl": 8,
-    "Text": "Replacement",
-    "Japanese": "交換",
+    "Text": "Reservation",
+    "Japanese": "予約",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3054,
     "Lvl": 8,
-    "Text": "Requirement",
-    "Japanese": "要件",
+    "Text": "Sacrificial",
+    "Japanese": "犠牲",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3055,
     "Lvl": 8,
-    "Text": "Reservation",
-    "Japanese": "予約",
+    "Text": "Satisfactor",
+    "Japanese": "満足",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3056,
     "Lvl": 8,
-    "Text": "Sacrificial",
-    "Japanese": "犠牲",
+    "Text": "Scholarship",
+    "Japanese": "奨学金",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3057,
     "Lvl": 8,
-    "Text": "Satisfactor",
-    "Japanese": "満足",
+    "Text": "Secretarial",
+    "Japanese": "秘書業務",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3058,
     "Lvl": 8,
-    "Text": "Scholarship",
-    "Japanese": "奨学金",
+    "Text": "Sensitivity",
+    "Japanese": "感度",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3059,
     "Lvl": 8,
-    "Text": "Secretarial",
-    "Japanese": "秘書業務",
+    "Text": "Significant",
+    "Japanese": "重要な",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3060,
     "Lvl": 8,
-    "Text": "Sensitivity",
-    "Japanese": "感度",
+    "Text": "Speculation",
+    "Japanese": "投機",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3061,
     "Lvl": 8,
-    "Text": "Significant",
-    "Japanese": "重要な",
+    "Text": "Substantial",
+    "Japanese": "実質的な",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3062,
     "Lvl": 8,
-    "Text": "Speculation",
-    "Japanese": "投機",
+    "Text": "Supervision",
+    "Japanese": "監督",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3063,
     "Lvl": 8,
-    "Text": "Substantial",
-    "Japanese": "実質的な",
+    "Text": "Tablecloths",
+    "Japanese": "テーブルクロス",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3064,
     "Lvl": 8,
-    "Text": "Supervision",
-    "Japanese": "監督",
+    "Text": "Temperature",
+    "Japanese": "温度",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3065,
     "Lvl": 8,
-    "Text": "Tablecloths",
-    "Japanese": "テーブルクロス",
+    "Text": "Terminology",
+    "Japanese": "用語",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3066,
     "Lvl": 8,
-    "Text": "Temperature",
-    "Japanese": "温度",
+    "Text": "Theoretical",
+    "Japanese": "理論",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3067,
     "Lvl": 8,
-    "Text": "Terminology",
-    "Japanese": "用語",
+    "Text": "Therapeutic",
+    "Japanese": "治療",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3068,
     "Lvl": 8,
-    "Text": "Theoretical",
-    "Japanese": "理論",
+    "Text": "Thunderbolt",
+    "Japanese": "落雷",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3069,
     "Lvl": 8,
-    "Text": "Therapeutic",
-    "Japanese": "治療",
+    "Text": "Traditional",
+    "Japanese": "伝統的",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3070,
     "Lvl": 8,
-    "Text": "Thunderbolt",
-    "Japanese": "落雷",
+    "Text": "Transaction",
+    "Japanese": "取引",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3071,
     "Lvl": 8,
-    "Text": "Traditional",
-    "Japanese": "伝統的",
+    "Text": "Translation",
+    "Japanese": "翻訳",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3072,
     "Lvl": 8,
-    "Text": "Transaction",
-    "Japanese": "取引",
+    "Text": "Unanimously",
+    "Japanese": "満場一致で",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3073,
     "Lvl": 8,
-    "Text": "Translation",
-    "Japanese": "翻訳",
+    "Text": "Uncertainty",
+    "Japanese": "不確実性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3074,
     "Lvl": 8,
-    "Text": "Unanimously",
-    "Japanese": "満場一致で",
+    "Text": "Unchangedly",
+    "Japanese": "変わらず",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3075,
     "Lvl": 8,
-    "Text": "Uncertainty",
-    "Japanese": "不確実性",
+    "Text": "Unconscious",
+    "Japanese": "意識不明",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3076,
     "Lvl": 8,
-    "Text": "Unchangedly",
-    "Japanese": "変わらず",
+    "Text": "Understated",
+    "Japanese": "控えめな",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3077,
     "Lvl": 8,
-    "Text": "Unconscious",
-    "Japanese": "意識不明",
+    "Text": "Undoubtedly",
+    "Japanese": "間違いなく",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3078,
     "Lvl": 8,
-    "Text": "Understated",
-    "Japanese": "控えめな",
+    "Text": "Unfortunate",
+    "Japanese": "残念だ",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3079,
     "Lvl": 8,
-    "Text": "Undoubtedly",
-    "Japanese": "間違いなく",
+    "Text": "Unification",
+    "Japanese": "統一",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3080,
     "Lvl": 8,
-    "Text": "Unfortunate",
-    "Japanese": "残念だ",
+    "Text": "Utilization",
+    "Japanese": "利用",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3081,
     "Lvl": 8,
-    "Text": "Unification",
-    "Japanese": "統一",
+    "Text": "Vacillation",
+    "Japanese": "動揺",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3082,
     "Lvl": 8,
-    "Text": "Utilization",
-    "Japanese": "利用",
+    "Text": "Valedictory",
+    "Japanese": "卒業式",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3083,
     "Lvl": 8,
-    "Text": "Vacillation",
-    "Japanese": "動揺",
+    "Text": "Validations",
+    "Japanese": "検証",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3084,
     "Lvl": 8,
-    "Text": "Valedictory",
-    "Japanese": "卒業式",
+    "Text": "Value-added",
+    "Japanese": "付加価値",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3085,
     "Lvl": 8,
-    "Text": "Validations",
-    "Japanese": "検証",
+    "Text": "Vandalizing",
+    "Japanese": "破壊行為",
+    "isSafe": false,
     "Len": 11
   },
   {
     "Id": 3086,
     "Lvl": 8,
-    "Text": "Value-added",
-    "Japanese": "付加価値",
+    "Text": "Vanishingly",
+    "Japanese": "消えゆく",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3087,
     "Lvl": 8,
-    "Text": "Vandalizing",
-    "Japanese": "破壊行為",
+    "Text": "Vaporizable",
+    "Japanese": "気化可能",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3088,
     "Lvl": 8,
-    "Text": "Vanishingly",
-    "Japanese": "消えゆく",
+    "Text": "Ventilation",
+    "Japanese": "換気",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3089,
     "Lvl": 8,
-    "Text": "Vaporizable",
-    "Japanese": "気化可能",
+    "Text": "Versatility",
+    "Japanese": "汎用性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3090,
     "Lvl": 8,
-    "Text": "Ventilation",
-    "Japanese": "換気",
+    "Text": "Wageringing",
+    "Japanese": "賭け",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3091,
     "Lvl": 8,
-    "Text": "Versatility",
-    "Japanese": "汎用性",
+    "Text": "Wainscoting",
+    "Japanese": "羽目板",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3092,
     "Lvl": 8,
-    "Text": "Wageringing",
-    "Japanese": "賭け",
+    "Text": "Wastebasket",
+    "Japanese": "ゴミ箱",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3093,
     "Lvl": 8,
-    "Text": "Wainscoting",
-    "Japanese": "羽目板",
+    "Text": "Watercolors",
+    "Japanese": "水彩画",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3094,
     "Lvl": 8,
-    "Text": "Wastebasket",
-    "Japanese": "ゴミ箱",
+    "Text": "Weatherwise",
+    "Japanese": "天気予報",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3095,
     "Lvl": 8,
-    "Text": "Watercolors",
-    "Japanese": "水彩画",
+    "Text": "Wholesomely",
+    "Japanese": "健全に",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3096,
     "Lvl": 8,
-    "Text": "Weatherwise",
-    "Japanese": "天気予報",
+    "Text": "Xenodochial",
+    "Japanese": "異所性",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3097,
     "Lvl": 8,
-    "Text": "Wholesomely",
-    "Japanese": "健全に",
+    "Text": "Xenographer",
+    "Japanese": "異星学者",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3098,
     "Lvl": 8,
-    "Text": "Xenodochial",
-    "Japanese": "異所性",
+    "Text": "Xenomorphic",
+    "Japanese": "異星人",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3099,
     "Lvl": 8,
-    "Text": "Xenographer",
-    "Japanese": "異星学者",
+    "Text": "Xerographic",
+    "Japanese": "ゼログラフィー",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3100,
     "Lvl": 8,
-    "Text": "Xenomorphic",
-    "Japanese": "異星人",
+    "Text": "Xylocarpous",
+    "Japanese": "木果",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3101,
     "Lvl": 8,
-    "Text": "Xerographic",
-    "Japanese": "ゼログラフィー",
+    "Text": "Xylographed",
+    "Japanese": "木版印刷",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3102,
     "Lvl": 8,
-    "Text": "Xylocarpous",
-    "Japanese": "木果",
+    "Text": "Yesterdayly",
+    "Japanese": "昨日",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3103,
     "Lvl": 8,
-    "Text": "Xylographed",
-    "Japanese": "木版印刷",
+    "Text": "Zealousness",
+    "Japanese": "意気込み",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3104,
     "Lvl": 8,
-    "Text": "Yesterdayly",
-    "Japanese": "昨日",
+    "Text": "Zephyr-like",
+    "Japanese": "そよ風のような",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3105,
     "Lvl": 8,
-    "Text": "Zealousness",
-    "Japanese": "意気込み",
+    "Text": "Zincography",
+    "Japanese": "亜鉛版画",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3106,
     "Lvl": 8,
-    "Text": "Zephyr-like",
-    "Japanese": "そよ風のような",
+    "Text": "Zoologicals",
+    "Japanese": "動物学",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3107,
     "Lvl": 8,
-    "Text": "Zincography",
-    "Japanese": "亜鉛版画",
+    "Text": "Zooplankton",
+    "Japanese": "動物プランクトン",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3108,
     "Lvl": 8,
-    "Text": "Zoologicals",
-    "Japanese": "動物学",
+    "Text": "Zygomorphic",
+    "Japanese": "左右相称",
+    "isSafe": true,
     "Len": 11
   },
   {
     "Id": 3109,
-    "Lvl": 8,
-    "Text": "Zooplankton",
-    "Japanese": "動物プランクトン",
-    "Len": 11
+    "Lvl": 9,
+    "Text": "Abbreviation",
+    "Japanese": "略語",
+    "isSafe": true,
+    "Len": 12
   },
   {
     "Id": 3110,
-    "Lvl": 8,
-    "Text": "Zygomorphic",
-    "Japanese": "左右相称",
-    "Len": 11
+    "Lvl": 9,
+    "Text": "Acceleration",
+    "Japanese": "加速度",
+    "isSafe": true,
+    "Len": 12
   },
   {
     "Id": 3111,
     "Lvl": 9,
-    "Text": "Abbreviation",
-    "Japanese": "略語",
+    "Text": "Acclimatized",
+    "Japanese": "順応した",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3112,
     "Lvl": 9,
-    "Text": "Acceleration",
-    "Japanese": "加速度",
+    "Text": "Accommodated",
+    "Japanese": "対応済み",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3113,
     "Lvl": 9,
-    "Text": "Acclimatized",
-    "Japanese": "順応した",
+    "Text": "Accumulation",
+    "Japanese": "蓄積",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3114,
     "Lvl": 9,
-    "Text": "Accommodated",
-    "Japanese": "対応済み",
+    "Text": "Accomplished",
+    "Japanese": "達成した",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3115,
     "Lvl": 9,
-    "Text": "Accumulation",
-    "Japanese": "蓄積",
+    "Text": "Bacteriology",
+    "Japanese": "細菌学",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3116,
     "Lvl": 9,
-    "Text": "Accomplished",
-    "Japanese": "達成した",
+    "Text": "Bequeathment",
+    "Japanese": "遺贈",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3117,
     "Lvl": 9,
-    "Text": "Bacteriology",
-    "Japanese": "細菌学",
+    "Text": "Bewilderedly",
+    "Japanese": "困惑して",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3118,
     "Lvl": 9,
-    "Text": "Bequeathment",
-    "Japanese": "遺贈",
+    "Text": "Breakthrough",
+    "Japanese": "画期的な",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3119,
     "Lvl": 9,
-    "Text": "Bewilderedly",
-    "Japanese": "困惑して",
+    "Text": "Breadwinners",
+    "Japanese": "家計を支える人",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3120,
     "Lvl": 9,
-    "Text": "Breakthrough",
-    "Japanese": "画期的な",
+    "Text": "Backtracking",
+    "Japanese": "後戻り",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3121,
     "Lvl": 9,
-    "Text": "Breadwinners",
-    "Japanese": "家計を支える人",
+    "Text": "Cancellation",
+    "Japanese": "キャンセル",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3122,
     "Lvl": 9,
-    "Text": "Backtracking",
-    "Japanese": "後戻り",
+    "Text": "Capitalizing",
+    "Japanese": "活用する",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3123,
     "Lvl": 9,
-    "Text": "Cancellation",
-    "Japanese": "キャンセル",
+    "Text": "Carbohydrate",
+    "Japanese": "炭水化物",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3124,
     "Lvl": 9,
-    "Text": "Capitalizing",
-    "Japanese": "活用する",
+    "Text": "Categorizing",
+    "Japanese": "分類",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3125,
     "Lvl": 9,
-    "Text": "Carbohydrate",
-    "Japanese": "炭水化物",
+    "Text": "Celebrations",
+    "Japanese": "お祝い",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3126,
     "Lvl": 9,
-    "Text": "Categorizing",
-    "Japanese": "分類",
+    "Text": "Communicated",
+    "Japanese": "伝達した",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3127,
     "Lvl": 9,
-    "Text": "Celebrations",
-    "Japanese": "お祝い",
+    "Text": "Deactivating",
+    "Japanese": "無効化",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3128,
     "Lvl": 9,
-    "Text": "Communicated",
-    "Japanese": "伝達した",
+    "Text": "Decipherable",
+    "Japanese": "解読可能",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3129,
     "Lvl": 9,
-    "Text": "Deactivating",
-    "Japanese": "無効化",
+    "Text": "Declarations",
+    "Japanese": "宣言",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3130,
     "Lvl": 9,
-    "Text": "Decipherable",
-    "Japanese": "解読可能",
+    "Text": "Defibrinator",
+    "Japanese": "除細動器",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3131,
     "Lvl": 9,
-    "Text": "Declarations",
-    "Japanese": "宣言",
+    "Text": "Distribution",
+    "Japanese": "分布",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3132,
     "Lvl": 9,
-    "Text": "Defibrinator",
-    "Japanese": "除細動器",
+    "Text": "Eavesdropped",
+    "Japanese": "盗み聞きした",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3133,
     "Lvl": 9,
-    "Text": "Distribution",
-    "Japanese": "分布",
+    "Text": "Ecologically",
+    "Japanese": "生態学的に",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3134,
     "Lvl": 9,
-    "Text": "Eavesdropped",
-    "Japanese": "盗み聞きした",
+    "Text": "Economically",
+    "Japanese": "経済的に",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3135,
     "Lvl": 9,
-    "Text": "Ecologically",
-    "Japanese": "生態学的に",
+    "Text": "Effervescent",
+    "Japanese": "発泡性",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3136,
     "Lvl": 9,
-    "Text": "Economically",
-    "Japanese": "経済的に",
+    "Text": "Electrocuted",
+    "Japanese": "感電死",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3137,
     "Lvl": 9,
-    "Text": "Effervescent",
-    "Japanese": "発泡性",
+    "Text": "Enlightening",
+    "Japanese": "啓発的",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3138,
     "Lvl": 9,
-    "Text": "Electrocuted",
-    "Japanese": "感電死",
+    "Text": "Facilitating",
+    "Japanese": "促進する",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3139,
     "Lvl": 9,
-    "Text": "Enlightening",
-    "Japanese": "啓発的",
+    "Text": "Familiarized",
+    "Japanese": "慣れ親しんだ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3140,
     "Lvl": 9,
-    "Text": "Facilitating",
-    "Japanese": "促進する",
+    "Text": "Fermentation",
+    "Japanese": "発酵",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3141,
     "Lvl": 9,
-    "Text": "Familiarized",
-    "Japanese": "慣れ親しんだ",
+    "Text": "Firefighters",
+    "Japanese": "消防士",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3142,
     "Lvl": 9,
-    "Text": "Fermentation",
-    "Japanese": "発酵",
+    "Text": "Fluorescence",
+    "Japanese": "蛍光",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3143,
     "Lvl": 9,
-    "Text": "Firefighters",
-    "Japanese": "消防士",
+    "Text": "Gastronomist",
+    "Japanese": "美食家",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3144,
     "Lvl": 9,
-    "Text": "Fluorescence",
-    "Japanese": "蛍光",
+    "Text": "Generalizing",
+    "Japanese": "一般化する",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3145,
     "Lvl": 9,
-    "Text": "Gastronomist",
-    "Japanese": "美食家",
+    "Text": "Geologically",
+    "Japanese": "地質学的に",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3146,
     "Lvl": 9,
-    "Text": "Generalizing",
-    "Japanese": "一般化する",
+    "Text": "Gravitations",
+    "Japanese": "重力",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3147,
     "Lvl": 9,
-    "Text": "Geologically",
-    "Japanese": "地質学的に",
+    "Text": "Hallucinated",
+    "Japanese": "幻覚を見た",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3148,
     "Lvl": 9,
-    "Text": "Gravitations",
-    "Japanese": "重力",
+    "Text": "Handicapping",
+    "Japanese": "ハンディキャップ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3149,
     "Lvl": 9,
-    "Text": "Hallucinated",
-    "Japanese": "幻覚を見た",
+    "Text": "Headquarters",
+    "Japanese": "本部",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3150,
     "Lvl": 9,
-    "Text": "Handicapping",
-    "Japanese": "ハンディキャップ",
+    "Text": "Heartbreaker",
+    "Japanese": "ハートブレイカー",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3151,
     "Lvl": 9,
-    "Text": "Headquarters",
-    "Japanese": "本部",
+    "Text": "Histological",
+    "Japanese": "組織学的",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3152,
     "Lvl": 9,
-    "Text": "Heartbreaker",
-    "Japanese": "ハートブレイカー",
+    "Text": "Iconoclastic",
+    "Japanese": "偶像破壊的",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3153,
     "Lvl": 9,
-    "Text": "Histological",
-    "Japanese": "組織学的",
+    "Text": "Illuminating",
+    "Japanese": "啓発的",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3154,
     "Lvl": 9,
-    "Text": "Iconoclastic",
-    "Japanese": "偶像破壊的",
+    "Text": "Independence",
+    "Japanese": "独立",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3155,
     "Lvl": 9,
-    "Text": "Illuminating",
-    "Japanese": "啓発的",
+    "Text": "Journalistic",
+    "Japanese": "ジャーナリズム",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3156,
     "Lvl": 9,
-    "Text": "Independence",
-    "Japanese": "独立",
+    "Text": "Judgmentally",
+    "Japanese": "批判的に",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3157,
     "Lvl": 9,
-    "Text": "Journalistic",
-    "Japanese": "ジャーナリズム",
+    "Text": "Joyfulnesses",
+    "Japanese": "喜び",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3158,
     "Lvl": 9,
-    "Text": "Judgmentally",
-    "Japanese": "批判的に",
+    "Text": "Juvenileness",
+    "Japanese": "幼稚さ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3159,
     "Lvl": 9,
-    "Text": "Joyfulnesses",
-    "Japanese": "喜び",
+    "Text": "Kaleidoscope",
+    "Japanese": "万華鏡",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3160,
     "Lvl": 9,
-    "Text": "Juvenileness",
-    "Japanese": "幼稚さ",
+    "Text": "Keyboardists",
+    "Japanese": "キーボーディスト",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3161,
     "Lvl": 9,
-    "Text": "Kaleidoscope",
-    "Japanese": "万華鏡",
+    "Text": "Kilocalories",
+    "Japanese": "キロローカルズ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3162,
     "Lvl": 9,
-    "Text": "Keyboardists",
-    "Japanese": "キーボーディスト",
+    "Text": "Kleptomaniac",
+    "Japanese": "窃盗癖",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3163,
     "Lvl": 9,
-    "Text": "Kilocalories",
-    "Japanese": "キロローカルズ",
+    "Text": "Kindlinesses",
+    "Japanese": "親切心",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3164,
     "Lvl": 9,
-    "Text": "Kleptomaniac",
-    "Japanese": "窃盗癖",
+    "Text": "Legitimately",
+    "Japanese": "正当に",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3165,
     "Lvl": 9,
-    "Text": "Kindlinesses",
-    "Japanese": "親切心",
+    "Text": "Lexicography",
+    "Japanese": "辞書学",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3166,
     "Lvl": 9,
-    "Text": "Legitimately",
-    "Japanese": "正当に",
+    "Text": "Longitudinal",
+    "Japanese": "縦断的",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3167,
     "Lvl": 9,
-    "Text": "Lexicography",
-    "Japanese": "辞書学",
+    "Text": "Lubrications",
+    "Japanese": "潤滑",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3168,
     "Lvl": 9,
-    "Text": "Longitudinal",
-    "Japanese": "縦断的",
+    "Text": "Leatherbacks",
+    "Japanese": "オサガメ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3169,
     "Lvl": 9,
-    "Text": "Lubrications",
-    "Japanese": "潤滑",
+    "Text": "Malfunctions",
+    "Japanese": "故障",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3170,
     "Lvl": 9,
-    "Text": "Leatherbacks",
-    "Japanese": "オサガメ",
+    "Text": "Mathematical",
+    "Japanese": "数学",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3171,
     "Lvl": 9,
-    "Text": "Malfunctions",
-    "Japanese": "故障",
+    "Text": "Nationalized",
+    "Japanese": "国有化された",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3172,
     "Lvl": 9,
-    "Text": "Mathematical",
-    "Japanese": "数学",
+    "Text": "Naturalistic",
+    "Japanese": "自然主義的",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3173,
     "Lvl": 9,
-    "Text": "Nationalized",
-    "Japanese": "国有化された",
+    "Text": "Neighborhood",
+    "Japanese": "近所",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3174,
     "Lvl": 9,
-    "Text": "Naturalistic",
-    "Japanese": "自然主義的",
+    "Text": "Neutralizing",
+    "Japanese": "中和する",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3175,
     "Lvl": 9,
-    "Text": "Neighborhood",
-    "Japanese": "近所",
+    "Text": "Nightclothes",
+    "Japanese": "寝間着",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3176,
     "Lvl": 9,
-    "Text": "Neutralizing",
-    "Japanese": "中和する",
+    "Text": "Observations",
+    "Japanese": "観察結果",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3177,
     "Lvl": 9,
-    "Text": "Nightclothes",
-    "Japanese": "寝間着",
+    "Text": "Obstructions",
+    "Japanese": "障害物",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3178,
     "Lvl": 9,
-    "Text": "Observations",
-    "Japanese": "観察結果",
+    "Text": "Oceanography",
+    "Japanese": "海洋学",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3179,
     "Lvl": 9,
-    "Text": "Obstructions",
-    "Japanese": "障害物",
+    "Text": "Orchestrated",
+    "Japanese": "オーケストラによる",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3180,
     "Lvl": 9,
-    "Text": "Oceanography",
-    "Japanese": "海洋学",
+    "Text": "Overwhelming",
+    "Japanese": "圧倒的",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3181,
     "Lvl": 9,
-    "Text": "Orchestrated",
-    "Japanese": "オーケストラによる",
+    "Text": "Organization",
+    "Japanese": "組織",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3182,
     "Lvl": 9,
-    "Text": "Overwhelming",
-    "Japanese": "圧倒的",
+    "Text": "Paramilitary",
+    "Japanese": "準軍事組織",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3183,
     "Lvl": 9,
-    "Text": "Organization",
-    "Japanese": "組織",
+    "Text": "Partnerships",
+    "Japanese": "パートナーシップ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3184,
     "Lvl": 9,
-    "Text": "Paramilitary",
-    "Japanese": "準軍事組織",
+    "Text": "Pathological",
+    "Japanese": "病理学的",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3185,
     "Lvl": 9,
-    "Text": "Partnerships",
-    "Japanese": "パートナーシップ",
+    "Text": "Photographer",
+    "Japanese": "写真家",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3186,
     "Lvl": 9,
-    "Text": "Pathological",
-    "Japanese": "病理学的",
+    "Text": "Philanthropy",
+    "Japanese": "慈善活動",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3187,
     "Lvl": 9,
-    "Text": "Photographer",
-    "Japanese": "写真家",
+    "Text": "Quadrennials",
+    "Japanese": "4年に一度の",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3188,
     "Lvl": 9,
-    "Text": "Philanthropy",
-    "Japanese": "慈善活動",
+    "Text": "Quantitative",
+    "Japanese": "定量的",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3189,
     "Lvl": 9,
-    "Text": "Quadrennials",
-    "Japanese": "4年に一度の",
+    "Text": "Quarantining",
+    "Japanese": "隔離",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3190,
     "Lvl": 9,
-    "Text": "Quantitative",
-    "Japanese": "定量的",
+    "Text": "Questionable",
+    "Japanese": "疑わしい",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3191,
     "Lvl": 9,
-    "Text": "Quarantining",
-    "Japanese": "隔離",
+    "Text": "Quintessence",
+    "Japanese": "クインテッセンス",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3192,
     "Lvl": 9,
-    "Text": "Questionable",
-    "Japanese": "疑わしい",
+    "Text": "Ratification",
+    "Japanese": "批准",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3193,
     "Lvl": 9,
-    "Text": "Quintessence",
-    "Japanese": "クインテッセンス",
+    "Text": "Reassembling",
+    "Japanese": "再組み立て",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3194,
     "Lvl": 9,
-    "Text": "Ratification",
-    "Japanese": "批准",
+    "Text": "Recalculated",
+    "Japanese": "再計算済み",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3195,
     "Lvl": 9,
-    "Text": "Reassembling",
-    "Japanese": "再組み立て",
+    "Text": "Relationship",
+    "Japanese": "関係",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3196,
     "Lvl": 9,
-    "Text": "Recalculated",
-    "Japanese": "再計算済み",
+    "Text": "Scatterbrain",
+    "Japanese": "散漫な",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3197,
     "Lvl": 9,
-    "Text": "Relationship",
-    "Japanese": "関係",
+    "Text": "Satisfaction",
+    "Japanese": "満足",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3198,
     "Lvl": 9,
-    "Text": "Scatterbrain",
-    "Japanese": "散漫な",
+    "Text": "Scholarships",
+    "Japanese": "奨学金",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3199,
     "Lvl": 9,
-    "Text": "Satisfaction",
-    "Japanese": "満足",
+    "Text": "Seismography",
+    "Japanese": "地震学",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3200,
     "Lvl": 9,
-    "Text": "Scholarships",
-    "Japanese": "奨学金",
+    "Text": "Significance",
+    "Japanese": "意義",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3201,
     "Lvl": 9,
-    "Text": "Seismography",
-    "Japanese": "地震学",
+    "Text": "Subconscious",
+    "Japanese": "潜在意識",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3202,
     "Lvl": 9,
-    "Text": "Significance",
-    "Japanese": "意義",
+    "Text": "Substitution",
+    "Japanese": "代替",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3203,
     "Lvl": 9,
-    "Text": "Subconscious",
-    "Japanese": "潜在意識",
+    "Text": "Technologist",
+    "Japanese": "技術者",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3204,
     "Lvl": 9,
-    "Text": "Substitution",
-    "Japanese": "代替",
+    "Text": "Transactions",
+    "Japanese": "取引",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3205,
     "Lvl": 9,
-    "Text": "Technologist",
-    "Japanese": "技術者",
+    "Text": "Transmission",
+    "Japanese": "伝染 ; 感染",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3206,
     "Lvl": 9,
-    "Text": "Transactions",
-    "Japanese": "取引",
+    "Text": "Tuberculosis",
+    "Japanese": "結核",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3207,
     "Lvl": 9,
-    "Text": "Transmission",
-    "Japanese": "伝染 ; 感染",
+    "Text": "Typewritings",
+    "Japanese": "タイプライター",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3208,
     "Lvl": 9,
-    "Text": "Tuberculosis",
-    "Japanese": "結核",
+    "Text": "Temperatures",
+    "Japanese": "気温",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3209,
     "Lvl": 9,
-    "Text": "Typewritings",
-    "Japanese": "タイプライター",
+    "Text": "Unacceptable",
+    "Japanese": "容認できない",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3210,
     "Lvl": 9,
-    "Text": "Temperatures",
-    "Japanese": "気温",
+    "Text": "Unauthorized",
+    "Japanese": "許可されていない",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3211,
     "Lvl": 9,
-    "Text": "Unacceptable",
-    "Japanese": "容認できない",
+    "Text": "Unbelievable",
+    "Japanese": "信じられない",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3212,
     "Lvl": 9,
-    "Text": "Unauthorized",
-    "Japanese": "許可されていない",
+    "Text": "Unemployment",
+    "Japanese": "失業",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3213,
     "Lvl": 9,
-    "Text": "Unbelievable",
-    "Japanese": "信じられない",
+    "Text": "Universality",
+    "Japanese": "普遍",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3214,
     "Lvl": 9,
-    "Text": "Unemployment",
-    "Japanese": "失業",
+    "Text": "Variableness",
+    "Japanese": "変動性",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3215,
     "Lvl": 9,
-    "Text": "Universality",
-    "Japanese": "普遍",
+    "Text": "Vascularized",
+    "Japanese": "血管新生",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3216,
     "Lvl": 9,
-    "Text": "Variableness",
-    "Japanese": "変動性",
+    "Text": "Vengefulness",
+    "Japanese": "復讐心",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3217,
     "Lvl": 9,
-    "Text": "Vascularized",
-    "Japanese": "血管新生",
+    "Text": "Vilification",
+    "Japanese": "中傷",
+    "isSafe": false,
     "Len": 12
   },
   {
     "Id": 3218,
     "Lvl": 9,
-    "Text": "Vengefulness",
-    "Japanese": "復讐心",
+    "Text": "Vocalization",
+    "Japanese": "発声",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3219,
     "Lvl": 9,
-    "Text": "Vilification",
-    "Japanese": "中傷",
+    "Text": "Wallboarding",
+    "Japanese": "壁板張り",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3220,
     "Lvl": 9,
-    "Text": "Vocalization",
-    "Japanese": "発声",
+    "Text": "Weatherboard",
+    "Japanese": "下見板",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3221,
     "Lvl": 9,
-    "Text": "Wallboarding",
-    "Japanese": "壁板張り",
+    "Text": "Weatherglass",
+    "Japanese": "ウェザーグラス",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3222,
     "Lvl": 9,
-    "Text": "Weatherboard",
-    "Japanese": "下見板",
+    "Text": "Weightlifter",
+    "Japanese": "重量挙げ選手",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3223,
     "Lvl": 9,
-    "Text": "Weatherglass",
-    "Japanese": "ウェザーグラス",
+    "Text": "Wheelbarrows",
+    "Japanese": "手押し車",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3224,
     "Lvl": 9,
-    "Text": "Weightlifter",
-    "Japanese": "重量挙げ選手",
+    "Text": "Whimsicality",
+    "Japanese": "気まぐれ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3225,
     "Lvl": 9,
-    "Text": "Wheelbarrows",
-    "Japanese": "手押し車",
+    "Text": "Xylophonists",
+    "Japanese": "木琴奏者",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3226,
     "Lvl": 9,
-    "Text": "Whimsicality",
-    "Japanese": "気まぐれ",
+    "Text": "Yellowhammer",
+    "Japanese": "キアオジ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3227,
     "Lvl": 9,
-    "Text": "Xylophonists",
-    "Japanese": "木琴奏者",
+    "Text": "Yieldability",
+    "Japanese": "歩留まり",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3228,
     "Lvl": 9,
-    "Text": "Yellowhammer",
-    "Japanese": "キアオジ",
+    "Text": "Youthfulness",
+    "Japanese": "若々しさ",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3229,
     "Lvl": 9,
-    "Text": "Yieldability",
-    "Japanese": "歩留まり",
+    "Text": "Zoologically",
+    "Japanese": "動物学的に",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3230,
     "Lvl": 9,
-    "Text": "Youthfulness",
-    "Japanese": "若々しさ",
+    "Text": "Zillionaires",
+    "Japanese": "億万長者",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3231,
     "Lvl": 9,
-    "Text": "Zoologically",
-    "Japanese": "動物学的に",
+    "Text": "Zoogeography",
+    "Japanese": "動物地理学",
+    "isSafe": true,
     "Len": 12
   },
   {
     "Id": 3232,
-    "Lvl": 9,
-    "Text": "Zillionaires",
-    "Japanese": "億万長者",
-    "Len": 12
+    "Lvl": 10,
+    "Text": "Accommodating",
+    "Japanese": "対応可能",
+    "isSafe": true,
+    "Len": 13
   },
   {
     "Id": 3233,
-    "Lvl": 9,
-    "Text": "Zoogeography",
-    "Japanese": "動物地理学",
-    "Len": 12
+    "Lvl": 10,
+    "Text": "Accreditation",
+    "Japanese": "認定",
+    "isSafe": true,
+    "Len": 13
   },
   {
     "Id": 3234,
     "Lvl": 10,
-    "Text": "Accommodating",
-    "Japanese": "対応可能",
+    "Text": "Acidification",
+    "Japanese": "酸性化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3235,
     "Lvl": 10,
-    "Text": "Accreditation",
-    "Japanese": "認定",
+    "Text": "Advertisement",
+    "Japanese": "広告",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3236,
     "Lvl": 10,
-    "Text": "Acidification",
-    "Japanese": "酸性化",
+    "Text": "Afforestation",
+    "Japanese": "植林",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3237,
     "Lvl": 10,
-    "Text": "Advertisement",
-    "Japanese": "広告",
+    "Text": "Afterthoughts",
+    "Japanese": "後書き",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3238,
     "Lvl": 10,
-    "Text": "Afforestation",
-    "Japanese": "植林",
+    "Text": "Air condition",
+    "Japanese": "エアコン",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3239,
     "Lvl": 10,
-    "Text": "Afterthoughts",
-    "Japanese": "後書き",
+    "Text": "Balanced diet",
+    "Japanese": "バランスの取れた食事",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3240,
     "Lvl": 10,
-    "Text": "Air condition",
-    "Japanese": "エアコン",
+    "Text": "Biostatistics",
+    "Japanese": "生物統計学",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3241,
     "Lvl": 10,
-    "Text": "Balanced diet",
-    "Japanese": "バランスの取れた食事",
+    "Text": "Blacksmithing",
+    "Japanese": "鍛冶屋",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3242,
     "Lvl": 10,
-    "Text": "Biostatistics",
-    "Japanese": "生物統計学",
+    "Text": "Blood vessels",
+    "Japanese": "血管",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3243,
     "Lvl": 10,
-    "Text": "Blacksmithing",
-    "Japanese": "鍛冶屋",
+    "Text": "Breathability",
+    "Japanese": "通気性",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3244,
     "Lvl": 10,
-    "Text": "Blood vessels",
-    "Japanese": "血管",
+    "Text": "Collaboration",
+    "Japanese": "コラボレーション",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3245,
     "Lvl": 10,
-    "Text": "Breathability",
-    "Japanese": "通気性",
+    "Text": "Communication",
+    "Japanese": "コミュニケーション",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3246,
     "Lvl": 10,
-    "Text": "Collaboration",
-    "Japanese": "コラボレーション",
+    "Text": "Consciousness",
+    "Japanese": "意識",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3247,
     "Lvl": 10,
-    "Text": "Communication",
-    "Japanese": "コミュニケーション",
+    "Text": "Consideration",
+    "Japanese": "考慮",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3248,
     "Lvl": 10,
-    "Text": "Consciousness",
-    "Japanese": "意識",
+    "Text": "Contamination",
+    "Japanese": "汚染",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3249,
     "Lvl": 10,
-    "Text": "Consideration",
-    "Japanese": "考慮",
+    "Text": "Cybersecurity",
+    "Japanese": "サイバーセキュリティ",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3250,
     "Lvl": 10,
-    "Text": "Contamination",
-    "Japanese": "汚染",
+    "Text": "Clarification",
+    "Japanese": "説明",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3251,
     "Lvl": 10,
-    "Text": "Cybersecurity",
-    "Japanese": "サイバーセキュリティ",
+    "Text": "Chess players",
+    "Japanese": "チェスプレイヤー",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3252,
     "Lvl": 10,
-    "Text": "Clarification",
-    "Japanese": "説明",
+    "Text": "Determination",
+    "Japanese": "決定",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3253,
     "Lvl": 10,
-    "Text": "Chess players",
-    "Japanese": "チェスプレイヤー",
+    "Text": "Documentation",
+    "Japanese": "文書",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3254,
     "Lvl": 10,
-    "Text": "Determination",
-    "Japanese": "決定",
+    "Text": "Disadvantages",
+    "Japanese": "デメリット",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3255,
     "Lvl": 10,
-    "Text": "Documentation",
-    "Japanese": "文書",
+    "Text": "Demonstration",
+    "Japanese": "デモンストレーション",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3256,
     "Lvl": 10,
-    "Text": "Disadvantages",
-    "Japanese": "デメリット",
+    "Text": "Deep learning",
+    "Japanese": "ディープラーニング",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3257,
     "Lvl": 10,
-    "Text": "Demonstration",
-    "Japanese": "デモンストレーション",
+    "Text": "Digital media",
+    "Japanese": "デジタルメディア",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3258,
     "Lvl": 10,
-    "Text": "Deep learning",
-    "Japanese": "ディープラーニング",
+    "Text": "Disappearance",
+    "Japanese": "失踪",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3259,
     "Lvl": 10,
-    "Text": "Digital media",
-    "Japanese": "デジタルメディア",
+    "Text": "Distributions",
+    "Japanese": "分布",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3260,
     "Lvl": 10,
-    "Text": "Disappearance",
-    "Japanese": "失踪",
+    "Text": "Effectiveness",
+    "Japanese": "効果",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3261,
     "Lvl": 10,
-    "Text": "Distributions",
-    "Japanese": "分布",
+    "Text": "Enlightenment",
+    "Japanese": "啓発",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3262,
     "Lvl": 10,
-    "Text": "Effectiveness",
-    "Japanese": "効果",
+    "Text": "Entertainment",
+    "Japanese": "エンターテインメント",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3263,
     "Lvl": 10,
-    "Text": "Enlightenment",
-    "Japanese": "啓発",
+    "Text": "Environmental",
+    "Japanese": "環境",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3264,
     "Lvl": 10,
-    "Text": "Entertainment",
-    "Japanese": "エンターテインメント",
+    "Text": "Establishment",
+    "Japanese": "設立",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3265,
     "Lvl": 10,
-    "Text": "Environmental",
-    "Japanese": "環境",
+    "Text": "Extinguishing",
+    "Japanese": "消火",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3266,
     "Lvl": 10,
-    "Text": "Establishment",
-    "Japanese": "設立",
+    "Text": "Extraordinary",
+    "Japanese": "並外れた",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3267,
     "Lvl": 10,
-    "Text": "Extinguishing",
-    "Japanese": "消火",
+    "Text": "Every morning",
+    "Japanese": "毎朝",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3268,
     "Lvl": 10,
-    "Text": "Extraordinary",
-    "Japanese": "並外れた",
+    "Text": "Functionality",
+    "Japanese": "機能性",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3269,
     "Lvl": 10,
-    "Text": "Every morning",
-    "Japanese": "毎朝",
+    "Text": "Fragmentation",
+    "Japanese": "断片化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3270,
     "Lvl": 10,
-    "Text": "Functionality",
-    "Japanese": "機能性",
+    "Text": "Financial aid",
+    "Japanese": "経済援助",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3271,
     "Lvl": 10,
-    "Text": "Fragmentation",
-    "Japanese": "断片化",
+    "Text": "Forest ranger",
+    "Japanese": "森林警備員",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3272,
     "Lvl": 10,
-    "Text": "Financial aid",
-    "Japanese": "経済援助",
+    "Text": "Fashion model",
+    "Japanese": "ファッションモデル",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3273,
     "Lvl": 10,
-    "Text": "Forest ranger",
-    "Japanese": "森林警備員",
+    "Text": "Falling stars",
+    "Japanese": "流れ星",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3274,
     "Lvl": 10,
-    "Text": "Fashion model",
-    "Japanese": "ファッションモデル",
+    "Text": "Featherweight",
+    "Japanese": "フェザー級",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3275,
     "Lvl": 10,
-    "Text": "Falling stars",
-    "Japanese": "流れ星",
+    "Text": "Flip the bird",
+    "Japanese": "中指を立てる",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3276,
     "Lvl": 10,
-    "Text": "Featherweight",
-    "Japanese": "フェザー級",
+    "Text": "Globalization",
+    "Japanese": "グローバリゼーション",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3277,
     "Lvl": 10,
-    "Text": "Flip the bird",
-    "Japanese": "中指を立てる",
+    "Text": "Grandchildren",
+    "Japanese": "孫たち",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3278,
     "Lvl": 10,
-    "Text": "Globalization",
-    "Japanese": "グローバリゼーション",
+    "Text": "Gravitational",
+    "Japanese": "重力",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3279,
     "Lvl": 10,
-    "Text": "Grandchildren",
-    "Japanese": "孫たち",
+    "Text": "Green economy",
+    "Japanese": "グリーン経済",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3280,
     "Lvl": 10,
-    "Text": "Gravitational",
-    "Japanese": "重力",
+    "Text": "Great success",
+    "Japanese": "大成功",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3281,
     "Lvl": 10,
-    "Text": "Green economy",
-    "Japanese": "グリーン経済",
+    "Text": "Guest speaker",
+    "Japanese": "ゲストスピーカー",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3282,
     "Lvl": 10,
-    "Text": "Great success",
-    "Japanese": "大成功",
+    "Text": "Garden center",
+    "Japanese": "ガーデンセンター",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3283,
     "Lvl": 10,
-    "Text": "Guest speaker",
-    "Japanese": "ゲストスピーカー",
+    "Text": "Getting ready",
+    "Japanese": "準備中",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3284,
     "Lvl": 10,
-    "Text": "Garden center",
-    "Japanese": "ガーデンセンター",
+    "Text": "Heartbreaking",
+    "Japanese": "胸が張り裂けそう",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3285,
     "Lvl": 10,
-    "Text": "Getting ready",
-    "Japanese": "準備中",
+    "Text": "Heterogeneous",
+    "Japanese": "不均一",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3286,
     "Lvl": 10,
-    "Text": "Heartbreaking",
-    "Japanese": "胸が張り裂けそう",
+    "Text": "High fidelity",
+    "Japanese": "高忠実度",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3287,
     "Lvl": 10,
-    "Text": "Heterogeneous",
-    "Japanese": "不均一",
+    "Text": "Human anatomy",
+    "Japanese": "人体解剖学",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3288,
     "Lvl": 10,
-    "Text": "High fidelity",
-    "Japanese": "高忠実度",
+    "Text": "Hallucination",
+    "Japanese": "幻覚",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3289,
     "Lvl": 10,
-    "Text": "Human anatomy",
-    "Japanese": "人体解剖学",
+    "Text": "Home delivery",
+    "Japanese": "宅配",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3290,
     "Lvl": 10,
-    "Text": "Hallucination",
-    "Japanese": "幻覚",
+    "Text": "Handkerchiefs",
+    "Japanese": "ハンカチ",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3291,
     "Lvl": 10,
-    "Text": "Home delivery",
-    "Japanese": "宅配",
+    "Text": "Heterochromia",
+    "Japanese": "虹彩異色症",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3292,
     "Lvl": 10,
-    "Text": "Handkerchiefs",
-    "Japanese": "ハンカチ",
+    "Text": "Identity test",
+    "Japanese": "同一性テスト",
+    "isSafe": false,
     "Len": 13
   },
   {
     "Id": 3293,
     "Lvl": 10,
-    "Text": "Heterochromia",
-    "Japanese": "虹彩異色症",
+    "Text": "Investigation",
+    "Japanese": "調査",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3294,
     "Lvl": 10,
-    "Text": "Identity test",
-    "Japanese": "同一性テスト",
+    "Text": "Illustrations",
+    "Japanese": "イラスト",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3295,
     "Lvl": 10,
-    "Text": "Investigation",
-    "Japanese": "調査",
+    "Text": "Independently",
+    "Japanese": "独立して",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3296,
     "Lvl": 10,
-    "Text": "Illustrations",
-    "Japanese": "イラスト",
+    "Text": "Interpersonal",
+    "Japanese": "対人関係",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3297,
     "Lvl": 10,
-    "Text": "Independently",
-    "Japanese": "独立して",
+    "Text": "Inquisitively",
+    "Japanese": "好奇心旺盛に",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3298,
     "Lvl": 10,
-    "Text": "Interpersonal",
-    "Japanese": "対人関係",
+    "Text": "International",
+    "Japanese": "国際的",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3299,
     "Lvl": 10,
-    "Text": "Inquisitively",
-    "Japanese": "好奇心旺盛に",
+    "Text": "Improvisation",
+    "Japanese": "即興",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3300,
     "Lvl": 10,
-    "Text": "International",
-    "Japanese": "国際的",
+    "Text": "Justification",
+    "Japanese": "正当化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3301,
     "Lvl": 10,
-    "Text": "Improvisation",
-    "Japanese": "即興",
+    "Text": "Job interview",
+    "Japanese": "就職面接",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3302,
     "Lvl": 10,
-    "Text": "Justification",
-    "Japanese": "正当化",
+    "Text": "Junior school",
+    "Japanese": "小学校",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3303,
     "Lvl": 10,
-    "Text": "Job interview",
-    "Japanese": "就職面接",
+    "Text": "Jacket potato",
+    "Japanese": "ベイクドポテト",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3304,
     "Lvl": 10,
-    "Text": "Junior school",
-    "Japanese": "小学校",
+    "Text": "Jigsaw puzzle",
+    "Japanese": "ジグソーパズル",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3305,
     "Lvl": 10,
-    "Text": "Jacket potato",
-    "Japanese": "ベイクドポテト",
+    "Text": "Joint venture",
+    "Japanese": "合弁事業",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3306,
     "Lvl": 10,
-    "Text": "Jigsaw puzzle",
-    "Japanese": "ジグソーパズル",
+    "Text": "Jumping jacks",
+    "Japanese": "ジャンプ運動",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3307,
     "Lvl": 10,
-    "Text": "Joint venture",
-    "Japanese": "合弁事業",
+    "Text": "Jazz festival",
+    "Japanese": "ジャズフェスティバル",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3308,
     "Lvl": 10,
-    "Text": "Jumping jacks",
-    "Japanese": "ジャンプ運動",
+    "Text": "Kindergartens",
+    "Japanese": "幼稚園",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3309,
     "Lvl": 10,
-    "Text": "Jazz festival",
-    "Japanese": "ジャズフェスティバル",
+    "Text": "Knowledgeable",
+    "Japanese": "知識豊富",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3310,
     "Lvl": 10,
-    "Text": "Kindergartens",
-    "Japanese": "幼稚園",
+    "Text": "Key indicator",
+    "Japanese": "主要指標",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3311,
     "Lvl": 10,
-    "Text": "Knowledgeable",
-    "Japanese": "知識豊富",
+    "Text": "Kitchen table",
+    "Japanese": "キッチンテーブル",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3312,
     "Lvl": 10,
-    "Text": "Key indicator",
-    "Japanese": "主要指標",
+    "Text": "Karate master",
+    "Japanese": "空手マスター",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3313,
     "Lvl": 10,
-    "Text": "Kitchen table",
-    "Japanese": "キッチンテーブル",
+    "Text": "Keeping quiet",
+    "Japanese": "静かにしている",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3314,
     "Lvl": 10,
-    "Text": "Karate master",
-    "Japanese": "空手マスター",
+    "Text": "Kissing booth",
+    "Japanese": "キスブース",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3315,
     "Lvl": 10,
-    "Text": "Keeping quiet",
-    "Japanese": "静かにしている",
+    "Text": "Legislatively",
+    "Japanese": "立法的に",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3316,
     "Lvl": 10,
-    "Text": "Kissing booth",
-    "Japanese": "キスブース",
+    "Text": "Local economy",
+    "Japanese": "地域経済",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3317,
     "Lvl": 10,
-    "Text": "Legislatively",
-    "Japanese": "立法的に",
+    "Text": "Light therapy",
+    "Japanese": "光線療法",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3318,
     "Lvl": 10,
-    "Text": "Local economy",
-    "Japanese": "地域経済",
+    "Text": "Liquid assets",
+    "Japanese": "流動資産",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3319,
     "Lvl": 10,
-    "Text": "Light therapy",
-    "Japanese": "光線療法",
+    "Text": "Living things",
+    "Japanese": "生物",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3320,
     "Lvl": 10,
-    "Text": "Liquid assets",
-    "Japanese": "流動資産",
+    "Text": "Long distance",
+    "Japanese": "長距離",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3321,
     "Lvl": 10,
-    "Text": "Living things",
-    "Japanese": "生物",
+    "Text": "Lemon chiffon",
+    "Japanese": "レモンシフォン",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3322,
     "Lvl": 10,
-    "Text": "Long distance",
-    "Japanese": "長距離",
+    "Text": "Laundry rooms",
+    "Japanese": "洗濯室",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3323,
     "Lvl": 10,
-    "Text": "Lemon chiffon",
-    "Japanese": "レモンシフォン",
+    "Text": "Manufacturing",
+    "Japanese": "製造業",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3324,
     "Lvl": 10,
-    "Text": "Laundry rooms",
-    "Japanese": "洗濯室",
+    "Text": "Miscellaneous",
+    "Japanese": "その他",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3325,
     "Lvl": 10,
-    "Text": "Manufacturing",
-    "Japanese": "製造業",
+    "Text": "Mental health",
+    "Japanese": "メンタルヘルス",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3326,
     "Lvl": 10,
-    "Text": "Miscellaneous",
-    "Japanese": "その他",
+    "Text": "Modernization",
+    "Japanese": "近代化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3327,
     "Lvl": 10,
-    "Text": "Mental health",
-    "Japanese": "メンタルヘルス",
+    "Text": "Multicultural",
+    "Japanese": "多文化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3328,
     "Lvl": 10,
-    "Text": "Modernization",
-    "Japanese": "近代化",
+    "Text": "Music library",
+    "Japanese": "ミュージックライブラリー",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3329,
     "Lvl": 10,
-    "Text": "Multicultural",
-    "Japanese": "多文化",
+    "Text": "Mountain bike",
+    "Japanese": "マウンテンバイク",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3330,
     "Lvl": 10,
-    "Text": "Music library",
-    "Japanese": "ミュージックライブラリー",
+    "Text": "Morning glory",
+    "Japanese": "朝顔",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3331,
     "Lvl": 10,
-    "Text": "Mountain bike",
-    "Japanese": "マウンテンバイク",
+    "Text": "Notifications",
+    "Japanese": "通知",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3332,
     "Lvl": 10,
-    "Text": "Morning glory",
-    "Japanese": "朝顔",
+    "Text": "Natural world",
+    "Japanese": "自然界",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3333,
     "Lvl": 10,
-    "Text": "Notifications",
-    "Japanese": "通知",
+    "Text": "Nuclear power",
+    "Japanese": "原子力発電",
+    "isSafe": false,
     "Len": 13
   },
   {
     "Id": 3334,
     "Lvl": 10,
-    "Text": "Natural world",
-    "Japanese": "自然界",
+    "Text": "Organizations",
+    "Japanese": "組織",
+    "isSafe": false,
     "Len": 13
   },
   {
     "Id": 3335,
     "Lvl": 10,
-    "Text": "Nuclear power",
-    "Japanese": "原子力発電",
+    "Text": "Out of bounds",
+    "Japanese": "境界線外",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3336,
     "Lvl": 10,
-    "Text": "Organizations",
-    "Japanese": "組織",
+    "Text": "Office worker",
+    "Japanese": "オフィスワーカー",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3337,
     "Lvl": 10,
-    "Text": "Out of bounds",
-    "Japanese": "境界線外",
+    "Text": "Orthodontists",
+    "Japanese": "矯正歯科医",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3338,
     "Lvl": 10,
-    "Text": "Office worker",
-    "Japanese": "オフィスワーカー",
+    "Text": "Online course",
+    "Japanese": "オンラインコース",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3339,
     "Lvl": 10,
-    "Text": "Orthodontists",
-    "Japanese": "矯正歯科医",
+    "Text": "Participation",
+    "Japanese": "参加",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3340,
     "Lvl": 10,
-    "Text": "Online course",
-    "Japanese": "オンラインコース",
+    "Text": "Presentations",
+    "Japanese": "プレゼンテーション",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3341,
     "Lvl": 10,
-    "Text": "Participation",
-    "Japanese": "参加",
+    "Text": "Photographers",
+    "Japanese": "写真家",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3342,
     "Lvl": 10,
-    "Text": "Presentations",
-    "Japanese": "プレゼンテーション",
+    "Text": "Philosophical",
+    "Japanese": "哲学的",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3343,
     "Lvl": 10,
-    "Text": "Photographers",
-    "Japanese": "写真家",
+    "Text": "Plaguebringer",
+    "Japanese": "疫病をもたらす者",
+    "isSafe": false,
     "Len": 13
   },
   {
     "Id": 3344,
     "Lvl": 10,
-    "Text": "Philosophical",
-    "Japanese": "哲学的",
+    "Text": "Psychological",
+    "Japanese": "心理学的",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3345,
     "Lvl": 10,
-    "Text": "Plaguebringer",
-    "Japanese": "疫病をもたらす者",
+    "Text": "Precipitation",
+    "Japanese": "降水量",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3346,
     "Lvl": 10,
-    "Text": "Psychological",
-    "Japanese": "心理学的",
+    "Text": "Public school",
+    "Japanese": "公立学校",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3347,
     "Lvl": 10,
-    "Text": "Precipitation",
-    "Japanese": "降水量",
+    "Text": "Questionnaire",
+    "Japanese": "アンケート",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3348,
     "Lvl": 10,
-    "Text": "Public school",
-    "Japanese": "公立学校",
+    "Text": "Qualification",
+    "Japanese": "資格",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3349,
     "Lvl": 10,
-    "Text": "Questionnaire",
-    "Japanese": "アンケート",
+    "Text": "Quality check",
+    "Japanese": "品質チェック",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3350,
     "Lvl": 10,
-    "Text": "Qualification",
-    "Japanese": "資格",
+    "Text": "Relationships",
+    "Japanese": "人間関係",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3351,
     "Lvl": 10,
-    "Text": "Quality check",
-    "Japanese": "品質チェック",
+    "Text": "Registrations",
+    "Japanese": "登録",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3352,
     "Lvl": 10,
-    "Text": "Relationships",
-    "Japanese": "人間関係",
+    "Text": "Refrigerators",
+    "Japanese": "冷蔵庫",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3353,
     "Lvl": 10,
-    "Text": "Registrations",
-    "Japanese": "登録",
+    "Text": "Real property",
+    "Japanese": "不動産",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3354,
     "Lvl": 10,
-    "Text": "Refrigerators",
-    "Japanese": "冷蔵庫",
+    "Text": "Running track",
+    "Japanese": "ランニングトラック",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3355,
     "Lvl": 10,
-    "Text": "Real property",
-    "Japanese": "不動産",
+    "Text": "Random access",
+    "Japanese": "ランダムアクセス",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3356,
     "Lvl": 10,
-    "Text": "Running track",
-    "Japanese": "ランニングトラック",
+    "Text": "Rainbow trout",
+    "Japanese": "ニジマス",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3357,
     "Lvl": 10,
-    "Text": "Random access",
-    "Japanese": "ランダムアクセス",
+    "Text": "Rationalizing",
+    "Japanese": "合理化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3358,
     "Lvl": 10,
-    "Text": "Rainbow trout",
-    "Japanese": "ニジマス",
+    "Text": "Specification",
+    "Japanese": "仕様",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3359,
     "Lvl": 10,
-    "Text": "Rationalizing",
-    "Japanese": "合理化",
+    "Text": "Sophisticated",
+    "Japanese": "洗練された",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3360,
     "Lvl": 10,
-    "Text": "Specification",
-    "Japanese": "仕様",
+    "Text": "Suicide mouse",
+    "Japanese": "自殺マウス",
+    "isSafe": false,
     "Len": 13
   },
   {
     "Id": 3361,
     "Lvl": 10,
-    "Text": "Sophisticated",
-    "Japanese": "洗練された",
+    "Text": "Shopping mall",
+    "Japanese": "ショッピングモール",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3362,
     "Lvl": 10,
-    "Text": "Suicide mouse",
-    "Japanese": "自殺マウス",
+    "Text": "Sports center",
+    "Japanese": "スポーツセンター",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3363,
     "Lvl": 10,
-    "Text": "Shopping mall",
-    "Japanese": "ショッピングモール",
+    "Text": "Second chance",
+    "Japanese": "二度目のチャンス",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3364,
     "Lvl": 10,
-    "Text": "Sports center",
-    "Japanese": "スポーツセンター",
+    "Text": "Silver lining",
+    "Japanese": "希望の光",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3365,
     "Lvl": 10,
-    "Text": "Second chance",
-    "Japanese": "二度目のチャンス",
+    "Text": "Text messages",
+    "Japanese": "テキストメッセージ",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3366,
     "Lvl": 10,
-    "Text": "Silver lining",
-    "Japanese": "希望の光",
+    "Text": "Transmissions",
+    "Japanese": "送信",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3367,
     "Lvl": 10,
-    "Text": "Text messages",
-    "Japanese": "テキストメッセージ",
+    "Text": "Target market",
+    "Japanese": "対象市場",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3368,
     "Lvl": 10,
-    "Text": "Transmissions",
-    "Japanese": "送信",
+    "Text": "Tennis player",
+    "Japanese": "テニス選手",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3369,
     "Lvl": 10,
-    "Text": "Target market",
-    "Japanese": "対象市場",
+    "Text": "Traffic light",
+    "Japanese": "信号機",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3370,
     "Lvl": 10,
-    "Text": "Tennis player",
-    "Japanese": "テニス選手",
+    "Text": "Technological",
+    "Japanese": "技術的",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3371,
     "Lvl": 10,
-    "Text": "Traffic light",
-    "Japanese": "信号機",
+    "Text": "Thermodynamic",
+    "Japanese": "熱力学",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3372,
     "Lvl": 10,
-    "Text": "Technological",
-    "Japanese": "技術的",
+    "Text": "Travel agency",
+    "Japanese": "旅行代理店",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3373,
     "Lvl": 10,
-    "Text": "Thermodynamic",
-    "Japanese": "熱力学",
+    "Text": "Understanding",
+    "Japanese": "理解",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3374,
     "Lvl": 10,
-    "Text": "Travel agency",
-    "Japanese": "旅行代理店",
+    "Text": "Uncertainties",
+    "Japanese": "不確実性",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3375,
     "Lvl": 10,
-    "Text": "Understanding",
-    "Japanese": "理解",
+    "Text": "Under the sea",
+    "Japanese": "海底",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3376,
     "Lvl": 10,
-    "Text": "Uncertainties",
-    "Japanese": "不確実性",
+    "Text": "Universal law",
+    "Japanese": "普遍的な法則",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3377,
     "Lvl": 10,
-    "Text": "Under the sea",
-    "Japanese": "海底",
+    "Text": "Urban setting",
+    "Japanese": "都市環境",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3378,
     "Lvl": 10,
-    "Text": "Universal law",
-    "Japanese": "普遍的な法則",
+    "Text": "Vulnerability",
+    "Japanese": "脆弱性",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3379,
     "Lvl": 10,
-    "Text": "Urban setting",
-    "Japanese": "都市環境",
+    "Text": "Verifications",
+    "Japanese": "検証",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3380,
     "Lvl": 10,
-    "Text": "Vulnerability",
-    "Japanese": "脆弱性",
+    "Text": "Voice message",
+    "Japanese": "音声メッセージ",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3381,
     "Lvl": 10,
-    "Text": "Verifications",
-    "Japanese": "検証",
+    "Text": "Visualization",
+    "Japanese": "視覚化",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3382,
     "Lvl": 10,
-    "Text": "Voice message",
-    "Japanese": "音声メッセージ",
+    "Text": "Virtual world",
+    "Japanese": "仮想世界",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3383,
     "Lvl": 10,
-    "Text": "Visualization",
-    "Japanese": "視覚化",
+    "Text": "Vegetable oil",
+    "Japanese": "植物油",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3384,
     "Lvl": 10,
-    "Text": "Virtual world",
-    "Japanese": "仮想世界",
+    "Text": "Vacation home",
+    "Japanese": "別荘",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3385,
     "Lvl": 10,
-    "Text": "Vegetable oil",
-    "Japanese": "植物油",
+    "Text": "Velvet fabric",
+    "Japanese": "ベルベット生地",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3386,
     "Lvl": 10,
-    "Text": "Vacation home",
-    "Japanese": "別荘",
+    "Text": "Water bottles",
+    "Japanese": "水筒",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3387,
     "Lvl": 10,
-    "Text": "Velvet fabric",
-    "Japanese": "ベルベット生地",
+    "Text": "Western world",
+    "Japanese": "西洋世界",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3388,
     "Lvl": 10,
-    "Text": "Water bottles",
-    "Japanese": "水筒",
+    "Text": "Window shades",
+    "Japanese": "窓用ブラインド",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3389,
     "Lvl": 10,
-    "Text": "Western world",
-    "Japanese": "西洋世界",
+    "Text": "Weekly report",
+    "Japanese": "週次報告",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3390,
     "Lvl": 10,
-    "Text": "Window shades",
-    "Japanese": "窓用ブラインド",
+    "Text": "Weightlifting",
+    "Japanese": "ウェイトリフティング",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3391,
     "Lvl": 10,
-    "Text": "Weekly report",
-    "Japanese": "週次報告",
+    "Text": "Winter season",
+    "Japanese": "冬の季節",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3392,
     "Lvl": 10,
-    "Text": "Weightlifting",
-    "Japanese": "ウェイトリフティング",
+    "Text": "Working hours",
+    "Japanese": "勤務時間",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3393,
     "Lvl": 10,
-    "Text": "Winter season",
-    "Japanese": "冬の季節",
+    "Text": "X-ray machine",
+    "Japanese": "X線装置",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3394,
     "Lvl": 10,
-    "Text": "Working hours",
-    "Japanese": "勤務時間",
+    "Text": "X-ray therapy",
+    "Japanese": "X線療法",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3395,
     "Lvl": 10,
-    "Text": "X-ray machine",
-    "Japanese": "X線装置",
+    "Text": "X-ray picture",
+    "Japanese": "X線写真",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3396,
     "Lvl": 10,
-    "Text": "X-ray therapy",
-    "Japanese": "X線療法",
+    "Text": "Yellow flower",
+    "Japanese": "黄色い花",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3397,
     "Lvl": 10,
-    "Text": "X-ray picture",
-    "Japanese": "X線写真",
+    "Text": "Youth centers",
+    "Japanese": "青少年センター",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3398,
     "Lvl": 10,
-    "Text": "Yellow flower",
-    "Japanese": "黄色い花",
+    "Text": "Yearly report",
+    "Japanese": "年次報告書",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3399,
     "Lvl": 10,
-    "Text": "Youth centers",
-    "Japanese": "青少年センター",
+    "Text": "Zoo attendant",
+    "Japanese": "動物園の飼育員",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3400,
     "Lvl": 10,
-    "Text": "Yearly report",
-    "Japanese": "年次報告書",
+    "Text": "Zinc coatings",
+    "Japanese": "亜鉛コーティング",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3401,
     "Lvl": 10,
-    "Text": "Zoo attendant",
-    "Japanese": "動物園の飼育員",
+    "Text": "Zebra pattern",
+    "Japanese": "ゼブラ柄",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3402,
     "Lvl": 10,
-    "Text": "Zinc coatings",
-    "Japanese": "亜鉛コーティング",
+    "Text": "Zinc chloride",
+    "Japanese": "塩化亜鉛",
+    "isSafe": true,
     "Len": 13
   },
   {
     "Id": 3403,
-    "Lvl": 10,
-    "Text": "Zebra pattern",
-    "Japanese": "ゼブラ柄",
-    "Len": 13
+    "Lvl": 11,
+    "Text": "Advertisements",
+    "Japanese": "広告",
+    "isSafe": true,
+    "Len": 14
   },
   {
     "Id": 3404,
-    "Lvl": 10,
-    "Text": "Zinc chloride",
-    "Japanese": "塩化亜鉛",
-    "Len": 13
+    "Lvl": 11,
+    "Text": "Administration",
+    "Japanese": "管理",
+    "isSafe": true,
+    "Len": 14
   },
   {
     "Id": 3405,
     "Lvl": 11,
-    "Text": "Advertisements",
-    "Japanese": "広告",
+    "Text": "Accountability",
+    "Japanese": "説明責任",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3406,
     "Lvl": 11,
-    "Text": "Administration",
-    "Japanese": "管理",
+    "Text": "Accomplishment",
+    "Japanese": "達成",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3407,
     "Lvl": 11,
-    "Text": "Accountability",
-    "Japanese": "説明責任",
+    "Text": "Authentication",
+    "Japanese": "認証",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3408,
     "Lvl": 11,
-    "Text": "Accomplishment",
-    "Japanese": "達成",
+    "Text": "Anthropologist",
+    "Japanese": "人類学者",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3409,
     "Lvl": 11,
-    "Text": "Authentication",
-    "Japanese": "認証",
+    "Text": "Bioengineering",
+    "Japanese": "生物工学",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3410,
     "Lvl": 11,
-    "Text": "Anthropologist",
-    "Japanese": "人類学者",
+    "Text": "Biodegradables",
+    "Japanese": "生分解性",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3411,
     "Lvl": 11,
-    "Text": "Bioengineering",
-    "Japanese": "生物工学",
+    "Text": "Bioinformatics",
+    "Japanese": "バイオインフォマティクス",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3412,
     "Lvl": 11,
-    "Text": "Biodegradables",
-    "Japanese": "生分解性",
+    "Text": "Breathlessness",
+    "Japanese": "息切れ",
+    "isSafe": false,
     "Len": 14
   },
   {
     "Id": 3413,
     "Lvl": 11,
-    "Text": "Bioinformatics",
-    "Japanese": "バイオインフォマティクス",
+    "Text": "Businesspeople",
+    "Japanese": "ビジネスマン",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3414,
     "Lvl": 11,
-    "Text": "Breathlessness",
-    "Japanese": "息切れ",
+    "Text": "Blood pressure",
+    "Japanese": "血圧",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3415,
     "Lvl": 11,
-    "Text": "Businesspeople",
-    "Japanese": "ビジネスマン",
+    "Text": "Building block",
+    "Japanese": "構成要素",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3416,
     "Lvl": 11,
-    "Text": "Blood pressure",
-    "Japanese": "血圧",
+    "Text": "Characteristic",
+    "Japanese": "特性",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3417,
     "Lvl": 11,
-    "Text": "Building block",
-    "Japanese": "構成要素",
+    "Text": "Communications",
+    "Japanese": "コミュニケーション",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3418,
     "Lvl": 11,
-    "Text": "Characteristic",
-    "Japanese": "特性",
+    "Text": "Classification",
+    "Japanese": "分類",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3419,
     "Lvl": 11,
-    "Text": "Communications",
-    "Japanese": "コミュニケーション",
+    "Text": "Constitutional",
+    "Japanese": "憲法",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3420,
     "Lvl": 11,
-    "Text": "Classification",
+    "Text": "Categorization",
     "Japanese": "分類",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3421,
     "Lvl": 11,
-    "Text": "Constitutional",
-    "Japanese": "憲法",
+    "Text": "Capitalization",
+    "Japanese": "大文字化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3422,
     "Lvl": 11,
-    "Text": "Categorization",
-    "Japanese": "分類",
+    "Text": "Congratulation",
+    "Japanese": "おめでとうございます",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3423,
     "Lvl": 11,
-    "Text": "Capitalization",
-    "Japanese": "大文字化",
+    "Text": "Discrimination",
+    "Japanese": "差別",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3424,
     "Lvl": 11,
-    "Text": "Congratulation",
-    "Japanese": "おめでとうございます",
+    "Text": "Determinations",
+    "Japanese": "決定事項",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3425,
     "Lvl": 11,
-    "Text": "Discrimination",
-    "Japanese": "差別",
+    "Text": "Differentiates",
+    "Japanese": "区別する",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3426,
     "Lvl": 11,
-    "Text": "Determinations",
-    "Japanese": "決定事項",
+    "Text": "Disappointment",
+    "Japanese": "失望",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3427,
     "Lvl": 11,
-    "Text": "Differentiates",
-    "Japanese": "区別する",
+    "Text": "Discontinuance",
+    "Japanese": "中止",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3428,
     "Lvl": 11,
-    "Text": "Disappointment",
-    "Japanese": "失望",
+    "Text": "Decentralizing",
+    "Japanese": "分散化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3429,
     "Lvl": 11,
-    "Text": "Discontinuance",
-    "Japanese": "中止",
+    "Text": "Effective date",
+    "Japanese": "発効日",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3430,
     "Lvl": 11,
-    "Text": "Decentralizing",
-    "Japanese": "分散化",
+    "Text": "Everything now",
+    "Japanese": "すべて今",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3431,
     "Lvl": 11,
-    "Text": "Effective date",
-    "Japanese": "発効日",
+    "Text": "Ecclesiastical",
+    "Japanese": "教会の",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3432,
     "Lvl": 11,
-    "Text": "Everything now",
-    "Japanese": "すべて今",
+    "Text": "Electromagnets",
+    "Japanese": "電磁石",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3433,
     "Lvl": 11,
-    "Text": "Ecclesiastical",
-    "Japanese": "教会の",
+    "Text": "Experimentally",
+    "Japanese": "実験的に",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3434,
     "Lvl": 11,
-    "Text": "Electromagnets",
-    "Japanese": "電磁石",
+    "Text": "Financial plan",
+    "Japanese": "財務計画",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3435,
     "Lvl": 11,
-    "Text": "Experimentally",
-    "Japanese": "実験的に",
+    "Text": "Functionalisms",
+    "Japanese": "機能主義",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3436,
     "Lvl": 11,
-    "Text": "Financial plan",
-    "Japanese": "財務計画",
+    "Text": "Fundamentalist",
+    "Japanese": "原理主義者",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3437,
     "Lvl": 11,
-    "Text": "Functionalisms",
-    "Japanese": "機能主義",
+    "Text": "Fragmentations",
+    "Japanese": "断片化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3438,
     "Lvl": 11,
-    "Text": "Fundamentalist",
-    "Japanese": "原理主義者",
+    "Text": "Friendlinesses",
+    "Japanese": "親しみやすさ",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3439,
     "Lvl": 11,
-    "Text": "Fragmentations",
-    "Japanese": "断片化",
+    "Text": "Featherweights",
+    "Japanese": "フェザー級",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3440,
     "Lvl": 11,
-    "Text": "Friendlinesses",
-    "Japanese": "親しみやすさ",
+    "Text": "Geometric form",
+    "Japanese": "幾何学的形状",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3441,
     "Lvl": 11,
-    "Text": "Featherweights",
-    "Japanese": "フェザー級",
+    "Text": "Global warming",
+    "Japanese": "地球温暖化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3442,
     "Lvl": 11,
-    "Text": "Geometric form",
-    "Japanese": "幾何学的形状",
+    "Text": "Gathering data",
+    "Japanese": "データ収集",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3443,
     "Lvl": 11,
-    "Text": "Global warming",
-    "Japanese": "地球温暖化",
+    "Text": "Greatest thing",
+    "Japanese": "最高のもの",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3444,
     "Lvl": 11,
-    "Text": "Gathering data",
-    "Japanese": "データ収集",
+    "Text": "Generalization",
+    "Japanese": "一般化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3445,
     "Lvl": 11,
-    "Text": "Greatest thing",
-    "Japanese": "最高のもの",
+    "Text": "Historical era",
+    "Japanese": "歴史的時代",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3446,
     "Lvl": 11,
-    "Text": "Generalization",
-    "Japanese": "一般化",
+    "Text": "Hyperinflation",
+    "Japanese": "過膨張",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3447,
     "Lvl": 11,
-    "Text": "Historical era",
-    "Japanese": "歴史的時代",
+    "Text": "Hydroelectrics",
+    "Japanese": "水力発電",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3448,
     "Lvl": 11,
-    "Text": "Hyperinflation",
-    "Japanese": "過膨張",
+    "Text": "Housecleanings",
+    "Japanese": "ハウスクリーニング",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3449,
     "Lvl": 11,
-    "Text": "Hydroelectrics",
-    "Japanese": "水力発電",
+    "Text": "Human resource",
+    "Japanese": "人事",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3450,
     "Lvl": 11,
-    "Text": "Housecleanings",
-    "Japanese": "ハウスクリーニング",
+    "Text": "Hallucinations",
+    "Japanese": "幻覚",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3451,
     "Lvl": 11,
-    "Text": "Human resource",
-    "Japanese": "人事",
+    "Text": "Implementation",
+    "Japanese": "実装",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3452,
     "Lvl": 11,
-    "Text": "Hallucinations",
-    "Japanese": "幻覚",
+    "Text": "Identification",
+    "Japanese": "識別",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3453,
     "Lvl": 11,
-    "Text": "Implementation",
-    "Japanese": "実装",
+    "Text": "Infrastructure",
+    "Japanese": "インフラストラクチャー",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3454,
     "Lvl": 11,
-    "Text": "Identification",
-    "Japanese": "識別",
+    "Text": "Individualisms",
+    "Japanese": "個人主義",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3455,
     "Lvl": 11,
-    "Text": "Infrastructure",
-    "Japanese": "インフラストラクチャー",
+    "Text": "Initial commit",
+    "Japanese": "初回コミット",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3456,
     "Lvl": 11,
-    "Text": "Individualisms",
-    "Japanese": "個人主義",
+    "Text": "Interpretation",
+    "Japanese": "解釈",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3457,
     "Lvl": 11,
-    "Text": "Interpretation",
-    "Japanese": "解釈",
+    "Text": "Interconnected",
+    "Japanese": "相互接続されています",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3458,
     "Lvl": 11,
-    "Text": "Interconnected",
-    "Japanese": "相互接続されています",
+    "Text": "Investigations",
+    "Japanese": "調査",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3459,
     "Lvl": 11,
-    "Text": "Investigations",
-    "Japanese": "調査",
+    "Text": "Joint projects",
+    "Japanese": "共同プロジェクト",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3460,
     "Lvl": 11,
-    "Text": "Joint projects",
-    "Japanese": "共同プロジェクト",
+    "Text": "Justifications",
+    "Japanese": "正当化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3461,
     "Lvl": 11,
-    "Text": "Justifications",
-    "Japanese": "正当化",
+    "Text": "Juvenile court",
+    "Japanese": "少年裁判所",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3462,
     "Lvl": 11,
-    "Text": "Juvenile court",
-    "Japanese": "少年裁判所",
+    "Text": "Japanese style",
+    "Japanese": "和風",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3463,
     "Lvl": 11,
-    "Text": "Japanese style",
-    "Japanese": "和風",
+    "Text": "Juxtapositions",
+    "Japanese": "並置",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3464,
     "Lvl": 11,
-    "Text": "Juxtapositions",
-    "Japanese": "並置",
+    "Text": "Jazz musicians",
+    "Japanese": "ジャズミュージシャン",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3465,
     "Lvl": 11,
-    "Text": "Jazz musicians",
-    "Japanese": "ジャズミュージシャン",
+    "Text": "Knowledge base",
+    "Japanese": "知識ベース",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3466,
     "Lvl": 11,
-    "Text": "Knowledge base",
-    "Japanese": "知識ベース",
+    "Text": "Kitchen garden",
+    "Japanese": "家庭菜園",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3467,
     "Lvl": 11,
-    "Text": "Kitchen garden",
-    "Japanese": "家庭菜園",
+    "Text": "Keep in memory",
+    "Japanese": "記憶に留めて",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3468,
     "Lvl": 11,
-    "Text": "Keep in memory",
-    "Japanese": "記憶に留めて",
+    "Text": "Key ingredient",
+    "Japanese": "主要成分",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3469,
     "Lvl": 11,
-    "Text": "Key ingredient",
-    "Japanese": "主要成分",
+    "Text": "Keyboard style",
+    "Japanese": "キーボードスタイル",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3470,
     "Lvl": 11,
-    "Text": "Keyboard style",
-    "Japanese": "キーボードスタイル",
+    "Text": "Known quantity",
+    "Japanese": "既知の量",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3471,
     "Lvl": 11,
-    "Text": "Known quantity",
-    "Japanese": "既知の量",
+    "Text": "Librarianships",
+    "Japanese": "図書館員職",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3472,
     "Lvl": 11,
-    "Text": "Librarianships",
-    "Japanese": "図書館員職",
+    "Text": "Literalization",
+    "Japanese": "文字通りの解釈",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3473,
     "Lvl": 11,
-    "Text": "Literalization",
-    "Japanese": "文字通りの解釈",
+    "Text": "Lightheartedly",
+    "Japanese": "気楽に",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3474,
     "Lvl": 11,
-    "Text": "Lightheartedly",
-    "Japanese": "気楽に",
+    "Text": "Leading figure",
+    "Japanese": "指導的人物",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3475,
     "Lvl": 11,
-    "Text": "Leading figure",
-    "Japanese": "指導的人物",
+    "Text": "Laboratory job",
+    "Japanese": "研究室での仕事",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3476,
     "Lvl": 11,
-    "Text": "Laboratory job",
-    "Japanese": "研究室での仕事",
+    "Text": "Learning phase",
+    "Japanese": "学習段階",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3477,
     "Lvl": 11,
-    "Text": "Learning phase",
-    "Japanese": "学習段階",
+    "Text": "Microstructure",
+    "Japanese": "微細構造",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3478,
     "Lvl": 11,
-    "Text": "Microstructure",
-    "Japanese": "微細構造",
+    "Text": "Misinterpreted",
+    "Japanese": "誤解された",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3479,
     "Lvl": 11,
-    "Text": "Misinterpreted",
-    "Japanese": "誤解された",
+    "Text": "Multiplication",
+    "Japanese": "乗算",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3480,
     "Lvl": 11,
-    "Text": "Multiplication",
-    "Japanese": "乗算",
+    "Text": "Manifestations",
+    "Japanese": "発現",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3481,
     "Lvl": 11,
-    "Text": "Manifestations",
-    "Japanese": "発現",
+    "Text": "Miscalculation",
+    "Japanese": "誤算",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3482,
     "Lvl": 11,
-    "Text": "Miscalculation",
-    "Japanese": "誤算",
+    "Text": "Microorganisms",
+    "Japanese": "微生物",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3483,
     "Lvl": 11,
-    "Text": "Microorganisms",
-    "Japanese": "微生物",
+    "Text": "Normalizations",
+    "Japanese": "正規化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3484,
     "Lvl": 11,
-    "Text": "Normalizations",
-    "Japanese": "正規化",
+    "Text": "Nighttime walk",
+    "Japanese": "夜の散歩",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3485,
     "Lvl": 11,
-    "Text": "Nighttime walk",
-    "Japanese": "夜の散歩",
+    "Text": "Neutralization",
+    "Japanese": "中和",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3486,
     "Lvl": 11,
-    "Text": "Neutralization",
-    "Japanese": "中和",
+    "Text": "Naturalization",
+    "Japanese": "帰化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3487,
     "Lvl": 11,
-    "Text": "Naturalization",
-    "Japanese": "帰化",
+    "Text": "Noncompetitive",
+    "Japanese": "非競争的",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3488,
     "Lvl": 11,
-    "Text": "Noncompetitive",
-    "Japanese": "非競争的",
+    "Text": "Nervous system",
+    "Japanese": "神経系",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3489,
     "Lvl": 11,
-    "Text": "Nervous system",
-    "Japanese": "神経系",
+    "Text": "Negative sense",
+    "Japanese": "否定的な意味",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3490,
     "Lvl": 11,
-    "Text": "Negative sense",
-    "Japanese": "否定的な意味",
+    "Text": "Organizational",
+    "Japanese": "組織",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3491,
     "Lvl": 11,
-    "Text": "Organizational",
-    "Japanese": "組織",
+    "Text": "Overwhelmingly",
+    "Japanese": "圧倒的に",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3492,
     "Lvl": 11,
-    "Text": "Overwhelmingly",
-    "Japanese": "圧倒的に",
+    "Text": "Operating room",
+    "Japanese": "手術室",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3493,
     "Lvl": 11,
-    "Text": "Operating room",
-    "Japanese": "手術室",
+    "Text": "Office manager",
+    "Japanese": "オフィス管理者",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3494,
     "Lvl": 11,
-    "Text": "Office manager",
-    "Japanese": "オフィス管理者",
+    "Text": "Organic matter",
+    "Japanese": "有機物",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3495,
     "Lvl": 11,
-    "Text": "Organic matter",
-    "Japanese": "有機物",
+    "Text": "Out of control",
+    "Japanese": "制御不能",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3496,
     "Lvl": 11,
-    "Text": "Out of control",
-    "Japanese": "制御不能",
+    "Text": "Pharmaceutical",
+    "Japanese": "医薬品",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3497,
     "Lvl": 11,
-    "Text": "Pharmaceutical",
-    "Japanese": "医薬品",
+    "Text": "Photosynthesis",
+    "Japanese": "光合成",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3498,
     "Lvl": 11,
-    "Text": "Photosynthesis",
-    "Japanese": "光合成",
+    "Text": "Practical work",
+    "Japanese": "実習",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3499,
     "Lvl": 11,
-    "Text": "Practical work",
-    "Japanese": "実習",
+    "Text": "Public speaker",
+    "Japanese": "講演者",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3500,
     "Lvl": 11,
-    "Text": "Public speaker",
-    "Japanese": "講演者",
+    "Text": "Physical world",
+    "Japanese": "物理世界",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3501,
     "Lvl": 11,
-    "Text": "Physical world",
-    "Japanese": "物理世界",
+    "Text": "Paleontologist",
+    "Japanese": "古生物学者",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3502,
     "Lvl": 11,
-    "Text": "Paleontologist",
-    "Japanese": "古生物学者",
+    "Text": "Qualifications",
+    "Japanese": "資格",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3503,
     "Lvl": 11,
-    "Text": "Qualifications",
-    "Japanese": "資格",
+    "Text": "Quantification",
+    "Japanese": "定量化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3504,
     "Lvl": 11,
-    "Text": "Quantification",
-    "Japanese": "定量化",
+    "Text": "Quartermasters",
+    "Japanese": "需品係将校",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3505,
     "Lvl": 11,
-    "Text": "Quartermasters",
-    "Japanese": "需品係将校",
+    "Text": "Questionnaires",
+    "Japanese": "アンケート",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3506,
     "Lvl": 11,
-    "Text": "Questionnaires",
-    "Japanese": "アンケート",
+    "Text": "Quietly moving",
+    "Japanese": "静かに動く",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3507,
     "Lvl": 11,
-    "Text": "Quietly moving",
-    "Japanese": "静かに動く",
+    "Text": "Quick response",
+    "Japanese": "迅速な対応",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3508,
     "Lvl": 11,
-    "Text": "Quick response",
-    "Japanese": "迅速な対応",
+    "Text": "Reconstruction",
+    "Japanese": "再建",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3509,
     "Lvl": 11,
-    "Text": "Reconstruction",
-    "Japanese": "再建",
+    "Text": "Representative",
+    "Japanese": "代表",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3510,
     "Lvl": 11,
-    "Text": "Representative",
-    "Japanese": "代表",
+    "Text": "Responsibility",
+    "Japanese": "責任",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3511,
     "Lvl": 11,
-    "Text": "Responsibility",
-    "Japanese": "責任",
+    "Text": "Rehabilitation",
+    "Japanese": "リハビリテーション",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3512,
     "Lvl": 11,
-    "Text": "Rehabilitation",
-    "Japanese": "リハビリテーション",
+    "Text": "Recategorizing",
+    "Japanese": "再分類",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3513,
     "Lvl": 11,
-    "Text": "Recategorizing",
-    "Japanese": "再分類",
+    "Text": "Running faster",
+    "Japanese": "より速く走る",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3514,
     "Lvl": 11,
-    "Text": "Running faster",
-    "Japanese": "より速く走る",
+    "Text": "Railway tracks",
+    "Japanese": "鉄道線路",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3515,
     "Lvl": 11,
-    "Text": "Railway tracks",
-    "Japanese": "鉄道線路",
+    "Text": "Sustainability",
+    "Japanese": "持続可能性",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3516,
     "Lvl": 11,
-    "Text": "Sustainability",
-    "Japanese": "持続可能性",
+    "Text": "Sophistication",
+    "Japanese": "洗練",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3517,
     "Lvl": 11,
-    "Text": "Sophistication",
-    "Japanese": "洗練",
+    "Text": "Specifications",
+    "Japanese": "仕様",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3518,
     "Lvl": 11,
-    "Text": "Specifications",
-    "Japanese": "仕様",
+    "Text": "Specialization",
+    "Japanese": "専門化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3519,
     "Lvl": 11,
-    "Text": "Specialization",
-    "Japanese": "専門化",
+    "Text": "Superstructure",
+    "Japanese": "上部構造",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3520,
     "Lvl": 11,
-    "Text": "Superstructure",
-    "Japanese": "上部構造",
+    "Text": "Small business",
+    "Japanese": "中小企業",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3521,
     "Lvl": 11,
-    "Text": "Small business",
-    "Japanese": "中小企業",
+    "Text": "Social science",
+    "Japanese": "社会科学",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3522,
     "Lvl": 11,
-    "Text": "Social science",
-    "Japanese": "社会科学",
+    "Text": "Transformation",
+    "Japanese": "変換",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3523,
     "Lvl": 11,
-    "Text": "Transformation",
-    "Japanese": "変換",
+    "Text": "Transportation",
+    "Japanese": "交通機関",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3524,
     "Lvl": 11,
-    "Text": "Transportation",
-    "Japanese": "交通機関",
+    "Text": "Technical work",
+    "Japanese": "技術作業",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3525,
     "Lvl": 11,
-    "Text": "Technical work",
-    "Japanese": "技術作業",
+    "Text": "Theatrical act",
+    "Japanese": "演劇",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3526,
     "Lvl": 11,
-    "Text": "Theatrical act",
-    "Japanese": "演劇",
+    "Text": "Traditionalism",
+    "Japanese": "伝統主義",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3527,
     "Lvl": 11,
-    "Text": "Traditionalism",
-    "Japanese": "伝統主義",
+    "Text": "Textualization",
+    "Japanese": "テキスト化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3528,
     "Lvl": 11,
-    "Text": "Textualization",
-    "Japanese": "テキスト化",
+    "Text": "Understandable",
+    "Japanese": "理解できる",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3529,
     "Lvl": 11,
-    "Text": "Understandable",
-    "Japanese": "理解できる",
+    "Text": "Unsatisfactory",
+    "Japanese": "不十分",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3530,
     "Lvl": 11,
-    "Text": "Unsatisfactory",
-    "Japanese": "不十分",
+    "Text": "Understatement",
+    "Japanese": "控えめな表現",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3531,
     "Lvl": 11,
-    "Text": "Understatement",
-    "Japanese": "控えめな表現",
+    "Text": "Uniformization",
+    "Japanese": "均一化",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3532,
     "Lvl": 11,
-    "Text": "Uniformization",
-    "Japanese": "均一化",
+    "Text": "Universalizing",
+    "Japanese": "普遍化する",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3533,
     "Lvl": 11,
-    "Text": "Universalizing",
-    "Japanese": "普遍化する",
+    "Text": "Urban planning",
+    "Japanese": "都市計画",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3534,
     "Lvl": 11,
-    "Text": "Urban planning",
-    "Japanese": "都市計画",
+    "Text": "Used car sales",
+    "Japanese": "中古車販売",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3535,
     "Lvl": 11,
-    "Text": "Used car sales",
-    "Japanese": "中古車販売",
+    "Text": "Vegetarianisms",
+    "Japanese": "菜食主義",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3536,
     "Lvl": 11,
-    "Text": "Vegetarianisms",
-    "Japanese": "菜食主義",
+    "Text": "Vertical lines",
+    "Japanese": "垂直線",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3537,
     "Lvl": 11,
-    "Text": "Vertical lines",
-    "Japanese": "垂直線",
+    "Text": "Virtual worlds",
+    "Japanese": "仮想世界",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3538,
     "Lvl": 11,
-    "Text": "Virtual worlds",
-    "Japanese": "仮想世界",
+    "Text": "Vocabulary set",
+    "Japanese": "語彙セット",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3539,
     "Lvl": 11,
-    "Text": "Vocabulary set",
-    "Japanese": "語彙セット",
+    "Text": "Voice recorder",
+    "Japanese": "ボイスレコーダー",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3540,
     "Lvl": 11,
-    "Text": "Voice recorder",
-    "Japanese": "ボイスレコーダー",
+    "Text": "Video computer",
+    "Japanese": "ビデオコンピュータ",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3541,
     "Lvl": 11,
-    "Text": "Video computer",
-    "Japanese": "ビデオコンピュータ",
+    "Text": "Valuation date",
+    "Japanese": "評価日",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3542,
     "Lvl": 11,
-    "Text": "Valuation date",
-    "Japanese": "評価日",
+    "Text": "Weather report",
+    "Japanese": "天気予報",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3543,
     "Lvl": 11,
-    "Text": "Weather report",
-    "Japanese": "天気予報",
+    "Text": "Water fountain",
+    "Japanese": "噴水",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3544,
     "Lvl": 11,
-    "Text": "Water fountain",
-    "Japanese": "噴水",
+    "Text": "Winter morning",
+    "Japanese": "冬の朝",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3545,
     "Lvl": 11,
-    "Text": "Winter morning",
-    "Japanese": "冬の朝",
+    "Text": "Writing a book",
+    "Japanese": "本を書く",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3546,
     "Lvl": 11,
-    "Text": "Writing a book",
-    "Japanese": "本を書く",
+    "Text": "Whistleblowers",
+    "Japanese": "内部告発者",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3547,
     "Lvl": 11,
-    "Text": "Whistleblowers",
-    "Japanese": "内部告発者",
+    "Text": "Xylophonically",
+    "Japanese": "木琴のように",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3548,
     "Lvl": 11,
-    "Text": "Xylophonically",
-    "Japanese": "木琴のように",
+    "Text": "Xenophobically",
+    "Japanese": "外国人嫌い",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3549,
     "Lvl": 11,
-    "Text": "Xenophobically",
-    "Japanese": "外国人嫌いに",
+    "Text": "Xenotransplant",
+    "Japanese": "異種移植",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3550,
     "Lvl": 11,
-    "Text": "Xenotransplant",
-    "Japanese": "異種移植",
+    "Text": "Yearly reports",
+    "Japanese": "年次報告書",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3551,
     "Lvl": 11,
-    "Text": "Yearly reports",
-    "Japanese": "年次報告書",
+    "Text": "Yelling loudly",
+    "Japanese": "大声で叫ぶ",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3552,
     "Lvl": 11,
-    "Text": "Yelling loudly",
-    "Japanese": "大声で叫ぶ",
+    "Text": "Zoological lab",
+    "Japanese": "動物学研究室",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3553,
     "Lvl": 11,
-    "Text": "Zoological lab",
-    "Japanese": "動物学研究室",
+    "Text": "Zodiac symbols",
+    "Japanese": "星座のシンボル",
+    "isSafe": true,
     "Len": 14
   },
   {
     "Id": 3554,
-    "Lvl": 11,
-    "Text": "Zodiac symbols",
-    "Japanese": "星座のシンボル",
-    "Len": 14
+    "Lvl": 12,
+    "Text": "Academic career",
+    "Japanese": "学歴",
+    "isSafe": true,
+    "Len": 15
   },
   {
     "Id": 3555,
     "Lvl": 12,
-    "Text": "Academic career",
-    "Japanese": "学歴",
+    "Text": "Acoustic guitar",
+    "Japanese": "アコースティックギター",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3556,
     "Lvl": 12,
-    "Text": "Acoustic guitar",
-    "Japanese": "アコースティックギター",
+    "Text": "Advanced course",
+    "Japanese": "上級コース",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3557,
     "Lvl": 12,
-    "Text": "Advanced course",
-    "Japanese": "上級コース",
+    "Text": "Afternoon snack",
+    "Japanese": "午後のおやつ",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3558,
     "Lvl": 12,
-    "Text": "Afternoon snack",
-    "Japanese": "午後のおやつ",
+    "Text": "Balanced budget",
+    "Japanese": "均衡予算",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3559,
     "Lvl": 12,
-    "Text": "Balanced budget",
-    "Japanese": "均衡予算",
+    "Text": "Beautiful place",
+    "Japanese": "美しい場所",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3560,
     "Lvl": 12,
-    "Text": "Beautiful place",
-    "Japanese": "美しい場所",
+    "Text": "Best friendship",
+    "Japanese": "最高の友情",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3561,
     "Lvl": 12,
-    "Text": "Best friendship",
-    "Japanese": "最高の友情",
+    "Text": "Business center",
+    "Japanese": "ビジネスセンター",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3562,
     "Lvl": 12,
-    "Text": "Business center",
-    "Japanese": "ビジネスセンター",
+    "Text": "Cardiac surgery",
+    "Japanese": "心臓手術",
+    "isSafe": false,
     "Len": 15
   },
   {
     "Id": 3563,
     "Lvl": 12,
-    "Text": "Cardiac surgery",
-    "Japanese": "心臓手術",
+    "Text": "Central heating",
+    "Japanese": "セントラルヒーティング",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3564,
     "Lvl": 12,
-    "Text": "Central heating",
-    "Japanese": "セントラルヒーティング",
+    "Text": "Chemical energy",
+    "Japanese": "化学エネルギー",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3565,
     "Lvl": 12,
-    "Text": "Chemical energy",
-    "Japanese": "化学エネルギー",
+    "Text": "Clinical trials",
+    "Japanese": "臨床試験",
+    "isSafe": false,
     "Len": 15
   },
   {
     "Id": 3566,
     "Lvl": 12,
-    "Text": "Clinical trials",
-    "Japanese": "臨床試験",
+    "Text": "Digital cameras",
+    "Japanese": "デジタルカメラ",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3567,
     "Lvl": 12,
-    "Text": "Digital cameras",
-    "Japanese": "デジタルカメラ",
+    "Text": "Dancing lessons",
+    "Japanese": "ダンスレッスン",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3568,
     "Lvl": 12,
-    "Text": "Dancing lessons",
-    "Japanese": "ダンスレッスン",
+    "Text": "Daily newspaper",
+    "Japanese": "日刊新聞",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3569,
     "Lvl": 12,
-    "Text": "Daily newspaper",
-    "Japanese": "日刊新聞",
+    "Text": "Driving license",
+    "Japanese": "運転免許証",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3570,
     "Lvl": 12,
-    "Text": "Driving license",
-    "Japanese": "運転免許証",
+    "Text": "Electric guitar",
+    "Japanese": "エレキギター",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3571,
     "Lvl": 12,
-    "Text": "Electric guitar",
-    "Japanese": "エレキギター",
+    "Text": "Economic growth",
+    "Japanese": "経済成長",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3572,
     "Lvl": 12,
-    "Text": "Economic growth",
-    "Japanese": "経済成長",
+    "Text": "Elegant clothes",
+    "Japanese": "エレガントな服",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3573,
     "Lvl": 12,
-    "Text": "Elegant clothes",
-    "Japanese": "エレガントな服",
+    "Text": "Endless summers",
+    "Japanese": "終わりのない夏",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3574,
     "Lvl": 12,
-    "Text": "Endless summers",
-    "Japanese": "終わりのない夏",
+    "Text": "Feeling nervous",
+    "Japanese": "緊張している",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3575,
     "Lvl": 12,
-    "Text": "Feeling nervous",
-    "Japanese": "緊張している",
+    "Text": "Football player",
+    "Japanese": "サッカー選手",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3576,
     "Lvl": 12,
-    "Text": "Football player",
-    "Japanese": "サッカー選手",
+    "Text": "Foreign country",
+    "Japanese": "外国",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3577,
     "Lvl": 12,
-    "Text": "Foreign country",
-    "Japanese": "外国",
+    "Text": "Frequent flyers",
+    "Japanese": "頻繁に飛行機を利用する人",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3578,
     "Lvl": 12,
-    "Text": "Frequent flyers",
-    "Japanese": "頻繁に飛行機を利用する人",
+    "Text": "Garden entrance",
+    "Japanese": "庭の入り口",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3579,
     "Lvl": 12,
-    "Text": "Garden entrance",
-    "Japanese": "庭の入り口",
+    "Text": "General concept",
+    "Japanese": "一般概念",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3580,
     "Lvl": 12,
-    "Text": "General concept",
-    "Japanese": "一般概念",
+    "Text": "Genuine concern",
+    "Japanese": "真摯な懸念",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3581,
     "Lvl": 12,
-    "Text": "Genuine concern",
-    "Japanese": "真摯な懸念",
+    "Text": "Great potential",
+    "Japanese": "大きな可能性",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3582,
     "Lvl": 12,
-    "Text": "Great potential",
-    "Japanese": "大きな可能性",
+    "Text": "Healthy cooking",
+    "Japanese": "健康的な料理",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3583,
     "Lvl": 12,
-    "Text": "Healthy cooking",
-    "Japanese": "健康的な料理",
+    "Text": "Human resources",
+    "Japanese": "人事",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3584,
     "Lvl": 12,
-    "Text": "Human resources",
-    "Japanese": "人事",
+    "Text": "Highest quality",
+    "Japanese": "最高品質",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3585,
     "Lvl": 12,
-    "Text": "Highest quality",
-    "Japanese": "最高品質",
+    "Text": "Internal flight",
+    "Japanese": "国内線",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3586,
     "Lvl": 12,
-    "Text": "Internal flight",
-    "Japanese": "国内線",
+    "Text": "Improved health",
+    "Japanese": "健康状態の改善",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3587,
     "Lvl": 12,
-    "Text": "Improved health",
-    "Japanese": "健康状態の改善",
+    "Text": "Initial contact",
+    "Japanese": "初回連絡",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3588,
     "Lvl": 12,
-    "Text": "Initial contact",
-    "Japanese": "最初の連絡",
+    "Text": "Japanese garden",
+    "Japanese": "日本庭園",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3589,
     "Lvl": 12,
-    "Text": "Japanese garden",
-    "Japanese": "日本庭園",
+    "Text": "Junior students",
+    "Japanese": "下級生",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3590,
     "Lvl": 12,
-    "Text": "Junior students",
-    "Japanese": "下級生",
+    "Text": "Job application",
+    "Japanese": "求人応募",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3591,
     "Lvl": 12,
-    "Text": "Job application",
-    "Japanese": "求人応募",
+    "Text": "Justice systems",
+    "Japanese": "司法制度",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3592,
     "Lvl": 12,
-    "Text": "Justice systems",
-    "Japanese": "司法制度",
+    "Text": "Kitchen cabinet",
+    "Japanese": "キッチンキャビネット",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3593,
     "Lvl": 12,
-    "Text": "Kitchen cabinet",
-    "Japanese": "キッチンキャビネット",
+    "Text": "Keyboard typing",
+    "Japanese": "キーボード入力",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3594,
     "Lvl": 12,
-    "Text": "Keyboard typing",
-    "Japanese": "キーボード入力",
+    "Text": "Kind treatments",
+    "Japanese": "親切な扱い",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3595,
     "Lvl": 12,
-    "Text": "Kind treatments",
-    "Japanese": "親切な扱い",
+    "Text": "Knowledge bases",
+    "Japanese": "知識ベース",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3596,
     "Lvl": 12,
-    "Text": "Knowledge bases",
-    "Japanese": "知識ベース",
+    "Text": "Learning center",
+    "Japanese": "学習センター",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3597,
     "Lvl": 12,
-    "Text": "Learning center",
-    "Japanese": "学習センター",
+    "Text": "Literary awards",
+    "Japanese": "文学賞",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3598,
     "Lvl": 12,
-    "Text": "Literary awards",
-    "Japanese": "文学賞",
+    "Text": "Local community",
+    "Japanese": "地域社会",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3599,
     "Lvl": 12,
-    "Text": "Local community",
-    "Japanese": "地域社会",
+    "Text": "Logical process",
+    "Japanese": "論理プロセス",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3600,
     "Lvl": 12,
-    "Text": "Logical process",
-    "Japanese": "論理プロセス",
+    "Text": "Medical student",
+    "Japanese": "医学生",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3601,
     "Lvl": 12,
-    "Text": "Medical student",
-    "Japanese": "医学生",
+    "Text": "Military action",
+    "Japanese": "軍事行動",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3602,
     "Lvl": 12,
-    "Text": "Military action",
-    "Japanese": "軍事行動",
+    "Text": "Musical theater",
+    "Japanese": "ミュージカル",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3603,
     "Lvl": 12,
-    "Text": "Musical theater",
-    "Japanese": "ミュージカル",
+    "Text": "Natural science",
+    "Japanese": "自然科学",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3604,
     "Lvl": 12,
-    "Text": "Natural science",
-    "Japanese": "自然科学",
+    "Text": "Northern lights",
+    "Japanese": "オーロラ",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3605,
     "Lvl": 12,
-    "Text": "Northern lights",
-    "Japanese": "オーロラ",
+    "Text": "Nervous tension",
+    "Japanese": "神経の緊張",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3606,
     "Lvl": 12,
-    "Text": "Nervous tension",
-    "Japanese": "神経の緊張",
+    "Text": "Nuclear weapons",
+    "Japanese": "核兵器",
+    "isSafe": false,
     "Len": 15
   },
   {
     "Id": 3607,
     "Lvl": 12,
-    "Text": "Nuclear weapons",
-    "Japanese": "核兵器",
+    "Text": "Online shopping",
+    "Japanese": "オンラインショッピング",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3608,
     "Lvl": 12,
-    "Text": "Online shopping",
-    "Japanese": "オンラインショッピング",
+    "Text": "Optical devices",
+    "Japanese": "光学デバイス",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3609,
     "Lvl": 12,
-    "Text": "Optical devices",
-    "Japanese": "光学デバイス",
+    "Text": "Octanitrocubane",
+    "Japanese": "オクタニトロキュバン",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3610,
     "Lvl": 12,
-    "Text": "Octanitrocubane",
-    "Japanese": "オクタニトロキュバン",
+    "Text": "Opening remarks",
+    "Japanese": "開会の挨拶",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3611,
     "Lvl": 12,
-    "Text": "Opening remarks",
-    "Japanese": "開会の挨拶",
+    "Text": "Physical health",
+    "Japanese": "身体の健康",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3612,
     "Lvl": 12,
-    "Text": "Physical health",
-    "Japanese": "身体の健康",
+    "Text": "Private sectors",
+    "Japanese": "民間セ​​クター",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3613,
     "Lvl": 12,
-    "Text": "Private sectors",
-    "Japanese": "民間セ​​クター",
+    "Text": "Popular culture",
+    "Japanese": "大衆文化",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3614,
     "Lvl": 12,
-    "Text": "Popular culture",
-    "Japanese": "大衆文化",
+    "Text": "Public speaking",
+    "Japanese": "人前でのスピーチ",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3615,
     "Lvl": 12,
-    "Text": "Public speaking",
-    "Japanese": "人前でのスピーチ",
+    "Text": "Quality control",
+    "Japanese": "品質管理",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3616,
     "Lvl": 12,
-    "Text": "Quality control",
-    "Japanese": "品質管理",
+    "Text": "Quiet afternoon",
+    "Japanese": "静かな午後",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3617,
     "Lvl": 12,
-    "Text": "Quiet afternoon",
-    "Japanese": "静かな午後",
+    "Text": "Quick responses",
+    "Japanese": "迅速な対応",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3618,
     "Lvl": 12,
-    "Text": "Quick responses",
-    "Japanese": "迅速な対応",
+    "Text": "Quantum physics",
+    "Japanese": "量子物理学",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3619,
     "Lvl": 12,
-    "Text": "Quantum physics",
-    "Japanese": "量子物理学",
+    "Text": "Romantic dinner",
+    "Japanese": "ロマンチックなディナー",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3620,
     "Lvl": 12,
-    "Text": "Romantic dinner",
-    "Japanese": "ロマンチックなディナー",
+    "Text": "Relative speeds",
+    "Japanese": "相対速度",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3621,
     "Lvl": 12,
-    "Text": "Relative speeds",
-    "Japanese": "相対速度",
+    "Text": "Remote controls",
+    "Japanese": "リモコン",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3622,
     "Lvl": 12,
-    "Text": "Remote controls",
-    "Japanese": "リモコン",
+    "Text": "Romantic comedy",
+    "Japanese": "ロマンティックコメディ",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3623,
     "Lvl": 12,
-    "Text": "Romantic comedy",
-    "Japanese": "ロマンティックコメディ",
+    "Text": "Special effects",
+    "Japanese": "特撮",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3624,
     "Lvl": 12,
-    "Text": "Special effects",
-    "Japanese": "特撮",
+    "Text": "Sporting events",
+    "Japanese": "スポーツイベント",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3625,
     "Lvl": 12,
-    "Text": "Sporting events",
-    "Japanese": "スポーツイベント",
+    "Text": "Standard format",
+    "Japanese": "標準フォーマット",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3626,
     "Lvl": 12,
-    "Text": "Standard format",
-    "Japanese": "標準フォーマット",
+    "Text": "Social services",
+    "Japanese": "社会福祉",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3627,
     "Lvl": 12,
-    "Text": "Social services",
-    "Japanese": "社会福祉",
+    "Text": "Technical issue",
+    "Japanese": "技術的な問題",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3628,
     "Lvl": 12,
-    "Text": "Technical issue",
-    "Japanese": "技術的な問題",
+    "Text": "There's no data",
+    "Japanese": "データがありません",
+    "isSafe": false,
     "Len": 15
   },
   {
     "Id": 3629,
     "Lvl": 12,
-    "Text": "There's no data",
-    "Japanese": "データがありません",
+    "Text": "Typical example",
+    "Japanese": "典型的な例",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3630,
     "Lvl": 12,
-    "Text": "Typical example",
-    "Japanese": "典型的な例",
+    "Text": "Tropical island",
+    "Japanese": "熱帯の島",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3631,
     "Lvl": 12,
-    "Text": "Tropical island",
-    "Japanese": "熱帯の島",
+    "Text": "Trinitrotoluene",
+    "Japanese": "トリニトロトルエン",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3632,
     "Lvl": 12,
-    "Text": "Trinitrotoluene",
-    "Japanese": "トリニトロトルエン",
+    "Text": "Urgent messages",
+    "Japanese": "緊急メッセージ",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3633,
     "Lvl": 12,
-    "Text": "Urgent messages",
-    "Japanese": "緊急メッセージ",
+    "Text": "Uniform systems",
+    "Japanese": "均一システム",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3634,
     "Lvl": 12,
-    "Text": "Uniform systems",
-    "Japanese": "均一システム",
+    "Text": "Unique features",
+    "Japanese": "独自の機能",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3635,
     "Lvl": 12,
-    "Text": "Unique features",
-    "Japanese": "独自の機能",
+    "Text": "Valuable assets",
+    "Japanese": "貴重な資産",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3636,
     "Lvl": 12,
-    "Text": "Valuable assets",
-    "Japanese": "貴重な資産",
+    "Text": "Vintage clothes",
+    "Japanese": "ヴィンテージ服",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3637,
     "Lvl": 12,
-    "Text": "Vintage clothes",
-    "Japanese": "ヴィンテージ服",
+    "Text": "Verbal warnings",
+    "Japanese": "口頭での警告",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3638,
     "Lvl": 12,
-    "Text": "Verbal warnings",
-    "Japanese": "口頭での警告",
+    "Text": "Victory parades",
+    "Japanese": "勝利パレード",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3639,
     "Lvl": 12,
-    "Text": "Victory parades",
-    "Japanese": "勝利パレード",
+    "Text": "Wedding parties",
+    "Japanese": "結婚披露宴",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3640,
     "Lvl": 12,
-    "Text": "Wedding parties",
-    "Japanese": "結婚披露宴",
+    "Text": "Weekly magazine",
+    "Japanese": "週刊誌",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3641,
     "Lvl": 12,
-    "Text": "Weekly magazine",
-    "Japanese": "週刊誌",
+    "Text": "World heritages",
+    "Japanese": "世界遺産",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3642,
     "Lvl": 12,
-    "Text": "World heritages",
-    "Japanese": "世界遺産",
+    "Text": "Xylophone music",
+    "Japanese": "木琴の音楽",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3643,
     "Lvl": 12,
-    "Text": "Xylophone music",
-    "Japanese": "木琴の音楽",
+    "Text": "X-ray treatment",
+    "Japanese": "X線治療",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3644,
     "Lvl": 12,
-    "Text": "X-ray treatment",
-    "Japanese": "X線治療",
+    "Text": "X-ray emissions",
+    "Japanese": "X線放出",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3645,
     "Lvl": 12,
-    "Text": "X-ray emissions",
-    "Japanese": "X線放出",
+    "Text": "Yearly meetings",
+    "Japanese": "年次会議",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3646,
     "Lvl": 12,
-    "Text": "Yearly meetings",
-    "Japanese": "年次会議",
+    "Text": "Yard attraction",
+    "Japanese": "庭のアトラクション",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3647,
     "Lvl": 12,
-    "Text": "Yard attraction",
-    "Japanese": "庭のアトラクション",
+    "Text": "Youthful spirit",
+    "Japanese": "若々しい精神",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3648,
     "Lvl": 12,
-    "Text": "Youthful spirit",
-    "Japanese": "若々しい精神",
+    "Text": "Zebra crossings",
+    "Japanese": "横断歩道",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3649,
     "Lvl": 12,
-    "Text": "Zebra crossings",
-    "Japanese": "横断歩道",
+    "Text": "Zero tolerances",
+    "Japanese": "一切の容赦なし",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3650,
     "Lvl": 12,
-    "Text": "Zero tolerances",
-    "Japanese": "一切の容赦なし",
+    "Text": "Zone boundaries",
+    "Japanese": "ゾーン境界",
+    "isSafe": true,
     "Len": 15
   },
   {
     "Id": 3651,
-    "Lvl": 12,
-    "Text": "Zone boundaries",
-    "Japanese": "ゾーン境界",
-    "Len": 15
+    "Lvl": 13,
+    "Text": "Academic studies",
+    "Japanese": "学術研究",
+    "isSafe": true,
+    "Len": 16
   },
   {
     "Id": 3652,
     "Lvl": 13,
-    "Text": "Academic studies",
-    "Japanese": "学術研究",
+    "Text": "Advanced degrees",
+    "Japanese": "高度な学位",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3653,
     "Lvl": 13,
-    "Text": "Advanced degrees",
-    "Japanese": "高度な学位",
+    "Text": "Absolute control",
+    "Japanese": "絶対的な支配",
+    "isSafe": false,
     "Len": 16
   },
   {
     "Id": 3654,
     "Lvl": 13,
-    "Text": "Absolute control",
-    "Japanese": "絶対的な支配",
+    "Text": "Artistic talents",
+    "Japanese": "芸術的才能",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3655,
     "Lvl": 13,
-    "Text": "Artistic talents",
-    "Japanese": "芸術的才能",
+    "Text": "Beautiful garden",
+    "Japanese": "美しい庭園",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3656,
     "Lvl": 13,
-    "Text": "Beautiful garden",
-    "Japanese": "美しい庭園",
+    "Text": "Business schools",
+    "Japanese": "ビジネススクール",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3657,
     "Lvl": 13,
-    "Text": "Business schools",
-    "Japanese": "ビジネススクール",
+    "Text": "Better standards",
+    "Japanese": "より良い基準",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3658,
     "Lvl": 13,
-    "Text": "Better standards",
-    "Japanese": "より良い基準",
+    "Text": "Building project",
+    "Japanese": "建築プロジェクト",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3659,
     "Lvl": 13,
-    "Text": "Building project",
-    "Japanese": "建築プロジェクト",
+    "Text": "Creative writing",
+    "Japanese": "クリエイティブライティング",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3660,
     "Lvl": 13,
-    "Text": "Creative writing",
-    "Japanese": "クリエイティブライティング",
+    "Text": "Clinical testing",
+    "Japanese": "臨床試験",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3661,
     "Lvl": 13,
-    "Text": "Clinical testing",
-    "Japanese": "臨床試験",
+    "Text": "Computer science",
+    "Japanese": "コンピュータサイエンス",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3662,
     "Lvl": 13,
-    "Text": "Computer science",
-    "Japanese": "コンピュータサイエンス",
+    "Text": "Chemical weapons",
+    "Japanese": "化学兵器",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3663,
     "Lvl": 13,
-    "Text": "Chemical weapons",
-    "Japanese": "化学兵器",
+    "Text": "Domestic flights",
+    "Japanese": "国内線",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3664,
     "Lvl": 13,
-    "Text": "Domestic flights",
-    "Japanese": "国内線",
+    "Text": "Digital computer",
+    "Japanese": "デジタルコンピュータ",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3665,
     "Lvl": 13,
-    "Text": "Digital computer",
-    "Japanese": "デジタルコンピュータ",
+    "Text": "Driving licenses",
+    "Japanese": "運転免許証",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3666,
     "Lvl": 13,
-    "Text": "Driving licenses",
-    "Japanese": "運転免許証",
+    "Text": "Emotional damage",
+    "Japanese": "精神的ダメージ",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3667,
     "Lvl": 13,
-    "Text": "Emotional damage",
-    "Japanese": "精神的ダメージ",
+    "Text": "Electric guitars",
+    "Japanese": "エレキギター",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3668,
     "Lvl": 13,
-    "Text": "Electric guitars",
-    "Japanese": "エレキギター",
+    "Text": "Economic systems",
+    "Japanese": "経済システム",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3669,
     "Lvl": 13,
-    "Text": "Economic systems",
-    "Japanese": "経済システム",
+    "Text": "External factors",
+    "Japanese": "外部要因",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3670,
     "Lvl": 13,
-    "Text": "External factors",
-    "Japanese": "外部要因",
+    "Text": "Endless patience",
+    "Japanese": "限りない忍耐",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3671,
     "Lvl": 13,
-    "Text": "Endless patience",
-    "Japanese": "限りない忍耐",
+    "Text": "Financial status",
+    "Japanese": "財務状況",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3672,
     "Lvl": 13,
-    "Text": "Financial status",
-    "Japanese": "財務状況",
+    "Text": "Football matches",
+    "Japanese": "サッカーの試合",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3673,
     "Lvl": 13,
-    "Text": "Football matches",
-    "Japanese": "サッカーの試合",
+    "Text": "Foreign language",
+    "Japanese": "外国語",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3674,
     "Lvl": 13,
-    "Text": "Foreign language",
-    "Japanese": "外国語",
+    "Text": "Global companies",
+    "Japanese": "グローバル企業",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3675,
     "Lvl": 13,
-    "Text": "Global companies",
-    "Japanese": "グローバル企業",
+    "Text": "Golden retriever",
+    "Japanese": "ゴールデンレトリバー",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3676,
     "Lvl": 13,
-    "Text": "Golden retriever",
-    "Japanese": "ゴールデンレトリバー",
+    "Text": "General meetings",
+    "Japanese": "総会",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3677,
     "Lvl": 13,
-    "Text": "General meetings",
-    "Japanese": "総会",
+    "Text": "Great advantages",
+    "Japanese": "大きなメリット",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3678,
     "Lvl": 13,
-    "Text": "Great advantages",
-    "Japanese": "大きなメリット",
+    "Text": "Historic moments",
+    "Japanese": "歴史的な瞬間",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3679,
     "Lvl": 13,
-    "Text": "Historic moments",
-    "Japanese": "歴史的な瞬間",
+    "Text": "Human experience",
+    "Japanese": "人間の経験",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3680,
     "Lvl": 13,
-    "Text": "Human experience",
-    "Japanese": "人間の経験",
+    "Text": "High performance",
+    "Japanese": "高性能",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3681,
     "Lvl": 13,
-    "Text": "High performance",
-    "Japanese": "高性能",
+    "Text": "Internal affairs",
+    "Japanese": "内務",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3682,
     "Lvl": 13,
-    "Text": "Internal affairs",
-    "Japanese": "内務",
+    "Text": "Initial reaction",
+    "Japanese": "初期反応",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3683,
     "Lvl": 13,
-    "Text": "Initial reaction",
-    "Japanese": "初期反応",
+    "Text": "Important person",
+    "Japanese": "重要人物",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3684,
     "Lvl": 13,
-    "Text": "Important person",
-    "Japanese": "重要人物",
+    "Text": "Immediate family",
+    "Japanese": "近親者",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3685,
     "Lvl": 13,
-    "Text": "Immediate family",
-    "Japanese": "近親者",
+    "Text": "Joint operations",
+    "Japanese": "共同作戦",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3686,
     "Lvl": 13,
-    "Text": "Joint operations",
-    "Japanese": "共同作戦",
+    "Text": "Junior employees",
+    "Japanese": "若手社員",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3687,
     "Lvl": 13,
-    "Text": "Junior employees",
-    "Japanese": "若手社員",
+    "Text": "Judicial systems",
+    "Japanese": "司法システム",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3688,
     "Lvl": 13,
-    "Text": "Judicial systems",
-    "Japanese": "司法システム",
+    "Text": "Keyboard players",
+    "Japanese": "キーボード奏者",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3689,
     "Lvl": 13,
-    "Text": "Keyboard players",
-    "Japanese": "キーボード奏者",
+    "Text": "Kind suggestions",
+    "Japanese": "親切な提案",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3690,
     "Lvl": 13,
-    "Text": "Kind suggestions",
-    "Japanese": "親切な提案",
+    "Text": "Knowledge seeker",
+    "Japanese": "知識探求者",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3691,
     "Lvl": 13,
-    "Text": "Knowledge seeker",
-    "Japanese": "知識探求者",
+    "Text": "Kitchen cabinets",
+    "Japanese": "キッチンキャビネット",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3692,
     "Lvl": 13,
-    "Text": "Kitchen cabinets",
-    "Japanese": "キッチンキャビネット",
+    "Text": "Logical thinking",
+    "Japanese": "論理的思考",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3693,
     "Lvl": 13,
-    "Text": "Logical thinking",
-    "Japanese": "論理的思考",
+    "Text": "Literary critics",
+    "Japanese": "文学評論家",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3694,
     "Lvl": 13,
-    "Text": "Literary critics",
-    "Japanese": "文学評論家",
+    "Text": "Local government",
+    "Japanese": "地方自治体",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3695,
     "Lvl": 13,
-    "Text": "Local government",
-    "Japanese": "地方自治体",
+    "Text": "Legal frameworks",
+    "Japanese": "法的枠組み",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3696,
     "Lvl": 13,
-    "Text": "Legal frameworks",
-    "Japanese": "法的枠組み",
+    "Text": "Medical research",
+    "Japanese": "医学研究",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3697,
     "Lvl": 13,
-    "Text": "Medical research",
-    "Japanese": "医学研究",
+    "Text": "Morning routines",
+    "Japanese": "朝のルーティン",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3698,
     "Lvl": 13,
-    "Text": "Morning routines",
-    "Japanese": "朝のルーティン",
+    "Text": "Musical concerts",
+    "Japanese": "音楽コンサート",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3699,
     "Lvl": 13,
-    "Text": "Musical concerts",
-    "Japanese": "音楽コンサート",
+    "Text": "Mental illnesses",
+    "Japanese": "精神疾患",
+    "isSafe": false,
     "Len": 16
   },
   {
     "Id": 3700,
     "Lvl": 13,
-    "Text": "Mental illnesses",
-    "Japanese": "精神疾患",
+    "Text": "Natural resource",
+    "Japanese": "天然資源",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3701,
     "Lvl": 13,
-    "Text": "Natural resource",
-    "Japanese": "天然資源",
+    "Text": "National anthems",
+    "Japanese": "国歌",
+    "isSafe": false,
     "Len": 16
   },
   {
     "Id": 3702,
     "Lvl": 13,
-    "Text": "National anthems",
-    "Japanese": "国歌",
+    "Text": "Negative effects",
+    "Japanese": "悪影響",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3703,
     "Lvl": 13,
-    "Text": "Negative effects",
-    "Japanese": "悪影響",
+    "Text": "Online platforms",
+    "Japanese": "オンラインプラットフォーム",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3704,
     "Lvl": 13,
-    "Text": "Online platforms",
-    "Japanese": "オンラインプラットフォーム",
+    "Text": "Organic products",
+    "Japanese": "オーガニック製品",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3705,
     "Lvl": 13,
-    "Text": "Organic products",
-    "Japanese": "オーガニック製品",
+    "Text": "Official records",
+    "Japanese": "公式記録",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3706,
     "Lvl": 13,
-    "Text": "Official records",
-    "Japanese": "公式記録",
+    "Text": "Physical contact",
+    "Japanese": "身体的接触",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3707,
     "Lvl": 13,
-    "Text": "Physical contact",
-    "Japanese": "身体的接触",
+    "Text": "Private property",
+    "Japanese": "私有地",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3708,
     "Lvl": 13,
-    "Text": "Private property",
-    "Japanese": "私有地",
+    "Text": "Public transport",
+    "Japanese": "公共交通機関",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3709,
     "Lvl": 13,
-    "Text": "Public transport",
-    "Japanese": "公共交通機関",
+    "Text": "Popular programs",
+    "Japanese": "人気番組",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3710,
     "Lvl": 13,
-    "Text": "Popular programs",
-    "Japanese": "人気番組",
+    "Text": "Quality products",
+    "Japanese": "高品質な製品",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3711,
     "Lvl": 13,
-    "Text": "Quality products",
-    "Japanese": "高品質な製品",
+    "Text": "Quiet conditions",
+    "Japanese": "静かな環境",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3712,
     "Lvl": 13,
-    "Text": "Quiet conditions",
-    "Japanese": "静かな環境",
+    "Text": "Quantum computer",
+    "Japanese": "量子コンピュータ",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3713,
     "Lvl": 13,
-    "Text": "Quantum computer",
-    "Japanese": "量子コンピュータ",
+    "Text": "Regional offices",
+    "Japanese": "地域事務所",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3714,
     "Lvl": 13,
-    "Text": "Regional offices",
-    "Japanese": "地域事務所",
+    "Text": "Research project",
+    "Japanese": "研究プロジェクト",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3715,
     "Lvl": 13,
-    "Text": "Research project",
-    "Japanese": "研究プロジェクト",
+    "Text": "Romantic feeling",
+    "Japanese": "ロマンチックな気分",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3716,
     "Lvl": 13,
-    "Text": "Romantic feeling",
-    "Japanese": "ロマンチックな気分",
+    "Text": "Reliable sources",
+    "Japanese": "信頼できる情報源",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3717,
     "Lvl": 13,
-    "Text": "Reliable sources",
-    "Japanese": "信頼できる情報源",
+    "Text": "Standard formats",
+    "Japanese": "標準フォーマット",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3718,
     "Lvl": 13,
-    "Text": "Standard formats",
-    "Japanese": "標準フォーマット",
+    "Text": "Social structure",
+    "Japanese": "社会構造",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3719,
     "Lvl": 13,
-    "Text": "Social structure",
-    "Japanese": "社会構造",
+    "Text": "Sports equipment",
+    "Japanese": "スポーツ用品",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3720,
     "Lvl": 13,
-    "Text": "Sports equipment",
-    "Japanese": "スポーツ用品",
+    "Text": "Technical skills",
+    "Japanese": "技術スキル",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3721,
     "Lvl": 13,
-    "Text": "Technical skills",
-    "Japanese": "技術スキル",
+    "Text": "Teaching methods",
+    "Japanese": "教授法",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3722,
     "Lvl": 13,
-    "Text": "Teaching methods",
-    "Japanese": "教授法",
+    "Text": "Tropical climate",
+    "Japanese": "熱帯気候",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3723,
     "Lvl": 13,
-    "Text": "Tropical climate",
-    "Japanese": "熱帯気候",
+    "Text": "Traffic problems",
+    "Japanese": "交通問題",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3724,
     "Lvl": 13,
-    "Text": "Traffic problems",
-    "Japanese": "交通問題",
+    "Text": "Urban developers",
+    "Japanese": "都市開発業者",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3725,
     "Lvl": 13,
-    "Text": "Urban developers",
-    "Japanese": "都市開発業者",
+    "Text": "Unique solutions",
+    "Japanese": "独自のソリューション",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3726,
     "Lvl": 13,
-    "Text": "Unique solutions",
-    "Japanese": "独自のソリューション",
+    "Text": "Under the bridge",
+    "Japanese": "橋の下",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3727,
     "Lvl": 13,
-    "Text": "Under the bridge",
-    "Japanese": "橋の下",
+    "Text": "Variable factors",
+    "Japanese": "変動要因",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3728,
     "Lvl": 13,
-    "Text": "Variable factors",
-    "Japanese": "変動要因",
+    "Text": "Vintage clothing",
+    "Japanese": "ヴィンテージ衣料",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3729,
     "Lvl": 13,
-    "Text": "Vintage clothing",
-    "Japanese": "ヴィンテージ衣料",
+    "Text": "Vocal techniques",
+    "Japanese": "発声テクニック",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3730,
     "Lvl": 13,
-    "Text": "Vocal techniques",
-    "Japanese": "発声テクニック",
+    "Text": "Valuable lessons",
+    "Japanese": "貴重な教訓",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3731,
     "Lvl": 13,
-    "Text": "Valuable lessons",
-    "Japanese": "貴重な教訓",
+    "Text": "Winter vacations",
+    "Japanese": "冬休み",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3732,
     "Lvl": 13,
-    "Text": "Winter vacations",
-    "Japanese": "冬休み",
+    "Text": "Weather forecast",
+    "Japanese": "天気予報",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3733,
     "Lvl": 13,
-    "Text": "Weather forecast",
-    "Japanese": "天気予報",
+    "Text": "Wireless network",
+    "Japanese": "無線ネットワーク",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3734,
     "Lvl": 13,
-    "Text": "Wireless network",
-    "Japanese": "無線ネットワーク",
+    "Text": "Working routines",
+    "Japanese": "作業手順",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3735,
     "Lvl": 13,
-    "Text": "Working routines",
-    "Japanese": "作業手順",
+    "Text": "Xenon headlights",
+    "Japanese": "キセノンヘッドライト",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3736,
     "Lvl": 13,
-    "Text": "Xenon headlights",
-    "Japanese": "キセノンヘッドライト",
+    "Text": "X-ray treatments",
+    "Japanese": "X線治療",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3737,
     "Lvl": 13,
-    "Text": "X-ray treatments",
-    "Japanese": "X線治療",
+    "Text": "Xenophobic views",
+    "Japanese": "外国人嫌悪的な見解",
+    "isSafe": false,
     "Len": 16
   },
   {
     "Id": 3738,
     "Lvl": 13,
-    "Text": "Xenophobic views",
-    "Japanese": "外国人嫌悪的な見解",
+    "Text": "You are an idiot",
+    "Japanese": "お前はバカだ",
+    "isSafe": false,
     "Len": 16
   },
   {
     "Id": 3739,
     "Lvl": 13,
-    "Text": "You are an idiot",
-    "Japanese": "お前はバカだ",
+    "Text": "Young generation",
+    "Japanese": "若い世代",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3740,
     "Lvl": 13,
-    "Text": "Young generation",
-    "Japanese": "若い世代",
+    "Text": "Yielding results",
+    "Japanese": "成果を上げる",
+    "isSafe": true,
     "Len": 16
   },
   {
     "Id": 3741,
-    "Lvl": 13,
-    "Text": "Yielding results",
-    "Japanese": "成果を上げる",
-    "Len": 16
+    "Lvl": 14,
+    "Text": "Baseball stadiums",
+    "Japanese": "野球場",
+    "isSafe": true,
+    "Len": 17
   },
   {
     "Id": 3742,
     "Lvl": 14,
-    "Text": "Baseball stadiums",
-    "Japanese": "野球場",
+    "Text": "Beautiful scenery",
+    "Japanese": "美しい景色",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3743,
     "Lvl": 14,
-    "Text": "Beautiful scenery",
-    "Japanese": "美しい景色",
+    "Text": "Beryllium nitrate",
+    "Japanese": "硝酸ベリリウム",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3744,
     "Lvl": 14,
-    "Text": "Beryllium nitrate",
-    "Japanese": "硝酸ベリリウム",
+    "Text": "Cabinet ministers",
+    "Japanese": "閣僚",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3745,
     "Lvl": 14,
-    "Text": "Cabinet ministers",
-    "Japanese": "閣僚",
+    "Text": "Civil engineering",
+    "Japanese": "土木工学",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3746,
     "Lvl": 14,
-    "Text": "Civil engineering",
-    "Japanese": "土木工学",
+    "Text": "Digital marketing",
+    "Japanese": "デジタルマーケティング",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3747,
     "Lvl": 14,
-    "Text": "Digital marketing",
-    "Japanese": "デジタルマーケティング",
+    "Text": "Electric vehicles",
+    "Japanese": "電気自動車",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3748,
     "Lvl": 14,
-    "Text": "Electric vehicles",
-    "Japanese": "電気自動車",
+    "Text": "Fashion designers",
+    "Japanese": "ファッションデザイナー",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3749,
     "Lvl": 14,
-    "Text": "Fashion designers",
-    "Japanese": "ファッションデザイナー",
+    "Text": "Financial advisor",
+    "Japanese": "アドバイザー",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3750,
     "Lvl": 14,
-    "Text": "Financial advisor",
-    "Japanese": "アドバイザー",
+    "Text": "Fists are justice",
+    "Japanese": "拳こそが正義",
+    "isSafe": false,
     "Len": 17
   },
   {
     "Id": 3751,
     "Lvl": 14,
-    "Text": "Fists are justice",
-    "Japanese": "拳こそが正義",
+    "Text": "Forensic analysis",
+    "Japanese": "法医学分析",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3752,
     "Lvl": 14,
-    "Text": "Forensic analysis",
-    "Japanese": "法医学分析",
+    "Text": "Heavy metal music",
+    "Japanese": "ヘヴィメタル音楽",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3753,
     "Lvl": 14,
-    "Text": "Heavy metal music",
-    "Japanese": "ヘヴィメタル音楽",
+    "Text": "Holistic medicine",
+    "Japanese": "ホリスティック医療",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3754,
     "Lvl": 14,
-    "Text": "Holistic medicine",
-    "Japanese": "ホリスティック医療",
+    "Text": "Human interaction",
+    "Japanese": "人間同士の交流",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3755,
     "Lvl": 14,
-    "Text": "Human interaction",
-    "Japanese": "人間同士の交流",
+    "Text": "Hydrogen fluoride",
+    "Japanese": "フッ化水素",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3756,
     "Lvl": 14,
-    "Text": "Hydrogen fluoride",
-    "Japanese": "フッ化水素",
+    "Text": "Jewelry designers",
+    "Japanese": "ジュエリーデザイナー",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3757,
     "Lvl": 14,
-    "Text": "Jewelry designers",
-    "Japanese": "ジュエリーデザイナー",
+    "Text": "Justice excalibur",
+    "Japanese": "正義のエクスカリバー",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3758,
     "Lvl": 14,
-    "Text": "Justice excalibur",
-    "Japanese": "正義のエクスカリバー",
+    "Text": "Justified actions",
+    "Japanese": "正当化された行動",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3759,
     "Lvl": 14,
-    "Text": "Justified actions",
-    "Japanese": "正当化された行動",
+    "Text": "Language learning",
+    "Japanese": "言語学習",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3760,
     "Lvl": 14,
-    "Text": "Language learning",
-    "Japanese": "言語学習",
+    "Text": "Leading companies",
+    "Japanese": "大手企業",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3761,
     "Lvl": 14,
-    "Text": "Leading companies",
-    "Japanese": "大手企業",
+    "Text": "Management skills",
+    "Japanese": "マネジメントスキル",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3762,
     "Lvl": 14,
-    "Text": "Management skills",
-    "Japanese": "マネジメントスキル",
+    "Text": "Marine ecosystems",
+    "Japanese": "海洋生態系",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3763,
     "Lvl": 14,
-    "Text": "Marine ecosystems",
-    "Japanese": "海洋生態系",
+    "Text": "Medical treatment",
+    "Japanese": "医療",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3764,
     "Lvl": 14,
-    "Text": "Medical treatment",
-    "Japanese": "医療",
+    "Text": "National security",
+    "Japanese": "国家安全保障",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3765,
     "Lvl": 14,
-    "Text": "National security",
-    "Japanese": "国家安全保障",
+    "Text": "Natural resources",
+    "Japanese": "天然資源",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3766,
     "Lvl": 14,
-    "Text": "Natural resources",
-    "Japanese": "天然資源",
+    "Text": "Nervous breakdown",
+    "Japanese": "神経衰弱",
+    "isSafe": false,
     "Len": 17
   },
   {
     "Id": 3767,
     "Lvl": 14,
-    "Text": "Nervous breakdown",
-    "Japanese": "神経衰弱",
+    "Text": "Neutral positions",
+    "Japanese": "中立的な立場",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3768,
     "Lvl": 14,
-    "Text": "Neutral positions",
-    "Japanese": "中立的な立場",
+    "Text": "Operational costs",
+    "Japanese": "運営コスト",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3769,
     "Lvl": 14,
-    "Text": "Operational costs",
-    "Japanese": "運営コスト",
+    "Text": "Organic gardening",
+    "Japanese": "有機栽培",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3770,
     "Lvl": 14,
-    "Text": "Organic gardening",
-    "Japanese": "有機栽培",
+    "Text": "Painted portraits",
+    "Japanese": "描かれた肖像画",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3771,
     "Lvl": 14,
-    "Text": "Painted portraits",
-    "Japanese": "描かれた肖像画",
+    "Text": "Parental guidance",
+    "Japanese": "保護者の指導",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3772,
     "Lvl": 14,
-    "Text": "Parental guidance",
-    "Japanese": "保護者の指導",
+    "Text": "Physical exercise",
+    "Japanese": "運動",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3773,
     "Lvl": 14,
-    "Text": "Physical exercise",
-    "Japanese": "運動",
+    "Text": "Quality assurance",
+    "Japanese": "品質保証",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3774,
     "Lvl": 14,
-    "Text": "Quality assurance",
-    "Japanese": "品質保証",
+    "Text": "Quantum computing",
+    "Japanese": "量子コンピューティング",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3775,
     "Lvl": 14,
-    "Text": "Quantum computing",
-    "Japanese": "量子コンピューティング",
+    "Text": "Quarterly reports",
+    "Japanese": "四半期報告書",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3776,
     "Lvl": 14,
-    "Text": "Quarterly reports",
-    "Japanese": "四半期報告書",
+    "Text": "Questioning style",
+    "Japanese": "質問スタイル",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3777,
     "Lvl": 14,
-    "Text": "Questioning style",
-    "Japanese": "質問スタイル",
+    "Text": "Quiet environment",
+    "Japanese": "静かな環境",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3778,
     "Lvl": 14,
-    "Text": "Quiet environment",
-    "Japanese": "静かな環境",
+    "Text": "Rational behavior",
+    "Japanese": "合理的な行動",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3779,
     "Lvl": 14,
-    "Text": "Rational behavior",
-    "Japanese": "合理的な行動",
+    "Text": "Reading materials",
+    "Japanese": "読書資料",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3780,
     "Lvl": 14,
-    "Text": "Reading materials",
-    "Japanese": "読書資料",
+    "Text": "Religious beliefs",
+    "Japanese": "宗教的信念",
+    "isSafe": false,
     "Len": 17
   },
   {
     "Id": 3781,
     "Lvl": 14,
-    "Text": "Religious beliefs",
-    "Japanese": "宗教的信念",
+    "Text": "Research findings",
+    "Japanese": "研究結果",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3782,
     "Lvl": 14,
-    "Text": "Research findings",
-    "Japanese": "研究結果",
+    "Text": "Security measures",
+    "Japanese": "セキュリティ対策",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3783,
     "Lvl": 14,
-    "Text": "Security measures",
-    "Japanese": "セキュリティ対策",
+    "Text": "Senior executives",
+    "Japanese": "上級幹部",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3784,
     "Lvl": 14,
-    "Text": "Senior executives",
-    "Japanese": "上級幹部",
+    "Text": "Shattered reality",
+    "Japanese": "粉砕された現実",
+    "isSafe": false,
     "Len": 17
   },
   {
     "Id": 3785,
     "Lvl": 14,
-    "Text": "Shattered reality",
-    "Japanese": "現実が粉々に砕け散った",
+    "Text": "Technical support",
+    "Japanese": "テクニカルサポート",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3786,
     "Lvl": 14,
-    "Text": "Technical support",
-    "Japanese": "テクニカルサポート",
+    "Text": "Technology sector",
+    "Japanese": "テクノロジー分野",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3787,
     "Lvl": 14,
-    "Text": "Technology sector",
-    "Japanese": "テクノロジー分野",
+    "Text": "Temperature gauge",
+    "Japanese": "温度計",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3788,
     "Lvl": 14,
-    "Text": "Temperature gauge",
-    "Japanese": "温度計",
+    "Text": "Training programs",
+    "Japanese": "研修プログラム",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3789,
     "Lvl": 14,
-    "Text": "Training programs",
-    "Japanese": "研修プログラム",
+    "Text": "Trans fatty acids",
+    "Japanese": "トランス脂肪酸",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3790,
     "Lvl": 14,
-    "Text": "Trans fatty acids",
-    "Japanese": "トランス脂肪酸",
+    "Text": "Undersea research",
+    "Japanese": "海底研究",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3791,
     "Lvl": 14,
-    "Text": "Undersea research",
-    "Japanese": "海底研究",
+    "Text": "Unified messaging",
+    "Japanese": "統合メッセージング",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3792,
     "Lvl": 14,
-    "Text": "Unified messaging",
-    "Japanese": "統合メッセージング",
+    "Text": "Universal symbols",
+    "Japanese": "普遍的なシンボル",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3793,
     "Lvl": 14,
-    "Text": "Universal symbols",
-    "Japanese": "普遍的なシンボル",
+    "Text": "University degree",
+    "Japanese": "大学の学位",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3794,
     "Lvl": 14,
-    "Text": "University degree",
-    "Japanese": "大学の学位",
+    "Text": "Urban development",
+    "Japanese": "都市開発",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3795,
     "Lvl": 14,
-    "Text": "Urban development",
-    "Japanese": "都市開発",
+    "Text": "Variable outcomes",
+    "Japanese": "結果は様々",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3796,
     "Lvl": 14,
-    "Text": "Variable outcomes",
-    "Japanese": "結果は様々",
+    "Text": "Vegetable gardens",
+    "Japanese": "菜園",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3797,
     "Lvl": 14,
-    "Text": "Vegetable gardens",
-    "Japanese": "菜園",
+    "Text": "Weight management",
+    "Japanese": "体重管理",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3798,
     "Lvl": 14,
-    "Text": "Weight management",
-    "Japanese": "体重管理",
+    "Text": "Wireless networks",
+    "Japanese": "無線ネットワーク",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3799,
     "Lvl": 14,
-    "Text": "Wireless networks",
-    "Japanese": "無線ネットワーク",
+    "Text": "Wrath of the gods",
+    "Japanese": "神々の怒り",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3800,
     "Lvl": 14,
-    "Text": "Wrath of the gods",
-    "Japanese": "神々の怒り",
+    "Text": "Xenon flash tubes",
+    "Japanese": "キセノンフラッシュチューブ",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3801,
     "Lvl": 14,
-    "Text": "Xenon flash tubes",
-    "Japanese": "キセノンフラッシュチューブ",
+    "Text": "Xylophone players",
+    "Japanese": "木琴奏者",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3802,
     "Lvl": 14,
-    "Text": "Xylophone players",
-    "Japanese": "木琴奏者",
+    "Text": "Xylose metabolism",
+    "Japanese": "キシロース代謝",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3803,
     "Lvl": 14,
-    "Text": "Xylose metabolism",
-    "Japanese": "キシロース代謝",
+    "Text": "Zucchini harvests",
+    "Japanese": "ズッキーニの収穫",
+    "isSafe": true,
     "Len": 17
   },
   {
     "Id": 3804,
     "Lvl": 14,
-    "Text": "Zucchini harvests",
-    "Japanese": "ズッキーニの収穫",
-    "Len": 17
+    "Text": "Aerodynamic design",
+    "Japanese": "空力設計",
+    "isSafe": true,
+    "Len": 18
   },
   {
     "Id": 3805,
     "Lvl": 14,
-    "Text": "Aerodynamic design",
-    "Japanese": "空力設計",
+    "Text": "Aesthetic movement",
+    "Japanese": "美的運動",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3806,
     "Lvl": 14,
-    "Text": "Aesthetic movement",
-    "Japanese": "美的運動",
+    "Text": "Albatross feathers",
+    "Japanese": "アホウドリの羽",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3807,
     "Lvl": 14,
-    "Text": "Albatross feathers",
-    "Japanese": "アホウドリの羽",
+    "Text": "Antivirus software",
+    "Japanese": "ウイルス対策ソフトウェア",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3808,
     "Lvl": 14,
-    "Text": "Antivirus software",
-    "Japanese": "ウイルス対策ソフトウェア",
+    "Text": "Artificial systems",
+    "Japanese": "人工システム",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3809,
     "Lvl": 14,
-    "Text": "Artificial systems",
-    "Japanese": "人工システム",
+    "Text": "Balanced diet plan",
+    "Japanese": "バランスの取れた食事プラン",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3810,
     "Lvl": 14,
-    "Text": "Balanced diet plan",
-    "Japanese": "バランスの取れた食事プラン",
+    "Text": "Bane of arthropods",
+    "Japanese": "虫特攻",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3811,
     "Lvl": 14,
-    "Text": "Bane of arthropods",
-    "Japanese": "虫特攻",
+    "Text": "Banking regulation",
+    "Japanese": "銀行規制",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3812,
     "Lvl": 14,
-    "Text": "Banking regulation",
-    "Japanese": "銀行規制",
+    "Text": "Behavioral science",
+    "Japanese": "行動科学",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3813,
     "Lvl": 14,
-    "Text": "Behavioral science",
-    "Japanese": "行動科学",
+    "Text": "Beneficial effects",
+    "Japanese": "有益な効果",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3814,
     "Lvl": 14,
-    "Text": "Beneficial effects",
-    "Japanese": "有益な効果",
+    "Text": "Calcium deficiency",
+    "Japanese": "カルシウム欠乏症",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3815,
     "Lvl": 14,
-    "Text": "Calcium deficiency",
-    "Japanese": "カルシウム欠乏症",
+    "Text": "Career development",
+    "Japanese": "キャリア開発",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3816,
     "Lvl": 14,
-    "Text": "Career development",
-    "Japanese": "キャリア開発",
+    "Text": "Central government",
+    "Japanese": "中央政府",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3817,
     "Lvl": 14,
-    "Text": "Central government",
-    "Japanese": "中央政府",
+    "Text": "Chemical reactions",
+    "Japanese": "化学反応",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3818,
     "Lvl": 14,
-    "Text": "Chemical reactions",
-    "Japanese": "化学反応",
+    "Text": "Climate adaptation",
+    "Japanese": "気候変動への適応",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3819,
     "Lvl": 14,
-    "Text": "Climate adaptation",
-    "Japanese": "気候変動への適応",
+    "Text": "Data visualization",
+    "Japanese": "データ可視化",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3820,
     "Lvl": 14,
-    "Text": "Data visualization",
-    "Japanese": "データ可視化",
+    "Text": "Dead body reported",
+    "Japanese": "遺体発見の報告",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3821,
     "Lvl": 14,
-    "Text": "Dead body reported",
-    "Japanese": "遺体発見の報告",
+    "Text": "Defense mechanisms",
+    "Japanese": "防御機構",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3822,
     "Lvl": 14,
-    "Text": "Defense mechanisms",
-    "Japanese": "防御機構",
+    "Text": "Diazodinitrophenol",
+    "Japanese": "ジアゾジニトロフェノール",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3823,
     "Lvl": 14,
-    "Text": "Diazodinitrophenol",
-    "Japanese": "ジアゾジニトロフェノール",
+    "Text": "Dramatic structure",
+    "Japanese": "劇的な構成",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3824,
     "Lvl": 14,
-    "Text": "Dramatic structure",
-    "Japanese": "劇的な構成",
+    "Text": "Economic stability",
+    "Japanese": "経済の安定",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3825,
     "Lvl": 14,
-    "Text": "Economic stability",
-    "Japanese": "経済の安定",
+    "Text": "Educational system",
+    "Japanese": "教育制度",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3826,
     "Lvl": 14,
-    "Text": "Educational system",
-    "Japanese": "教育制度",
+    "Text": "Effective strategy",
+    "Japanese": "効果的な戦略",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3827,
     "Lvl": 14,
-    "Text": "Effective strategy",
-    "Japanese": "効果的な戦略",
+    "Text": "Electronic devices",
+    "Japanese": "電子機器",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3828,
     "Lvl": 14,
-    "Text": "Electronic devices",
-    "Japanese": "電子機器",
+    "Text": "Emotional maturity",
+    "Japanese": "感情的な成熟",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3829,
     "Lvl": 14,
-    "Text": "Emotional maturity",
-    "Japanese": "感情的な成熟",
+    "Text": "Energy consumption",
+    "Japanese": "エネルギー消費量",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3830,
     "Lvl": 14,
-    "Text": "Energy consumption",
-    "Japanese": "エネルギー消費量",
+    "Text": "Essential nutrient",
+    "Japanese": "必須栄養素",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3831,
     "Lvl": 14,
-    "Text": "Essential nutrient",
-    "Japanese": "必須栄養素",
+    "Text": "Factory automation",
+    "Japanese": "工場自動化",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3832,
     "Lvl": 14,
-    "Text": "Factory automation",
-    "Japanese": "工場自動化",
+    "Text": "Faithful companion",
+    "Japanese": "忠実な仲間",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3833,
     "Lvl": 14,
-    "Text": "Faithful companion",
-    "Japanese": "忠実な仲間",
+    "Text": "Federal government",
+    "Japanese": "連邦政府",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3834,
     "Lvl": 14,
-    "Text": "Federal government",
-    "Japanese": "連邦政府",
+    "Text": "Galactic astronomy",
+    "Japanese": "銀河天文学",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3835,
     "Lvl": 14,
-    "Text": "Galactic astronomy",
-    "Japanese": "銀河天文学",
+    "Text": "General principles",
+    "Japanese": "一般原則",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3836,
     "Lvl": 14,
-    "Text": "General principles",
-    "Japanese": "一般原則",
+    "Text": "Great achievements",
+    "Japanese": "素晴らしい功績",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3837,
     "Lvl": 14,
-    "Text": "Great achievements",
-    "Japanese": "素晴らしい功績",
+    "Text": "Heart rate monitor",
+    "Japanese": "心拍数モニター",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3838,
     "Lvl": 14,
-    "Text": "Heart rate monitor",
-    "Japanese": "心拍数モニター",
+    "Text": "Historical records",
+    "Japanese": "歴史記録",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3839,
     "Lvl": 14,
-    "Text": "Historical records",
-    "Japanese": "歴史記録",
+    "Text": "Important decision",
+    "Japanese": "重要な決断",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3840,
     "Lvl": 14,
-    "Text": "Important decision",
-    "Japanese": "重要な決断",
+    "Text": "Industrial economy",
+    "Japanese": "産業経済",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3841,
     "Lvl": 14,
-    "Text": "Industrial economy",
-    "Japanese": "産業経済",
+    "Text": "Information system",
+    "Japanese": "情報システム",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3842,
     "Lvl": 14,
-    "Text": "Information system",
-    "Japanese": "情報システム",
+    "Text": "Joint venture team",
+    "Japanese": "合弁事業チーム",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3843,
     "Lvl": 14,
-    "Text": "Joint venture team",
-    "Japanese": "合弁事業チーム",
+    "Text": "Journalistic style",
+    "Japanese": "ジャーナリスティックなスタイル",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3844,
     "Lvl": 14,
-    "Text": "Journalistic style",
-    "Japanese": "ジャーナリスティックなスタイル",
+    "Text": "Journey to success",
+    "Japanese": "成功への道のり",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3845,
     "Lvl": 14,
-    "Text": "Journey to success",
-    "Japanese": "成功への道のり",
+    "Text": "Junior high school",
+    "Japanese": "中学校",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3846,
     "Lvl": 14,
-    "Text": "Junior high school",
-    "Japanese": "中学校",
+    "Text": "Jury deliberations",
+    "Japanese": "陪審員の審議",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3847,
     "Lvl": 14,
-    "Text": "Jury deliberations",
-    "Japanese": "陪審員の審議",
+    "Text": "Keyboard shortcuts",
+    "Japanese": "キーボードショートカット",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3848,
     "Lvl": 14,
-    "Text": "Keyboard shortcuts",
-    "Japanese": "キーボードショートカット",
+    "Text": "Kinetic sculptures",
+    "Japanese": "キネティック彫刻",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3849,
     "Lvl": 14,
-    "Text": "Kinetic sculptures",
-    "Japanese": "キネティック彫刻",
+    "Text": "Kitchen appliances",
+    "Japanese": "キッチン家電",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3850,
     "Lvl": 14,
-    "Text": "Kitchen appliances",
-    "Japanese": "キッチン家電",
+    "Text": "Knowledge transfer",
+    "Japanese": "知識移転",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3851,
     "Lvl": 14,
-    "Text": "Knowledge transfer",
-    "Japanese": "知識移転",
+    "Text": "Korean restaurants",
+    "Japanese": "韓国料理店",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3852,
     "Lvl": 14,
-    "Text": "Korean restaurants",
-    "Japanese": "韓国料理店",
+    "Text": "Landscape painting",
+    "Japanese": "風景画",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3853,
     "Lvl": 14,
-    "Text": "Landscape painting",
-    "Japanese": "風景画",
+    "Text": "Learning materials",
+    "Japanese": "学習教材",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3854,
     "Lvl": 14,
-    "Text": "Learning materials",
-    "Japanese": "学習教材",
+    "Text": "Legal requirements",
+    "Japanese": "法的要件",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3855,
     "Lvl": 14,
-    "Text": "Legal requirements",
-    "Japanese": "法的要件",
+    "Text": "Leisure activities",
+    "Japanese": "レジャー活動",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3856,
     "Lvl": 14,
-    "Text": "Leisure activities",
-    "Japanese": "レジャー活動",
+    "Text": "Magnetic resonance",
+    "Japanese": "磁気共鳴",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3857,
     "Lvl": 14,
-    "Text": "Magnetic resonance",
-    "Japanese": "磁気共鳴",
+    "Text": "Marketing research",
+    "Japanese": "マーケティングリサーチ",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3858,
     "Lvl": 14,
-    "Text": "Marketing research",
-    "Japanese": "マーケティングリサーチ",
+    "Text": "Mental health care",
+    "Japanese": "メンタルヘルスケア",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3859,
     "Lvl": 14,
-    "Text": "Mental health care",
-    "Japanese": "メンタルヘルスケア",
+    "Text": "Negative reactions",
+    "Japanese": "否定的な反応",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3860,
     "Lvl": 14,
-    "Text": "Negative reactions",
-    "Japanese": "否定的な反応",
+    "Text": "Objective evidence",
+    "Japanese": "客観的証拠",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3861,
     "Lvl": 14,
-    "Text": "Objective evidence",
-    "Japanese": "客観的証拠",
+    "Text": "Ocean conservation",
+    "Japanese": "海洋保全",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3862,
     "Lvl": 14,
-    "Text": "Ocean conservation",
-    "Japanese": "海洋保全",
+    "Text": "Office environment",
+    "Japanese": "オフィス環境",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3863,
     "Lvl": 14,
-    "Text": "Office environment",
-    "Japanese": "オフィス環境",
+    "Text": "Outdoor recreation",
+    "Japanese": "アウトドアレクリエーション",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3864,
     "Lvl": 14,
-    "Text": "Outdoor recreation",
-    "Japanese": "アウトドアレクリエーション",
+    "Text": "Passive resistance",
+    "Japanese": "受動的抵抗",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3865,
     "Lvl": 14,
-    "Text": "Passive resistance",
-    "Japanese": "消極的抵抗",
+    "Text": "Peace negotiations",
+    "Japanese": "和平交渉",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3866,
     "Lvl": 14,
-    "Text": "Peace negotiations",
-    "Japanese": "和平交渉",
+    "Text": "Performance review",
+    "Japanese": "業績評価",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3867,
     "Lvl": 14,
-    "Text": "Performance review",
-    "Japanese": "業績評価",
+    "Text": "Personal computers",
+    "Japanese": "パーソナルコンピュータ",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3868,
     "Lvl": 14,
-    "Text": "Personal computers",
-    "Japanese": "パーソナルコンピュータ",
+    "Text": "Quantitative study",
+    "Japanese": "定量的研究",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3869,
     "Lvl": 14,
-    "Text": "Quantitative study",
-    "Japanese": "定量的研究",
+    "Text": "Radio broadcasting",
+    "Japanese": "ラジオ放送",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3870,
     "Lvl": 14,
-    "Text": "Radio broadcasting",
-    "Japanese": "ラジオ放送",
+    "Text": "Realistic painting",
+    "Japanese": "写実的な絵画",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3871,
     "Lvl": 14,
-    "Text": "Realistic painting",
-    "Japanese": "写実的な絵画",
+    "Text": "Sodium bicarbonate",
+    "Japanese": "重曹",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3872,
     "Lvl": 14,
-    "Text": "Sodium bicarbonate",
-    "Japanese": "重曹",
+    "Text": "Territorial waters",
+    "Japanese": "領海",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3873,
     "Lvl": 14,
-    "Text": "Territorial waters",
-    "Japanese": "領海",
+    "Text": "Textile industries",
+    "Japanese": "繊維産業",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3874,
     "Lvl": 14,
-    "Text": "Textile industries",
-    "Japanese": "繊維産業",
+    "Text": "Underground tunnel",
+    "Japanese": "地下トンネル",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3875,
     "Lvl": 14,
-    "Text": "Underground tunnel",
-    "Japanese": "地下トンネル",
+    "Text": "Unique perspective",
+    "Japanese": "独自の視点",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3876,
     "Lvl": 14,
-    "Text": "Unique perspective",
-    "Japanese": "独自の視点",
+    "Text": "Valid observations",
+    "Japanese": "有効な観察結果",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3877,
     "Lvl": 14,
-    "Text": "Valid observations",
-    "Japanese": "有効な観察結果",
+    "Text": "Vertical alignment",
+    "Japanese": "垂直方向の配置",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3878,
     "Lvl": 14,
-    "Text": "Vertical alignment",
-    "Japanese": "垂直方向の配置",
+    "Text": "Water conservation",
+    "Japanese": "節水",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3879,
     "Lvl": 14,
-    "Text": "Water conservation",
-    "Japanese": "節水",
+    "Text": "Weather conditions",
+    "Japanese": "気象状況",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3880,
     "Lvl": 14,
-    "Text": "Weather conditions",
-    "Japanese": "気象状況",
+    "Text": "Xerographic copies",
+    "Japanese": "ゼログラフィーコピー",
+    "isSafe": true,
     "Len": 18
   },
   {
     "Id": 3881,
     "Lvl": 14,
-    "Text": "Xerographic copies",
-    "Japanese": "ゼログラフィーコピー",
+    "Text": "Yellow fever virus",
+    "Japanese": "黄熱ウイルス",
+    "isSafe": false,
     "Len": 18
   },
   {
     "Id": 3882,
-    "Lvl": 14,
-    "Text": "Yellow fever virus",
-    "Japanese": "黄熱ウイルス",
-    "Len": 18
+    "Lvl": 15,
+    "Text": "Absolute monarchism",
+    "Japanese": "絶対君主制",
+    "isSafe": false,
+    "Len": 19
   },
   {
     "Id": 3883,
     "Lvl": 15,
-    "Text": "Absolute monarchism",
-    "Japanese": "絶対君主制",
+    "Text": "Acoustic guitarists",
+    "Japanese": "アコースティックギタリスト",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3884,
     "Lvl": 15,
-    "Text": "Acoustic guitarists",
-    "Japanese": "アコースティックギタリスト",
+    "Text": "Advanced technology",
+    "Japanese": "先進技術",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3885,
     "Lvl": 15,
-    "Text": "Advanced technology",
-    "Japanese": "先進技術",
+    "Text": "Bacterial infection",
+    "Japanese": "細菌感染",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3886,
     "Lvl": 15,
-    "Text": "Bacterial infection",
-    "Japanese": "細菌感染",
+    "Text": "Celestial mechanics",
+    "Japanese": "天体力学",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3887,
     "Lvl": 15,
-    "Text": "Celestial mechanics",
-    "Japanese": "天体力学",
+    "Text": "Dihydrogen monoxide",
+    "Japanese": "一酸化二水素",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3888,
     "Lvl": 15,
-    "Text": "Dihydrogen monoxide",
-    "Japanese": "一酸化二水素",
+    "Text": "Dynamic programming",
+    "Japanese": "動的計画法",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3889,
     "Lvl": 15,
-    "Text": "Dynamic programming",
-    "Japanese": "動的計画法",
+    "Text": "Gallery exhibitions",
+    "Japanese": "ギャラリー展示",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3890,
     "Lvl": 15,
-    "Text": "Gallery exhibitions",
-    "Japanese": "ギャラリー展示",
+    "Text": "Genetic engineering",
+    "Japanese": "遺伝子工学",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3891,
     "Lvl": 15,
-    "Text": "Genetic engineering",
-    "Japanese": "遺伝子工学",
+    "Text": "Geographic location",
+    "Japanese": "地理的位置",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3892,
     "Lvl": 15,
-    "Text": "Geographic location",
-    "Japanese": "地理的位置",
+    "Text": "Increase efficiency",
+    "Japanese": "効率性を向上させる",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3893,
     "Lvl": 15,
-    "Text": "Increase efficiency",
-    "Japanese": "効率性を向上させる",
+    "Text": "Interior decoration",
+    "Japanese": "インテリア装飾",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3894,
     "Lvl": 15,
-    "Text": "Interior decoration",
-    "Japanese": "インテリア装飾",
+    "Text": "Knightly adventures",
+    "Japanese": "騎士道の冒険",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3895,
     "Lvl": 15,
-    "Text": "Knightly adventures",
-    "Japanese": "騎士道の冒険",
+    "Text": "Laboratory analysis",
+    "Japanese": "臨床検査",
+    "isSafe": true,
     "Len": 19
   },
   {
     "Id": 3896,
     "Lvl": 15,
-    "Text": "Laboratory analysis",
-    "Japanese": "臨床検査",
+    "Text": "Laughing my ass off",
+    "Japanese": "大爆笑",
+    "isSafe": false,
     "Len": 19
   },
   {
@@ -27283,6 +31180,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Lithium ion battery",
     "Japanese": "リチウムイオン電池",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27290,6 +31188,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Market manipulation",
     "Japanese": "市場操作",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27297,6 +31196,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Nautical navigation",
     "Japanese": "航海術",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27304,6 +31204,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Occupational health",
     "Japanese": "産業保健",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27311,6 +31212,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Qualification tests",
     "Japanese": "資格試験",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27318,6 +31220,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Scientific notation",
     "Japanese": "科学的記数法",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27325,6 +31228,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Scientific research",
     "Japanese": "科学研究",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27332,6 +31236,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Supernova explosion",
     "Japanese": "超新星爆発",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27339,6 +31244,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Theoretical physics",
     "Japanese": "理論物理学",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27346,6 +31252,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Time limit exceeded",
     "Japanese": "制限時間を超過しました",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27353,6 +31260,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Website development",
     "Japanese": "ウェブサイト開発",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27360,6 +31268,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Wildlife protection",
     "Japanese": "野生生物保護",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27367,6 +31276,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Zero gravity flight",
     "Japanese": "無重力飛行",
+    "isSafe": true,
     "Len": 19
   },
   {
@@ -27374,6 +31284,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Academic achievement",
     "Japanese": "学業成績",
+    "isSafe": true,
     "Len": 20
   },
   {
@@ -27381,6 +31292,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Ever dream this man?",
     "Japanese": "この男性の夢を見たことがありますか？",
+    "isSafe": false,
     "Len": 20
   },
   {
@@ -27388,6 +31300,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "High frequency blade",
     "Japanese": "高周波ブレード",
+    "isSafe": false,
     "Len": 20
   },
   {
@@ -27395,6 +31308,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Improve productivity",
     "Japanese": "生産性を向上させる",
+    "isSafe": true,
     "Len": 20
   },
   {
@@ -27402,6 +31316,7 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Low orbit ion cannon",
     "Japanese": "低軌道イオン砲",
+    "isSafe": false,
     "Len": 20
   },
   {
@@ -27409,1413 +31324,1743 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Nonexistent memories",
     "Japanese": "存在しない記憶",
+    "isSafe": false,
     "Len": 20
   },
   {
     "Id": 3916,
     "Lvl": 15,
-    "Text": "Regional development",
-    "Japanese": "地域開発",
+    "Text": "Random access memory",
+    "Japanese": "ランダムアクセスメモリ",
+    "isSafe": true,
     "Len": 20
   },
   {
     "Id": 3917,
     "Lvl": 15,
-    "Text": "Verbal communication",
-    "Japanese": "言語によるコミュニケーション",
+    "Text": "Regional development",
+    "Japanese": "地域開発",
+    "isSafe": true,
     "Len": 20
   },
   {
     "Id": 3918,
     "Lvl": 15,
-    "Text": "Western civilization",
-    "Japanese": "西洋文明",
+    "Text": "Verbal communication",
+    "Japanese": "言語によるコミュニケーション",
+    "isSafe": true,
     "Len": 20
   },
   {
     "Id": 3919,
     "Lvl": 15,
-    "Text": "The devourer of gods",
-    "Japanese": "神々を食らう者",
+    "Text": "Western civilization",
+    "Japanese": "西洋文明",
+    "isSafe": true,
     "Len": 20
   },
   {
     "Id": 3920,
     "Lvl": 15,
-    "Text": "Internal server error",
-    "Japanese": "内部サーバーエラー",
-    "Len": 21
+    "Text": "The devourer of gods",
+    "Japanese": "神々を食らう者",
+    "isSafe": false,
+    "Len": 20
   },
   {
     "Id": 3921,
     "Lvl": 15,
-    "Text": "Facilities management",
-    "Japanese": "施設管理",
+    "Text": "Internal server error",
+    "Japanese": "内部サーバーエラー",
+    "isSafe": true,
     "Len": 21
   },
   {
     "Id": 3922,
     "Lvl": 15,
-    "Text": "Global warming trends",
-    "Japanese": "地球温暖化の傾向",
+    "Text": "Facilities management",
+    "Japanese": "施設管理",
+    "isSafe": true,
     "Len": 21
   },
   {
     "Id": 3923,
     "Lvl": 15,
-    "Text": "Look away at all cost",
-    "Japanese": "何としても目をそらす",
+    "Text": "Global warming trends",
+    "Japanese": "地球温暖化の傾向",
+    "isSafe": true,
     "Len": 21
   },
   {
     "Id": 3924,
     "Lvl": 15,
-    "Text": "Partial solar eclipse",
-    "Japanese": "部分日食",
+    "Text": "Look away at all cost",
+    "Japanese": "何としても目をそらす",
+    "isSafe": true,
     "Len": 21
   },
   {
     "Id": 3925,
     "Lvl": 15,
-    "Text": "Chlorotrifluoromethane",
-    "Japanese": "クロロトリフルオロメタン",
-    "Len": 22
+    "Text": "Partial solar eclipse",
+    "Japanese": "部分日食",
+    "isSafe": true,
+    "Len": 21
   },
   {
     "Id": 3926,
-    "Lvl": 16,
-    "Text": "Daily exercise routine",
-    "Japanese": "毎日の運動習慣",
+    "Lvl": 15,
+    "Text": "Chlorotrifluoromethane",
+    "Japanese": "クロロトリフルオロメタン",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3927,
     "Lvl": 16,
-    "Text": "Descriptive statistics",
-    "Japanese": "記述統計",
+    "Text": "Daily exercise routine",
+    "Japanese": "毎日の運動習慣",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3928,
     "Lvl": 16,
-    "Text": "Global economic system",
-    "Japanese": "グローバル経済システム",
+    "Text": "Descriptive statistics",
+    "Japanese": "記述統計",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3929,
     "Lvl": 16,
-    "Text": "Journalistic integrity",
-    "Japanese": "ジャーナリズムの誠実さ",
+    "Text": "Global economic system",
+    "Japanese": "グローバル経済システム",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3930,
     "Lvl": 16,
-    "Text": "Machine learning model",
-    "Japanese": "機械学習モデル",
+    "Text": "Journalistic integrity",
+    "Japanese": "ジャーナリズムの誠実さ",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3931,
     "Lvl": 16,
-    "Text": "Mathematical induction",
-    "Japanese": "数学的帰納法",
+    "Text": "Machine learning model",
+    "Japanese": "機械学習モデル",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3932,
     "Lvl": 16,
-    "Text": "Microspectrophotometer",
-    "Japanese": "マイクロ分光光度計",
+    "Text": "Mathematical induction",
+    "Japanese": "数学的帰納法",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3933,
     "Lvl": 16,
-    "Text": "Mountain climbing trip",
-    "Japanese": "登山旅行",
+    "Text": "Microspectrophotometer",
+    "Japanese": "マイクロ分光光度計",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3934,
     "Lvl": 16,
-    "Text": "Population growth rate",
-    "Japanese": "人口増加率",
+    "Text": "Mountain climbing trip",
+    "Japanese": "登山旅行",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3935,
     "Lvl": 16,
-    "Text": "practice makes perfect",
-    "Japanese": "練習すれば完璧になる",
+    "Text": "Population growth rate",
+    "Japanese": "人口増加率",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3936,
     "Lvl": 16,
-    "Text": "Quiet residential area",
-    "Japanese": "静かな住宅街",
+    "Text": "practice makes perfect",
+    "Japanese": "練習すれば完璧になる",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3937,
     "Lvl": 16,
-    "Text": "Social media marketing",
-    "Japanese": "ソーシャルメディアマーケティング",
+    "Text": "Quiet residential area",
+    "Japanese": "静かな住宅街",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3938,
     "Lvl": 16,
-    "Text": "Universal human rights",
-    "Japanese": "普遍的な人権",
+    "Text": "Social media marketing",
+    "Japanese": "ソーシャルメディアマーケティング",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3939,
     "Lvl": 16,
-    "Text": "Yield strength measure",
-    "Japanese": "降伏強度測定",
+    "Text": "Universal human rights",
+    "Japanese": "普遍的な人権",
+    "isSafe": true,
     "Len": 22
   },
   {
     "Id": 3940,
     "Lvl": 16,
-    "Text": "A new foe has appeared!",
-    "Japanese": "新たな敵が現れた！",
-    "Len": 23
+    "Text": "Yield strength measure",
+    "Japanese": "降伏強度測定",
+    "isSafe": true,
+    "Len": 22
   },
   {
     "Id": 3941,
     "Lvl": 16,
-    "Text": "Business administration",
-    "Japanese": "経営管理",
+    "Text": "A new foe has appeared!",
+    "Japanese": "新たな敵が現れた！",
+    "isSafe": false,
     "Len": 23
   },
   {
     "Id": 3942,
     "Lvl": 16,
-    "Text": "Dichlorodifluoromethane",
-    "Japanese": "ジクロロジフルオロメタン",
+    "Text": "Business administration",
+    "Japanese": "経営管理",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3943,
     "Lvl": 16,
-    "Text": "Future technology trend",
-    "Japanese": "将来の技術動向",
+    "Text": "Central processing unit",
+    "Japanese": "中央処理装置",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3944,
     "Lvl": 16,
-    "Text": "Honest personal opinion",
-    "Japanese": "率直な個人的意見",
+    "Text": "Dichlorodifluoromethane",
+    "Japanese": "ジクロロジフルオロメタン",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3945,
     "Lvl": 16,
-    "Text": "Intentional game design",
-    "Japanese": "意図的なゲームデザイン",
+    "Text": "Future technology trend",
+    "Japanese": "将来の技術動向",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3946,
     "Lvl": 16,
-    "Text": "Jungle exploration trip",
-    "Japanese": "ジャングル探検旅行",
+    "Text": "Honest personal opinion",
+    "Japanese": "率直な個人的意見",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3947,
     "Lvl": 16,
-    "Text": "Keen observation skills",
-    "Japanese": "鋭い観察力",
+    "Text": "Intentional game design",
+    "Japanese": "意図的なゲームデザイン",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3948,
     "Lvl": 16,
-    "Text": "Knowledge based economy",
-    "Japanese": "知識ベース経済",
+    "Text": "Jungle exploration trip",
+    "Japanese": "ジャングル探検旅行",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3949,
     "Lvl": 16,
-    "Text": "Local community service",
-    "Japanese": "地域社会への貢献",
+    "Text": "Keen observation skills",
+    "Japanese": "鋭い観察力",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3950,
     "Lvl": 16,
-    "Text": "Music production studio",
-    "Japanese": "音楽制作スタジオ",
+    "Text": "Knowledge based economy",
+    "Japanese": "知識ベース経済",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3951,
     "Lvl": 16,
-    "Text": "Renewable energy system",
-    "Japanese": "再生可能エネルギーシステム",
+    "Text": "Local community service",
+    "Japanese": "地域社会への貢献",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3952,
     "Lvl": 16,
-    "Text": "Sustainable development",
-    "Japanese": "持続可能な開発",
+    "Text": "Music production studio",
+    "Japanese": "音楽制作スタジオ",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3953,
     "Lvl": 16,
-    "Text": "Underlying social issue",
-    "Japanese": "根底にある社会問題",
+    "Text": "Renewable energy system",
+    "Japanese": "再生可能エネルギーシステム",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3954,
     "Lvl": 16,
-    "Text": "Vibrant city atmosphere",
-    "Japanese": "活気あふれる都市の雰囲気",
+    "Text": "Sustainable development",
+    "Japanese": "持続可能な開発",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3955,
     "Lvl": 16,
-    "Text": "Virtual reality systems",
-    "Japanese": "仮想現実システム",
+    "Text": "Underlying social issue",
+    "Japanese": "根底にある社会問題",
+    "isSafe": false,
     "Len": 23
   },
   {
     "Id": 3956,
     "Lvl": 16,
-    "Text": "Zoological research lab",
-    "Japanese": "動物学研究室",
+    "Text": "Vibrant city atmosphere",
+    "Japanese": "活気あふれる都市の雰囲気",
+    "isSafe": true,
     "Len": 23
   },
   {
     "Id": 3957,
     "Lvl": 16,
-    "Text": "Aquatic ecosystem health",
-    "Japanese": "水生生態系の健全性",
-    "Len": 24
+    "Text": "Virtual reality systems",
+    "Japanese": "仮想現実システム",
+    "isSafe": true,
+    "Len": 23
   },
   {
     "Id": 3958,
     "Lvl": 16,
-    "Text": "Artificial consciousness",
-    "Japanese": "人工意識",
-    "Len": 24
+    "Text": "Zoological research lab",
+    "Japanese": "動物学研究室",
+    "isSafe": true,
+    "Len": 23
   },
   {
     "Id": 3959,
     "Lvl": 16,
-    "Text": "Chronic health condition",
-    "Japanese": "慢性疾患",
+    "Text": "Aquatic ecosystem health",
+    "Japanese": "水生生態系の健全性",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3960,
     "Lvl": 16,
-    "Text": "Dramatic theatrical work",
-    "Japanese": "劇的な演劇作品",
+    "Text": "Artificial consciousness",
+    "Japanese": "人工意識",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3961,
     "Lvl": 16,
-    "Text": "Electronic communication",
-    "Japanese": "電子通信",
+    "Text": "Chronic health condition",
+    "Japanese": "慢性疾患",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3962,
     "Lvl": 16,
-    "Text": "Fundamental physical law",
-    "Japanese": "基本的な物理法則",
+    "Text": "Dramatic theatrical work",
+    "Japanese": "劇的な演劇作品",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3963,
     "Lvl": 16,
-    "Text": "Geographical information",
-    "Japanese": "地理情報",
+    "Text": "Electronic communication",
+    "Japanese": "電子通信",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3964,
     "Lvl": 16,
-    "Text": "Healthy lifestyle choice",
-    "Japanese": "健康的なライフスタイルの選択",
+    "Text": "Fundamental physical law",
+    "Japanese": "基本的な物理法則",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3965,
     "Lvl": 16,
-    "Text": "Joyful celebration event",
-    "Japanese": "楽しいお祝いイベント",
+    "Text": "Geographical information",
+    "Japanese": "地理情報",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3966,
     "Lvl": 16,
-    "Text": "Justification for action",
-    "Japanese": "行動の正当性",
+    "Text": "Graphics processing unit",
+    "Japanese": "グラフィックス処理ユニット",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3967,
     "Lvl": 16,
-    "Text": "Kitchen appliance repair",
-    "Japanese": "キッチン家電の修理",
+    "Text": "Healthy lifestyle choice",
+    "Japanese": "健康的なライフスタイルの選択",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3968,
     "Lvl": 16,
-    "Text": "Leading academic journal",
-    "Japanese": "一流の学術誌",
+    "Text": "Joyful celebration event",
+    "Japanese": "楽しいお祝いイベント",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3969,
     "Lvl": 16,
-    "Text": "Major transportation hub",
-    "Japanese": "主要な交通拠点",
+    "Text": "Justification for action",
+    "Japanese": "行動の正当性",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3970,
     "Lvl": 16,
-    "Text": "Oceanic current movement",
-    "Japanese": "海流の動き",
+    "Text": "Kitchen appliance repair",
+    "Japanese": "キッチン家電の修理",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3971,
     "Lvl": 16,
-    "Text": "Optimal solution finding",
-    "Japanese": "最適解の探索",
+    "Text": "Leading academic journal",
+    "Japanese": "一流の学術誌",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3972,
     "Lvl": 16,
-    "Text": "Physical education class",
-    "Japanese": "体育の授業",
+    "Text": "Major transportation hub",
+    "Japanese": "主要な交通拠点",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3973,
     "Lvl": 16,
-    "Text": "Political science theory",
-    "Japanese": "政治学理論",
+    "Text": "Oceanic current movement",
+    "Japanese": "海流の動き",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3974,
     "Lvl": 16,
-    "Text": "Primary research finding",
-    "Japanese": "主要な研究結果",
+    "Text": "Optimal solution finding",
+    "Japanese": "最適解の探索",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3975,
     "Lvl": 16,
-    "Text": "Professional development",
-    "Japanese": "専門能力開発",
+    "Text": "Physical education class",
+    "Japanese": "体育の授業",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3976,
     "Lvl": 16,
-    "Text": "Quick response mechanism",
-    "Japanese": "迅速対応メカニズム",
+    "Text": "Political science theory",
+    "Japanese": "政治学理論",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3977,
     "Lvl": 16,
-    "Text": "Rational decision making",
-    "Japanese": "合理的な意思決定",
+    "Text": "Primary research finding",
+    "Japanese": "主要な研究結果",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3978,
     "Lvl": 16,
-    "Text": "Regional economic growth",
-    "Japanese": "地域経済成長",
+    "Text": "Professional development",
+    "Japanese": "専門能力開発",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3979,
     "Lvl": 16,
-    "Text": "Scientific investigation",
-    "Japanese": "科学的調査",
+    "Text": "Quick response mechanism",
+    "Japanese": "迅速対応メカニズム",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3980,
     "Lvl": 16,
-    "Text": "Technological innovation",
-    "Japanese": "技術革新",
+    "Text": "Rational decision making",
+    "Japanese": "合理的な意思決定",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3981,
     "Lvl": 16,
-    "Text": "Total quality management",
-    "Japanese": "総合品質管理",
+    "Text": "Regional economic growth",
+    "Japanese": "地域経済成長",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3982,
     "Lvl": 16,
-    "Text": "Transport infrastructure",
-    "Japanese": "輸送インフラ",
+    "Text": "Scientific investigation",
+    "Japanese": "科学的調査",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3983,
     "Lvl": 16,
-    "Text": "Unique cultural identity",
-    "Japanese": "独自の文化的アイデンティティ",
+    "Text": "Technological innovation",
+    "Japanese": "技術革新",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3984,
     "Lvl": 16,
-    "Text": "When the impostor is sus",
-    "Japanese": "偽者が疑わしい場合",
+    "Text": "Total quality management",
+    "Japanese": "総合品質管理",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3985,
     "Lvl": 16,
-    "Text": "X chromosome inheritance",
-    "Japanese": "X染色体の遺伝",
+    "Text": "Transport infrastructure",
+    "Japanese": "輸送インフラ",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3986,
     "Lvl": 16,
-    "Text": "Xylographic printing art",
-    "Japanese": "木版印刷芸術",
+    "Text": "Unique cultural identity",
+    "Japanese": "独自の文化的アイデンティティ",
+    "isSafe": true,
     "Len": 24
   },
   {
     "Id": 3987,
     "Lvl": 16,
-    "Text": "Academic achievement test",
-    "Japanese": "学力達成度テスト",
-    "Len": 25
+    "Text": "When the impostor is sus",
+    "Japanese": "偽者が疑わしい場合",
+    "isSafe": false,
+    "Len": 24
   },
   {
     "Id": 3988,
     "Lvl": 16,
-    "Text": "Advanced computer science",
-    "Japanese": "高度なコンピュータサイエンス",
-    "Len": 25
+    "Text": "X chromosome inheritance",
+    "Japanese": "X染色体の遺伝",
+    "isSafe": true,
+    "Len": 24
   },
   {
     "Id": 3989,
     "Lvl": 16,
-    "Text": "Atmospheric concentration",
-    "Japanese": "大気濃度",
-    "Len": 25
+    "Text": "Xylographic printing art",
+    "Japanese": "木版印刷芸術",
+    "isSafe": true,
+    "Len": 24
   },
   {
     "Id": 3990,
     "Lvl": 16,
-    "Text": "Balanced nutritional diet",
-    "Japanese": "バランスの取れた栄養食",
+    "Text": "Academic achievement test",
+    "Japanese": "学力達成度テスト",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3991,
     "Lvl": 16,
-    "Text": "Beautiful sunrise scenery",
-    "Japanese": "美しい日の出の景色",
+    "Text": "Advanced computer science",
+    "Japanese": "高度なコンピュータサイエンス",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3992,
     "Lvl": 16,
-    "Text": "Biological classification",
-    "Japanese": "生物学的分類",
+    "Text": "Atmospheric concentration",
+    "Japanese": "大気濃度",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3993,
     "Lvl": 16,
-    "Text": "Brilliant scientific mind",
-    "Japanese": "卓越した科学的頭脳",
+    "Text": "Balanced nutritional diet",
+    "Japanese": "バランスの取れた栄養食",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3994,
     "Lvl": 16,
-    "Text": "Careful analytical review",
-    "Japanese": "綿密な分析的レビュー",
+    "Text": "Beautiful sunrise scenery",
+    "Japanese": "美しい日の出の景色",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3995,
     "Lvl": 16,
-    "Text": "Cultural heritage project",
-    "Japanese": "文化遺産プロジェクト",
+    "Text": "Biological classification",
+    "Japanese": "生物学的分類",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3996,
     "Lvl": 16,
-    "Text": "Detailed financial report",
-    "Japanese": "詳細な財務報告書",
+    "Text": "Brilliant scientific mind",
+    "Japanese": "卓越した科学的頭脳",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3997,
     "Lvl": 16,
-    "Text": "Dynamic equilibrium state",
-    "Japanese": "動的平衡状態",
+    "Text": "Careful analytical review",
+    "Japanese": "綿密な分析的レビュー",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3998,
     "Lvl": 16,
-    "Text": "Extraordinary performance",
-    "Japanese": "並外れたパフォーマンス",
+    "Text": "Cultural heritage project",
+    "Japanese": "文化遺産プロジェクト",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 3999,
     "Lvl": 16,
-    "Text": "Foreign language learning",
-    "Japanese": "外国語学習",
+    "Text": "Detailed financial report",
+    "Japanese": "詳細な財務報告書",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4000,
     "Lvl": 16,
-    "Text": "Formal wedding invitation",
-    "Japanese": "正式な結婚式の招待状",
+    "Text": "Dynamic equilibrium state",
+    "Japanese": "動的平衡状態",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4001,
     "Lvl": 16,
-    "Text": "Frequent travel itinerary",
-    "Japanese": "頻繁な旅行日程",
+    "Text": "Extraordinary performance",
+    "Japanese": "並外れたパフォーマンス",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4002,
     "Lvl": 16,
-    "Text": "Functional design pattern",
-    "Japanese": "機能設計パターン",
+    "Text": "Foreign language learning",
+    "Japanese": "外国語学習",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4003,
     "Lvl": 16,
-    "Text": "General knowledge contest",
-    "Japanese": "一般知識コンテスト",
+    "Text": "Formal wedding invitation",
+    "Japanese": "正式な結婚式の招待状",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4004,
     "Lvl": 16,
-    "Text": "Grand architecture design",
-    "Japanese": "壮大な建築デザイン",
+    "Text": "Frequent travel itinerary",
+    "Japanese": "頻繁な旅行日程",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4005,
     "Lvl": 16,
-    "Text": "Great historical monument",
-    "Japanese": "偉大な歴史的建造物",
+    "Text": "Functional design pattern",
+    "Japanese": "機能設計パターン",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4006,
     "Lvl": 16,
-    "Text": "High quality construction",
-    "Japanese": "高品質な建築",
+    "Text": "General knowledge contest",
+    "Japanese": "一般知識コンテスト",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4007,
     "Lvl": 16,
-    "Text": "Huge financial investment",
-    "Japanese": "巨額の資金投資",
+    "Text": "Grand architecture design",
+    "Japanese": "壮大な建築デザイン",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4008,
     "Lvl": 16,
-    "Text": "Human resource management",
-    "Japanese": "人材管理",
+    "Text": "Great historical monument",
+    "Japanese": "偉大な歴史的建造物",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4009,
     "Lvl": 16,
-    "Text": "Intellectual property law",
-    "Japanese": "知的財産法",
+    "Text": "High quality construction",
+    "Japanese": "高品質な建築",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4010,
     "Lvl": 16,
-    "Text": "International cooperation",
-    "Japanese": "国際協力",
+    "Text": "Huge financial investment",
+    "Japanese": "巨額の資金投資",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4011,
     "Lvl": 16,
-    "Text": "Joint venture partnership",
-    "Japanese": "合弁事業パートナーシップ",
+    "Text": "Human resource management",
+    "Japanese": "人材管理",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4012,
     "Lvl": 16,
-    "Text": "Judicial system procedure",
-    "Japanese": "司法制度の手続き",
+    "Text": "Intellectual property law",
+    "Japanese": "知的財産法",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4013,
     "Lvl": 16,
-    "Text": "Key performance indicator",
-    "Japanese": "主要業績指標",
+    "Text": "International cooperation",
+    "Japanese": "国際協力",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4014,
     "Lvl": 16,
-    "Text": "Landscape photography art",
-    "Japanese": "風景写真アート",
+    "Text": "Joint venture partnership",
+    "Japanese": "合弁事業パートナーシップ",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4015,
     "Lvl": 16,
-    "Text": "Liquid nitrogen container",
-    "Japanese": "液体窒素容器",
+    "Text": "Judicial system procedure",
+    "Japanese": "司法制度の手続き",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4016,
     "Lvl": 16,
-    "Text": "Mutual understanding goal",
-    "Japanese": "相互理解の目標",
+    "Text": "Key performance indicator",
+    "Japanese": "主要業績指標",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4017,
     "Lvl": 16,
-    "Text": "Natural resource scarcity",
-    "Japanese": "天然資源の不足",
+    "Text": "Landscape photography art",
+    "Japanese": "風景写真アート",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4018,
     "Lvl": 16,
-    "Text": "No such file or directory",
-    "Japanese": "そのようなファイル、又はディレクトリはありません",
+    "Text": "Liquid nitrogen container",
+    "Japanese": "液体窒素容器",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4019,
     "Lvl": 16,
-    "Text": "Notable achievement award",
-    "Japanese": "顕著な功績賞",
+    "Text": "Mutual understanding goal",
+    "Japanese": "相互理解の目標",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4020,
     "Lvl": 16,
-    "Text": "Organizational management",
-    "Japanese": "組織管理",
+    "Text": "Natural resource scarcity",
+    "Japanese": "天然資源の不足",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4021,
     "Lvl": 16,
-    "Text": "Orthostatic dysregulation",
-    "Japanese": "起立性調節障害",
+    "Text": "No such file or directory",
+    "Japanese": "そのようなファイル、又はディレクトリはありません",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4022,
     "Lvl": 16,
-    "Text": "Outdoor recreational park",
-    "Japanese": "屋外レクリエーション公園",
+    "Text": "Notable achievement award",
+    "Japanese": "顕著な功績賞",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4023,
     "Lvl": 16,
-    "Text": "Peaceful coexistence goal",
-    "Japanese": "平和共存の目標",
+    "Text": "Organizational management",
+    "Japanese": "組織管理",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4024,
     "Lvl": 16,
-    "Text": "Quality assurance process",
-    "Japanese": "品質保証プロセス",
+    "Text": "Orthostatic dysregulation",
+    "Japanese": "起立性調節障害",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4025,
     "Lvl": 16,
-    "Text": "Realistic simulation game",
-    "Japanese": "リアルなシミュレーションゲーム",
+    "Text": "Outdoor recreational park",
+    "Japanese": "屋外レクリエーション公園",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4026,
     "Lvl": 16,
-    "Text": "Rural development project",
-    "Japanese": "農村開発プロジェクト",
+    "Text": "Peaceful coexistence goal",
+    "Japanese": "平和共存の目標",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4027,
     "Lvl": 16,
-    "Text": "There's no data, be quiet",
-    "Japanese": "データなんかねえよ うるせえよ",
+    "Text": "Quality assurance process",
+    "Japanese": "品質保証プロセス",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4028,
     "Lvl": 16,
-    "Text": "Vertical gardening system",
-    "Japanese": "垂直栽培システム",
+    "Text": "Realistic simulation game",
+    "Japanese": "リアルなシミュレーションゲーム",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4029,
     "Lvl": 16,
-    "Text": "Violent volcanic eruption",
-    "Japanese": "激しい火山噴火",
+    "Text": "Rural development project",
+    "Japanese": "農村開発プロジェクト",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4030,
     "Lvl": 16,
-    "Text": "Visual communication tool",
-    "Japanese": "視覚的なコミュニケーションツール",
+    "Text": "There's no data, be quiet",
+    "Japanese": "データなんかねえよ うるせえよ",
+    "isSafe": false,
     "Len": 25
   },
   {
     "Id": 4031,
     "Lvl": 16,
-    "Text": "Water resource management",
-    "Japanese": "水資源管理",
+    "Text": "Vertical gardening system",
+    "Japanese": "垂直庭園システム",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4032,
     "Lvl": 16,
-    "Text": "Weather forecasting model",
-    "Japanese": "天気予報モデル",
+    "Text": "Violent volcanic eruption",
+    "Japanese": "激しい火山噴火",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4033,
     "Lvl": 16,
-    "Text": "Xenotransplantation trial",
-    "Japanese": "異種移植試験",
+    "Text": "Visual communication tool",
+    "Japanese": "視覚的なコミュニケーションツール",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4034,
     "Lvl": 16,
-    "Text": "Zero emission vehicle law",
-    "Japanese": "ゼロエミッション車法",
+    "Text": "Water resource management",
+    "Japanese": "水資源管理",
+    "isSafe": true,
     "Len": 25
   },
   {
     "Id": 4035,
     "Lvl": 16,
-    "Text": "Abstract conceptualization",
-    "Japanese": "抽象概念化",
-    "Len": 26
+    "Text": "Weather forecasting model",
+    "Japanese": "天気予報モデル",
+    "isSafe": true,
+    "Len": 25
   },
   {
     "Id": 4036,
     "Lvl": 16,
-    "Text": "Basic communication skills",
-    "Japanese": "基本的なコミュニケーションスキル",
-    "Len": 26
+    "Text": "Xenotransplantation trial",
+    "Japanese": "異種移植試験",
+    "isSafe": true,
+    "Len": 25
   },
   {
     "Id": 4037,
     "Lvl": 16,
-    "Text": "Building construction site",
-    "Japanese": "建設現場",
-    "Len": 26
+    "Text": "Zero emission vehicle law",
+    "Japanese": "ゼロエミッション車法",
+    "isSafe": true,
+    "Len": 25
   },
   {
     "Id": 4038,
     "Lvl": 16,
-    "Text": "Chemical reaction kinetics",
-    "Japanese": "化学反応速度論",
+    "Text": "Abstract conceptualization",
+    "Japanese": "抽象概念化",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4039,
     "Lvl": 16,
-    "Text": "Clinical trial methodology",
-    "Japanese": "臨床試験の方法論",
+    "Text": "Basic communication skills",
+    "Japanese": "基本的なコミュニケーション能力",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4040,
     "Lvl": 16,
-    "Text": "Complex mathematical model",
-    "Japanese": "複雑な数理モデル",
+    "Text": "Building construction site",
+    "Japanese": "建設現場",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4041,
     "Lvl": 16,
-    "Text": "Diverse biological species",
-    "Japanese": "多様な生物種",
+    "Text": "Chemical reaction kinetics",
+    "Japanese": "化学反応速度論",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4042,
     "Lvl": 16,
-    "Text": "Durable industrial product",
-    "Japanese": "耐久性のある工業製品",
+    "Text": "Clinical trial methodology",
+    "Japanese": "臨床試験の方法論",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4043,
     "Lvl": 16,
-    "Text": "Financial market stability",
-    "Japanese": "金融市場の安定性",
+    "Text": "Complex mathematical model",
+    "Japanese": "複雑な数理モデル",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4044,
     "Lvl": 16,
-    "Text": "Growing population density",
-    "Japanese": "人口密度の増加",
+    "Text": "Diverse biological species",
+    "Japanese": "多様な生物種",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4045,
     "Lvl": 16,
-    "Text": "Heavy industrial machinery",
-    "Japanese": "重工業機械",
+    "Text": "Durable industrial product",
+    "Japanese": "耐久性のある工業製品",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4046,
     "Lvl": 16,
-    "Text": "Historic preservation area",
-    "Japanese": "歴史的建造物保存地区",
+    "Text": "Financial market stability",
+    "Japanese": "金融市場の安定性",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4047,
     "Lvl": 16,
-    "Text": "Immediate medical response",
-    "Japanese": "即時医療対応",
+    "Text": "Growing population density",
+    "Japanese": "人口密度の増加",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4048,
     "Lvl": 16,
-    "Text": "Individual character trait",
-    "Japanese": "個人の性格特性",
+    "Text": "Heavy industrial machinery",
+    "Japanese": "重工業機械",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4049,
     "Lvl": 16,
-    "Text": "Innovative software design",
-    "Japanese": "革新的なソフトウェア設計",
+    "Text": "Historic preservation area",
+    "Japanese": "歴史的建造物保存地区",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4050,
     "Lvl": 16,
-    "Text": "Junior high school student",
-    "Japanese": "中学生",
+    "Text": "Immediate medical response",
+    "Japanese": "即時医療対応",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4051,
     "Lvl": 16,
-    "Text": "Linear algebra calculation",
-    "Japanese": "線形代数計算",
+    "Text": "Individual character trait",
+    "Japanese": "個人の性格特性",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4052,
     "Lvl": 16,
-    "Text": "Logical reasoning exercise",
-    "Japanese": "論理的推論演習",
+    "Text": "Innovative software design",
+    "Japanese": "革新的なソフトウェア設計",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4053,
     "Lvl": 16,
-    "Text": "Medical research institute",
-    "Japanese": "医学研究所",
+    "Text": "Junior high school student",
+    "Japanese": "中学生",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4054,
     "Lvl": 16,
-    "Text": "National security strategy",
-    "Japanese": "国家安全保障戦略",
+    "Text": "Linear algebra calculation",
+    "Japanese": "線形代数計算",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4055,
     "Lvl": 16,
-    "Text": "Northern hemisphere winter",
-    "Japanese": "北半球の冬",
+    "Text": "Logical reasoning exercise",
+    "Japanese": "論理的推論演習",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4056,
     "Lvl": 16,
-    "Text": "Nutritional value analysis",
-    "Japanese": "栄養価分析",
+    "Text": "Medical research institute",
+    "Japanese": "医学研究所",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4057,
     "Lvl": 16,
-    "Text": "Official government report",
-    "Japanese": "政府公式報告書",
+    "Text": "National security strategy",
+    "Japanese": "国家安全保障戦略",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4058,
     "Lvl": 16,
-    "Text": "Quantitative data analysis",
-    "Japanese": "定量的データ分析",
+    "Text": "Northern hemisphere winter",
+    "Japanese": "北半球の冬",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4059,
     "Lvl": 16,
-    "Text": "Quantum mechanics research",
-    "Japanese": "量子力学の研究",
+    "Text": "Nutritional value analysis",
+    "Japanese": "栄養価分析",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4060,
     "Lvl": 16,
-    "Text": "Solar radiation management",
-    "Japanese": "日射管理",
+    "Text": "Official government report",
+    "Japanese": "政府公式報告書",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4061,
     "Lvl": 16,
-    "Text": "Strategic planning session",
-    "Japanese": "戦略計画会議",
+    "Text": "Quantitative data analysis",
+    "Japanese": "定量的データ分析",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4062,
     "Lvl": 16,
-    "Text": "Traditional cultural value",
-    "Japanese": "伝統的な文化的価値",
+    "Text": "Quantum mechanics research",
+    "Japanese": "量子力学の研究",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4063,
     "Lvl": 16,
-    "Text": "Uniform distribution graph",
-    "Japanese": "一様分布グラフ",
+    "Text": "Solar radiation management",
+    "Japanese": "日射管理",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4064,
     "Lvl": 16,
-    "Text": "Urban planning development",
-    "Japanese": "都市計画開発",
+    "Text": "Strategic planning session",
+    "Japanese": "戦略計画会議",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4065,
     "Lvl": 16,
-    "Text": "Western civilization story",
-    "Japanese": "西洋文明の物語",
+    "Text": "Traditional cultural value",
+    "Japanese": "伝統的な文化的価値",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4066,
     "Lvl": 16,
-    "Text": "Wildlife conservation area",
-    "Japanese": "野生生物保護区",
+    "Text": "Uniform distribution graph",
+    "Japanese": "一様分布グラフ",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4067,
     "Lvl": 16,
-    "Text": "Working environment policy",
-    "Japanese": "職場環境方針",
+    "Text": "Urban planning development",
+    "Japanese": "都市計画開発",
+    "isSafe": true,
     "Len": 26
   },
   {
     "Id": 4068,
-    "Lvl": 17,
-    "Text": "Tetrabutylammonium fluoride",
-    "Japanese": "テトラブチルアンモニウムフルオリド",
-    "Len": 27
+    "Lvl": 16,
+    "Text": "Western civilization story",
+    "Japanese": "西洋文明の物語",
+    "isSafe": true,
+    "Len": 26
   },
   {
     "Id": 4069,
-    "Lvl": 17,
-    "Text": "Tetrabutylammonium chloride",
-    "Japanese": "テトラブチルアンモニウムクロリド",
-    "Len": 27
+    "Lvl": 16,
+    "Text": "Wildlife conservation area",
+    "Japanese": "野生生物保護区",
+    "isSafe": true,
+    "Len": 26
   },
   {
     "Id": 4070,
-    "Lvl": 17,
-    "Text": "Lithium triethylborohydride",
-    "Japanese": "トリエチルボロヒドリドリチウム",
-    "Len": 27
+    "Lvl": 16,
+    "Text": "Working environment policy",
+    "Japanese": "職場環境方針",
+    "isSafe": true,
+    "Len": 26
   },
   {
     "Id": 4071,
     "Lvl": 17,
-    "Text": "Triethylamine hydrochloride",
-    "Japanese": "塩酸トリエチルアミン",
+    "Text": "Tetrabutylammonium fluoride",
+    "Japanese": "テトラブチルアンモニウムフルオリド",
+    "isSafe": true,
     "Len": 27
   },
   {
     "Id": 4072,
     "Lvl": 17,
-    "Text": "Hydrazine monohydrochloride",
-    "Japanese": "塩酸ヒドラジン",
+    "Text": "Tetrabutylammonium chloride",
+    "Japanese": "テトラブチルアンモニウムクロリド",
+    "isSafe": true,
     "Len": 27
   },
   {
     "Id": 4073,
     "Lvl": 17,
-    "Text": "Semicarbazide hydrochloride",
-    "Japanese": "セミカルバジド塩酸塩",
+    "Text": "Lithium triethylborohydride",
+    "Japanese": "トリエチルボロヒドリドリチウム",
+    "isSafe": true,
     "Len": 27
   },
   {
     "Id": 4074,
     "Lvl": 17,
-    "Text": "Ammonium tetrathiomolybdate",
-    "Japanese": "テトラチオモリブデン酸アンモニウム",
+    "Text": "Triethylamine hydrochloride",
+    "Japanese": "塩酸トリエチルアミン",
+    "isSafe": true,
     "Len": 27
   },
   {
     "Id": 4075,
     "Lvl": 17,
-    "Text": "Potassium tetraphenylborate",
-    "Japanese": "テトラフェニルホウ酸カリウム",
+    "Text": "Hydrazine monohydrochloride",
+    "Japanese": "塩酸ヒドラジン",
+    "isSafe": true,
     "Len": 27
   },
   {
     "Id": 4076,
     "Lvl": 17,
-    "Text": "Tetrabutylammonium hydroxide",
-    "Japanese": "テトラブチルアンモニウムヒドロキシド",
-    "Len": 28
+    "Text": "Semicarbazide hydrochloride",
+    "Japanese": "セミカルバジド塩酸塩",
+    "isSafe": true,
+    "Len": 27
   },
   {
     "Id": 4077,
     "Lvl": 17,
-    "Text": "Pararosaniline hydrochloride",
-    "Japanese": "塩酸パラロザニリン",
-    "Len": 28
+    "Text": "Ammonium tetrathiomolybdate",
+    "Japanese": "テトラチオモリブデン酸アンモニウム",
+    "isSafe": true,
+    "Len": 27
   },
   {
     "Id": 4078,
     "Lvl": 17,
-    "Text": "Tetraethylammonium hydroxide",
-    "Japanese": "テトラエチルアンモニウムヒドロキシド",
-    "Len": 28
+    "Text": "Potassium tetraphenylborate",
+    "Japanese": "テトラフェニルホウ酸カリウム",
+    "isSafe": true,
+    "Len": 27
   },
   {
     "Id": 4079,
     "Lvl": 17,
-    "Text": "Tetramethylammonium chloride",
-    "Japanese": "テトラメチルアンモニウムクロリド",
+    "Text": "Tetrabutylammonium hydroxide",
+    "Japanese": "テトラブチルアンモニウムヒドロキシド",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4080,
     "Lvl": 17,
-    "Text": "Cyclopentylmagnesium bromide",
-    "Japanese": "シクロペンチルマグネシウムブロミド",
+    "Text": "Pararosaniline hydrochloride",
+    "Japanese": "塩酸パラロザニリン",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4081,
     "Lvl": 17,
-    "Text": "Sodium triacetoxyborohydride",
-    "Japanese": "トリ酢酸水素化ホウ素ナトリウム",
+    "Text": "Tetraethylammonium hydroxide",
+    "Japanese": "テトラエチルアンモニウムヒドロキシド",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4082,
     "Lvl": 17,
-    "Text": "Potassium hydrogen phthalate",
-    "Japanese": "フタル酸水素カリウム",
+    "Text": "Tetramethylammonium chloride",
+    "Japanese": "テトラメチルアンモニウムクロリド",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4083,
     "Lvl": 17,
-    "Text": "Bromothymol blue sodium salt",
-    "Japanese": "ブロモチモールブルーナトリウム塩",
+    "Text": "Cyclopentylmagnesium bromide",
+    "Japanese": "シクロペンチルマグネシウムブロミド",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4084,
     "Lvl": 17,
-    "Text": "Ammonium hexafluorophosphate",
-    "Japanese": "六フッ化リン酸アンモニウム",
+    "Text": "Sodium triacetoxyborohydride",
+    "Japanese": "トリ酢酸水素化ホウ素ナトリウム",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4085,
     "Lvl": 17,
-    "Text": "Pentaerythritol tetranitrate",
-    "Japanese": "ペンタエリスリトールテトラニトラート",
+    "Text": "Potassium hydrogen phthalate",
+    "Japanese": "フタル酸水素カリウム",
+    "isSafe": true,
     "Len": 28
   },
   {
     "Id": 4086,
     "Lvl": 17,
-    "Text": "Chronic obstructive pulmonary",
-    "Japanese": "慢性閉塞性肺疾患",
-    "Len": 29
+    "Text": "Bromothymol blue sodium salt",
+    "Japanese": "ブロモチモールブルーナトリウム塩",
+    "isSafe": true,
+    "Len": 28
   },
   {
     "Id": 4087,
     "Lvl": 17,
-    "Text": "Trinitrophenylmethylnitramine",
-    "Japanese": "トリニトロフェニルメチルニトラミン",
-    "Len": 29
+    "Text": "Ammonium hexafluorophosphate",
+    "Japanese": "六フッ化リン酸アンモニウム",
+    "isSafe": true,
+    "Len": 28
   },
   {
     "Id": 4088,
     "Lvl": 17,
-    "Text": "The missile knows where it is",
-    "Japanese": "ミサイルは自分の位置を知っている",
-    "Len": 29
+    "Text": "Pentaerythritol tetranitrate",
+    "Japanese": "ペンタエリスリトールテトラニトラート",
+    "isSafe": true,
+    "Len": 28
   },
   {
     "Id": 4089,
     "Lvl": 17,
-    "Text": "Phenolphthalein disodium salt",
-    "Japanese": "フェノールフタレイン二ナトリウム塩",
+    "Text": "Chronic obstructive pulmonary",
+    "Japanese": "慢性閉塞性肺疾患",
+    "isSafe": true,
     "Len": 29
   },
   {
     "Id": 4090,
     "Lvl": 17,
-    "Text": "Sodium diethyldithiocarbamate",
-    "Japanese": "ジエチルジチオカルバミン酸ナトリウム",
+    "Text": "Trinitrophenylmethylnitramine",
+    "Japanese": "トリニトロフェニルメチルニトラミン",
+    "isSafe": true,
     "Len": 29
   },
   {
     "Id": 4091,
     "Lvl": 17,
-    "Text": "Phenylhydrazine hydrochloride",
-    "Japanese": "塩酸フェニルヒドラジン",
+    "Text": "The missile knows where it is",
+    "Japanese": "ミサイルは自分の位置を知っている",
+    "isSafe": true,
     "Len": 29
   },
   {
     "Id": 4092,
     "Lvl": 17,
-    "Text": "Potassium hexafluorophosphate",
-    "Japanese": "六フッ化リン酸カリウム",
+    "Text": "Phenolphthalein disodium salt",
+    "Japanese": "フェノールフタレイン二ナトリウム塩",
+    "isSafe": true,
     "Len": 29
   },
   {
-    "Id": 4100,
+    "Id": 4093,
     "Lvl": 17,
-    "Text": "Hexanitrohexaazaisowurtzitane",
-    "Japanese": "ヘキサニトロヘキサアザイソウルツィタン",
+    "Text": "Sodium diethyldithiocarbamate",
+    "Japanese": "ジエチルジチオカルバミン酸ナトリウム",
+    "isSafe": true,
     "Len": 29
   },
   {
     "Id": 4094,
     "Lvl": 17,
-    "Text": "Ethylene glycol dimethyl ether",
-    "Japanese": "エチレングリコールジメチルエーテル",
-    "Len": 30
+    "Text": "Phenylhydrazine hydrochloride",
+    "Japanese": "塩酸フェニルヒドラジン",
+    "isSafe": true,
+    "Len": 29
   },
   {
     "Id": 4095,
     "Lvl": 17,
-    "Text": "Magnesium sulfate heptahydrate",
-    "Japanese": "硫酸マグネシウム七水和物",
-    "Len": 30
-  },
-  {
-    "Id": 4096,
-    "Lvl": 17,
-    "Text": "Dichlorodiphenyltrichloroethane",
-    "Japanese": "ジクロロジフェニルトリクロロエタン",
-    "Len": 31
-  },
-  {
-    "Id": 4097,
-    "Lvl": 17,
-    "Text": "Ethylenediaminetetraacetic acid",
-    "Japanese": "エチレンジアミン四酢酸",
-    "Len": 31
-  },
-  {
-    "Id": 4098,
-    "Lvl": 17,
-    "Text": "import matplotlib.pyplot as plt",
-    "Japanese": "matplotlib.pyplotをpltとして輸入する",
-    "Len": 31
-  },
-  {
-    "Id": 4099,
-    "Lvl": 17,
-    "Text": "Dodecyltrimethylammonium bromide",
-    "Japanese": "ドデシルトリメチルアンモニウムブロミド",
-    "Len": 32
-  },
-  {
-    "Id": 4100,
-    "Lvl": 17,
-    "Text": "Ethylene glycol monomethyl ether",
-    "Japanese": "エチレングリコールモノメチルエーテル",
-    "Len": 32
-  },
-  {
-    "Id": 4101,
-    "Lvl": 17,
-    "Text": "Acquired immunodeficiency syndrome",
-    "Japanese": "後天性免疫不全症候群",
-    "Len": 34
-  },
-  {
-    "Id": 4102,
-    "Lvl": 17,
-    "Text": "Did I mention to you that I'm dead?",
-    "Japanese": "私が死んだって、あなたに言いましたっけ？",
-    "Len": 35
+    "Text": "Potassium hexafluorophosphate",
+    "Japanese": "六フッ化リン酸カリウム",
+    "isSafe": true,
+    "Len": 29
   },
   {
     "Id": 4103,
     "Lvl": 17,
-    "Text": "Ethylenediaminetetraacetic acid tetrasodium",
-    "Japanese": "エチレンジアミン四酢酸四ナトリウム",
-    "Len": 43
+    "Text": "Hexanitrohexaazaisowurtzitane",
+    "Japanese": "ヘキサニトロヘキサアザイソウルツィタン",
+    "isSafe": true,
+    "Len": 29
+  },
+  {
+    "Id": 4097,
+    "Lvl": 17,
+    "Text": "Ethylene glycol dimethyl ether",
+    "Japanese": "エチレングリコールジメチルエーテル",
+    "isSafe": true,
+    "Len": 30
+  },
+  {
+    "Id": 4098,
+    "Lvl": 17,
+    "Text": "Magnesium sulfate heptahydrate",
+    "Japanese": "硫酸マグネシウム七水和物",
+    "isSafe": true,
+    "Len": 30
+  },
+  {
+    "Id": 4099,
+    "Lvl": 17,
+    "Text": "Dichlorodiphenyltrichloroethane",
+    "Japanese": "ジクロロジフェニルトリクロロエタン",
+    "isSafe": true,
+    "Len": 31
+  },
+  {
+    "Id": 4100,
+    "Lvl": 17,
+    "Text": "Ethylenediaminetetraacetic acid",
+    "Japanese": "エチレンジアミン四酢酸",
+    "isSafe": true,
+    "Len": 31
+  },
+  {
+    "Id": 4101,
+    "Lvl": 17,
+    "Text": "import matplotlib.pyplot as plt",
+    "Japanese": "matplotlib.pyplotをpltとしてimport",
+    "isSafe": true,
+    "Len": 31
+  },
+  {
+    "Id": 4102,
+    "Lvl": 17,
+    "Text": "Dodecyltrimethylammonium bromide",
+    "Japanese": "ドデシルトリメチルアンモニウムブロミド",
+    "isSafe": true,
+    "Len": 32
+  },
+  {
+    "Id": 4103,
+    "Lvl": 17,
+    "Text": "Ethylene glycol monomethyl ether",
+    "Japanese": "エチレングリコールモノメチルエーテル",
+    "isSafe": true,
+    "Len": 32
   },
   {
     "Id": 4104,
     "Lvl": 17,
-    "Text": "Japan is turning footsteps into electricity",
-    "Japanese": "日本では人々が歩く時の圧力や振動を電気エネルギーに変換する",
-    "Len": 43
+    "Text": "Acquired immunodeficiency syndrome",
+    "Japanese": "後天性免疫不全症候群",
+    "isSafe": true,
+    "Len": 34
   },
   {
     "Id": 4105,
     "Lvl": 17,
-    "Text": "I will tell you what your mind cannot comprehend",
-    "Japanese": "あなたの心では理解できないことを教えてあげましょう",
-    "Len": 48
+    "Text": "Did I mention to you that I'm dead?",
+    "Japanese": "私が死んだって、あなたに言いましたっけ？",
+    "isSafe": true,
+    "Len": 35
   },
   {
     "Id": 4106,
     "Lvl": 17,
-    "Text": "Mix the powdered teff with water to make a dough",
-    "Japanese": "オフチョベットしたテフをマブガッドしてリットにする",
-    "Len": 48
+    "Text": "I always eat something during a meal",
+    "Japanese": "私は食事の際には必ず何かを食べる",
+    "isSafe": true,
+    "Len": 36
   },
   {
     "Id": 4107,
     "Lvl": 17,
-    "Text": "This unpleasant gradient shows up at your front door",
-    "Japanese": "この不快な勾配色がお前の玄関先に現れる",
-    "Len": 52
+    "Text": "Sphinx of black quartz, judge my vow",
+    "Japanese": "黒水晶のスフィンクスよ、我が誓いを裁け",
+    "isSafe": true,
+    "Len": 36
   },
   {
     "Id": 4108,
     "Lvl": 17,
-    "Text": "You have long life but will fall if you make a mistake",
-    "Japanese": "あなたは長生きするが、間違いを犯せば滅びるだろう",
-    "Len": 54
+    "Text": "Unified extensible firmware interface",
+    "Japanese": "統合拡張ファームウェアインターフェース",
+    "isSafe": true,
+    "Len": 37
   },
   {
     "Id": 4109,
     "Lvl": 17,
-    "Text": "A cascading sense of fear resonances and all hope is lost",
-    "Japanese": "恐怖の連鎖は共振し、全ての希望が失われる",
-    "Len": 57
+    "Text": "An idiot never gets wise as he gets older",
+    "Japanese": "馬鹿は年を取っても賢くならない",
+    "isSafe": false,
+    "Len": 41
   },
   {
     "Id": 4110,
     "Lvl": 17,
-    "Text": "Civil authorities issued a necrotic infectious disease warning",
-    "Japanese": "民間当局は壊死性感染症の警告を発令した。",
-    "Len": 62
+    "Text": "Ethylenediaminetetraacetic acid tetrasodium",
+    "Japanese": "エチレンジアミン四酢酸四ナトリウム",
+    "isSafe": true,
+    "Len": 43
   },
   {
-    "Id": 4115,
+    "Id": 4111,
     "Lvl": 17,
-    "Text": "To make the most of your short life, don't be afraid of failure",
-    "Japanese": "短い人生を最大限に生きるためには、失敗を恐れてはいけない。",
-    "Len": 63
+    "Text": "Japan is turning footsteps into electricity",
+    "Japanese": "日本では人々が歩く時の圧力や振動を電気エネルギーに変換する",
+    "isSafe": true,
+    "Len": 43
   },
   {
-    "Id": 4116,
+    "Id": 4112,
     "Lvl": 17,
-    "Text": "The police found my body in the sewer; had a broken neck and my face was torn off",
-    "Japanese": "警察は下水道で私の遺体を発見した。首の骨が折れていて、顔は引き裂かれていた。",
-    "Len": 81
+    "Text": "The quick brown fox jumps over the lazy dog",
+    "Japanese": "素早い茶色のキツネが怠惰な犬を飛び越える",
+    "isSafe": true,
+    "Len": 43
   },
   {
-    "Id": 4116,
+    "Id": 4113,
     "Lvl": 17,
-    "Text": "A few years ago a group of girls pushed me down a sewer hole to try and embarrass me",
-    "Japanese": "数年前、女の子たちのグループが私を恥ずかしめようとして下水道の穴に突き落とした。",
-    "Len": 84
+    "Text": "I will tell you what your mind cannot comprehend",
+    "Japanese": "あなたの心では理解できないことを教えてあげましょう",
+    "isSafe": false,
+    "Len": 48
   },
   {
     "Id": 4114,
     "Lvl": 17,
-    "Text": "He got really scared and rushed to his phone to repost this message but he was too late",
-    "Japanese": "彼は本当に怖くなって、急いで携帯電話を取り出してこのメ​​ッセージを再投稿しようとしたが、間に合わなかった。",
-    "Len": 87
+    "Text": "Mix the powdered teff with water to make a dough",
+    "Japanese": "オフチョベットしたテフをマブガッドしてリットにする",
+    "isSafe": true,
+    "Len": 48
   },
   {
     "Id": 4115,
     "Lvl": 17,
-    "Text": "Send this message to 15 people after you listened the whole message if you value your life",
-    "Japanese": "自分の命を大切に思うなら、このメッセージを最後まで聞いた後、15人に転送してください。",
-    "Len": 90
+    "Text": "This unpleasant gradient shows up at your front door",
+    "Japanese": "この不快な勾配色がお前の玄関先に現れる",
+    "isSafe": false,
+    "Len": 52
   },
   {
     "Id": 4116,
     "Lvl": 17,
+    "Text": "You are an idiot, ha ha ha ha ha ha ha, a ha ha ha ha",
+    "Japanese": "バカだね、はははははははは、はははははは",
+    "isSafe": false,
+    "Len": 53
+  },
+  {
+    "Id": 4117,
+    "Lvl": 17,
+    "Text": "You have long life but will fall if you make a mistake",
+    "Japanese": "あなたは長生きするが、間違いを犯せば滅びるだろう",
+    "isSafe": false,
+    "Len": 54
+  },
+  {
+    "Id": 4118,
+    "Lvl": 17,
+    "Text": "A cascading sense of fear resonances and all hope is lost",
+    "Japanese": "恐怖の連鎖は共振し、全ての希望が失われる",
+    "isSafe": true,
+    "Len": 57
+  },
+  {
+    "Id": 4119,
+    "Lvl": 17,
+    "Text": "This is Typing game, the sane ones are the first to die",
+    "Japanese": "ここはタイミングゲーム  正気のやつから死んでいくのさ",
+    "isSafe": false,
+    "Len": 55
+  },
+  {
+    "Id": 4120,
+    "Lvl": 17,
+    "Text": "Civil authorities issued a necrotic infectious disease warning",
+    "Japanese": "民間当局は壊死性感染症の警告を発令した。",
+    "isSafe": true,
+    "Len": 62
+  },
+  {
+    "Id": 4127,
+    "Lvl": 17,
+    "Text": "To make the most of your short life, don't be afraid of failure",
+    "Japanese": "短い人生を最大限に生きるためには、失敗を恐れてはいけない。",
+    "isSafe": true,
+    "Len": 63
+  },
+  {
+    "Id": 4131,
+    "Lvl": 17,
+    "Text": "Promises are meant to be kept, so I'll do my utmost to keep my promises",
+    "Japanese": "約束は守るべきものだから、私は約束を守るために全力を尽くします。",
+    "isSafe": true,
+    "Len": 71
+  },
+  {
+    "Id": 4132,
+    "Lvl": 17,
+    "Text": "A fierce fighting spirit surpassing that of any martial art is required.",
+    "Japanese": "いかなる格闘技にも勝る激しい闘争心が必要",
+    "isSafe": true,
+    "Len": 72
+  },
+  {
+    "Id": 4131,
+    "Lvl": 17,
+    "Text": "The police found my body in the sewer; had a broken neck and my face was torn off",
+    "Japanese": "警察は下水道で私の遺体を発見した。首の骨が折れていて、顔は引き裂かれていた。",
+    "isSafe": false,
+    "Len": 81
+  },
+  {
+    "Id": 4132,
+    "Lvl": 17,
+    "Text": "A few years ago a group of girls pushed me down a sewer hole to try and embarrass me",
+    "Japanese": "数年前、女の子たちのグループが私を恥ずかしめようとして下水道の穴に突き落とした。",
+    "isSafe": true,
+    "Len": 84
+  },
+  {
+    "Id": 4126,
+    "Lvl": 17,
+    "Text": "He got really scared and rushed to his phone to repost this message but he was too late",
+    "Japanese": "彼は本当に怖くなって、急いで携帯電話を取り出してこのメ​​ッセージを再投稿しようとしたが、間に合わなかった。",
+    "isSafe": true,
+    "Len": 87
+  },
+  {
+    "Id": 4127,
+    "Lvl": 17,
+    "Text": "Send this message to 15 people after you listened the whole message if you value your life",
+    "Japanese": "自分の命を大切に思うなら、このメッセージを最後まで聞いた後、15人に転送してください。",
+    "isSafe": true,
+    "Len": 90
+  },
+  {
+    "Id": 4128,
+    "Lvl": 17,
+    "Text": "To achieve your goal, must harbor a strong, enduring desire that permeates your subconscious",
+    "Japanese": "目標達成のためには、潜在意識に透徹するほどの、強く持続した願望を持つこと",
+    "isSafe": false,
+    "Len": 92
+  },
+  {
+    "Id": 4129,
+    "Lvl": 17,
+    "Text": "Could you please go shopping for me and buy one carton of milk, and if they have eggs, get 6!",
+    "Japanese": "買い物に行って牛乳を1つ買ってきて。卵があったら6つお願い。",
+    "isSafe": true,
+    "Len": 93
+  },
+  {
+    "Id": 4130,
+    "Lvl": 17,
+    "Text": "Faith is strength, Those who believe in themselves and fight with resolve are always the victors",
+    "Japanese": "信は力でたる。自ら信じ、毅然として戦う者は常に勝者である",
+    "isSafe": true,
+    "Len": 96
+  },
+  {
+    "Id": 4131,
+    "Lvl": 17,
     "Text": "His mom entered his bedroom and all she found was a message written in his blood saying \"You will never have him back\"",
     "Japanese": "母親が息子の寝室に入ると、そこには息子の血で「二度と彼を取り戻すことはできない」と書かれたメッセージがあった。",
+    "isSafe": false,
     "Len": 118
+  },
+  {
+    "Id": 4132,
+    "Lvl": 17,
+    "Text": "Executives with execution responsibility are granted the authority to determine the professional fate of the subordinates necessary to achieve their goals",
+    "Japanese": "執行責任を持つ幹部には、目標達成に必要な部下の生殺与奪権を与える",
+    "isSafe": false,
+    "Len": 154
   }
-];
+]
