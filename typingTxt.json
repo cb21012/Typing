@@ -1,4 +1,4 @@
-window.typingData = [
+[
   {
     "Id": 0,
     "Lvl": 0,
@@ -28633,7 +28633,7 @@ window.typingData = [
     "Id": 4090,
     "Lvl": 17,
     "Text": "Japan is turning footsteps into electricity",
-    "Japanese": "日本は足音を電気に変えている",
+    "Japanese": "日本では人々が歩く時の圧力や振動を電気エネルギーに変換する",
     "Len": 43
   },
   {
@@ -28657,4 +28657,4 @@ window.typingData = [
     "Japanese": "民間当局は壊死性感染症の警告を発令した。",
     "Len": 62
   }
-];
+]
