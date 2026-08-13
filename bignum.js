@@ -24,7 +24,6 @@ class BigNum {
         if (this.isInfinity) return;
         if (this.mt === 0) { this.ex = 0; return; }
         
-        // 【修正】ex === 0（生数値）のときは、toExponential を使って安全に分離する
         if (this.ex === 0) {
             if (!isFinite(this.mt)) {
                 this.isInfinity = true;
@@ -199,8 +198,6 @@ class BigNum {
         if (power === 0) return new BigNum(1);
         if (this.mt === 0) return new BigNum(0);
 
-        // 常用対数 (ld) を利用して、(mt * 10^ex)^power を計算する
-        // 公式：log10(X^P) = P * log10(X)
         const totalLog = power * this.ld();
         
         if (totalLog === Infinity) {
@@ -210,9 +207,9 @@ class BigNum {
             return new BigNum(0);
         }
 
-        // 整数部分を新しい指数 (ex) に、小数部分を新しい仮数 (mt) に変換する
+        
         const newEx = Math.floor(totalLog);
-        const newMt = Math.pow(10, totalLog - newEx); // 指数(底)は常に0以上1未満になるため、絶対に10未満に収まる（溢れない）
+        const newMt = Math.pow(10, totalLog - newEx);
 
         return new BigNum(newMt, newEx);
     }

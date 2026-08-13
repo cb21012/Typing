@@ -231,13 +231,21 @@ function loadRecords() {
     updatePlayerLevelUI();
 }
 
+function minmax(min, val, max) {
+    if (val < min) return min;
+    if (val > max) return max;
+    return val;
+}
+
 //Lvl
 function playerLvlXp(lvl) {
     const base = new BigNum(0.25 * (lvl ** 3) + 4 * (lvl ** 2) + 16 * lvl + 128);
     const asc  = new BigNum(1.07).pow(Math.floor(lvl / 16));
-    const pow1 = new BigNum(lvl > 99 ? Math.min(1.3, 0.8 + (lvl * 0.002)) : 1);
-    const pow2 = new BigNum(lvl > 749 ? Math.min(2, 0.25 + (lvl * 0.001)) : 1);
-    return new BigNum(((base.mul(asc)).pow(pow1)).pow(pow2)).round();
+    const pow1 = minmax(1, (lvl- 100) * 0.002, 1.30);
+    const pow2 = minmax(1, (lvl- 750) * 0.001, 1.50);
+    const pow3 = minmax(1, (lvl-1750) * 0.001, 1.75);
+    const pow4 = minmax(1, (lvl-4000) * 0.001, 2.00);
+    return new BigNum(((base.mul(asc)).pow(pow1)).pow(pow2).pow(pow3).pow(pow4)).round();
 }
 
 function updatePlayerLevelUI() {
@@ -417,7 +425,7 @@ function updateStatsModal() {
     const comboEffectDenom = (1 + ((Math.max(0, (playerLevel - 250)) ** 0.65) + Math.min(playerLevel, 250)) / 250).toFixed(3);
     document.getElementById('statsComboEffect').innerText = `1 / ${comboEffectDenom}`;
 
-    const comboEffectMult = (playerLevel / 1e4).toFixed(3);
+    const comboEffectMult = ((playerLevel**2) / 1e5).toFixed(3);
     document.getElementById('statsComboMult').innerText = `+${comboEffectMult}`;
 
     // Determine mode key for display
@@ -916,7 +924,7 @@ function handleInputChar(inputChar) {
         updateWordDisplay();
 
         if (currentTyped.length === currentWord.length) {
-            const comboMultiplier = comboBonus + (playerLevel / 1e4);
+            const comboMultiplier = comboBonus + ((playerLevel ** 2) / 1e5);
             const cbMul = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
             const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
             const lvPow = new BigNum(1 + (level/25))
@@ -1030,7 +1038,7 @@ function updateComboUI() {
     if (currentCombo * (isAccMode ? 2 : 1) > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
-        const comboMultiplier = comboBonus + (playerLevel / 1e4);
+        const comboMultiplier = comboBonus + ((playerLevel ** 2) / 1e5);
         const multiplier = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
         const bonusPct = (multiplier.sub(1)).mul(100);
         bonusMsg.innerText = `Score bonus +${notatBn(bonusPct)}%`;
