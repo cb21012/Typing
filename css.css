@@ -249,15 +249,7 @@ button:hover {
 }
 
 .rainbow-text {
-  background: linear-gradient(90deg,
-      #ff0000,
-      #ff7f00,
-      #ffff00,
-      #00ff00,
-      #0000ff,
-      #4b0082,
-      #8f00ff,
-      #ff0000);
+  background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #4b0082, #8f00ff, #ff00ea, #ff0000);
   background-size: 200% auto;
   color: transparent;
   -webkit-background-clip: text;

@@ -1,13 +1,14 @@
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 
 const DIFFICULTIES = {
-    'training': { id: 0, cps: 0.2, startLevel: 0, consTime: 2.50, scorePow: 1.0 },
-    'easy': { id: 1, cps: 1.0, startLevel: 2, consTime: 1.70, scorePow: 1.5 },
-    'normal': { id: 2, cps: 2.0, startLevel: 5, consTime: 1.00, scorePow: 2.2 },
-    'advanced': { id: 3, cps: 3.2, startLevel: 7, consTime: 0.60, scorePow: 3.0 },
-    'hard': { id: 4, cps: 4.5, startLevel: 9, consTime: 0.40, scorePow: 4.3 },
-    'expert': { id: 5, cps: 6.0, startLevel: 10, consTime: 0.30, scorePow: 6.0 },
-    'insane': { id: 6, cps: 8.0, startLevel: 11, consTime: 0.20, scorePow: 8.5 },
+    'training': { id: 0, cps: 0.16, startLevel:  0, consTime: 4.00, scorePow: 1.0 },
+    'easy':     { id: 1, cps: 1.00, startLevel:  2, consTime: 3.20, scorePow: 1.1 },
+    'normal':   { id: 2, cps: 1.80, startLevel:  5, consTime: 2.40, scorePow: 1.2 },
+    'advanced': { id: 3, cps: 3.00, startLevel:  7, consTime: 2.00, scorePow: 1.4 },
+    'hard':     { id: 4, cps: 4.50, startLevel:  9, consTime: 1.60, scorePow: 1.7 },
+    'expert':   { id: 5, cps: 6.25, startLevel: 11, consTime: 1.30, scorePow: 2.1 },
+    'insane':   { id: 6, cps: 9.00, startLevel: 13, consTime: 1.00, scorePow: 2.5 },
+    'lunatic':  { id: 7, cps: 13.5, startLevel: 16, consTime: 0.80, scorePow: 3.0 },
 };
 
 let typingData = window.typingData || [];
@@ -35,8 +36,11 @@ let inappropriateCurrentPage = 1;
 const accModeCpsMul = 0.70;
 const spcModeCpsMul = 1.35;
 
+//ingame
 const maxHp = 160;
 let hp = maxHp;
+
+let playerIngameLevel = 1;
 
 const damageMistake = 12;
 const damageMistakeAcc = 2 ** 52;
@@ -58,7 +62,9 @@ let maxLevel = 1;
 
 // Global Player Stats
 let playerLevel = 0;
+const MAX_PLAYER_LEVEL = 2**39-1;
 let playerXp = new BigNum(0);
+let nextXp = playerLvlXp(playerLevel);
 let statsMaxCps = 0;
 let statsTotalChars = 0;
 let statsTotalTypos = 0;
@@ -73,10 +79,10 @@ let statsViewSpc = false;
 
 let score = new BigNum(0);
 let bestRecords = {
-    'std': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
-    'acc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
-    'spc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
-    'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) }
+    'std':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'acc':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'spc':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) }
 };
 
 const LEADERBOARD_SIZE = 8;
@@ -186,7 +192,7 @@ function loadRecords() {
     const savedHighScore = localStorage.getItem(`typingHighScore_${currentDifficulty}`);
     highScore = savedHighScore ? new BigNum(savedHighScore) : new BigNum(0);
     maxLevel = parseInt(localStorage.getItem(`typingMaxLevel_${currentDifficulty}`)) || 1;
-    document.getElementById('highScoreText').innerText = notatVal(highScore);
+    document.getElementById('highScoreText').innerText = notatBn(highScore, true);
 
     playerLevel = parseInt(localStorage.getItem('typingPlayerLevel')) || 0;
     // 【修正】playerXpを文字列として読み込み、BigNumに変換
@@ -237,16 +243,9 @@ function minmax(min, val, max) {
     return val;
 }
 
-//Lvl
-function playerLvlXp(lvl) {
-    const base = new BigNum(0.25 * (lvl ** 3) + 4 * (lvl ** 2) + 16 * lvl + 128);
-    const asc  = new BigNum(1.07).pow(Math.floor(lvl / 16));
-    const pow1 = minmax(1, (lvl- 100) * 0.002, 1.30);
-    const pow2 = minmax(1, (lvl- 750) * 0.001, 1.50);
-    const pow3 = minmax(1, (lvl-1750) * 0.001, 1.75);
-    const pow4 = minmax(1, (lvl-4000) * 0.001, 2.00);
-    return new BigNum(((base.mul(asc)).pow(pow1)).pow(pow2).pow(pow3).pow(pow4)).round();
-}
+function calcMissPenaltyRes(lvl) {return (lvl>=2**39-1) ? 250 : (1 + ((Math.max(0, (lvl - 1000)) ** .4) + Math.min(lvl, 1000)) / 250);}
+function calcComboPow(lvl) {return (lvl>=2**39-1) ? 1e21 : (lvl**2.208)/1e5;}
+function calcLvScorePow(lvl) {return (lvl>=2**39-1) ? 7500 : (1 + (lvl**.5)/100);}
 
 function updatePlayerLevelUI() {
     const nextXp = playerLvlXp(playerLevel);
@@ -255,18 +254,81 @@ function updatePlayerLevelUI() {
     // 【修正】playerXpを BigNum.div() で割る
     const pct = (playerXp.div(nextXp)).toNumber() * 100;
     document.getElementById('xpGaugeBar').style.width = Math.min(100, pct) + '%';
+    if (playerLevel>=MAX_PLAYER_LEVEL) {
+        document.getElementById('xpGaugeBar').style.background = 'linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #4b0082, #8f00ff, #ff00ea, #ff0000)';
+        document.getElementById('xpGaugeBar').style.backgroundSize = '200% auto';
+        document.getElementById('xpGaugeBar').style.animation = 'rainbow 7s linear infinite';
+        document.getElementById('xpText').innerText = `Max level reached!`;
+    }
 }
 
+function playerLvlXp(lvl) {
+    const base = new BigNum(1.6e-5*(lvl**5) + 2.0e-2*(lvl**4) + 0.25*(lvl**3) + 4*(lvl**2) + 16*lvl + 128);
+    const asc  = new BigNum(1.026).pow(lvl);
+    if (lvl<=4e3) {
+        const pow1 = minmax(1, (lvl- 100) * 0.002, 1.30);
+        const pow2 = minmax(1, (lvl- 750) * 0.001, 1.50);
+        const pow3 = minmax(1, (lvl-1750) * 0.001, 1.75);
+        const pow4 = minmax(1, (lvl-4000) * 0.001, 2.00);
+        return new BigNum((base.mul(asc)).pow(pow1*pow2*pow3*pow4)).round()
+    } else if (lvl>=MAX_PLAYER_LEVEL) {
+        return new BigNum(1);
+    }
+
+    return new BigNum(((base.mul(asc)).pow(6.825))).round();
+}
+
+function getTXM(startLv, n) {
+    let xpm = new BigNum(0);
+    const stLv = n>1e4 ? startLv+n-1e4 : startLv;
+    const rept = n>1e4 ? 1e4 : n;
+    for (let i = stLv; i <= stLv+rept; i++) {
+        xpm = xpm.add(playerLvlXp(i).div(playerLvlXp(startLv)));
+    }
+    return xpm;
+}
+
+const dr = [
+  [getTXM(4200, 1e2), getTXM(MAX_PLAYER_LEVEL-1e2, 1e2), (getTXM(4200, 1e2).sub(getTXM(MAX_PLAYER_LEVEL-1e2, 1e2))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e3), getTXM(MAX_PLAYER_LEVEL-1e3, 1e3), (getTXM(4200, 1e3).sub(getTXM(MAX_PLAYER_LEVEL-1e3, 1e3))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e4), getTXM(MAX_PLAYER_LEVEL-1e4, 1e4), (getTXM(4200, 1e4).sub(getTXM(MAX_PLAYER_LEVEL-1e4, 1e4))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e5), getTXM(MAX_PLAYER_LEVEL-1e5, 1e5), (getTXM(4200, 1e5).sub(getTXM(MAX_PLAYER_LEVEL-1e5, 1e5))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e6), getTXM(MAX_PLAYER_LEVEL-1e6, 1e6), (getTXM(4200, 1e6).sub(getTXM(MAX_PLAYER_LEVEL-1e6, 1e6))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e7), getTXM(MAX_PLAYER_LEVEL-1e7, 1e7), (getTXM(4200, 1e7).sub(getTXM(MAX_PLAYER_LEVEL-1e7, 1e7))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e8), getTXM(MAX_PLAYER_LEVEL-1e8, 1e8), (getTXM(4200, 1e8).sub(getTXM(MAX_PLAYER_LEVEL-1e8, 1e8))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e9), getTXM(MAX_PLAYER_LEVEL-1e9, 1e9), (getTXM(4200, 1e9).sub(getTXM(MAX_PLAYER_LEVEL-1e9, 1e9))).div(MAX_PLAYER_LEVEL)],
+  [getTXM(4200, 1e10), getTXM(MAX_PLAYER_LEVEL-1e10, 1e10), (getTXM(4200, 1e10).sub(getTXM(MAX_PLAYER_LEVEL-1e10, 1e10))).div(MAX_PLAYER_LEVEL)]
+];
+
 function addXp(amount) {
-    // 【修正】amountを BigNum に変換して add()で加算
     playerXp = playerXp.add(new BigNum(amount));
-    let nextXp = playerLvlXp(playerLevel);
+    if (playerLevel>=MAX_PLAYER_LEVEL) {onMaxLevelReached(); return;};
+
+    let diffRate;
+    for (let i=8; i>=0; i--) {
+        diffRate = (dr[i][1].max(dr[i][0].sub(dr[i][2].mul(playerLevel-4200)))).min(dr[i][0]);
+        while (playerLevel>4200 && playerXp.compareTo(nextXp.mul(diffRate)) >= 0) {
+            playerXp = playerXp.sub(nextXp.mul(diffRate));
+            playerLevel += (10**i);
+            diffRate = (dr[i][1].max(dr[i][0].sub(dr[i][2].mul(playerLevel-4200)))).min(dr[i][0]);
+            nextXp = playerLvlXp(playerLevel);
+            if (playerLevel>=MAX_PLAYER_LEVEL) {onMaxLevelReached(); break;}
+        }
+    }
     while (playerXp.compareTo(nextXp) >= 0) {
         playerXp = playerXp.sub(nextXp);
         playerLevel++;
         nextXp = playerLvlXp(playerLevel);
-        // Level up effect could go here
+        if (playerLevel>4200) {addXp(0); break;}
+        if (playerLevel>=MAX_PLAYER_LEVEL) {onMaxLevelReached(); break;}
     }
+
+    savePlayerStats();
+    updatePlayerLevelUI();
+}
+
+function onMaxLevelReached() {
+    playerLevel = MAX_PLAYER_LEVEL;
     savePlayerStats();
     updatePlayerLevelUI();
 }
@@ -373,14 +435,15 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
             }
         });
         bestRecords = {
-            'std': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
-            'acc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
-            'spc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) },
-            'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0) }
+            'std': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'acc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'spc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) }
         };
         statsMaxCombo = 0;
         loadRecords();
         alert("Records deleted.");
+        location.reload();
     }
 });
 
@@ -410,9 +473,14 @@ function updateStatsModal() {
     const nextXp = playerLvlXp(playerLevel);
     document.getElementById('statsPlayerLevel').innerText = playerLevel;
     // 【修正】playerXp を BigNum として扱う
-    document.getElementById('statsXpText').innerText = `${notatBn(playerXp)} / ${notatBn(nextXp)} XP`;
+    document.getElementById('statsXpText').innerText = (playerLevel>=MAX_PLAYER_LEVEL) ? `Max level reached!` : `${notatBn(playerXp)} / ${notatBn(nextXp)} XP`;
     const pct = (playerXp.div(nextXp)).toNumber() * 100;
     document.getElementById('statsXpGaugeBar').style.width = Math.min(100, pct) + '%';
+    if (playerLevel>=MAX_PLAYER_LEVEL) {
+        document.getElementById('statsXpGaugeBar').style.background = 'linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #4b0082, #8f00ff, #ff00ea, #ff0000)';
+        document.getElementById('statsXpGaugeBar').style.backgroundSize = '200% auto';
+        document.getElementById('statsXpGaugeBar').style.animation = 'rainbow 7s linear infinite';
+    }
 
     document.getElementById('statsMaxCps').innerText = statsMaxCps.toFixed(2);
     const avgCps = statsTotalTime > 0 ? (statsTotalChars / statsTotalTime) : 0;
@@ -422,11 +490,14 @@ function updateStatsModal() {
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
 
     // Combo reduction effect from player level
-    const comboEffectDenom = (1 + ((Math.max(0, (playerLevel - 250)) ** 0.65) + Math.min(playerLevel, 250)) / 250).toFixed(3);
+    const comboEffectDenom = calcMissPenaltyRes(playerLevel).toFixed(3);
     document.getElementById('statsComboEffect').innerText = `1 / ${comboEffectDenom}`;
 
-    const comboEffectMult = ((playerLevel**2) / 1e5).toFixed(3);
-    document.getElementById('statsComboMult').innerText = `+${comboEffectMult}`;
+    const comboEffectMult = calcComboPow(playerLevel).toFixed(3);
+    document.getElementById('statsComboMult').innerText = `+${notatVal(comboEffectMult)}`;
+
+    const scorePow = calcLvScorePow(playerLevel).toFixed(3);
+    document.getElementById('statsScorePower').innerText = `${scorePow}`;
 
     // Determine mode key for display
     let modeKey = 'std';
@@ -570,11 +641,13 @@ function updateDifficultyDescription() {
         detail = "Extreme challenge for typing experts";
     } else if (currentDifficulty === "insane") {
         detail = "Unforgiving speed for true masters";
+    } else if (currentDifficulty === "lunatic") {
+        detail = "This is the hardest difficulty level; the sane ones are the first to die.";
     }
 
     descArea.innerHTML = `
         <div class="desc-main">Difficulty: <span class="desc-highlight">${currentDifficulty.toUpperCase()}</span> <span class="desc-highlight">${ruleStr}</span></div>
-        <div class="desc-sub">Starting Level: ${diffData.startLevel} | CPS: ${effectiveCps.toFixed(2)}</div>
+        <div class="desc-sub">Starting Level: ${diffData.startLevel} | CPS: ${effectiveCps.toFixed(2)} (+ ${diffData.consTime.toFixed(2)}s)</div>
         <div class="desc-detail">${detail}</div>
         <div class="desc-sp-detail">${sp_detail}</div>
     `;
@@ -634,6 +707,7 @@ document.getElementById('spcModeBtn').addEventListener('click', () => {
 });
 
 function startGame() {
+    playerIngameLevel = playerLevel;
     document.body.classList.remove('game-over-active');
 
     const diff = DIFFICULTIES[currentDifficulty];
@@ -924,16 +998,23 @@ function handleInputChar(inputChar) {
         updateWordDisplay();
 
         if (currentTyped.length === currentWord.length) {
-            const comboMultiplier = comboBonus + ((playerLevel ** 2) / 1e5);
+            const comboMultiplier = comboBonus + calcComboPow(playerIngameLevel);
             const cbMul = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
             const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
             const lvPow = new BigNum(1 + (level/25))
+            const cbPow = new BigNum(1 + (Math.floor(currentCombo/100)**1.25)/10)
             const sp = DIFFICULTIES[currentDifficulty].scorePow;
-            const spdMul = new BigNum(currentCps ** (isSpcMode ? 2 : 1));
-            const addedScore = new BigNum(((spdMul.mul(currentWord.length).mul(cbMul).mul(lvMul)).pow(sp)).pow(lvPow)).round();
+            const pp = calcLvScorePow(playerIngameLevel);
+            const spdMul = new BigNum((5*currentCps) ** (isSpcMode ? 2 : 1));
+            const addedScore = new BigNum((((spdMul.mul(currentWord.length).mul(cbMul).mul(lvMul)).pow(sp)).pow(lvPow)).pow(pp).pow(cbPow)).round();
             // 【修正】score に BigNum.add() で加算
             score = score.add(addedScore);
-            addXp(addedScore);
+            if (score.isInfinity) score = new BigNum(9.99, 2**53-1);
+            if (addedScore.isInfinity) {
+                playerLevel=MAX_PLAYER_LEVEL; addXp(new BigNum(1));
+            } else {
+                addXp(addedScore);
+            }
             questionsSolved++;
             nxtSound();
 
@@ -954,7 +1035,7 @@ function handleInputChar(inputChar) {
         hp -= dmg;
         statsTotalTypos++;
         sessionTypos++;
-        const comboReduction = Math.floor(currentCombo / (1 + ((Math.max(0, (playerLevel - 250)) ** 0.65) + Math.min(playerLevel, 250)) / 250));
+        const comboReduction = Math.floor(currentCombo / calcMissPenaltyRes(playerIngameLevel));
         currentCombo -= comboReduction;
         updateComboUI();
         savePlayerStats();
@@ -1038,7 +1119,7 @@ function updateComboUI() {
     if (currentCombo * (isAccMode ? 2 : 1) > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
-        const comboMultiplier = comboBonus + ((playerLevel ** 2) / 1e5);
+        const comboMultiplier = comboBonus + calcComboPow(playerIngameLevel);
         const multiplier = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
         const bonusPct = (multiplier.sub(1)).mul(100);
         bonusMsg.innerText = `Score bonus +${notatBn(bonusPct)}%`;
