@@ -117,10 +117,12 @@
                     style="font-size: 0.85rem; color: #777; line-height: 1.5; background: rgba(0,0,0,0.03); padding: 12px; border-radius: 8px; margin: 10px 0;">
                     XP is earned based on your score, and levels up when a certain amount is reached. Higher player
                     level reduces the combo loss on a mistake — the combo is decreased by
-                    <b style="color: #555;">current combo × 1 / (1 + ((max(0, lv-250)^.65 + min(250, lv))) / 250)</b> (floored),
-                    so at level 250 you only lose half your combo on a miss. Also combo multiplier is increased by
-                    <b style="color: #555;">Lv / 1e-4</b>.
-                    Current Effect: <b id="statsComboEffect" style="color: #007bff;">1 / 1.000</b> & <b id="statsComboMult" style="color: #007bff;">+1.000</b>
+                    <b style="color: #555;">current combo × 1 / (1 + ((max(0, lv-500)^.4 + min(500, lv))) / 250)</b> (floored),
+                    so at level 250 you only lose half your combo on a miss. Also combo multiplier & overall score power is increased by
+                    <b style="color: #555;">Lv^2 / 5e4</b> & <b style="color: #555;">1 + (Lv^.5)/100</b> respectively.
+                    <br>Current Effect: <br>Combo count decrease by <b id="statsComboEffect" style="color: #007bff;">1 / 1.000</b> on miss. 
+                    <br>Combo multiplier will be 1.125 <b id="statsComboMult" style="color: #007bff;">+0.000</b>, applies per 5 combo.
+                    <br>Overall score will be powered by <b id="statsScorePower" style="color: #007bff;">1.000</b>.
                 </p>
             </div>
 
@@ -209,6 +211,11 @@
         <button class="diff-btn" data-diff="insane" title="狂気">
             <span class="full">Insane</span>
             <span class="short">Is</span>
+        </button>
+
+        <button class="diff-btn" data-diff="lunatic" title="躁鬱">
+            <span class="full">Lunatic</span>
+            <span class="short">Lu</span>
         </button>
 
     </div>

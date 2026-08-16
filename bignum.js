@@ -236,7 +236,7 @@ class BigNum {
     toString() {
         if (this.isInfinity) return "Infinity";
         if (this.ex === 0) return Math.floor(this.mt).toString();
-        return `${this.mt.toFixed(2)}e${this.ex}`;
+        return `${this.mt.toFixed(6)}e${this.ex}`;
     }
 
     toNumber() {
@@ -281,11 +281,15 @@ window.notatBn = function(bn) {
         tier += 1;
     }
 
+    const exp = tier * 3;
+
     // 単位配列の範囲内かチェック
     if (units[tier] !== undefined) {
         return sig + scaledMt.toFixed(2) + units[tier];
-    } else {
-        const exp = tier * 3;
+    } else if (exp < 1e7) {
         return sig + scaledMt.toFixed(2) + "e" + exp;
+    } else {
+        const len = Math.floor(Math.log10(exp) / 3);
+        return sig + scaledMt.toFixed(2) + "e" + (exp / (1e3 ** len)).toFixed(3) + "e" + (len*3);
     }
 };
