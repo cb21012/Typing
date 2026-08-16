@@ -443,6 +443,7 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
         statsMaxCombo = 0;
         loadRecords();
         alert("Records deleted.");
+        location.reload();
     }
 });
 
