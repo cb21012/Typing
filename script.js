@@ -115,7 +115,7 @@ function generateRandomWordFromData() {
     if (!typingData || typingData.length === 0) {
         return "LOADING";
     }
-    const currentMaxLvl = Math.min(level, 17);
+    const currentMaxLvl = Math.min(level, 18);
 
     // Calculate weights for each level (0 to currentMaxLvl)
     let totalWeight = 0;
