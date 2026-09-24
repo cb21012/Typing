@@ -392,40 +392,7 @@ document.getElementById('lightModeBtn').addEventListener('click', () => {
     document.body.classList.remove('dark-mode');
     saveSettings();
 });
-document.getElementById('exceptInappropriateBtn').addEventListener('click', () => {
-    isExceptInappropriate = !isExceptInappropriate;
-    const btn = document.getElementById('exceptInappropriateBtn');
-    if (isExceptInappropriate) {
-        btn.classList.add('selected');
-        btn.innerText = "Except Inappropriate: On";
-    } else {
-        btn.classList.remove('selected');
-        btn.innerText = "Except Inappropriate: Off";
-    }
-    saveSettings();
-});
 
-document.getElementById('showInappropriateLink').addEventListener('click', () => {
-    inappropriateCurrentPage = 1;
-    renderInappropriateTable();
-    document.getElementById('inappropriateModal').classList.add('show');
-});
-
-document.getElementById('inappropriatePrevBtn').addEventListener('click', () => {
-    if (inappropriateCurrentPage > 1) {
-        inappropriateCurrentPage--;
-        renderInappropriateTable();
-    }
-});
-
-document.getElementById('inappropriateNextBtn').addEventListener('click', () => {
-    const data = (window.typingData || []).filter(d => d.isSafe === false);
-    const totalPages = Math.ceil(data.length / 25) || 1;
-    if (inappropriateCurrentPage < totalPages) {
-        inappropriateCurrentPage++;
-        renderInappropriateTable();
-    }
-});
 document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
     if (confirm("Are you sure you want to delete all records?")) {
         const keys = Object.keys(localStorage);
