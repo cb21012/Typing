@@ -1474,3 +1474,57 @@ body.dark-mode .inappropriate-table tr:hover {
   font-size: 0.95rem;
   font-weight: bold;
 }
+
+.stats-player-growth {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.stats-growth-row {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.stats-growth-level {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.stats-growth-details {
+  flex-grow: 1;
+}
+
+.stats-growth-gauge {
+  height: 12px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.stats-growth-xp-text {
+  color: #666;
+  margin-top: 4px;
+}
+
+.stats-growth-description {
+  font-size: 0.85rem;
+  color: #777;
+  line-height: 1.5;
+  background: rgba(0, 0, 0, 0.03);
+  padding: 12px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.stats-growth-formula {
+  color: #555;
+}
+
+.stats-growth-value {
+  color: #007bff;
+}
+
+#statsModeSelect {
+  margin-bottom: 15px;
+}

@@ -63,27 +63,27 @@
 
             <h2 id="statsPlayerName">Statistics</h2>
 
-            <div class="stats-player-growth" style="text-align: left; margin-bottom: 20px;">
-                <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-                    <div style="font-size: 1.8rem; font-weight: bold; color: #007bff;">Lv. <span
+            <div class="stats-player-growth">
+                <div class="stats-growth-row">
+                    <div class="stats-growth-level">Lv. <span
                             id="statsPlayerLevel">0</span></div>
-                    <div style="flex-grow: 1;">
-                        <div class="xp-gauge-container" style="height: 12px; background: rgba(0,0,0,0.1);">
+                    <div class="stats-growth-details">
+                        <div class="xp-gauge-container stats-growth-gauge">
                             <div id="statsXpGaugeBar" class="xp-gauge-bar"></div>
                         </div>
-                        <div id="statsXpText" class="xp-text" style="color: #666; margin-top: 4px;">0 / 0 XP</div>
+                        <div id="statsXpText" class="xp-text stats-growth-xp-text">0 / 0 XP</div>
                     </div>
                 </div>
                 <p title="XPはスコアに基づいて獲得でき, 一定量でレベルが上がる. レベルが高いほどミス時のコンボ減少量が小さくなり, コンボのスコア倍率が高くなる."
-                    style="font-size: 0.85rem; color: #777; line-height: 1.5; background: rgba(0,0,0,0.03); padding: 12px; border-radius: 8px; margin: 10px 0;">
+                    class="stats-growth-description">
                     XP is earned based on your score, and levels up when a certain amount is reached. Higher player
                     level reduces the combo loss on a mistake — the combo is decreased by
-                    <b style="color: #555;">current combo × 1 / (1 + ((max(0, lv-1000)^.4 + min(1000, lv))) / 250)</b> (floored),
+                    <b class="stats-growth-formula">current combo × 1 / (1 + ((max(0, lv-1000)^.4 + min(1000, lv))) / 250)</b> (floored),
                     so at level 250 you only lose half your combo on a miss. Also combo multiplier & overall score power is increased by
-                    <b style="color: #555;">Lv^2.208 / 1e5</b> & <b style="color: #555;">1 + (Lv^.5)/100</b> respectively.
-                    <br>Current Effect: <br>Combo count decrease by <b id="statsComboEffect" style="color: #007bff;">1 / 1.000</b> on miss. 
-                    <br>Combo multiplier will be 1.125 <b id="statsComboMult" style="color: #007bff;">+0.000</b>, applies per 5 combo.
-                    <br>Overall score will be powered by <b id="statsScorePower" style="color: #007bff;">1.000</b>.
+                    <b class="stats-growth-formula">Lv^2.208 / 1e5</b> & <b class="stats-growth-formula">1 + (Lv^.5)/100</b> respectively.
+                    <br>Current Effect: <br>Combo count decrease by <b id="statsComboEffect" class="stats-growth-value">1 / 1.000</b> on miss.
+                    <br>Combo multiplier will be 1.125 <b id="statsComboMult" class="stats-growth-value">+0.000</b>, applies per 5 combo.
+                    <br>Overall score will be powered by <b id="statsScorePower" class="stats-growth-value">1.000</b>.
                 </p>
             </div>
 
@@ -117,7 +117,7 @@
                 <!-- Right: Best Records -->
                 <div class="stats-right-col">
                     <h3>Best Records</h3>
-                    <div id="statsModeSelect" class="diff-container" style="margin-bottom: 15px;">
+                    <div id="statsModeSelect" class="diff-container">
                         <button id="statsAccBtn" class="diff-btn accuracy-btn" title="精度フォーカス">Accuracy</button>
                         <button id="statsSpcBtn" class="diff-btn speed-btn" title="速度フォーカス">Speed</button>
                     </div>
