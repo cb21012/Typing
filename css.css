@@ -535,6 +535,10 @@ body.dark-mode #globalPlayerName {
   color: #28a745 !important;
 }
 
+.text-orange-important {
+  color: #f0ad4e !important;
+}
+
 @keyframes slideDown {
   0% {
     transform: translateY(-100px);

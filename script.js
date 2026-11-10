@@ -11,76 +11,92 @@ const DIFFICULTIES = {
     'lunatic':  { id: 7, cps: 13.5, startLevel: 16, consTime: 0.80, scorePow: 3.0 },
 };
 
+const inputJapanese = {
+    "あ": ["a"], "い": ["i", "yi"], "う": ["u", "wu"], "え": ["e"], "お": ["o"],
+    "か": ["ka", "ca"], "き": ["ki"], "く": ["ku", "cu", "qu"], "け": ["ke"], "こ": ["ko", "co"],
+    "さ": ["sa"], "し": ["shi", "si", "ci"], "す": ["su"], "せ": ["se", "ce"], "そ": ["so"],
+    "た": ["ta"], "ち": ["chi", "ti"], "つ": ["tsu", "tu"], "て": ["te"], "と": ["to"],
+    "な": ["na"], "に": ["ni"], "ぬ": ["nu"], "ね": ["ne"], "の": ["no"],
+    "は": ["ha"], "ひ": ["hi"], "ふ": ["fu", "hu"], "へ": ["he"], "ほ": ["ho"],
+    "ま": ["ma"], "み": ["mi"], "む": ["mu"], "め": ["me"], "も": ["mo"],
+    "や": ["ya"], "ゆ": ["yu"], "よ": ["yo"],
+    "ら": ["ra"], "り": ["ri"], "る": ["ru"], "れ": ["re"], "ろ": ["ro"],
+    "わ": ["wa"], "を": ["wo"], "ん": ["n", "nn", "n'"],
+    "が": ["ga"], "ぎ": ["gi"], "ぐ": ["gu"], "げ": ["ge"], "ご": ["go"],
+    "ざ": ["za"], "じ": ["ji", "zi"], "ず": ["zu"], "ぜ": ["ze"], "ぞ": ["zo"],
+    "だ": ["da"], "ぢ": ["di"], "づ": ["du", "dzu"], "で": ["de"], "ど": ["do"],
+    "ば": ["ba"], "び": ["bi"], "ぶ": ["bu"], "べ": ["be"], "ぼ": ["bo"],
+    "ぱ": ["pa"], "ぴ": ["pi"], "ぷ": ["pu"], "ぺ": ["pe"], "ぽ": ["po"],
+    "ゔ": ["vu"], "いぇ": ["ye"],
+    "うぃ": ["wi", "whi", "wyi"], "うぇ": ["we", "whe", "wye"], "うぉ": ["who"],
+    "ゔぁ": ["va"], "ゔぃ": ["vi", "vyi"], "ゔぇ": ["ve", "vye"], "ゔぉ": ["vo"],
+    "ゔゃ": ["vya"], "ゔゅ": ["vyu"], "ゔょ": ["vyo"],
+    "くぁ": ["qa", "qwa", "kwa"], "くぃ": ["qi", "qwi", "qyi"], "くぅ": ["qwu"], "くぇ": ["qe", "qwe", "qye"], "くぉ": ["qo", "qwo"],
+    "ぐぁ": ["gwa"], "ぐぃ": ["gwi"], "ぐぅ": ["gwu"], "ぐぇ": ["gwe"], "ぐぉ": ["gwo"],
+    "しぃ": ["syi"], "じぃ": ["zyi", "jyi"],
+    "すぁ": ["swa"], "すぃ": ["swi"], "すぅ": ["swu"], "すぇ": ["swe"], "すぉ": ["swo"],
+    "ずぁ": ["zwa"], "ずぃ": ["zwi"], "ずぅ": ["zwu"], "ずぇ": ["zwe"], "ずぉ": ["zwo"],
+    "ちぃ": ["tyi", "cyi"], "ぢぃ": ["dyi"],
+    "つぁ": ["tsa"], "つぃ": ["tsi"], "つぇ": ["tse"], "つぉ": ["tso"],
+    "てぃ": ["thi"], "てぇ": ["the"], "てゅ": ["thu"], "とぅ": ["twu"],
+    "でぃ": ["dhi"], "でぇ": ["dhe"], "でゅ": ["dhu"], "どぅ": ["dwu"],
+    "ふぁ": ["fa", "fwa", "hwa"], "ふぃ": ["fi", "fwi", "fyi", "hwi"],
+    "ふぇ": ["fe", "fwe", "fye", "hwe"], "ふぉ": ["fo", "fwo", "hwo"], "ふゅ": ["fyu", "hyu"],
+    "きゃ": ["kya"], "きゅ": ["kyu"], "きょ": ["kyo"], "きぇ": ["kye"],
+    "ぎゃ": ["gya"], "ぎゅ": ["gyu"], "ぎょ": ["gyo"], "ぎぇ": ["gye"],
+    "しゃ": ["sha", "sya"], "しゅ": ["shu", "syu"], "しょ": ["sho", "syo"], "しぇ": ["she", "sye"],
+    "じゃ": ["ja", "jya", "zya"], "じゅ": ["ju", "jyu", "zyu"], "じょ": ["jo", "jyo", "zyo"], "じぇ": ["je", "jye", "zye"],
+    "ちゃ": ["cha", "tya", "cya"], "ちゅ": ["chu", "tyu", "cyu"], "ちょ": ["cho", "tyo", "cyo"], "ちぇ": ["che", "tye", "cye"],
+    "ぢゃ": ["dya"], "ぢゅ": ["dyu"], "ぢょ": ["dyo"], "ぢぇ": ["dye"],
+    "にゃ": ["nya"], "にゅ": ["nyu"], "にょ": ["nyo"], "にぇ": ["nye"],
+    "ひゃ": ["hya"], "ひゅ": ["hyu"], "ひょ": ["hyo"], "ひぇ": ["hye"],
+    "びゃ": ["bya"], "びゅ": ["byu"], "びょ": ["byo"], "びぇ": ["bye"],
+    "ぴゃ": ["pya"], "ぴゅ": ["pyu"], "ぴょ": ["pyo"], "ぴぇ": ["pye"],
+    "みゃ": ["mya"], "みゅ": ["myu"], "みょ": ["myo"], "みぇ": ["mye"],
+    "りゃ": ["rya"], "りゅ": ["ryu"], "りょ": ["ryo"], "りぇ": ["rye"],
+    "ぁ": ["xa", "la"], "ぃ": ["xi", "li"], "ぅ": ["xu", "lu"], "ぇ": ["xe", "le"], "ぉ": ["xo", "lo"],
+    "ゃ": ["xya", "lya"], "ゅ": ["xyu", "lyu"], "ょ": ["xyo", "lyo"],
+    "っ": ["xtu", "ltu", "xtsu", "ltsu"], "ゎ": ["xwa", "lwa"],
+    "ゕ": ["xka", "lka"], "ゖ": ["xke", "lke"],
+    "ゐ": ["wi"], "ゑ": ["we"],
+};
+
 let typingData = window.typingData || [];
+let typingDataJa = window.typingDataJa || [];
 
-let currentDifficulty = 'normal';
-let currentWord = "";
-let currentTyped = "";
-let level = 0;
-let timeLeft = 0;
-let timeLimitBase = 0;
-let timerInterval;
-let isPlaying = false;
-let isInputLocked = true;
-
-let sessionTypos = 0;
-let sessionChars = 0;
-
-let currentCps = 1;
-let questionsSolved = 0;
-let isAccMode = false;
-let isSpcMode = false;
-
-const accModeCpsMul = 0.70;
-const spcModeCpsMul = 1.35;
-
-//ingame
-const maxHp = 160;
-let hp = maxHp;
-
+//ingame stats
+let currentDifficulty = 'normal', currentWord = "", currentTyped = "", currentJapanesePartial = "", level = 0, timeLeft = 0, timeLimitBase = 0, timerInterval = null;
+let sessionTypos = 0, sessionChars = 0, currentCps = 1, questionsSolved = 0, currentCombo = 0, sessionMaxCombo = 0;
+let isPlaying = false, isInputLocked = true, isJaGame = false, isAccMode = false, isSpcMode = false, statsViewAcc = false, statsViewSpc = false;
+let totalCharsTyped = 0, gameStartTime = 0;
 let playerIngameLevel = 1;
 
-const damageMistake = 12;
-const damageMistakeAcc = 2 ** 52;
-const damageTimeupSpc = 2 ** 52;
-const damageMistakeSpc = 2;
-const damageTimeup = 110;
-const healSuccess = 4;
+//Game mode settings
+const accModeCpsMul = 0.70, spcModeCpsMul = 1.35, damageMistake = 12, damageMistakeAcc = 2**52, damageTimeupSpc = 2**52, damageMistakeSpc = 2, damageTimeup = 110, healSuccess = 4;
+const japaneseTimeMul = 1.7;
 
-const comboStartThreshold = 20;
-const comboAddThreshold = 5;
-const comboBonus = 1.125;
-const comboHeal = 1;
-
-let totalCharsTyped = 0;
-let gameStartTime = 0;
+//conbo base stats
+const comboStartThreshold = 20, comboAddThreshold = 5, comboBonus = 1.125, comboHeal = 1;
 
 let highScore = new BigNum(0);
 let maxLevel = 1;
 
 // Global Player Stats
+const maxHp = 160, MAX_PLAYER_LEVEL = 2**39-1;
+let hp = maxHp;
 let playerLevel = 0;
-const MAX_PLAYER_LEVEL = 2**39-1;
-let playerXp = new BigNum(0);
-let nextXp = playerLvlXp(playerLevel);
-let statsMaxCps = 0;
-let statsTotalChars = 0;
-let statsTotalTypos = 0;
-let statsTotalTime = 0; // seconds
-let statsMaxCombo = 0;
-
-let currentCombo = 0;
-let sessionMaxCombo = 0;
-
-let statsViewAcc = false;
-let statsViewSpc = false;
+let playerXp = new BigNum(0), nextXp = playerLvlXp(playerLevel), statsMaxCps = 0, statsTotalChars = 0, statsTotalTypos = 0, statsTotalTime = 0, statsMaxCombo = 0;
 
 let score = new BigNum(0);
 let bestRecords = {
     'std':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
     'acc':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
     'spc':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) }
+    'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'stdj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'accj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'spcj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+    'botj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
 };
 
 const LEADERBOARD_SIZE = 8;
@@ -110,8 +126,9 @@ function generateRandomName() {
 }
 
 function generateRandomWordFromData() {
-    if (!typingData || typingData.length === 0) {
-        return "LOADING";
+    const data = isJaGame ? typingDataJa : typingData;
+    if (!data || data.length === 0) {
+        return { Text: "LOADING", Japanese: "", Reqs: "LOADING" };
     }
     const currentMaxLvl = Math.min(level, 18);
 
@@ -136,12 +153,12 @@ function generateRandomWordFromData() {
     }
 
     // Extract problems of the determined level
-    let pool = typingData.filter(d => d.Lvl === selectedLvl);
+    let pool = data.filter(d => d.Lvl === selectedLvl);
 
     if (pool.length === 0) {
         // Fallback to problems of the current maximum level if none are found
-        pool = typingData.filter(d => d.Lvl <= currentMaxLvl);
-        if (pool.length === 0) return "ERROR";
+        pool = data.filter(d => d.Lvl <= currentMaxLvl);
+        if (pool.length === 0) return { Text: "ERROR", Japanese: "", Reqs: "ERROR" };
     }
 
     const item = pool[Math.floor(Math.random() * pool.length)];
@@ -599,6 +616,19 @@ document.getElementById('spcModeBtn').addEventListener('click', () => {
     updateDifficultyDescription();
 });
 
+document.querySelectorAll('#languageModeSelect .diff-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+        if (document.getElementById('startBtn').style.display === 'none') return;
+
+        const selectedButton = e.currentTarget;
+        isJaGame = selectedButton.dataset.language === 'ja';
+        document.querySelectorAll('#languageModeSelect .diff-btn').forEach(modeBtn => {
+            modeBtn.classList.toggle('selected', modeBtn === selectedButton);
+            modeBtn.setAttribute('aria-pressed', modeBtn === selectedButton ? 'true' : 'false');
+        });
+    });
+});
+
 function startGame() {
     playerIngameLevel = playerLevel;
     document.body.classList.remove('game-over-active');
@@ -627,6 +657,7 @@ function startGame() {
     localStorage.setItem('typingPlayerName', n);
 
     document.getElementById('startBtn').style.display = 'none';
+    document.getElementById('languageModeSelect').style.display = 'none';
     document.getElementById('difficultySelect').style.display = 'none';
     document.getElementById('accModeBtn').parentElement.style.display = 'none';
     document.getElementById('playerSetupArea').style.display = 'none';
@@ -801,7 +832,9 @@ function triggerGameOver(reasonStr) {
         document.getElementById('mainAccuracy').innerText = accuracy.toFixed(2) + "%";
         document.getElementById('mainTime').innerText = realTimeElapsed.toFixed(2) + "s";
 
-        const failedHTML = `<span class="text-green-important">${currentTyped}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length)}</span>`;
+        const failedHTML = isJaGame
+            ? `<span class="text-green-important">${currentTyped}</span><span class="text-orange-important">${currentJapanesePartial ? currentWord[currentTyped.length] : ""}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length + (currentJapanesePartial ? 1 : 0))}</span>`
+            : `<span class="text-green-important">${currentTyped}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length)}</span>`;
         document.getElementById('mainFailedWord').innerHTML = failedHTML;
     }, 500);
 }
@@ -821,6 +854,7 @@ function retryGame() {
 
     document.getElementById('display').innerText = "Press Start to Play!";
     document.getElementById('startBtn').style.display = 'inline-block';
+    document.getElementById('languageModeSelect').style.display = 'flex';
 }
 
 function quickRetryGame() {
@@ -839,14 +873,15 @@ function nextQuestion() {
     document.getElementById('score').innerText = notatVal(score);
 
     const item = generateRandomWordFromData();
-    currentWord = item.Text;
-    const jpTranslation = item.Japanese || "";
+    currentWord = isJaGame ? item.Reqs : item.Text;
+    const jpTranslation = isJaGame ? item.Text : (item.Japanese || "");
 
     currentTyped = "";
+    currentJapanesePartial = "";
     document.getElementById('wordTranslation').innerText = jpTranslation;
     updateWordDisplay();
 
-    timeLimitBase = (currentWord.length / currentCps) + DIFFICULTIES[currentDifficulty].consTime;
+    timeLimitBase = (currentWord.length / currentCps) * (isJaGame ? japaneseTimeMul : 1) + DIFFICULTIES[currentDifficulty].consTime;
 
     isInputLocked = false;
     startTimer();
@@ -854,6 +889,12 @@ function nextQuestion() {
 
 function updateWordDisplay() {
     const display = document.getElementById('wordDisplay');
+    if (isJaGame) {
+        const activeKanaEnd = currentJapanesePartial ? currentTyped.length + 1 : currentTyped.length;
+        const activeKana = currentJapanesePartial ? currentWord[currentTyped.length] : "";
+        display.innerHTML = `<span class="text-green-important">${currentTyped}</span><span class="text-orange-important">${activeKana}</span><span>${currentWord.substring(activeKanaEnd)}</span>`;
+        return;
+    }
     display.innerHTML = `<span class="text-green-important">${currentTyped}</span><span>${currentWord.substring(currentTyped.length)}</span>`;
 }
 
@@ -868,6 +909,11 @@ function updateHpUI() {
 }
 
 function handleInputChar(inputChar) {
+    if (isJaGame) {
+        handleJapaneseInputChar(inputChar.toLowerCase());
+        return;
+    }
+
     const targetChar = currentWord[currentTyped.length].toUpperCase();
 
     //Treat space and underscore as the same character
@@ -878,66 +924,128 @@ function handleInputChar(inputChar) {
     if (isMatch) {
         let actualChar = currentWord[currentTyped.length];
         // Space characters in the typed portion (currentTyped) are preserved as underscores
-        currentTyped += (actualChar === " ") ? "_" : actualChar;
-        totalCharsTyped++;
-        sessionChars++;
-        currentCombo++;
-        if (currentCombo > sessionMaxCombo) sessionMaxCombo = currentCombo;
-        if (currentCombo > statsMaxCombo) {
-            statsMaxCombo = currentCombo;
-            savePlayerStats();
-        }
-        updateComboUI();
-        updateWordDisplay();
-
-        if (currentTyped.length === currentWord.length) {
-            const comboMultiplier = comboBonus + calcComboPow(playerIngameLevel);
-            const cbMul = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
-            const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
-            const lvPow = new BigNum(1 + (level/25))
-            const cbPow = new BigNum(1 + (Math.floor(currentCombo/100)**1.25)/10)
-            const sp = DIFFICULTIES[currentDifficulty].scorePow;
-            const pp = calcLvScorePow(playerIngameLevel);
-            const spdMul = new BigNum((5*currentCps) ** (isSpcMode ? 2 : 1));
-            const addedScore = new BigNum((((spdMul.mul(currentWord.length).mul(cbMul).mul(lvMul)).pow(sp)).pow(lvPow)).pow(pp).pow(cbPow)).round();
-            // 【修正】score に BigNum.add() で加算
-            score = score.add(addedScore);
-            if (score.isInfinity) score = new BigNum(9.99, 2**53-1);
-            if (addedScore.isInfinity) {
-                playerLevel=MAX_PLAYER_LEVEL; addXp(new BigNum(1));
-            } else {
-                addXp(addedScore);
-            }
-            questionsSolved++;
-            nxtSound();
-
-            // Success reward: +healSuccess HP
-            hp = Math.min(maxHp, hp + healSuccess);
-            updateHpUI();
-
-            if (questionsSolved % 5 === 0) {
-                level++;
-                currentCps += 0.05;
-                currentCps *= 1.06;
-            }
-            nextQuestion();
-        }
+        recordCorrectInput((actualChar === " ") ? "_" : actualChar);
     } else {
-        // Mistake penalty
-        const dmg = isAccMode ? damageMistakeAcc : isSpcMode ? damageMistakeSpc : damageMistake;
-        hp -= dmg;
-        statsTotalTypos++;
-        sessionTypos++;
-        const comboReduction = Math.floor(currentCombo / calcMissPenaltyRes(playerIngameLevel));
-        currentCombo -= comboReduction;
-        updateComboUI();
-        savePlayerStats();
-        updateHpUI();
-        errSound();
+        handleInputMistake();
+    }
+}
 
-        if (hp <= 0) {
-            triggerGameOver("Too many mistakes!");
+function getJapaneseInputOptions(index) {
+    const kana = currentWord[index];
+    const options = [];
+    const addOption = (kanaCount, key) => {
+        const inputs = inputJapanese[key];
+        if (inputs) options.push({ kanaCount, inputs });
+    };
+
+    addOption(1, kana);
+    if (index + 1 < currentWord.length) {
+        addOption(2, currentWord.substring(index, index + 2));
+    }
+
+    if (kana === "っ" && index + 1 < currentWord.length) {
+        const nextKana = currentWord[index + 1];
+        const nextInputs = [
+            ...(inputJapanese[nextKana] || []),
+            ...(inputJapanese[currentWord.substring(index + 1, index + 3)] || [])
+        ];
+        const doubledConsonants = [...new Set(nextInputs
+            .map(input => input[0])
+            .filter(char => /^[b-df-hj-np-tv-z]$/.test(char))
+            .map(char => char + char))];
+        if (doubledConsonants.length) options.push({ kanaCount: 1, inputs: doubledConsonants, repeatedConsonant: true });
+    }
+
+    return options;
+}
+
+function handleJapaneseInputChar(inputChar) {
+    const index = currentTyped.length;
+    const options = getJapaneseInputOptions(index);
+    const typed = currentJapanesePartial + inputChar;
+    const completedOption = options.find(option => option.inputs.includes(typed));
+
+    if (completedOption) {
+        currentJapanesePartial = "";
+        recordCorrectInput(currentWord.substring(index, index + completedOption.kanaCount));
+        if (completedOption.repeatedConsonant) handleJapaneseInputChar(inputChar);
+        return;
+    }
+
+    if (options.some(option => option.inputs.some(input => input.startsWith(typed)))) {
+        currentJapanesePartial = typed;
+        updateWordDisplay();
+        return;
+    }
+
+    currentJapanesePartial = "";
+    updateWordDisplay();
+    handleInputMistake();
+}
+
+function recordCorrectInput(typedText) {
+    currentTyped += typedText;
+    const completedChars = isJaGame ? typedText.length : 1;
+    totalCharsTyped += completedChars;
+    sessionChars += completedChars;
+    currentCombo += completedChars;
+    if (currentCombo > sessionMaxCombo) sessionMaxCombo = currentCombo;
+    if (currentCombo > statsMaxCombo) {
+        statsMaxCombo = currentCombo;
+        savePlayerStats();
+    }
+    updateComboUI();
+    updateWordDisplay();
+
+    if (currentTyped.length === currentWord.length) {
+        const comboMultiplier = comboBonus + calcComboPow(playerIngameLevel);
+        const cbMul = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
+        const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
+        const lvPow = new BigNum(1 + (level/25))
+        const cbPow = new BigNum(1 + (Math.floor(currentCombo/100)**1.25)/10)
+        const sp = DIFFICULTIES[currentDifficulty].scorePow;
+        const pp = calcLvScorePow(playerIngameLevel);
+        const spdMul = new BigNum((5*currentCps) ** (isSpcMode ? 2 : 1));
+        const addedScore = new BigNum((((spdMul.mul(currentWord.length).mul(cbMul).mul(lvMul)).pow(sp)).pow(lvPow)).pow(pp).pow(cbPow)).round();
+        // 【修正】score に BigNum.add() で加算
+        score = score.add(addedScore);
+        if (score.isInfinity) score = new BigNum(9.99, 2**53-1);
+        if (addedScore.isInfinity) {
+            playerLevel=MAX_PLAYER_LEVEL; addXp(new BigNum(1));
+        } else {
+            addXp(addedScore);
         }
+        questionsSolved++;
+        nxtSound();
+
+        // Success reward: +healSuccess HP
+        hp = Math.min(maxHp, hp + healSuccess);
+        updateHpUI();
+
+        if (questionsSolved % 5 === 0) {
+            level++;
+            currentCps += 0.05;
+            currentCps *= 1.06;
+        }
+        nextQuestion();
+    }
+}
+
+function handleInputMistake() {
+    // Mistake penalty
+    const dmg = isAccMode ? damageMistakeAcc : isSpcMode ? damageMistakeSpc : damageMistake;
+    hp -= dmg;
+    statsTotalTypos++;
+    sessionTypos++;
+    const comboReduction = Math.floor(currentCombo / calcMissPenaltyRes(playerIngameLevel));
+    currentCombo -= comboReduction;
+    updateComboUI();
+    savePlayerStats();
+    updateHpUI();
+    errSound();
+
+    if (hp <= 0) {
+        triggerGameOver("Too many mistakes!");
     }
 }
 

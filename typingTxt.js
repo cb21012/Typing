@@ -4,7 +4,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ace",
     "Japanese": "エース",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -12,7 +11,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Act",
     "Japanese": "活動",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -20,7 +18,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Add",
     "Japanese": "追加",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -28,7 +25,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Age",
     "Japanese": "年",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -36,7 +32,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ago",
     "Japanese": "前",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -44,7 +39,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Aid",
     "Japanese": "援助",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -52,7 +46,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Aim",
     "Japanese": "標的",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -60,7 +53,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Air",
     "Japanese": "空気",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -68,7 +60,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "All",
     "Japanese": "全て",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -76,7 +67,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "And",
     "Japanese": "そして",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -84,7 +74,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ant",
     "Japanese": "アリ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -92,7 +81,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Any",
     "Japanese": "どれでも",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -100,7 +88,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Apt",
     "Japanese": "アパート",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -108,7 +95,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Arm",
     "Japanese": "アーム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -116,7 +102,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Art",
     "Japanese": "美術",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -124,7 +109,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ash",
     "Japanese": "灰",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -132,7 +116,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ask",
     "Japanese": "聞く",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -140,7 +123,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ate",
     "Japanese": "食べた",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -148,7 +130,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bad",
     "Japanese": "悪い",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -156,7 +137,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bag",
     "Japanese": "バッグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -164,7 +144,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bat",
     "Japanese": "バット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -172,7 +151,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bed",
     "Japanese": "ベッド",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -180,7 +158,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bee",
     "Japanese": "蜂",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -188,7 +165,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Beg",
     "Japanese": "懇願する",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -196,7 +172,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bet",
     "Japanese": "ベット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -204,7 +179,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Big",
     "Japanese": "大きい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -212,7 +186,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bin",
     "Japanese": "ビン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -220,7 +193,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bit",
     "Japanese": "少し",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -228,7 +200,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Box",
     "Japanese": "箱",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -236,7 +207,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Boy",
     "Japanese": "男の子",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -244,7 +214,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bus",
     "Japanese": "バス",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -252,7 +221,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bug",
     "Japanese": "バグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -260,7 +228,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Buy",
     "Japanese": "買う",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -268,7 +235,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Bye",
     "Japanese": "さよなら",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -276,7 +242,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cab",
     "Japanese": "タクシー",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -284,7 +249,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Can",
     "Japanese": "できる",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -292,7 +256,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cap",
     "Japanese": "キャップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -300,7 +263,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Car",
     "Japanese": "車",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -308,7 +270,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cat",
     "Japanese": "猫",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -316,7 +277,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cow",
     "Japanese": "牛",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -324,7 +284,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cry",
     "Japanese": "泣く",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -332,7 +291,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cup",
     "Japanese": "カップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -340,7 +298,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Cut",
     "Japanese": "カット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -348,7 +305,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dad",
     "Japanese": "お父さん",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -356,7 +312,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Day",
     "Japanese": "日",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -364,7 +319,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Did",
     "Japanese": "した",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -372,7 +326,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Die",
     "Japanese": "死ぬ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -380,7 +333,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dig",
     "Japanese": "掘る",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -388,7 +340,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dog",
     "Japanese": "犬",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -396,7 +347,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dot",
     "Japanese": "継続ダメージ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -404,7 +354,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Dry",
     "Japanese": "乾かす",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -412,7 +361,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Due",
     "Japanese": "期限",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -420,7 +368,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ear",
     "Japanese": "耳",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -428,7 +375,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Eat",
     "Japanese": "食べる",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -436,7 +382,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Egg",
     "Japanese": "卵",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -444,7 +389,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ego",
     "Japanese": "自我",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -452,7 +396,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "End",
     "Japanese": "終わり",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -460,7 +403,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Era",
     "Japanese": "時代",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -468,7 +410,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Est",
     "Japanese": "EST（東部基準時",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -476,7 +417,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Eve",
     "Japanese": "前夜祭",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -484,7 +424,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Eye",
     "Japanese": "目",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -492,7 +431,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fan",
     "Japanese": "ファン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -500,7 +438,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Far",
     "Japanese": "遠い",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -508,7 +445,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fat",
     "Japanese": "脂肪",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -516,7 +452,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fed",
     "Japanese": "食べさせた",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -524,7 +459,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Few",
     "Japanese": "少し",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -532,7 +466,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fig",
     "Japanese": "イチジク",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -540,7 +473,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fix",
     "Japanese": "修理",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -548,7 +480,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fly",
     "Japanese": "飛ぶ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -556,7 +487,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fog",
     "Japanese": "霧",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -564,7 +494,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "For",
     "Japanese": "のために",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -572,7 +501,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fox",
     "Japanese": "キツネ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -580,7 +508,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fry",
     "Japanese": "稚魚",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -588,7 +515,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fun",
     "Japanese": "楽しい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -596,7 +522,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Fur",
     "Japanese": "毛皮",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -604,7 +529,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gap",
     "Japanese": "ギャップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -612,7 +536,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gas",
     "Japanese": "ガス",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -620,7 +543,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gel",
     "Japanese": "ゲル",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -628,7 +550,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gem",
     "Japanese": "宝石",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -636,7 +557,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Get",
     "Japanese": "得る",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -644,7 +564,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gum",
     "Japanese": "ガム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -652,7 +571,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gun",
     "Japanese": "銃",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -660,7 +578,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Guy",
     "Japanese": "男",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -668,7 +585,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Gym",
     "Japanese": "ジム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -676,7 +592,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Had",
     "Japanese": "持っていた",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -684,7 +599,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Has",
     "Japanese": "もっている",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -692,7 +606,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hat",
     "Japanese": "帽子",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -700,7 +613,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hay",
     "Japanese": "干し草",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -708,7 +620,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hen",
     "Japanese": "鶏",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -716,7 +627,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Her",
     "Japanese": "彼女",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -724,7 +634,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hey",
     "Japanese": "おい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -732,7 +641,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Him",
     "Japanese": "彼",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -740,7 +648,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hip",
     "Japanese": "ヒップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -748,7 +655,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "His",
     "Japanese": "彼の",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -756,7 +662,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hit",
     "Japanese": "打つ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -764,7 +669,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hop",
     "Japanese": "ホップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -772,7 +676,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hot",
     "Japanese": "熱い",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -780,7 +683,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "How",
     "Japanese": "どうやって",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -788,7 +690,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hub",
     "Japanese": "ハブ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -796,7 +697,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hug",
     "Japanese": "ハグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -804,7 +704,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Hum",
     "Japanese": "ハム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -812,7 +711,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ice",
     "Japanese": "氷",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -820,7 +718,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ill",
     "Japanese": "病気",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -828,7 +725,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ink",
     "Japanese": "インク",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -836,7 +732,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Inn",
     "Japanese": "宿",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -844,7 +739,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ion",
     "Japanese": "イオン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -852,7 +746,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Its",
     "Japanese": "その",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -860,7 +753,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Jam",
     "Japanese": "ジャム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -868,7 +760,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Jar",
     "Japanese": "瓶",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -876,7 +767,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Jaw",
     "Japanese": "顎",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -884,7 +774,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Jet",
     "Japanese": "ジェット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -892,7 +781,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Job",
     "Japanese": "仕事",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -900,7 +788,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Jog",
     "Japanese": "ジョグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -908,7 +795,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Joy",
     "Japanese": "喜び",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -916,7 +802,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Jug",
     "Japanese": "水差し",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -924,7 +809,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Key",
     "Japanese": "鍵",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -932,7 +816,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Kid",
     "Japanese": "子供",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -940,7 +823,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Kin",
     "Japanese": "親族",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -948,7 +830,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Kit",
     "Japanese": "キット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -956,7 +837,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lab",
     "Japanese": "ラボ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -964,7 +844,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lad",
     "Japanese": "若者",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -972,7 +851,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lap",
     "Japanese": "ラップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -980,7 +858,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Law",
     "Japanese": "法",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -988,7 +865,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lay",
     "Japanese": "横たわる",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -996,7 +872,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Leg",
     "Japanese": "脚",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1004,7 +879,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Let",
     "Japanese": "させる",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1012,7 +886,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lid",
     "Japanese": "蓋",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1020,7 +893,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lie",
     "Japanese": "嘘",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1028,7 +900,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lip",
     "Japanese": "唇",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1036,7 +907,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Log",
     "Japanese": "ログ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1044,7 +914,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Lot",
     "Japanese": "多く",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1052,7 +921,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Low",
     "Japanese": "低い",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1060,7 +928,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Mad",
     "Japanese": "狂った",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1068,7 +935,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Map",
     "Japanese": "地図",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1076,7 +942,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Mat",
     "Japanese": "マット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1084,7 +949,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "May",
     "Japanese": "5月",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1092,7 +956,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Men",
     "Japanese": "男性",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1100,7 +963,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Met",
     "Japanese": "メット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1108,7 +970,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Mix",
     "Japanese": "ミックス",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1116,7 +977,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Mob",
     "Japanese": "暴徒",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1124,7 +984,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Mud",
     "Japanese": "泥",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1132,7 +991,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Mug",
     "Japanese": "マグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1140,7 +998,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Net",
     "Japanese": "ネット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1148,7 +1005,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "New",
     "Japanese": "新しい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1156,7 +1012,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Nil",
     "Japanese": "なし",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1164,7 +1019,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Nod",
     "Japanese": "うなずく",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1172,7 +1026,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Not",
     "Japanese": "ない",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1180,7 +1033,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Now",
     "Japanese": "今",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1188,7 +1040,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Nut",
     "Japanese": "ナット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1196,7 +1047,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Oak",
     "Japanese": "オーク",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1204,7 +1054,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Odd",
     "Japanese": "奇数",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1212,7 +1061,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Off",
     "Japanese": "オフ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1220,7 +1068,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Oil",
     "Japanese": "油",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1228,7 +1075,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Old",
     "Japanese": "古い",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1236,7 +1082,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "One",
     "Japanese": "1つ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1244,7 +1089,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Orb",
     "Japanese": "オーブ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1252,7 +1096,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Our",
     "Japanese": "私たちの",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1260,7 +1103,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Out",
     "Japanese": "外",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1268,7 +1110,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Own",
     "Japanese": "自分の",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1276,7 +1117,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pad",
     "Japanese": "パッド",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1284,7 +1124,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pan",
     "Japanese": "パン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1292,7 +1131,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pay",
     "Japanese": "支払う",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1300,7 +1138,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pen",
     "Japanese": "ペン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1308,7 +1145,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pet",
     "Japanese": "ペット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1316,7 +1152,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pie",
     "Japanese": "パイ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1324,7 +1159,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pig",
     "Japanese": "豚",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1332,7 +1166,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pin",
     "Japanese": "ピン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1340,7 +1173,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pit",
     "Japanese": "ピット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1348,7 +1180,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pot",
     "Japanese": "ポット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1356,7 +1187,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pry",
     "Japanese": "こじ開ける",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1364,7 +1194,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Pub",
     "Japanese": "パブ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1372,7 +1201,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Put",
     "Japanese": "置く",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1380,7 +1208,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Raw",
     "Japanese": "生",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1388,7 +1215,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ray",
     "Japanese": "レイ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1396,7 +1222,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Red",
     "Japanese": "赤",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1404,7 +1229,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rib",
     "Japanese": "リブ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1412,7 +1236,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rid",
     "Japanese": "取り除く",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1420,7 +1243,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ram",
     "Japanese": "ラム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1428,7 +1250,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rim",
     "Japanese": "リム",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1436,7 +1257,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rat",
     "Japanese": "ねずみ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1444,7 +1264,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rob",
     "Japanese": "奪う",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1452,7 +1271,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rod",
     "Japanese": "ロッド",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1460,7 +1278,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rot",
     "Japanese": "腐敗",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1468,7 +1285,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Row",
     "Japanese": "行",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1476,7 +1292,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rub",
     "Japanese": "こする",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1484,7 +1299,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Rug",
     "Japanese": "ラグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1492,7 +1306,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Run",
     "Japanese": "走る",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1500,7 +1313,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sad",
     "Japanese": "悲しい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1508,7 +1320,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sat",
     "Japanese": "土曜日",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1516,7 +1327,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Saw",
     "Japanese": "見た",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1524,7 +1334,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Say",
     "Japanese": "言う",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1532,7 +1341,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sea",
     "Japanese": "海",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1540,7 +1348,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "See",
     "Japanese": "見る",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1548,7 +1355,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Set",
     "Japanese": "セット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1556,7 +1362,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sew",
     "Japanese": "縫う",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1564,7 +1369,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "She",
     "Japanese": "彼女",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1572,7 +1376,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Shy",
     "Japanese": "シャイ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1580,7 +1383,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sin",
     "Japanese": "罪",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1588,7 +1390,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sip",
     "Japanese": "一口飲む",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1596,7 +1397,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sir",
     "Japanese": "お客様",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1604,7 +1404,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sit",
     "Japanese": "座る",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1612,7 +1411,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Six",
     "Japanese": "六",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1620,7 +1418,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ski",
     "Japanese": "スキー",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1628,7 +1425,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sky",
     "Japanese": "空",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1636,7 +1432,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sly",
     "Japanese": "スライ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1644,7 +1439,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Son",
     "Japanese": "息子",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1652,7 +1446,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Soy",
     "Japanese": "大豆",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1660,7 +1453,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sus",
     "Japanese": "疑わしい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1668,7 +1460,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Sun",
     "Japanese": "太陽",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1676,7 +1467,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tag",
     "Japanese": "タグ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1684,7 +1474,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tap",
     "Japanese": "タップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1692,7 +1481,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tar",
     "Japanese": "タール",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1700,7 +1488,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tax",
     "Japanese": "税",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1708,7 +1495,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tea",
     "Japanese": "お茶",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1716,7 +1502,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ten",
     "Japanese": "10",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1724,7 +1509,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "The",
     "Japanese": "の",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1732,7 +1516,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tie",
     "Japanese": "ネクタイ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1740,7 +1523,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tin",
     "Japanese": "錫",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1748,7 +1530,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tip",
     "Japanese": "ヒント",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1756,7 +1537,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Toe",
     "Japanese": "つま先",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1764,7 +1544,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Too",
     "Japanese": "あまりにも",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1772,7 +1551,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Top",
     "Japanese": "トップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1780,7 +1558,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Toy",
     "Japanese": "玩具",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1788,7 +1565,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Try",
     "Japanese": "試す",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1796,7 +1572,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Tub",
     "Japanese": "浴槽",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1804,7 +1579,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Two",
     "Japanese": "二",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1812,7 +1586,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Ugh",
     "Japanese": "うわぁ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1820,7 +1593,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Urn",
     "Japanese": "骨壺",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1828,7 +1600,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Use",
     "Japanese": "使用",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1836,7 +1607,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Van",
     "Japanese": "バン",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1844,7 +1614,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Vat",
     "Japanese": "バット",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1852,7 +1621,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Vex",
     "Japanese": "ベックス",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1860,7 +1628,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Via",
     "Japanese": "経由",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1868,7 +1635,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Vow",
     "Japanese": "誓い",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1876,7 +1642,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Wad",
     "Japanese": "ワッド",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1884,7 +1649,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "War",
     "Japanese": "戦争",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1892,7 +1656,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Was",
     "Japanese": "だった",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1900,7 +1663,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Way",
     "Japanese": "方法",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1908,7 +1670,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Web",
     "Japanese": "ウェブ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1916,7 +1677,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Wed",
     "Japanese": "水曜日",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1924,7 +1684,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Wet",
     "Japanese": "濡れた",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1932,7 +1691,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Who",
     "Japanese": "誰が",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1940,7 +1698,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Why",
     "Japanese": "なぜ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1948,7 +1705,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Wig",
     "Japanese": "かつら",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1956,7 +1712,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Win",
     "Japanese": "勝つ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1964,7 +1719,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Won",
     "Japanese": "勝利した",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1972,7 +1726,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Wry",
     "Japanese": "皮肉な",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1980,7 +1733,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Yam",
     "Japanese": "ヤムイモ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1988,7 +1740,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Yaw",
     "Japanese": "偏揺れ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -1996,7 +1747,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Yes",
     "Japanese": "はい",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -2004,7 +1754,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Yet",
     "Japanese": "まだ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -2012,7 +1761,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "You",
     "Japanese": "あなた",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -2020,7 +1768,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Zen",
     "Japanese": "禅",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -2028,7 +1775,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Zip",
     "Japanese": "ジップ",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -2036,7 +1782,6 @@ window.typingData = [
     "Lvl": 0,
     "Text": "Zoo",
     "Japanese": "動物園",
-    "isSafe": true,
     "Len": 3
   },
   {
@@ -2044,7 +1789,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Able",
     "Japanese": "できる",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2052,7 +1796,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Acid",
     "Japanese": "酸",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2060,7 +1803,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Aged",
     "Japanese": "熟成",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2068,7 +1810,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Area",
     "Japanese": "エリア",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2076,7 +1817,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Atom",
     "Japanese": "原子",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2084,7 +1824,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Baby",
     "Japanese": "赤ちゃん",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2092,7 +1831,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Back",
     "Japanese": "戻る",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2100,7 +1838,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Ball",
     "Japanese": "ボール",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2108,7 +1845,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Blue",
     "Japanese": "青",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2116,7 +1852,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Book",
     "Japanese": "本",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2124,7 +1859,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Cafe",
     "Japanese": "カフェ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2132,7 +1866,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Cake",
     "Japanese": "ケーキ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2140,7 +1873,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Call",
     "Japanese": "電話",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2148,7 +1880,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "City",
     "Japanese": "市",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2156,7 +1887,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Cold",
     "Japanese": "寒い",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2164,7 +1894,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Dark",
     "Japanese": "暗い",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2172,7 +1901,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Data",
     "Japanese": "データ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2180,7 +1908,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Date",
     "Japanese": "日付",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2188,7 +1915,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Dear",
     "Japanese": "親愛なる",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2196,7 +1922,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Door",
     "Japanese": "ドア",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2204,7 +1929,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Each",
     "Japanese": "それぞれ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2212,7 +1936,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Easy",
     "Japanese": "簡単",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2220,7 +1943,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Echo",
     "Japanese": "エコー",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2228,7 +1950,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Edge",
     "Japanese": "角",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2236,7 +1957,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Even",
     "Japanese": "平",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2244,7 +1964,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Face",
     "Japanese": "顔",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2252,7 +1971,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Fact",
     "Japanese": "事実",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2260,7 +1978,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Fair",
     "Japanese": "公平",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2268,7 +1985,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Fall",
     "Japanese": "秋",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2276,7 +1992,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Fast",
     "Japanese": "速い",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2284,7 +1999,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Fool",
     "Japanese": "バカ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2292,7 +2006,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Game",
     "Japanese": "ゲーム",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2300,7 +2013,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Gate",
     "Japanese": "ゲート",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2308,7 +2020,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Gift",
     "Japanese": "贈り物",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2316,7 +2027,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Girl",
     "Japanese": "女の子",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2324,7 +2034,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Gold",
     "Japanese": "金",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2332,7 +2041,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Hand",
     "Japanese": "手",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2340,7 +2048,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Hard",
     "Japanese": "難しい",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2348,7 +2055,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Have",
     "Japanese": "持っている",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2356,7 +2062,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Head",
     "Japanese": "頭",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2364,7 +2069,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "High",
     "Japanese": "高い",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2372,7 +2076,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Idea",
     "Japanese": "アイデア",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2380,7 +2083,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Icon",
     "Japanese": "アイコン",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2388,7 +2090,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Into",
     "Japanese": "の中へ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2396,7 +2097,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Iron",
     "Japanese": "鉄",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2404,7 +2104,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Item",
     "Japanese": "アイテム",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2412,7 +2111,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Jazz",
     "Japanese": "ジャズ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2420,7 +2118,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Join",
     "Japanese": "参加する",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2428,7 +2125,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Joke",
     "Japanese": "ジョーク",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2436,7 +2132,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Jump",
     "Japanese": "ジャンプ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2444,7 +2139,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Just",
     "Japanese": "ただ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2452,7 +2146,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Keep",
     "Japanese": "保つ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2460,7 +2153,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Kind",
     "Japanese": "親切",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2468,7 +2160,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "King",
     "Japanese": "王",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2476,7 +2167,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Kiss",
     "Japanese": "キス",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2484,7 +2174,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Kite",
     "Japanese": "凧",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2492,7 +2181,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Lake",
     "Japanese": "湖",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2500,7 +2188,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Lamp",
     "Japanese": "ランプ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2508,7 +2195,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Last",
     "Japanese": "最後",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2516,7 +2202,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Life",
     "Japanese": "人生",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2524,7 +2209,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Made",
     "Japanese": "作った",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2532,7 +2216,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Mail",
     "Japanese": "郵便",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2540,7 +2223,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Main",
     "Japanese": "主要",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2548,7 +2230,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Make",
     "Japanese": "作る",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2556,7 +2237,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Mine",
     "Japanese": "私の",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2564,7 +2244,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Name",
     "Japanese": "名前",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2572,7 +2251,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Near",
     "Japanese": "近く",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2580,7 +2258,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Neck",
     "Japanese": "ネック",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2588,7 +2265,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Next",
     "Japanese": "次",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2596,7 +2272,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Node",
     "Japanese": "ノード",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2604,7 +2279,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Open",
     "Japanese": "開ける",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2612,7 +2286,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Only",
     "Japanese": "のみ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2620,7 +2293,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Over",
     "Japanese": "以上",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2628,7 +2300,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Ohio",
     "Japanese": "オハイオ州",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2636,7 +2307,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Oats",
     "Japanese": "オート麦",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2644,7 +2314,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Page",
     "Japanese": "ページ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2652,7 +2321,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Part",
     "Japanese": "一部",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2660,7 +2328,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Past",
     "Japanese": "過去",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2668,7 +2335,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Pest",
     "Japanese": "害虫",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2676,7 +2342,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Plan",
     "Japanese": "プラン",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2684,7 +2349,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Quiz",
     "Japanese": "クイズ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2692,7 +2356,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Quit",
     "Japanese": "やめる",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2700,7 +2363,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Quid",
     "Japanese": "クイド",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2708,7 +2370,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Quad",
     "Japanese": "クワッド",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2716,7 +2377,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Rain",
     "Japanese": "雨",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2724,7 +2384,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Read",
     "Japanese": "読む",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2732,7 +2391,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Real",
     "Japanese": "本物",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2740,7 +2398,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Rich",
     "Japanese": "リッチ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2748,7 +2405,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Road",
     "Japanese": "道",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2756,7 +2412,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Rust",
     "Japanese": "さび",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2764,7 +2419,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Safe",
     "Japanese": "安全",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2772,7 +2426,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Said",
     "Japanese": "言った",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2780,7 +2433,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Sale",
     "Japanese": "販売",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2788,7 +2440,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Same",
     "Japanese": "同じ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2796,7 +2447,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Self",
     "Japanese": "自己",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2804,7 +2454,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Take",
     "Japanese": "取る",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2812,7 +2461,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Talk",
     "Japanese": "話す",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2820,7 +2468,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Tall",
     "Japanese": "高い",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2828,7 +2475,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Team",
     "Japanese": "チーム",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2836,7 +2482,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Tell",
     "Japanese": "教えて",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2844,7 +2489,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Unit",
     "Japanese": "ユニット",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2852,7 +2496,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Upon",
     "Japanese": "その上",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2860,7 +2503,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "User",
     "Japanese": "ユーザー",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2868,7 +2510,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Used",
     "Japanese": "使用済み",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2876,7 +2517,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Urge",
     "Japanese": "衝動",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2884,7 +2524,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Vain",
     "Japanese": "虚栄心",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2892,7 +2531,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Vary",
     "Japanese": "変化する",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2900,7 +2538,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Vast",
     "Japanese": "広大な",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2908,7 +2545,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Vent",
     "Japanese": "通気口",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2916,7 +2552,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "View",
     "Japanese": "ビュー",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2924,7 +2559,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Wait",
     "Japanese": "待って",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2932,7 +2566,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Walk",
     "Japanese": "歩く",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2940,7 +2573,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Wall",
     "Japanese": "壁",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2948,7 +2580,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Want",
     "Japanese": "欲しい",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2956,7 +2587,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Wash",
     "Japanese": "洗う",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2964,7 +2594,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Xray",
     "Japanese": "X線",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2972,7 +2601,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Yard",
     "Japanese": "ヤード",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2980,7 +2608,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Year",
     "Japanese": "年",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2988,7 +2615,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Yoga",
     "Japanese": "ヨガ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -2996,7 +2622,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Your",
     "Japanese": "あなたの",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -3004,7 +2629,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Zero",
     "Japanese": "ゼロ",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -3012,7 +2636,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Zone",
     "Japanese": "ゾーン",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -3020,7 +2643,6 @@ window.typingData = [
     "Lvl": 1,
     "Text": "Zinc",
     "Japanese": "亜鉛",
-    "isSafe": true,
     "Len": 4
   },
   {
@@ -3028,7 +2650,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Abate",
     "Japanese": "弱める",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3036,7 +2657,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Abide",
     "Japanese": "従う",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3044,7 +2664,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Abort",
     "Japanese": "中絶",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3052,7 +2671,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "About",
     "Japanese": "について",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3060,7 +2678,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Above",
     "Japanese": "その上",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3068,7 +2685,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Abuse",
     "Japanese": "乱用",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3076,7 +2692,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Abyss",
     "Japanese": "深淵",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3084,7 +2699,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Acorn",
     "Japanese": "どんぐり",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3092,7 +2706,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Adapt",
     "Japanese": "適応する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3100,7 +2713,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Admit",
     "Japanese": "認める",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3108,7 +2720,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Adopt",
     "Japanese": "採用する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3116,7 +2727,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Adult",
     "Japanese": "大人",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3124,7 +2734,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "After",
     "Japanese": "後",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3132,7 +2741,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Again",
     "Japanese": "また",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3140,7 +2748,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Agent",
     "Japanese": "エージェント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3148,7 +2755,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Agile",
     "Japanese": "アジャイル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3156,7 +2762,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Agony",
     "Japanese": "苦痛",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3164,7 +2769,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Agree",
     "Japanese": "同意する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3172,7 +2776,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ahead",
     "Japanese": "先に",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3180,7 +2783,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alarm",
     "Japanese": "アラーム",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3188,7 +2790,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Album",
     "Japanese": "アルバム",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3196,7 +2797,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alert",
     "Japanese": "警告",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3204,7 +2804,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alibi",
     "Japanese": "アリバイ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3212,7 +2811,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alien",
     "Japanese": "エイリアン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3220,7 +2818,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alike",
     "Japanese": "同様",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3228,7 +2825,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alive",
     "Japanese": "生きている",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3236,7 +2832,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Allow",
     "Japanese": "許可する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3244,7 +2839,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Aloft",
     "Japanese": "アロフト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3252,7 +2846,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alone",
     "Japanese": "一人で",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3260,7 +2853,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Along",
     "Japanese": "平行",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3268,7 +2860,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Alter",
     "Japanese": "変更する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3276,7 +2867,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Amaze",
     "Japanese": "驚かせる",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3284,7 +2874,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Amend",
     "Japanese": "修正する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3292,7 +2881,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Amiss",
     "Japanese": "間違い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3300,7 +2888,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ample",
     "Japanese": "十分な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3308,7 +2895,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Amuse",
     "Japanese": "楽しませてください",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3316,7 +2902,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Angel",
     "Japanese": "天使",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3324,7 +2909,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Anger",
     "Japanese": "怒り",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3332,7 +2916,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Angle",
     "Japanese": "角度",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3340,7 +2923,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Angry",
     "Japanese": "怒り",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3348,7 +2930,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ankle",
     "Japanese": "足首",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3356,7 +2937,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Apple",
     "Japanese": "りんご",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3364,7 +2944,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Apply",
     "Japanese": "適用する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3372,7 +2951,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Arena",
     "Japanese": "アリーナ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3380,7 +2958,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Argue",
     "Japanese": "主張する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3388,7 +2965,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Arise",
     "Japanese": "立ち上がれ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3396,7 +2972,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Armor",
     "Japanese": "鎧",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3404,7 +2979,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Array",
     "Japanese": "配列",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3412,7 +2986,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Arrow",
     "Japanese": "矢印",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3420,7 +2993,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Asset",
     "Japanese": "資産",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3428,7 +3000,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Atlas",
     "Japanese": "アトラス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3436,7 +3007,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Audio",
     "Japanese": "オーディオ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3444,7 +3014,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Audit",
     "Japanese": "監査",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3452,7 +3021,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Avoid",
     "Japanese": "避ける",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3460,7 +3028,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Await",
     "Japanese": "待つ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3468,7 +3035,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Awake",
     "Japanese": "起きている",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3476,7 +3042,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Award",
     "Japanese": "賞",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3484,7 +3049,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Aware",
     "Japanese": "わかっている",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3492,7 +3056,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Awful",
     "Japanese": "ひどい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3500,7 +3063,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Basic",
     "Japanese": "基本",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3508,7 +3070,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Beach",
     "Japanese": "ビーチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3516,7 +3077,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Begin",
     "Japanese": "始める",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3524,7 +3084,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Below",
     "Japanese": "下に",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3532,7 +3091,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Bench",
     "Japanese": "ベンチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3540,7 +3098,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Black",
     "Japanese": "黒",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3548,7 +3105,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Bleed",
     "Japanese": "出血",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3556,7 +3112,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Blind",
     "Japanese": "盲目",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3564,7 +3119,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Block",
     "Japanese": "ブロック",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3572,7 +3126,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Blood",
     "Japanese": "血",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3580,7 +3133,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Board",
     "Japanese": "ボード",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3588,7 +3140,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Boost",
     "Japanese": "ブースト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3596,7 +3147,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Brain",
     "Japanese": "脳",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3604,7 +3154,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Brave",
     "Japanese": "勇敢な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3612,7 +3161,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Bread",
     "Japanese": "パン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3620,7 +3168,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Break",
     "Japanese": "壊す",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3628,7 +3175,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Brief",
     "Japanese": "簡単な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3636,7 +3182,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Bring",
     "Japanese": "持ってくる",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3644,7 +3189,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Broad",
     "Japanese": "広範",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3652,7 +3196,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Build",
     "Japanese": "建てる",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3660,7 +3203,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Burst",
     "Japanese": "バースト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3668,7 +3210,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Buyer",
     "Japanese": "買い手",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3676,7 +3217,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cabin",
     "Japanese": "キャビン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3684,7 +3224,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cable",
     "Japanese": "ケーブル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3692,7 +3231,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Camel",
     "Japanese": "キャメル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3700,7 +3238,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Candy",
     "Japanese": "あめ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3708,7 +3245,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Carry",
     "Japanese": "運ぶ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3716,7 +3252,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Catch",
     "Japanese": "キャッチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3724,7 +3259,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cause",
     "Japanese": "原因",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3732,7 +3266,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Chain",
     "Japanese": "鎖",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3740,7 +3273,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Chair",
     "Japanese": "椅子",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3748,7 +3280,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Chart",
     "Japanese": "チャート",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3756,7 +3287,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Check",
     "Japanese": "チェック",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3764,7 +3294,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Chest",
     "Japanese": "胸",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3772,7 +3301,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Chief",
     "Japanese": "チーフ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3780,7 +3308,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Child",
     "Japanese": "子供",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3788,7 +3315,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "China",
     "Japanese": "中国",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3796,7 +3322,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Choir",
     "Japanese": "合唱団",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3804,7 +3329,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Civil",
     "Japanese": "市民",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3812,7 +3336,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Claim",
     "Japanese": "請求",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3820,7 +3343,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Class",
     "Japanese": "クラス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3828,7 +3350,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Clean",
     "Japanese": "クリーン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3836,7 +3357,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Clear",
     "Japanese": "クリア",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3844,7 +3364,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Climb",
     "Japanese": "登る",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3852,7 +3371,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Clock",
     "Japanese": "クロック",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3860,7 +3378,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Close",
     "Japanese": "近い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3868,7 +3385,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cloud",
     "Japanese": "雲",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3876,7 +3392,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Coach",
     "Japanese": "コーチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3884,7 +3399,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Coast",
     "Japanese": "海岸",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3892,7 +3406,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Count",
     "Japanese": "カウント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3900,7 +3413,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Court",
     "Japanese": "裁判所",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3908,7 +3420,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cover",
     "Japanese": "カバー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3916,7 +3427,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Craft",
     "Japanese": "クラフト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3924,7 +3434,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Crash",
     "Japanese": "クラッシュ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3932,7 +3441,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cream",
     "Japanese": "クリーム",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3940,7 +3448,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Crime",
     "Japanese": "犯罪",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3948,7 +3455,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cross",
     "Japanese": "クロス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3956,7 +3462,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Crowd",
     "Japanese": "群衆",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3964,7 +3469,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Crown",
     "Japanese": "クラウン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3972,7 +3476,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Curve",
     "Japanese": "曲線",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3980,7 +3483,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Cycle",
     "Japanese": "サイクル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3988,7 +3490,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Daily",
     "Japanese": "毎日",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -3996,7 +3497,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Dance",
     "Japanese": "ダンス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4004,7 +3504,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Death",
     "Japanese": "死",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4012,7 +3511,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Delay",
     "Japanese": "遅れ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4020,7 +3518,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Depth",
     "Japanese": "深さ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4028,7 +3525,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Devil",
     "Japanese": "悪魔",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4036,7 +3532,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Diary",
     "Japanese": "日記",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4044,7 +3539,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Dirty",
     "Japanese": "汚い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4052,7 +3546,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Donor",
     "Japanese": "ドナー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4060,7 +3553,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Doubt",
     "Japanese": "疑い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4068,7 +3560,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Draft",
     "Japanese": "下書き",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4076,7 +3567,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Drain",
     "Japanese": "ドレイン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4084,7 +3574,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Drama",
     "Japanese": "ドラマ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4092,7 +3581,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Dream",
     "Japanese": "夢",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4100,7 +3588,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Dress",
     "Japanese": "ドレス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4108,7 +3595,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Drink",
     "Japanese": "飲む",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4116,7 +3602,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Drive",
     "Japanese": "ドライブ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4124,7 +3609,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Early",
     "Japanese": "早い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4132,7 +3616,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Earth",
     "Japanese": "地球",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4140,7 +3623,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Eight",
     "Japanese": "八",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4148,7 +3630,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Elite",
     "Japanese": "エリート",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4156,7 +3637,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Empty",
     "Japanese": "空の",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4164,7 +3644,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Enemy",
     "Japanese": "敵",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4172,7 +3651,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Enjoy",
     "Japanese": "楽しむ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4180,7 +3658,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Enter",
     "Japanese": "入力",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4188,7 +3665,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Entry",
     "Japanese": "エントリ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4196,7 +3672,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Equal",
     "Japanese": "等しい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4204,7 +3679,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Error",
     "Japanese": "エラー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4212,7 +3686,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Event",
     "Japanese": "イベント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4220,7 +3693,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Every",
     "Japanese": "毎",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4228,7 +3700,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Exact",
     "Japanese": "ちょうど",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4236,7 +3707,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Exist",
     "Japanese": "存在する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4244,7 +3714,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Extra",
     "Japanese": "余分な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4252,7 +3721,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Faith",
     "Japanese": "信仰",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4260,7 +3728,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "False",
     "Japanese": "間違い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4268,7 +3735,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fault",
     "Japanese": "故障",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4276,7 +3742,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fiber",
     "Japanese": "ファイバ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4284,7 +3749,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Field",
     "Japanese": "分野",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4292,7 +3756,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fifth",
     "Japanese": "5番目",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4300,7 +3763,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fifty",
     "Japanese": "50",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4308,7 +3770,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fight",
     "Japanese": "戦い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4316,7 +3777,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Final",
     "Japanese": "ファイナル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4324,7 +3784,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "First",
     "Japanese": "初め",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4332,7 +3791,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Flash",
     "Japanese": "フラッシュ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4340,7 +3798,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fleet",
     "Japanese": "艦隊",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4348,7 +3805,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Float",
     "Japanese": "浮動小数点数",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4356,7 +3812,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Floor",
     "Japanese": "床",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4364,7 +3819,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fluid",
     "Japanese": "流体",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4372,7 +3826,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Focus",
     "Japanese": "集中",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4380,7 +3833,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Force",
     "Japanese": "力",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4388,7 +3840,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Frame",
     "Japanese": "フレーム",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4396,7 +3847,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fresh",
     "Japanese": "新鮮な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4404,7 +3854,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Front",
     "Japanese": "フロント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4412,7 +3861,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Fruit",
     "Japanese": "フルーツ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4420,7 +3868,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Funny",
     "Japanese": "面白い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4428,7 +3875,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ghost",
     "Japanese": "おばけ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4436,7 +3882,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Gauss",
     "Japanese": "ガウス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4444,7 +3889,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Glass",
     "Japanese": "ガラス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4452,7 +3896,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Globe",
     "Japanese": "グローブ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4460,7 +3903,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Glory",
     "Japanese": "栄光",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4468,7 +3910,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Glove",
     "Japanese": "グローブ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4476,7 +3917,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Grace",
     "Japanese": "グレース",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4484,7 +3924,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Grade",
     "Japanese": "学年",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4492,7 +3931,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Grand",
     "Japanese": "グランド",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4500,7 +3938,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Grant",
     "Japanese": "付与",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4508,7 +3945,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Graph",
     "Japanese": "グラフ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4516,7 +3952,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Grass",
     "Japanese": "草",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4524,7 +3959,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Great",
     "Japanese": "素晴らしい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4532,7 +3966,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Green",
     "Japanese": "緑",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4540,7 +3973,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Greet",
     "Japanese": "挨拶する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4548,7 +3980,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Group",
     "Japanese": "グループ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4556,7 +3987,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Guard",
     "Japanese": "ガード",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4564,7 +3994,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Guess",
     "Japanese": "推測",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4572,7 +4001,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Guest",
     "Japanese": "ゲスト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4580,7 +4008,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Guide",
     "Japanese": "ガイド",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4588,7 +4015,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Habit",
     "Japanese": "癖",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4596,7 +4022,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Happy",
     "Japanese": "ハッピー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4604,7 +4029,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Heart",
     "Japanese": "心臓",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4612,7 +4036,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Heavy",
     "Japanese": "重い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4620,7 +4043,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Hello",
     "Japanese": "こんにちは",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4628,7 +4050,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Honey",
     "Japanese": "蜂蜜",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4636,7 +4057,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Honor",
     "Japanese": "名誉",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4644,7 +4064,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Horse",
     "Japanese": "馬",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4652,7 +4071,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Hotel",
     "Japanese": "ホテル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4660,7 +4078,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "House",
     "Japanese": "家",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4668,7 +4085,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Human",
     "Japanese": "人間",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4676,7 +4092,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ideal",
     "Japanese": "理想的",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4684,7 +4099,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Image",
     "Japanese": "画像",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4692,7 +4106,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Index",
     "Japanese": "索引",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4700,7 +4113,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Inner",
     "Japanese": "内側",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4708,7 +4120,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Input",
     "Japanese": "入力",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4716,7 +4127,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Issue",
     "Japanese": "問題",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4724,7 +4134,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Joint",
     "Japanese": "ジョイント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4732,7 +4141,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Judge",
     "Japanese": "裁判官",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4740,7 +4148,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Juice",
     "Japanese": "ジュース",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4748,7 +4155,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Knife",
     "Japanese": "ナイフ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4756,7 +4162,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Knock",
     "Japanese": "ノック",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4764,7 +4169,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Label",
     "Japanese": "ラベル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4772,7 +4176,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Labor",
     "Japanese": "労働",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4780,7 +4183,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Large",
     "Japanese": "大きい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4788,7 +4190,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Laser",
     "Japanese": "レーザ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4796,7 +4197,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Laugh",
     "Japanese": "笑う",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4804,7 +4204,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Layer",
     "Japanese": "層",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4812,7 +4211,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Learn",
     "Japanese": "学ぶ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4820,7 +4218,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Least",
     "Japanese": "少しでも",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4828,7 +4225,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Leave",
     "Japanese": "離れる",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4836,7 +4232,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Legal",
     "Japanese": "法律上の",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4844,7 +4239,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Level",
     "Japanese": "レベル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4852,7 +4246,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Light",
     "Japanese": "ライト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4860,7 +4253,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Limit",
     "Japanese": "制限",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4868,7 +4260,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Liver",
     "Japanese": "肝臓",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4876,7 +4267,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Local",
     "Japanese": "地元",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4884,7 +4274,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Logic",
     "Japanese": "論理",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4892,7 +4281,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Loose",
     "Japanese": "ゆるい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4900,7 +4288,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Lower",
     "Japanese": "より低い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4908,7 +4295,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Lucky",
     "Japanese": "ラッキー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4916,7 +4302,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Lunch",
     "Japanese": "ランチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4924,7 +4309,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Magic",
     "Japanese": "魔法",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4932,7 +4316,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Major",
     "Japanese": "選考科目",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4940,7 +4323,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Maker",
     "Japanese": "メーカー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4948,7 +4330,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "March",
     "Japanese": "行進",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4956,7 +4337,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Match",
     "Japanese": "マッチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4964,7 +4344,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Maybe",
     "Japanese": "多分",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4972,7 +4351,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Mayor",
     "Japanese": "市長",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4980,7 +4358,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Media",
     "Japanese": "メディア",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4988,7 +4365,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Metal",
     "Japanese": "金属",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -4996,7 +4372,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Might",
     "Japanese": "かもしれない",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5004,7 +4379,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Minor",
     "Japanese": "マイナー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5012,7 +4386,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Model",
     "Japanese": "モデル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5020,7 +4393,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Money",
     "Japanese": "お金",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5028,7 +4400,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Month",
     "Japanese": "月",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5036,7 +4407,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Moral",
     "Japanese": "道徳",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5044,7 +4414,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Motor",
     "Japanese": "モーター",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5052,7 +4421,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Mount",
     "Japanese": "マウント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5060,7 +4428,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Mouse",
     "Japanese": "ねずみ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5068,7 +4435,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Mouth",
     "Japanese": "口",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5076,7 +4442,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Movie",
     "Japanese": "映画",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5084,7 +4449,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Music",
     "Japanese": "音楽",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5092,7 +4456,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Night",
     "Japanese": "夜",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5100,7 +4463,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Noise",
     "Japanese": "ノイズ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5108,7 +4470,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "North",
     "Japanese": "北",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5116,7 +4477,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Novel",
     "Japanese": "小説",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5124,7 +4484,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Nurse",
     "Japanese": "看護師",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5132,7 +4491,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ocean",
     "Japanese": "海",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5140,7 +4498,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Offer",
     "Japanese": "オファー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5148,7 +4505,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Often",
     "Japanese": "頻繁",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5156,7 +4512,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Order",
     "Japanese": "注文",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5164,7 +4519,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Other",
     "Japanese": "他の",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5172,7 +4526,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Outer",
     "Japanese": "外側",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5180,7 +4533,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Owner",
     "Japanese": "所有者",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5188,7 +4540,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Paint",
     "Japanese": "ペイント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5196,7 +4547,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Panel",
     "Japanese": "パネル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5204,7 +4554,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Paper",
     "Japanese": "紙",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5212,7 +4561,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Party",
     "Japanese": "パーティー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5220,7 +4568,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Peace",
     "Japanese": "平和",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5228,7 +4575,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Phase",
     "Japanese": "段階",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5236,7 +4582,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Phone",
     "Japanese": "電話",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5244,7 +4589,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Photo",
     "Japanese": "写真",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5252,7 +4596,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Piece",
     "Japanese": "ピース",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5260,7 +4603,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Pilot",
     "Japanese": "パイロット",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5268,7 +4610,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Pitch",
     "Japanese": "ピッチ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5276,7 +4617,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Place",
     "Japanese": "場所",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5284,7 +4624,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Plain",
     "Japanese": "無地",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5292,7 +4631,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Plane",
     "Japanese": "飛行機",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5300,7 +4638,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Plant",
     "Japanese": "植物",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5308,7 +4645,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Plate",
     "Japanese": "皿",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5316,7 +4652,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Point",
     "Japanese": "ポイント",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5324,7 +4659,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Pound",
     "Japanese": "ポンド",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5332,7 +4666,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Power",
     "Japanese": "力",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5340,7 +4673,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Press",
     "Japanese": "プレス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5348,7 +4680,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Price",
     "Japanese": "価格",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5356,7 +4687,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Pride",
     "Japanese": "誇り",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5364,7 +4694,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Prime",
     "Japanese": "プライム",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5372,7 +4701,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Print",
     "Japanese": "印刷",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5380,7 +4708,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Prior",
     "Japanese": "前",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5388,7 +4715,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Prize",
     "Japanese": "賞",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5396,7 +4722,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Proof",
     "Japanese": "証拠",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5404,7 +4729,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Proud",
     "Japanese": "誇りに思う",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5412,7 +4736,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Prove",
     "Japanese": "証明する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5420,7 +4743,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Queen",
     "Japanese": "女王",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5428,7 +4750,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Quick",
     "Japanese": "素早い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5436,7 +4757,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Quiet",
     "Japanese": "静かな",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5444,7 +4764,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Quite",
     "Japanese": "とても",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5452,7 +4771,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Quote",
     "Japanese": "引用",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5460,7 +4778,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Radio",
     "Japanese": "無線",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5468,7 +4785,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Raise",
     "Japanese": "上げる",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5476,7 +4792,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Range",
     "Japanese": "範囲",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5484,7 +4799,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Rapid",
     "Japanese": "急速な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5492,7 +4806,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ratio",
     "Japanese": "比率",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5500,7 +4813,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Reach",
     "Japanese": "到着",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5508,7 +4820,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Ready",
     "Japanese": "準備ができて",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5516,7 +4827,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Relax",
     "Japanese": "リラックス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5524,7 +4834,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Reply",
     "Japanese": "返事",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5532,7 +4841,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Right",
     "Japanese": "右",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5540,7 +4848,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "River",
     "Japanese": "川",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5548,7 +4855,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Rough",
     "Japanese": "粗い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5556,7 +4862,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Round",
     "Japanese": "ラウンド",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5564,7 +4869,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Route",
     "Japanese": "ルート",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5572,7 +4876,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Royal",
     "Japanese": "ロイヤル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5580,7 +4883,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Rural",
     "Japanese": "田舎",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5588,7 +4890,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Scale",
     "Japanese": "規模",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5596,7 +4897,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Scene",
     "Japanese": "シーン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5604,7 +4904,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Scope",
     "Japanese": "範囲",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5612,7 +4911,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Score",
     "Japanese": "スコア",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5620,7 +4918,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sense",
     "Japanese": "感覚",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5628,7 +4925,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Serve",
     "Japanese": "仕える",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5636,7 +4932,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Seven",
     "Japanese": "セブン",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5644,7 +4939,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shape",
     "Japanese": "形",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5652,7 +4946,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Share",
     "Japanese": "共有",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5660,7 +4953,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sharp",
     "Japanese": "鋭い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5668,7 +4960,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shear",
     "Japanese": "剪断",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5676,7 +4967,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sheet",
     "Japanese": "シート",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5684,7 +4974,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shelf",
     "Japanese": "棚",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5692,7 +4981,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shell",
     "Japanese": "殻",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5700,7 +4988,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shift",
     "Japanese": "シフト",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5708,7 +4995,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shirt",
     "Japanese": "シャツ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5716,7 +5002,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shock",
     "Japanese": "衝撃",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5724,7 +5009,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shoot",
     "Japanese": "一発打つ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5732,7 +5016,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Short",
     "Japanese": "短い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5740,7 +5023,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Shout",
     "Japanese": "叫ぶ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5748,7 +5030,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sight",
     "Japanese": "視力",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5756,7 +5037,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Silly",
     "Japanese": "馬鹿な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5764,7 +5044,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Since",
     "Japanese": "以来",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5772,7 +5051,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Skill",
     "Japanese": "技能",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5780,7 +5058,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Skirt",
     "Japanese": "スカート",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5788,7 +5065,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sleep",
     "Japanese": "寝る",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5796,7 +5072,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Slide",
     "Japanese": "スライド",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5804,7 +5079,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Small",
     "Japanese": "小さい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5812,7 +5086,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Smart",
     "Japanese": "頭が良い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5820,7 +5093,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Smile",
     "Japanese": "笑顔",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5828,7 +5100,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Smoke",
     "Japanese": "煙",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5836,7 +5107,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Snake",
     "Japanese": "蛇",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5844,7 +5114,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Solid",
     "Japanese": "固体",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5852,7 +5121,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Solve",
     "Japanese": "解決する",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5860,7 +5128,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sound",
     "Japanese": "音",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5868,7 +5135,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "South",
     "Japanese": "南",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5876,7 +5142,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Space",
     "Japanese": "空間",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5884,7 +5149,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Speak",
     "Japanese": "話す",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5892,7 +5156,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Speed",
     "Japanese": "速度",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5900,7 +5163,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Spell",
     "Japanese": "スペル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5908,7 +5170,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Spend",
     "Japanese": "過ごす",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5916,7 +5177,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Split",
     "Japanese": "決裂",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5924,7 +5184,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sport",
     "Japanese": "スポーツ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5932,7 +5191,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Staff",
     "Japanese": "スタッフ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5940,7 +5198,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stage",
     "Japanese": "ステージ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5948,7 +5205,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stake",
     "Japanese": "杭",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5956,7 +5212,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stand",
     "Japanese": "立つ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5964,7 +5219,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Start",
     "Japanese": "始める",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5972,7 +5226,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "State",
     "Japanese": "州",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5980,7 +5233,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Steam",
     "Japanese": "蒸気",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5988,7 +5240,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Steel",
     "Japanese": "鋼鉄",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -5996,7 +5247,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stick",
     "Japanese": "棒",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6004,7 +5254,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Still",
     "Japanese": "まだ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6012,7 +5261,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stock",
     "Japanese": "在庫",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6020,7 +5268,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stone",
     "Japanese": "石",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6028,7 +5275,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Store",
     "Japanese": "店",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6036,7 +5282,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Storm",
     "Japanese": "嵐",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6044,7 +5289,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Story",
     "Japanese": "話",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6052,7 +5296,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Strip",
     "Japanese": "剝ぐ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6060,7 +5303,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Stuck",
     "Japanese": "立ち往生",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6068,7 +5310,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Study",
     "Japanese": "勉強",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6076,7 +5317,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Style",
     "Japanese": "スタイル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6084,7 +5324,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sugar",
     "Japanese": "砂糖",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6092,7 +5331,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Suite",
     "Japanese": "付け人",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6100,7 +5338,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Super",
     "Japanese": "素晴らしい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6108,7 +5345,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Sweet",
     "Japanese": "甘い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6116,7 +5352,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Table",
     "Japanese": "テーブル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6124,7 +5359,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Taser",
     "Japanese": "電撃銃",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6132,7 +5366,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Taste",
     "Japanese": "味",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6140,7 +5373,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Teach",
     "Japanese": "教える",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6148,7 +5380,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Terms",
     "Japanese": "条項",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6156,7 +5387,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Thank",
     "Japanese": "感謝",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6164,7 +5394,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Their",
     "Japanese": "彼らの",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6172,7 +5401,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Theme",
     "Japanese": "テーマ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6180,7 +5408,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "There",
     "Japanese": "そこには",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6188,7 +5415,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "These",
     "Japanese": "これら",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6196,7 +5422,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Thick",
     "Japanese": "厚い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6204,7 +5429,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Thing",
     "Japanese": "もの",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6212,7 +5436,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Think",
     "Japanese": "考える",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6220,7 +5443,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Third",
     "Japanese": "三番目",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6228,7 +5450,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Those",
     "Japanese": "それらの",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6236,7 +5457,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Three",
     "Japanese": "三つ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6244,7 +5464,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Throw",
     "Japanese": "投げる",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6252,7 +5471,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Tight",
     "Japanese": "きつい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6260,7 +5478,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Tired",
     "Japanese": "疲れた",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6268,7 +5485,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Title",
     "Japanese": "タイトル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6276,7 +5492,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Today",
     "Japanese": "今日",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6284,7 +5499,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Topic",
     "Japanese": "トピック",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6292,7 +5506,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Total",
     "Japanese": "合計",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6300,7 +5513,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Touch",
     "Japanese": "触る",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6308,7 +5520,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Tough",
     "Japanese": "厳しい",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6316,7 +5527,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Tower",
     "Japanese": "塔",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6324,7 +5534,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Track",
     "Japanese": "追跡",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6332,7 +5541,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Trade",
     "Japanese": "貿易",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6340,7 +5548,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Train",
     "Japanese": "電車",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6348,7 +5555,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Treat",
     "Japanese": "扱う",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6356,7 +5562,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Trend",
     "Japanese": "傾向",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6364,7 +5569,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Trial",
     "Japanese": "トライアル",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6372,7 +5576,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Trunk",
     "Japanese": "トランク",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6380,7 +5583,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Trust",
     "Japanese": "信頼",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6388,7 +5590,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Truth",
     "Japanese": "真実",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6396,7 +5597,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Twice",
     "Japanese": "2回",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6404,7 +5604,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Under",
     "Japanese": "下",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6412,7 +5611,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Union",
     "Japanese": "連合",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6420,7 +5618,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Unity",
     "Japanese": "団結",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6428,7 +5625,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Until",
     "Japanese": "それまで",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6436,7 +5632,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Upper",
     "Japanese": "アッパー",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6444,7 +5639,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Upset",
     "Japanese": "動揺",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6452,7 +5646,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Urban",
     "Japanese": "都会的な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6460,7 +5653,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Usage",
     "Japanese": "使用法",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6468,7 +5660,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Usual",
     "Japanese": "いつもの",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6476,7 +5667,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Valid",
     "Japanese": "有効",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6484,7 +5674,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Value",
     "Japanese": "価値",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6492,7 +5681,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Video",
     "Japanese": "ビデオ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6500,7 +5688,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Virus",
     "Japanese": "ウイルス",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6508,7 +5695,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Visit",
     "Japanese": "訪問",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6516,7 +5702,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Vital",
     "Japanese": "重要な",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6524,7 +5709,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Voice",
     "Japanese": "声",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6532,7 +5716,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Voter",
     "Japanese": "有権者",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6540,7 +5723,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Watch",
     "Japanese": "時計",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6548,7 +5730,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Water",
     "Japanese": "水",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6556,7 +5737,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Wheel",
     "Japanese": "車輪",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6564,7 +5744,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Where",
     "Japanese": "どこ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6572,7 +5751,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Which",
     "Japanese": "どれの",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6580,7 +5758,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "While",
     "Japanese": "その間",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6588,7 +5765,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "White",
     "Japanese": "白",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6596,7 +5772,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Whole",
     "Japanese": "全体",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6604,7 +5779,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Woman",
     "Japanese": "女性",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6612,7 +5786,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "World",
     "Japanese": "世界",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6620,7 +5793,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Worry",
     "Japanese": "心配",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6628,7 +5800,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Worth",
     "Japanese": "価値",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6636,7 +5807,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Write",
     "Japanese": "書く",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6644,7 +5814,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Wrong",
     "Japanese": "間違っている",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6652,7 +5821,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Yield",
     "Japanese": "収率",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6660,7 +5828,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Young",
     "Japanese": "若い",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6668,7 +5835,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Youth",
     "Japanese": "若者",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6676,7 +5842,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Zebra",
     "Japanese": "シマウマ",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6684,7 +5849,6 @@ window.typingData = [
     "Lvl": 2,
     "Text": "Zesty",
     "Japanese": "爽やかな",
-    "isSafe": true,
     "Len": 5
   },
   {
@@ -6692,7 +5856,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Abacus",
     "Japanese": "そろばん",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6700,7 +5863,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Abduct",
     "Japanese": "誘拐",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6708,7 +5870,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Afraid",
     "Japanese": "恐れている",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6716,7 +5877,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Abject",
     "Japanese": "卑劣な",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6724,7 +5884,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Ablaze",
     "Japanese": "燃え上がる",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6732,7 +5891,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Aboard",
     "Japanese": "船上で",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6740,7 +5898,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Absorb",
     "Japanese": "吸収する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6748,7 +5905,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Absurd",
     "Japanese": "ばかげている",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6756,7 +5912,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Accent",
     "Japanese": "アクセント",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6764,7 +5919,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Accept",
     "Japanese": "受け入れる",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6772,7 +5926,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Access",
     "Japanese": "アクセス",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6780,7 +5933,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Accord",
     "Japanese": "アコード",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6788,7 +5940,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Across",
     "Japanese": "横切って",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6796,7 +5947,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Backup",
     "Japanese": "バックアップ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6804,7 +5954,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Badger",
     "Japanese": "アナグマ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6812,7 +5961,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Bakery",
     "Japanese": "ベーカリー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6820,7 +5968,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Ballot",
     "Japanese": "投票用紙",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6828,7 +5975,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Banner",
     "Japanese": "バナー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6836,7 +5982,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Barley",
     "Japanese": "大麦",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6844,7 +5989,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Basket",
     "Japanese": "バスケット",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6852,7 +5996,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Battle",
     "Japanese": "戦い",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6860,7 +6003,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Beacon",
     "Japanese": "ビーコン",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6868,7 +6010,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Beaver",
     "Japanese": "ビーバー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6876,7 +6017,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Become",
     "Japanese": "なる",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6884,7 +6024,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Before",
     "Japanese": "前に",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6892,7 +6031,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Camera",
     "Japanese": "カメラ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6900,7 +6038,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Cancel",
     "Japanese": "キャンセル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6908,7 +6045,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Candle",
     "Japanese": "蝋燭",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6916,7 +6052,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Canvas",
     "Japanese": "キャンバス",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6924,7 +6059,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Carbon",
     "Japanese": "炭素",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6932,7 +6066,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Castle",
     "Japanese": "城",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6940,7 +6073,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Casual",
     "Japanese": "カジュアル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6948,7 +6080,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Caught",
     "Japanese": "つかまった",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6956,7 +6087,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Census",
     "Japanese": "国勢調査",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6964,7 +6094,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Center",
     "Japanese": "中心",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6972,7 +6101,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Chance",
     "Japanese": "チャンス",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6980,7 +6108,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Change",
     "Japanese": "変化",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6988,7 +6115,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Dagger",
     "Japanese": "短剣",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -6996,7 +6122,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Damage",
     "Japanese": "損害",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7004,7 +6129,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Dancer",
     "Japanese": "ダンサー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7012,7 +6136,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Danger",
     "Japanese": "危険",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7020,7 +6143,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Daring",
     "Japanese": "大胆",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7028,7 +6150,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Darken",
     "Japanese": "暗くする",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7036,7 +6157,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Debate",
     "Japanese": "議論",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7044,7 +6164,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Decade",
     "Japanese": "十年",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7052,7 +6171,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Decide",
     "Japanese": "決める",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7060,7 +6178,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Decree",
     "Japanese": "法令",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7068,7 +6185,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Defeat",
     "Japanese": "敗北",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7076,7 +6192,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Defend",
     "Japanese": "守る",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7084,7 +6199,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Extend",
     "Japanese": "伸ばす",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7092,7 +6206,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Earner",
     "Japanese": "稼ぎ手",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7100,7 +6213,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Easily",
     "Japanese": "簡単に",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7108,7 +6220,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Echoed",
     "Japanese": "反響した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7116,7 +6227,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Editor",
     "Japanese": "編集者",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7124,7 +6234,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Effect",
     "Japanese": "効果",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7132,7 +6241,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Effort",
     "Japanese": "努力",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7140,7 +6248,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Eighth",
     "Japanese": "8番目",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7148,7 +6255,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Either",
     "Japanese": "どちらか",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7156,7 +6262,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Eulogy",
     "Japanese": "追悼の辞",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7164,7 +6269,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Except",
     "Japanese": "を除外する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7172,7 +6276,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Fabric",
     "Japanese": "織物",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7180,7 +6283,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Factor",
     "Japanese": "要素",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7188,7 +6290,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Failed",
     "Japanese": "失敗した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7196,7 +6297,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Fairly",
     "Japanese": "かなり",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7204,7 +6304,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Family",
     "Japanese": "家族",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7212,7 +6311,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Famous",
     "Japanese": "有名な",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7220,7 +6318,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Farmer",
     "Japanese": "農家",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7228,7 +6325,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Father",
     "Japanese": "父親",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7236,7 +6332,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Faucet",
     "Japanese": "蛇口",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7244,7 +6339,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Faulty",
     "Japanese": "不良",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7252,7 +6346,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Feared",
     "Japanese": "恐れていた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7260,7 +6353,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Fellow",
     "Japanese": "仲間",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7268,7 +6360,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Gadget",
     "Japanese": "ガジェット",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7276,7 +6367,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Galaxy",
     "Japanese": "銀河",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7284,7 +6374,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Gallon",
     "Japanese": "ガロン",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7292,7 +6381,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Garden",
     "Japanese": "庭",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7300,7 +6388,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Garlic",
     "Japanese": "ニンニク",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7308,7 +6395,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Gather",
     "Japanese": "集める",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7316,7 +6402,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Gazing",
     "Japanese": "見つめる",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7324,7 +6409,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Gently",
     "Japanese": "優しく",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7332,7 +6416,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Google",
     "Japanese": "グーグル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7340,7 +6423,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Giggle",
     "Japanese": "くすくす笑う",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7348,7 +6430,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Glance",
     "Japanese": "一目",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7356,7 +6437,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Habits",
     "Japanese": "習慣",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7364,7 +6444,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Hammer",
     "Japanese": "槌",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7372,7 +6451,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Handle",
     "Japanese": "ハンドル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7380,7 +6458,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Happen",
     "Japanese": "起こる",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7388,7 +6465,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Harbor",
     "Japanese": "港",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7396,7 +6472,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Hardly",
     "Japanese": "しそうにない",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7404,7 +6479,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Hatred",
     "Japanese": "憎しみ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7412,7 +6486,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Hazard",
     "Japanese": "危険",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7420,7 +6493,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Health",
     "Japanese": "健康",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7428,7 +6500,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Header",
     "Japanese": "ヘッダ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7436,7 +6507,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Heated",
     "Japanese": "加熱",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7444,7 +6514,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Hermit",
     "Japanese": "隠者",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7452,7 +6521,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Ironic",
     "Japanese": "皮肉なことに",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7460,7 +6528,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Idling",
     "Japanese": "アイドリング",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7468,7 +6535,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Ignore",
     "Japanese": "無視する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7476,7 +6542,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Island",
     "Japanese": "島",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7484,7 +6549,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Images",
     "Japanese": "画像",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7492,7 +6556,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Immune",
     "Japanese": "免疫",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7500,7 +6563,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Impact",
     "Japanese": "衝撃",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7508,7 +6570,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Import",
     "Japanese": "輸入",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7516,7 +6577,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Indeed",
     "Japanese": "確かに",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7524,7 +6584,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Indoor",
     "Japanese": "屋内",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7532,7 +6591,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Induce",
     "Japanese": "誘発する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7540,7 +6598,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jacket",
     "Japanese": "ジャケット",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7548,7 +6605,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jaguar",
     "Japanese": "ジャガー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7556,7 +6612,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jammed",
     "Japanese": "詰まった",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7564,7 +6619,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jargon",
     "Japanese": "専門用語",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7572,7 +6626,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jester",
     "Japanese": "道化師",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7580,7 +6633,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jigsaw",
     "Japanese": "ジグソーパズル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7588,7 +6640,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jingle",
     "Japanese": "ジングル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7596,7 +6647,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Jogger",
     "Japanese": "ジョガー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7604,7 +6654,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Joined",
     "Japanese": "参加した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7612,7 +6661,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Joints",
     "Japanese": "関節",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7620,7 +6668,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kicked",
     "Japanese": "蹴られた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7628,7 +6675,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kidnap",
     "Japanese": "誘拐",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7636,7 +6682,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kidney",
     "Japanese": "腎臓",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7644,7 +6689,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Killer",
     "Japanese": "殺し屋",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7652,7 +6696,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kindle",
     "Japanese": "ペンシル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7660,7 +6703,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kindly",
     "Japanese": "どうぞ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7668,7 +6710,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kelvin",
     "Japanese": "ケルビン",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7676,7 +6717,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Kitten",
     "Japanese": "子猫",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7684,7 +6724,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Knight",
     "Japanese": "騎士",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7692,7 +6731,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Knives",
     "Japanese": "ナイフ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7700,7 +6738,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Labels",
     "Japanese": "ラベル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7708,7 +6745,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Ladder",
     "Japanese": "梯子",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7716,7 +6752,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Laptop",
     "Japanese": "ラップトップ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7724,7 +6759,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Larger",
     "Japanese": "より大きな",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7732,7 +6766,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Latest",
     "Japanese": "最新",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7740,7 +6773,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Launch",
     "Japanese": "打ち上げ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7748,7 +6780,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Layout",
     "Japanese": "配置",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7756,7 +6787,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Leader",
     "Japanese": "指導者",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7764,7 +6794,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "League",
     "Japanese": "連盟",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7772,7 +6801,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Leaves",
     "Japanese": "葉",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7780,7 +6808,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Legend",
     "Japanese": "伝説",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7788,7 +6815,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Magnet",
     "Japanese": "磁石",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7796,7 +6822,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Maiden",
     "Japanese": "処女",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7804,7 +6829,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Mainly",
     "Japanese": "主に",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7812,7 +6836,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Makeup",
     "Japanese": "補う",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7820,7 +6843,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Making",
     "Japanese": "製作",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7828,7 +6850,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Manage",
     "Japanese": "管理",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7836,7 +6857,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Manner",
     "Japanese": "作法",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7844,7 +6864,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Manual",
     "Japanese": "説明書",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7852,7 +6871,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Marble",
     "Japanese": "大理石",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7860,7 +6878,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Margin",
     "Japanese": "最低収益点",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7868,7 +6885,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Market",
     "Japanese": "市場",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7876,7 +6892,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Master",
     "Japanese": "巨匠",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7884,7 +6899,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Murder",
     "Japanese": "殺人",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7892,7 +6906,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Namely",
     "Japanese": "すなわち",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7900,7 +6913,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Narrow",
     "Japanese": "狭い",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7908,7 +6920,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Native",
     "Japanese": "本国人",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7916,7 +6927,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nature",
     "Japanese": "自然",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7924,7 +6934,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nearby",
     "Japanese": "近く",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7932,7 +6941,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nearly",
     "Japanese": "ほぼ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7940,7 +6948,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Needed",
     "Japanese": "必要",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7948,7 +6955,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nephew",
     "Japanese": "甥",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7956,7 +6962,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nerves",
     "Japanese": "神経",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7964,7 +6969,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Newest",
     "Japanese": "最新",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7972,7 +6976,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nickel",
     "Japanese": "ニッケル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7980,7 +6983,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Nights",
     "Japanese": "夜",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7988,7 +6990,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Object",
     "Japanese": "物体",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -7996,7 +6997,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Oblige",
     "Japanese": "義務付ける",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8004,7 +7004,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Obtain",
     "Japanese": "得る",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8012,7 +7011,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Occupy",
     "Japanese": "占める",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8020,7 +7018,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Option",
     "Japanese": "選択",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8028,7 +7025,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Offend",
     "Japanese": "侮辱する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8036,7 +7032,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Office",
     "Japanese": "事務所",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8044,7 +7039,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Offset",
     "Japanese": "オフセット",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8052,7 +7046,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Oldest",
     "Japanese": "最古",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8060,7 +7053,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Online",
     "Japanese": "オンライン",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8068,7 +7060,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Opened",
     "Japanese": "開いた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8076,7 +7067,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Packet",
     "Japanese": "一封",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8084,7 +7074,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Parent",
     "Japanese": "親",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8092,7 +7081,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Parish",
     "Japanese": "教区",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8100,7 +7088,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Parker",
     "Japanese": "パーカー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8108,7 +7095,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Partly",
     "Japanese": "部分的に",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8116,7 +7102,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Passed",
     "Japanese": "合格した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8124,7 +7109,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Pastel",
     "Japanese": "パステル",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8132,7 +7116,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Patrol",
     "Japanese": "巡回",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8140,7 +7123,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Paused",
     "Japanese": "一時停止",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8148,7 +7130,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Peanut",
     "Japanese": "落花生",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8156,7 +7137,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Pencil",
     "Japanese": "鉛筆",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8164,7 +7144,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Period",
     "Japanese": "期間",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8172,7 +7151,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Plague",
     "Japanese": "疫病",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8180,7 +7158,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Quakes",
     "Japanese": "地震",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8188,7 +7165,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Quartz",
     "Japanese": "石英",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8196,7 +7172,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Queasy",
     "Japanese": "吐き気がする",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8204,7 +7179,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Queued",
     "Japanese": "キューに入れられた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8212,7 +7186,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Quiche",
     "Japanese": "キッシュ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8220,7 +7193,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Quotes",
     "Japanese": "名言集",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8228,7 +7200,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Quoted",
     "Japanese": "引用",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8236,7 +7207,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Rabbit",
     "Japanese": "うさぎ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8244,7 +7214,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Racing",
     "Japanese": "レース",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8252,7 +7221,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Raised",
     "Japanese": "育てた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8260,7 +7228,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Random",
     "Japanese": "無作為",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8268,7 +7235,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Rarely",
     "Japanese": "めったに",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8276,7 +7242,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Rating",
     "Japanese": "評価",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8284,7 +7249,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Rather",
     "Japanese": "それよりも",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8292,7 +7256,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Reader",
     "Japanese": "読者",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8300,7 +7263,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Reaper",
     "Japanese": "死神",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8308,7 +7270,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Really",
     "Japanese": "本当に",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8316,7 +7277,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Reason",
     "Japanese": "理由",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8324,7 +7284,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Recall",
     "Japanese": "想起",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8332,7 +7291,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Safety",
     "Japanese": "安全性",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8340,7 +7298,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Salary",
     "Japanese": "給料",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8348,7 +7305,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Sample",
     "Japanese": "試料",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8356,7 +7312,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Saving",
     "Japanese": "保存",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8364,7 +7319,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Scales",
     "Japanese": "天秤",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8372,7 +7326,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Scared",
     "Japanese": "怖がった",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8380,7 +7333,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Scheme",
     "Japanese": "図式",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8388,7 +7340,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "School",
     "Japanese": "学校",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8396,7 +7347,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Screen",
     "Japanese": "画面",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8404,7 +7354,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Search",
     "Japanese": "検索",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8412,7 +7361,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Season",
     "Japanese": "季節",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8420,7 +7368,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Second",
     "Japanese": "2番",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8428,7 +7375,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Tablet",
     "Japanese": "錠剤",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8436,7 +7382,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Tackle",
     "Japanese": "取り組む",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8444,7 +7389,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Talent",
     "Japanese": "才能",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8452,7 +7396,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Target",
     "Japanese": "標的",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8460,7 +7403,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Tasted",
     "Japanese": "味見した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8468,7 +7410,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Taught",
     "Japanese": "教えた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8476,7 +7417,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Teamed",
     "Japanese": "チームを組んだ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8484,7 +7424,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Teapot",
     "Japanese": "ティーポット",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8492,7 +7431,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Temper",
     "Japanese": "気性",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8500,7 +7438,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Tennis",
     "Japanese": "テニス",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8508,7 +7445,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Thanks",
     "Japanese": "ありがとう",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8516,7 +7452,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Umpire",
     "Japanese": "審判",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8524,7 +7459,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unable",
     "Japanese": "できません",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8532,7 +7466,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unbind",
     "Japanese": "バインドを解除する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8540,7 +7473,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Upward",
     "Japanese": "上向き",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8548,7 +7480,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unfold",
     "Japanese": "展開する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8556,7 +7487,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unhook",
     "Japanese": "フックを外す",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8564,7 +7494,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unique",
     "Japanese": "個性的",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8572,7 +7501,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "United",
     "Japanese": "団結した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8580,7 +7508,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unjust",
     "Japanese": "不当",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8588,7 +7515,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unload",
     "Japanese": "荷降ろし",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8596,7 +7522,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Unpaid",
     "Japanese": "未払い",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8604,7 +7529,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vacant",
     "Japanese": "空いている",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8612,7 +7536,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vacuum",
     "Japanese": "真空",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8620,7 +7543,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Valley",
     "Japanese": "谷",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8628,7 +7550,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Valued",
     "Japanese": "高く評価されています",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8636,7 +7557,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vanish",
     "Japanese": "消える",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8644,7 +7564,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vanity",
     "Japanese": "虚栄心",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8652,7 +7571,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Varied",
     "Japanese": "多種多様",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8660,7 +7578,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vaster",
     "Japanese": "より広大な",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8668,7 +7585,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vector",
     "Japanese": "ベクター",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8676,7 +7592,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Vendor",
     "Japanese": "売り手",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8684,7 +7599,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Wagons",
     "Japanese": "荷馬車",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8692,7 +7606,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Waited",
     "Japanese": "待った",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8700,7 +7613,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Waking",
     "Japanese": "目覚め",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8708,7 +7620,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Walked",
     "Japanese": "歩いた",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8716,7 +7627,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Wallet",
     "Japanese": "財布",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8724,7 +7634,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Walnut",
     "Japanese": "胡桃",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8732,7 +7641,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Wander",
     "Japanese": "放浪する",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8740,7 +7648,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Wanted",
     "Japanese": "指名手配",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8748,7 +7655,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Washed",
     "Japanese": "洗った",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8756,7 +7662,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Wasted",
     "Japanese": "無駄になった",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8764,7 +7669,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Wealth",
     "Japanese": "富",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8772,7 +7676,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Xylary",
     "Japanese": "木部",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8780,7 +7683,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Xeroma",
     "Japanese": "乾皮症",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8788,7 +7690,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yachts",
     "Japanese": "ヨット",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8796,7 +7697,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yawned",
     "Japanese": "あくびをした",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8804,7 +7704,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yearly",
     "Japanese": "年間",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8812,7 +7711,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yeasts",
     "Japanese": "酵母",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8820,7 +7718,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yelled",
     "Japanese": "叫んだ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8828,7 +7725,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yellow",
     "Japanese": "黄色",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8836,7 +7732,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yogurt",
     "Japanese": "ヨーグルト",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8844,7 +7739,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Yonder",
     "Japanese": "彼方",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8852,7 +7746,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Zapped",
     "Japanese": "感電した",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8860,7 +7753,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Zealot",
     "Japanese": "熱狂者",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8868,7 +7760,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Zebras",
     "Japanese": "シマウマ",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8876,7 +7767,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Zenith",
     "Japanese": "天頂",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8884,7 +7774,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Zipper",
     "Japanese": "ジッパー",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8892,7 +7781,6 @@ window.typingData = [
     "Lvl": 3,
     "Text": "Zodiac",
     "Japanese": "星座",
-    "isSafe": true,
     "Len": 6
   },
   {
@@ -8900,7 +7788,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Abdomen",
     "Japanese": "腹部",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8908,7 +7795,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ability",
     "Japanese": "能力",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8916,7 +7802,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Abolish",
     "Japanese": "廃止する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8924,7 +7809,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Absence",
     "Japanese": "不在",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8932,7 +7816,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Academy",
     "Japanese": "学院",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8940,7 +7823,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Acclaim",
     "Japanese": "称賛",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8948,7 +7830,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Acquire",
     "Japanese": "取得する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8956,7 +7837,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Address",
     "Japanese": "住所",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8964,7 +7844,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Adverse",
     "Japanese": "不利な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8972,7 +7851,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Advised",
     "Japanese": "助言した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8980,7 +7858,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Against",
     "Japanese": "に対して",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8988,7 +7865,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Airport",
     "Japanese": "空港",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -8996,7 +7872,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Alcohol",
     "Japanese": "アルコール",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9004,7 +7879,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Alleged",
     "Japanese": "とされる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9012,7 +7886,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Already",
     "Japanese": "すでに",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9020,7 +7893,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Amazing",
     "Japanese": "すばらしい",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9028,7 +7900,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Analyst",
     "Japanese": "分析者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9036,7 +7907,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ancient",
     "Japanese": "古代",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9044,7 +7914,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Angelic",
     "Japanese": "天使のような",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9052,7 +7921,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Anxiety",
     "Japanese": "不安",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9060,7 +7928,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Appoint",
     "Japanese": "任命する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9068,7 +7935,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Approve",
     "Japanese": "承認する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9076,7 +7942,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Aquatic",
     "Japanese": "水生",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9084,7 +7949,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Archive",
     "Japanese": "古文書",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9092,7 +7956,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Arrival",
     "Japanese": "到着",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9100,7 +7963,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ashamed",
     "Japanese": "恥ずかしい",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9108,7 +7970,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Aspects",
     "Japanese": "側面",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9116,7 +7977,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Asphalt",
     "Japanese": "アスファルト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9124,7 +7984,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Assault",
     "Japanese": "暴行",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9132,7 +7991,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Athlete",
     "Japanese": "アスリート",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9140,7 +7998,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Attempt",
     "Japanese": "試み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9148,7 +8005,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Attract",
     "Japanese": "引きつける",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9156,7 +8012,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Auction",
     "Japanese": "オークション",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9164,7 +8019,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Auditor",
     "Japanese": "監査人",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9172,7 +8026,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Average",
     "Japanese": "平均",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9180,7 +8033,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Awesome",
     "Japanese": "素晴らしい",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9188,7 +8040,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Azimuth",
     "Japanese": "方位角",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9196,7 +8047,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Backlog",
     "Japanese": "やり残し",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9204,7 +8054,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Baggage",
     "Japanese": "手荷物",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9212,7 +8061,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Balance",
     "Japanese": "均衡",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9220,7 +8068,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Balloon",
     "Japanese": "風船",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9228,7 +8075,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Banking",
     "Japanese": "銀行業務",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9236,7 +8082,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Banners",
     "Japanese": "バナー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9244,7 +8089,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Banquet",
     "Japanese": "祝宴",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9252,7 +8096,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Bargain",
     "Japanese": "お買い得",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9260,7 +8103,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Barrier",
     "Japanese": "障壁",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9268,7 +8110,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Battery",
     "Japanese": "電池",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9276,7 +8117,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Beaming",
     "Japanese": "満面の笑み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9284,7 +8124,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Because",
     "Japanese": "なぜなら",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9292,7 +8131,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Believe",
     "Japanese": "信じる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9300,7 +8138,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Benefit",
     "Japanese": "利点",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9308,7 +8145,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Bicycle",
     "Japanese": "自転車",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9316,7 +8152,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Binding",
     "Japanese": "拘束力",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9324,7 +8159,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Biology",
     "Japanese": "生物学",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9332,7 +8166,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Bizarre",
     "Japanese": "奇妙だ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9340,7 +8173,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Blanket",
     "Japanese": "毛布",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9348,7 +8180,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Blessed",
     "Japanese": "祝福された",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9356,7 +8187,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Blossom",
     "Japanese": "花",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9364,7 +8194,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Boulder",
     "Japanese": "丸石",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9372,7 +8201,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Booking",
     "Japanese": "予約",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9380,7 +8208,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Bounced",
     "Japanese": "跳ね返った",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9388,7 +8215,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Bravery",
     "Japanese": "勇気",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9396,7 +8222,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Breathe",
     "Japanese": "息をする",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9404,7 +8229,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Briefly",
     "Japanese": "簡単に言うと",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9412,7 +8236,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Broaden",
     "Japanese": "広げる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9420,7 +8243,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Brother",
     "Japanese": "兄弟",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9428,7 +8250,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Builder",
     "Japanese": "造り手",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9436,7 +8257,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Burning",
     "Japanese": "燃焼",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9444,7 +8264,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cabinet",
     "Japanese": "内閣",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9452,7 +8271,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Calcium",
     "Japanese": "カルシウム",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9460,7 +8278,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Calcite",
     "Japanese": "方解石",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9468,7 +8285,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Caliber",
     "Japanese": "口径",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9476,7 +8292,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Calling",
     "Japanese": "呼び出し",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9484,7 +8299,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Calming",
     "Japanese": "心を落ち着かせる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9492,7 +8306,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Camping",
     "Japanese": "キャンプ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9500,7 +8313,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Capable",
     "Japanese": "有能",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9508,7 +8320,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Capital",
     "Japanese": "資本",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9516,7 +8327,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Captain",
     "Japanese": "主将",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9524,7 +8334,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Caption",
     "Japanese": "見出し",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9532,7 +8341,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Capture",
     "Japanese": "捕獲",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9540,7 +8348,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cardiac",
     "Japanese": "心臓",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9548,7 +8355,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Careful",
     "Japanese": "注意深い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9556,7 +8362,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Carried",
     "Japanese": "運んだ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9564,7 +8369,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cartoon",
     "Japanese": "漫画",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9572,7 +8376,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cascade",
     "Japanese": "カスケード",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9580,7 +8383,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Catalog",
     "Japanese": "目録",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9588,7 +8390,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Caution",
     "Japanese": "注意",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9596,7 +8397,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ceiling",
     "Japanese": "天井",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9604,7 +8404,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Central",
     "Japanese": "中央",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9612,7 +8411,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Century",
     "Japanese": "世紀",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9620,7 +8418,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Certain",
     "Japanese": "ある",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9628,7 +8425,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Chamber",
     "Japanese": "チャンバー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9636,7 +8432,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Channel",
     "Japanese": "経路",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9644,7 +8439,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Chapter",
     "Japanese": "章",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9652,7 +8446,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Chariot",
     "Japanese": "戦車",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9660,7 +8453,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Charity",
     "Japanese": "慈善活動",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9668,7 +8460,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Charter",
     "Japanese": "憲章",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9676,7 +8467,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cheaper",
     "Japanese": "より安い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9684,7 +8474,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Checked",
     "Japanese": "確認済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9692,7 +8481,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Chicken",
     "Japanese": "鶏肉",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9700,7 +8488,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Chimney",
     "Japanese": "煙突",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9708,7 +8495,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Chronic",
     "Japanese": "慢性",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9716,7 +8502,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Circuit",
     "Japanese": "回路",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9724,7 +8509,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Citizen",
     "Japanese": "市民",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9732,7 +8516,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Classic",
     "Japanese": "古典",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9740,7 +8523,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cleaner",
     "Japanese": "クリーナー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9748,7 +8530,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Climate",
     "Japanese": "気候",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9756,7 +8537,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Closure",
     "Japanese": "閉鎖",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9764,7 +8544,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Coastal",
     "Japanese": "沿岸部",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9772,7 +8551,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Collect",
     "Japanese": "集める",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9780,7 +8558,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "College",
     "Japanese": "高専",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9788,7 +8565,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Combine",
     "Japanese": "組み合わせる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9796,7 +8572,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Comfort",
     "Japanese": "快適",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9804,7 +8579,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Command",
     "Japanese": "指示",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9812,7 +8586,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Comment",
     "Japanese": "コメント",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9820,7 +8593,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Compact",
     "Japanese": "コンパクト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9828,7 +8600,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Company",
     "Japanese": "会社",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9836,7 +8607,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Compare",
     "Japanese": "比較する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9844,7 +8614,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Compass",
     "Japanese": "羅針盤",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9852,7 +8621,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Complex",
     "Japanese": "複雑な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9860,7 +8628,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Concept",
     "Japanese": "概念",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9868,7 +8635,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Concern",
     "Japanese": "懸念",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9876,7 +8642,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Concert",
     "Japanese": "コンサート",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9884,7 +8649,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Conduct",
     "Japanese": "行為",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9892,7 +8656,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Confirm",
     "Japanese": "確認する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9900,7 +8663,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Connect",
     "Japanese": "接続する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9908,7 +8670,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Consent",
     "Japanese": "同意",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9916,7 +8677,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Contact",
     "Japanese": "接触",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9924,7 +8684,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Contain",
     "Japanese": "含む",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9932,7 +8691,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Context",
     "Japanese": "文脈",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9940,7 +8698,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Control",
     "Japanese": "操作",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9948,7 +8705,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Convert",
     "Japanese": "変換する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9956,7 +8712,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cookies",
     "Japanese": "クッキー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9964,7 +8719,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cooking",
     "Japanese": "料理",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9972,7 +8726,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Correct",
     "Japanese": "正しい",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9980,7 +8733,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Council",
     "Japanese": "評議会",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9988,7 +8740,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Counter",
     "Japanese": "対向",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -9996,7 +8747,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Country",
     "Japanese": "国",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10004,7 +8754,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Couples",
     "Japanese": "カップル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10012,7 +8761,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Courage",
     "Japanese": "勇気",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10020,7 +8768,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Covered",
     "Japanese": "覆われた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10028,7 +8775,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cracked",
     "Japanese": "ひび割れた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10036,7 +8782,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Crafted",
     "Japanese": "作られた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10044,7 +8789,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Created",
     "Japanese": "作成済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10052,7 +8796,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Credits",
     "Japanese": "クレジット",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10060,7 +8803,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cricket",
     "Japanese": "クリケット",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10068,7 +8810,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Crimson",
     "Japanese": "真紅",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10076,7 +8817,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Crucial",
     "Japanese": "重要な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10084,7 +8824,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Crystal",
     "Japanese": "結晶",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10092,7 +8831,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Culture",
     "Japanese": "文化",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10100,7 +8838,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Current",
     "Japanese": "現在",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10108,7 +8845,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Curtain",
     "Japanese": "垂れ幕",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10116,7 +8852,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Custody",
     "Japanese": "親権",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10124,7 +8859,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cutting",
     "Japanese": "切断",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10132,7 +8866,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Cycling",
     "Japanese": "サイクリング",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10140,7 +8873,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Damaged",
     "Japanese": "損傷",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10148,7 +8880,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dancing",
     "Japanese": "ダンシング",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10156,7 +8887,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dangers",
     "Japanese": "危険性",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10164,7 +8894,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Darkest",
     "Japanese": "最も暗い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10172,7 +8901,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Daycare",
     "Japanese": "託児所",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10180,7 +8908,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dealing",
     "Japanese": "取引",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10188,7 +8915,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Debated",
     "Japanese": "議論した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10196,7 +8922,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Decades",
     "Japanese": "数十年",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10204,7 +8929,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deceive",
     "Japanese": "欺く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10212,7 +8936,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Decimal",
     "Japanese": "小数",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10220,7 +8943,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Declare",
     "Japanese": "宣言する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10228,7 +8950,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Decline",
     "Japanese": "衰退",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10236,7 +8957,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Decreed",
     "Japanese": "布告した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10244,7 +8964,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deepest",
     "Japanese": "最も深い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10252,7 +8971,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Default",
     "Japanese": "デフォルト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10260,7 +8978,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Defense",
     "Japanese": "防衛",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10268,7 +8985,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deficit",
     "Japanese": "赤字",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10276,7 +8992,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Defined",
     "Japanese": "定義済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10284,7 +8999,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Defrost",
     "Japanese": "解凍する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10292,7 +9006,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Delayed",
     "Japanese": "遅延",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10300,7 +9013,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Delight",
     "Japanese": "喜び",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10308,7 +9020,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deliver",
     "Japanese": "届ける",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10316,7 +9027,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Demands",
     "Japanese": "要求",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10324,7 +9034,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Density",
     "Japanese": "密度",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10332,7 +9041,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dentist",
     "Japanese": "歯医者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10340,7 +9048,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Depends",
     "Japanese": "場合による",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10348,7 +9055,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deposit",
     "Japanese": "デポジット",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10356,7 +9062,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deprive",
     "Japanese": "奪う",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10364,7 +9069,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Descend",
     "Japanese": "下降する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10372,7 +9076,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Deserve",
     "Japanese": "値する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10380,7 +9083,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Desktop",
     "Japanese": "デスクトップ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10388,7 +9090,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Destroy",
     "Japanese": "破壊する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10396,7 +9097,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Details",
     "Japanese": "詳細",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10404,7 +9104,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Develop",
     "Japanese": "開発する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10412,7 +9111,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Devoted",
     "Japanese": "献身的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10420,7 +9118,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Diamond",
     "Japanese": "ダイヤモンド",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10428,7 +9125,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dictate",
     "Japanese": "口述する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10436,7 +9132,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Digital",
     "Japanese": "デジタル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10444,7 +9139,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dignity",
     "Japanese": "尊厳",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10452,7 +9146,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dilemma",
     "Japanese": "ジレンマ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10460,7 +9153,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dimming",
     "Japanese": "調光",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10468,7 +9160,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Diorite",
     "Japanese": "閃緑岩",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10476,7 +9167,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Discard",
     "Japanese": "破棄",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10484,7 +9174,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Discern",
     "Japanese": "見分ける",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10492,7 +9181,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Discuss",
     "Japanese": "話し合う",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10500,7 +9188,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Disease",
     "Japanese": "病気",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10508,7 +9195,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Display",
     "Japanese": "画面",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10516,7 +9202,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dispute",
     "Japanese": "紛争",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10524,7 +9209,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Distant",
     "Japanese": "遠く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10532,7 +9216,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Distort",
     "Japanese": "歪ませる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10540,7 +9223,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Disturb",
     "Japanese": "乱す",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10548,7 +9230,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Diverse",
     "Japanese": "多様な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10556,7 +9237,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Divided",
     "Japanese": "分割",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10564,7 +9244,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Divorce",
     "Japanese": "離婚",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10572,7 +9251,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Doctors",
     "Japanese": "医師",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10580,7 +9258,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dollars",
     "Japanese": "ドル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10588,7 +9265,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dolphin",
     "Japanese": "海豚",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10596,7 +9272,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Donated",
     "Japanese": "寄付",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10604,7 +9279,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Doorway",
     "Japanese": "戸口",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10612,7 +9286,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dormant",
     "Japanese": "睡眠状態",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10620,7 +9293,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Doubled",
     "Japanese": "2倍",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10628,7 +9300,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Drafted",
     "Japanese": "起草された",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10636,7 +9307,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dragons",
     "Japanese": "龍",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10644,7 +9314,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Drained",
     "Japanese": "消耗した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10652,7 +9321,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Drawing",
     "Japanese": "描画",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10660,7 +9328,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dreamed",
     "Japanese": "夢見た",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10668,7 +9335,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dressed",
     "Japanese": "服を着た",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10676,7 +9342,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Drilled",
     "Japanese": "ドリル加工",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10684,7 +9349,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Driving",
     "Japanese": "運転",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10692,7 +9356,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dropped",
     "Japanese": "落とした",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10700,7 +9363,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Drought",
     "Japanese": "干ばつ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10708,7 +9370,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Drunken",
     "Japanese": "酔っ払い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10716,7 +9377,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Duality",
     "Japanese": "二元性",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10724,7 +9384,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ductile",
     "Japanese": "延性",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10732,7 +9391,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dungeon",
     "Japanese": "拘置所",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10740,7 +9398,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Durable",
     "Japanese": "耐久性",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10748,7 +9405,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dustpan",
     "Japanese": "ちりとり",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10756,7 +9412,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dwarfed",
     "Japanese": "矮小な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10764,7 +9419,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dynamic",
     "Japanese": "動的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10772,7 +9426,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Dynasty",
     "Japanese": "王朝",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10780,7 +9433,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Eagerly",
     "Japanese": "熱心に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10788,7 +9440,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Earache",
     "Japanese": "耳痛",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10796,7 +9447,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Earldom",
     "Japanese": "伯爵領",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10804,7 +9454,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Earlier",
     "Japanese": "以前",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10812,7 +9461,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Earring",
     "Japanese": "イヤリング",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10820,7 +9468,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Earthed",
     "Japanese": "アース済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10828,7 +9475,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Eastern",
     "Japanese": "東部",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10836,7 +9482,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Echoing",
     "Japanese": "反響する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10844,7 +9489,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Eclipse",
     "Japanese": "日食",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10852,7 +9496,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ecology",
     "Japanese": "生態学",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10860,7 +9503,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Economy",
     "Japanese": "経済",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10868,7 +9510,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Edifice",
     "Japanese": "建造物",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10876,7 +9517,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Editing",
     "Japanese": "編集",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10884,7 +9524,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Edition",
     "Japanese": "版",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10892,7 +9531,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Educate",
     "Japanese": "教育する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10900,7 +9538,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Elastic",
     "Japanese": "伸縮性のある",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10908,7 +9545,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Elderly",
     "Japanese": "お年寄り",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10916,7 +9552,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Elegant",
     "Japanese": "上品",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10924,7 +9559,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Element",
     "Japanese": "要素",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10932,7 +9566,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Elevate",
     "Japanese": "高める",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10940,7 +9573,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ellipse",
     "Japanese": "楕円",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10948,7 +9580,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Evasive",
     "Japanese": "回避的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10956,7 +9587,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Everest",
     "Japanese": "エベレスト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10964,7 +9594,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Exactly",
     "Japanese": "その通り",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10972,7 +9601,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Example",
     "Japanese": "例",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10980,7 +9608,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Excepts",
     "Japanese": "例外",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10988,7 +9615,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Exclaim",
     "Japanese": "叫ぶ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -10996,7 +9622,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Exclude",
     "Japanese": "除外する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11004,7 +9629,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Execute",
     "Japanese": "実行する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11012,7 +9636,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Exhaust",
     "Japanese": "排気",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11020,7 +9643,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Exhibit",
     "Japanese": "展示する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11028,7 +9650,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Existed",
     "Japanese": "存在した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11036,7 +9657,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Expense",
     "Japanese": "費用",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11044,7 +9664,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Explain",
     "Japanese": "説明する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11052,7 +9671,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Explore",
     "Japanese": "探検する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11060,7 +9678,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Exposed",
     "Japanese": "露出",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11068,7 +9685,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Express",
     "Japanese": "急行",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11076,7 +9692,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Extends",
     "Japanese": "拡張する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11084,7 +9699,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Extinct",
     "Japanese": "絶滅した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11092,7 +9706,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Extract",
     "Japanese": "抽出する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11100,7 +9713,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Extreme",
     "Japanese": "過激",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11108,7 +9720,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Eyeball",
     "Japanese": "眼球",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11116,7 +9727,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Eyesore",
     "Japanese": "目障り",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11124,7 +9734,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Factory",
     "Japanese": "工場",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11132,7 +9741,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Faculty",
     "Japanese": "学部",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11140,7 +9748,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Failing",
     "Japanese": "失敗する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11148,7 +9755,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Failure",
     "Japanese": "失敗",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11156,7 +9762,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fainter",
     "Japanese": "かすかな",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11164,7 +9769,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fairway",
     "Japanese": "フェアウェイ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11172,7 +9776,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Falling",
     "Japanese": "落下",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11180,7 +9783,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fantasy",
     "Japanese": "ファンタジー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11188,7 +9790,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Farmers",
     "Japanese": "農民",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11196,7 +9797,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Farther",
     "Japanese": "さらに",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11204,7 +9804,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fashion",
     "Japanese": "流儀",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11212,7 +9811,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fastest",
     "Japanese": "最速",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11220,7 +9818,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fatigue",
     "Japanese": "倦怠感",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11228,7 +9825,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Faucets",
     "Japanese": "蛇口",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11236,7 +9832,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Favored",
     "Japanese": "優遇された",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11244,7 +9839,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fearful",
     "Japanese": "恐ろしい",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11252,7 +9846,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Feather",
     "Japanese": "羽",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11260,7 +9853,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Feature",
     "Japanese": "特徴",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11268,7 +9860,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Federal",
     "Japanese": "連邦政府",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11276,7 +9867,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Feeling",
     "Japanese": "感情",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11284,7 +9874,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fellows",
     "Japanese": "仲間",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11292,7 +9881,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fencing",
     "Japanese": "剣術",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11300,7 +9888,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ferment",
     "Japanese": "発酵",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11308,7 +9895,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Festive",
     "Japanese": "祝祭の",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11316,7 +9902,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fiction",
     "Japanese": "作り話",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11324,7 +9909,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fifteen",
     "Japanese": "15",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11332,7 +9916,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Figured",
     "Japanese": "そうだと思った",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11340,7 +9923,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Filling",
     "Japanese": "充填",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11348,7 +9930,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Finally",
     "Japanese": "ついに",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11356,7 +9937,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Finance",
     "Japanese": "財務",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11364,7 +9944,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Finding",
     "Japanese": "発見",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11372,7 +9951,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Firearm",
     "Japanese": "銃器",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11380,7 +9958,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fireman",
     "Japanese": "消防士",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11388,7 +9965,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Firstly",
     "Japanese": "まず第一に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11396,7 +9972,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fitness",
     "Japanese": "フィットネス",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11404,7 +9979,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fixable",
     "Japanese": "修理可能",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11412,7 +9986,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Flagger",
     "Japanese": "旗振り係",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11420,7 +9993,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Flatter",
     "Japanese": "お世辞を言う",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11428,7 +10000,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Flicker",
     "Japanese": "ちらつき",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11436,7 +10007,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Flowing",
     "Japanese": "流れる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11444,7 +10014,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Flushed",
     "Japanese": "紅潮した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11452,7 +10021,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Focused",
     "Japanese": "集中",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11460,7 +10028,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Folding",
     "Japanese": "折りたたみ式",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11468,7 +10035,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Footage",
     "Japanese": "映像",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11476,7 +10042,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Foreign",
     "Japanese": "外国",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11484,7 +10049,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Forever",
     "Japanese": "永遠に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11492,7 +10056,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Forgive",
     "Japanese": "許す",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11500,7 +10063,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Formula",
     "Japanese": "式",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11508,7 +10070,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fortune",
     "Japanese": "運",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11516,7 +10077,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Forward",
     "Japanese": "前方",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11524,7 +10084,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Founded",
     "Japanese": "設立",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11532,7 +10091,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fragile",
     "Japanese": "壊れやすい",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11540,7 +10098,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Freedom",
     "Japanese": "自由",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11548,7 +10105,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Freezer",
     "Japanese": "冷凍庫",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11556,7 +10112,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Freight",
     "Japanese": "貨物",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11564,7 +10119,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Friends",
     "Japanese": "友達",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11572,7 +10126,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Frontal",
     "Japanese": "正面",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11580,7 +10133,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Fullest",
     "Japanese": "最大",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11588,7 +10140,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Funding",
     "Japanese": "資金調達",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11596,7 +10147,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Funeral",
     "Japanese": "葬儀",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11604,7 +10154,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Furious",
     "Japanese": "激怒",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11612,7 +10161,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Furnish",
     "Japanese": "家具",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11620,7 +10168,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Further",
     "Japanese": "さらに遠く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11628,7 +10175,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Gallery",
     "Japanese": "回廊",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11636,7 +10182,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Garbage",
     "Japanese": "ごみ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11644,7 +10189,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Gardens",
     "Japanese": "庭園",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11652,7 +10196,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Garment",
     "Japanese": "衣服",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11660,7 +10203,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Gaseous",
     "Japanese": "気体",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11668,7 +10210,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Gateway",
     "Japanese": "関門",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11676,7 +10217,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "General",
     "Japanese": "一般的な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11684,7 +10224,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Genetic",
     "Japanese": "遺伝子",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11692,7 +10231,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Genuine",
     "Japanese": "本物",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11700,7 +10238,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Getting",
     "Japanese": "入手",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11708,7 +10245,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ghostly",
     "Japanese": "幽霊のような",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11716,7 +10252,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grafted",
     "Japanese": "接ぎ木",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11724,7 +10259,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grammar",
     "Japanese": "文法",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11732,7 +10266,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Granite",
     "Japanese": "花崗岩",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11740,7 +10273,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Graphic",
     "Japanese": "グラフィック",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11748,7 +10280,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Gravity",
     "Japanese": "重力",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11756,7 +10287,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Greatly",
     "Japanese": "非常に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11764,7 +10294,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grocery",
     "Japanese": "食料品",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11772,7 +10301,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Growing",
     "Japanese": "成長",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11780,7 +10308,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grownup",
     "Japanese": "成長した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11788,7 +10315,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grubbed",
     "Japanese": "掘り起こされた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11796,7 +10322,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grumble",
     "Japanese": "ぶつぶつ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11804,7 +10329,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Grunted",
     "Japanese": "うなり声をあげた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11812,7 +10336,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Guarded",
     "Japanese": "警戒",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11820,7 +10343,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Guitars",
     "Japanese": "ギター",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11828,7 +10350,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Halogen",
     "Japanese": "ハロゲン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11836,7 +10357,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Halting",
     "Japanese": "停止",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11844,7 +10364,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Handful",
     "Japanese": "一握り",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11852,7 +10371,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Handing",
     "Japanese": "取り扱い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11860,7 +10378,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Handily",
     "Japanese": "手軽に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11868,7 +10385,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hanging",
     "Japanese": "吊り下げ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11876,7 +10392,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Happily",
     "Japanese": "幸せに",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11884,7 +10399,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Harvest",
     "Japanese": "収穫",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11892,7 +10406,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hastily",
     "Japanese": "急いで",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11900,7 +10413,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Healthy",
     "Japanese": "健康",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11908,7 +10420,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hearing",
     "Japanese": "聴覚",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11916,7 +10427,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Heating",
     "Japanese": "加熱",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11924,7 +10434,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Heavily",
     "Japanese": "重く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11932,7 +10441,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Helpful",
     "Japanese": "役立つ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11940,7 +10448,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Helping",
     "Japanese": "手助けする",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11948,7 +10455,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Heroine",
     "Japanese": "ヒロイン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11956,7 +10462,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hexagon",
     "Japanese": "六角形",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11964,7 +10469,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "History",
     "Japanese": "歴史",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11972,7 +10476,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Holiday",
     "Japanese": "休日",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11980,7 +10483,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Honesty",
     "Japanese": "正直",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11988,7 +10490,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hopeful",
     "Japanese": "希望",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -11996,7 +10497,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Horizon",
     "Japanese": "地平線",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12004,7 +10504,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hostage",
     "Japanese": "人質",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12012,7 +10511,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "However",
     "Japanese": "しかし",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12020,7 +10518,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hundred",
     "Japanese": "百",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12028,7 +10525,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hunting",
     "Japanese": "狩猟",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12036,7 +10532,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hurried",
     "Japanese": "急いで",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12044,7 +10539,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hydrant",
     "Japanese": "消火栓",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12052,7 +10546,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hydrate",
     "Japanese": "水分補給",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12060,7 +10553,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Hygiene",
     "Japanese": "衛生",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12068,7 +10560,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Iceberg",
     "Japanese": "氷山",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12076,7 +10567,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Iceland",
     "Japanese": "アイスランド",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12084,7 +10574,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ignited",
     "Japanese": "発火した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12092,7 +10581,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ignored",
     "Japanese": "無視",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12100,7 +10588,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Illegal",
     "Japanese": "違法",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12108,7 +10595,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Illness",
     "Japanese": "病気",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12116,7 +10602,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Imagery",
     "Japanese": "画像",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12124,7 +10609,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Imagine",
     "Japanese": "想像する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12132,7 +10616,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Immense",
     "Japanese": "巨大な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12140,7 +10623,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Immoral",
     "Japanese": "不道徳な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12148,7 +10630,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Implied",
     "Japanese": "暗示",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12156,7 +10637,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Imports",
     "Japanese": "輸入品",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12164,7 +10644,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Imposed",
     "Japanese": "課せられた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12172,7 +10651,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Improve",
     "Japanese": "改善する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12180,7 +10658,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Impulse",
     "Japanese": "衝動",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12188,7 +10665,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inbound",
     "Japanese": "受信",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12196,7 +10672,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Include",
     "Japanese": "含む",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12204,7 +10679,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Indulge",
     "Japanese": "贅沢する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12212,7 +10686,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Infancy",
     "Japanese": "乳幼児期",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12220,7 +10693,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inflict",
     "Japanese": "与える",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12228,7 +10700,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Informs",
     "Japanese": "通知する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12236,7 +10707,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Infused",
     "Japanese": "注入",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12244,7 +10714,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ingrown",
     "Japanese": "埋没",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12252,7 +10721,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inhabit",
     "Japanese": "住む",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12260,7 +10728,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inherit",
     "Japanese": "継承する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12268,7 +10735,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Initial",
     "Japanese": "初期",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12276,7 +10742,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Injured",
     "Japanese": "怪我した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12284,7 +10749,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inquiry",
     "Japanese": "問い合わせ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12292,7 +10756,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Insider",
     "Japanese": "インサイダー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12300,7 +10763,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Insight",
     "Japanese": "洞察力",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12308,7 +10770,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inspect",
     "Japanese": "検査",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12316,7 +10777,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Inspire",
     "Japanese": "鼓舞する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12324,7 +10784,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Install",
     "Japanese": "取り付ける",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12332,7 +10791,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Instant",
     "Japanese": "即時",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12340,7 +10798,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Instead",
     "Japanese": "その代わり",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12348,7 +10805,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Insular",
     "Japanese": "島嶼部",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12356,7 +10812,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Insulin",
     "Japanese": "インスリン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12364,7 +10819,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Integer",
     "Japanese": "整数",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12372,7 +10826,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Interim",
     "Japanese": "暫定",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12380,7 +10833,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Involve",
     "Japanese": "関与する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12388,7 +10840,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Islands",
     "Japanese": "島々",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12396,7 +10847,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Isotope",
     "Japanese": "同位体",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12404,7 +10854,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Issuing",
     "Japanese": "発行",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12412,7 +10861,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Italian",
     "Japanese": "イタリア語",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12420,7 +10868,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Iterate",
     "Japanese": "反復する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12428,7 +10875,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Janitor",
     "Japanese": "用務員",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12436,7 +10882,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jasmine",
     "Japanese": "ジャスミン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12444,7 +10889,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Javelin",
     "Japanese": "ジャベリン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12452,7 +10896,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jealous",
     "Japanese": "嫉妬深い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12460,7 +10903,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jewelry",
     "Japanese": "玉飾り",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12468,7 +10910,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jointly",
     "Japanese": "共同で",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12476,7 +10917,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Journal",
     "Japanese": "雑誌",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12484,7 +10924,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Journey",
     "Japanese": "旅",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12492,7 +10931,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Judging",
     "Japanese": "審査",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12500,7 +10938,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jugular",
     "Japanese": "頸静脈",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12508,7 +10945,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jumping",
     "Japanese": "ジャンプ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12516,7 +10952,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Jupiter",
     "Japanese": "木星",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12524,7 +10959,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Justice",
     "Japanese": "正義",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12532,7 +10966,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Justify",
     "Japanese": "正当化する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12540,7 +10973,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ketchup",
     "Japanese": "ケチャップ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12548,7 +10980,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Keynote",
     "Japanese": "基調",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12556,7 +10987,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Keyword",
     "Japanese": "キーワード",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12564,7 +10994,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Kindred",
     "Japanese": "親族",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12572,7 +11001,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Kingdom",
     "Japanese": "王国",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12580,7 +11008,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Kitchen",
     "Japanese": "台所",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12588,7 +11015,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Knowing",
     "Japanese": "知っている",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12596,7 +11022,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Knuckle",
     "Japanese": "ナックル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12604,7 +11029,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Krypton",
     "Japanese": "クリプトン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12612,7 +11036,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Labeled",
     "Japanese": "ラベル付き",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12620,7 +11043,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Lantern",
     "Japanese": "ランタン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12628,7 +11050,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Largest",
     "Japanese": "最大",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12636,7 +11057,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Learned",
     "Japanese": "学んだ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12644,7 +11064,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Leather",
     "Japanese": "皮",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12652,7 +11071,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Lecture",
     "Japanese": "講義",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12660,7 +11078,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Leisure",
     "Japanese": "レジャー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12668,7 +11085,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Letters",
     "Japanese": "手紙",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12676,7 +11092,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Library",
     "Japanese": "図書館",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12684,7 +11099,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "License",
     "Japanese": "免許",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12692,7 +11106,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Limited",
     "Japanese": "限定",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12700,7 +11113,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Literal",
     "Japanese": "リテラル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12708,7 +11120,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Lobster",
     "Japanese": "ロブスター",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12716,7 +11127,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Logical",
     "Japanese": "論理的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12724,7 +11134,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Looking",
     "Japanese": "探しています",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12732,7 +11141,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Lottery",
     "Japanese": "宝くじ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12740,7 +11148,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Loyalty",
     "Japanese": "忠誠心",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12748,7 +11155,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Luggage",
     "Japanese": "荷物",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12756,7 +11162,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Machine",
     "Japanese": "機械",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12764,7 +11169,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Magnify",
     "Japanese": "拡大",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12772,7 +11176,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mailbox",
     "Japanese": "郵便受け",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12780,7 +11183,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Manager",
     "Japanese": "主任者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12788,7 +11190,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mansion",
     "Japanese": "大邸宅",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12796,7 +11197,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Married",
     "Japanese": "既婚",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12804,7 +11204,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Massive",
     "Japanese": "大規模",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12812,7 +11211,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Maximum",
     "Japanese": "最大",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12820,7 +11218,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Meaning",
     "Japanese": "意味",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12828,7 +11225,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Measure",
     "Japanese": "測定",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12836,7 +11232,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Medical",
     "Japanese": "医学",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12844,7 +11239,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Meeting",
     "Japanese": "会議",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12852,7 +11246,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mention",
     "Japanese": "言及",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12860,7 +11253,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Message",
     "Japanese": "メッセージ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12868,7 +11260,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Million",
     "Japanese": "百万",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12876,7 +11267,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Minimum",
     "Japanese": "最小",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12884,7 +11274,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Minutes",
     "Japanese": "分",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12892,7 +11281,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Miracle",
     "Japanese": "奇跡",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12900,7 +11288,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Missing",
     "Japanese": "ない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12908,7 +11295,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mission",
     "Japanese": "任務",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12916,7 +11302,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mistake",
     "Japanese": "間違い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12924,7 +11309,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mixture",
     "Japanese": "混合",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12932,7 +11316,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Monitor",
     "Japanese": "級長",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12940,7 +11323,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Monthly",
     "Japanese": "月刊",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12948,7 +11330,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Morning",
     "Japanese": "朝",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12956,7 +11337,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Musical",
     "Japanese": "ミュージカル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12964,7 +11344,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Mystery",
     "Japanese": "ミステリー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12972,7 +11351,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Natural",
     "Japanese": "自然",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12980,7 +11358,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Nearest",
     "Japanese": "最寄りの",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12988,7 +11365,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Necktie",
     "Japanese": "ネクタイ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -12996,7 +11372,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Neither",
     "Japanese": "どちらでもない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13004,7 +11379,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Nervous",
     "Japanese": "神経質",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13012,7 +11386,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Network",
     "Japanese": "ネットワーク",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13020,7 +11393,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Neutral",
     "Japanese": "中性",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13028,7 +11400,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Nominal",
     "Japanese": "名目",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13036,7 +11407,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Nothing",
     "Japanese": "何もない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13044,7 +11414,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Nowhere",
     "Japanese": "どこにもない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13052,7 +11421,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Numeric",
     "Japanese": "数値",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13060,7 +11428,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Objects",
     "Japanese": "物体",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13068,7 +11435,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Observe",
     "Japanese": "観察する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13076,7 +11442,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Obvious",
     "Japanese": "明らか",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13084,7 +11449,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Offered",
     "Japanese": "提供される",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13092,7 +11456,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Officer",
     "Japanese": "役員",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13100,7 +11463,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ongoing",
     "Japanese": "継続中",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13108,7 +11470,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Operate",
     "Japanese": "操作する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13116,7 +11477,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Opinion",
     "Japanese": "意見",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13124,7 +11484,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Optical",
     "Japanese": "光学",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13132,7 +11491,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Optimal",
     "Japanese": "最適",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13140,7 +11498,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ordered",
     "Japanese": "注文しました",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13148,7 +11505,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Organic",
     "Japanese": "有機的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13156,7 +11512,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Outdoor",
     "Japanese": "屋外",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13164,7 +11519,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Outline",
     "Japanese": "概要",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13172,7 +11526,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Outside",
     "Japanese": "外",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13180,7 +11533,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Overall",
     "Japanese": "全体",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13188,7 +11540,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Package",
     "Japanese": "小包",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13196,7 +11547,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Painted",
     "Japanese": "塗装済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13204,7 +11554,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Parents",
     "Japanese": "両親",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13212,7 +11561,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Partner",
     "Japanese": "相棒",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13220,7 +11568,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Passage",
     "Japanese": "通路",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13228,7 +11575,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Passive",
     "Japanese": "受け身",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13236,7 +11582,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Patient",
     "Japanese": "忍耐強い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13244,7 +11589,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Pattern",
     "Japanese": "様式",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13252,7 +11596,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Payment",
     "Japanese": "支払い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13260,7 +11603,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Penalty",
     "Japanese": "罰則",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13268,7 +11610,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Pension",
     "Japanese": "年金",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13276,7 +11617,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Percent",
     "Japanese": "パーセント",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13284,7 +11624,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Perfect",
     "Japanese": "完璧",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13292,7 +11631,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Perform",
     "Japanese": "実行する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13300,7 +11638,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Periods",
     "Japanese": "期間",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13308,7 +11645,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Persist",
     "Japanese": "粘り強く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13316,7 +11652,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Physics",
     "Japanese": "物理",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13324,7 +11659,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Picture",
     "Japanese": "写真",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13332,7 +11666,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Pioneer",
     "Japanese": "開拓",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13340,7 +11673,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Planned",
     "Japanese": "計画",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13348,7 +11680,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Plastic",
     "Japanese": "プラスチック",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13356,7 +11687,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Pleased",
     "Japanese": "喜んで",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13364,7 +11694,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Pointer",
     "Japanese": "ポインター",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13372,7 +11701,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Popular",
     "Japanese": "人気のある",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13380,7 +11708,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Portion",
     "Japanese": "部分",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13388,7 +11715,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Postage",
     "Japanese": "送料",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13396,7 +11722,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Poverty",
     "Japanese": "貧困",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13404,7 +11729,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Powered",
     "Japanese": "搭載",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13412,7 +11736,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Precise",
     "Japanese": "正確な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13420,7 +11743,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Predict",
     "Japanese": "予測する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13428,7 +11750,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Prepare",
     "Japanese": "準備する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13436,7 +11757,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Present",
     "Japanese": "現在",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13444,7 +11764,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Prevent",
     "Japanese": "防ぐ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13452,7 +11771,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Primary",
     "Japanese": "主要な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13460,7 +11778,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Printer",
     "Japanese": "プリンター",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13468,7 +11785,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Privacy",
     "Japanese": "プライバシー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13476,7 +11792,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Private",
     "Japanese": "プライベート",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13484,7 +11799,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Problem",
     "Japanese": "問題",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13492,7 +11806,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Process",
     "Japanese": "過程",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13500,7 +11813,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Produce",
     "Japanese": "生産する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13508,7 +11820,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Product",
     "Japanese": "製品",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13516,7 +11827,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Profile",
     "Japanese": "プロフィール",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13524,7 +11834,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Program",
     "Japanese": "プログラム",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13532,7 +11841,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Project",
     "Japanese": "事業",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13540,7 +11848,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Promise",
     "Japanese": "約束",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13548,7 +11855,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Promote",
     "Japanese": "推進する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13556,7 +11862,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Protect",
     "Japanese": "守る",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13564,7 +11869,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Protein",
     "Japanese": "蛋白質",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13572,7 +11876,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Proudly",
     "Japanese": "誇りを持って",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13580,7 +11883,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Provide",
     "Japanese": "提供する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13588,7 +11890,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Publish",
     "Japanese": "公開",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13596,7 +11897,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Purpose",
     "Japanese": "目的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13604,7 +11904,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Quality",
     "Japanese": "品質",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13612,7 +11911,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Quantum",
     "Japanese": "量子",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13620,7 +11918,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Quarter",
     "Japanese": "四半期",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13628,7 +11925,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Quietly",
     "Japanese": "静かに",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13636,7 +11932,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Quizzed",
     "Japanese": "質問された",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13644,7 +11939,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Radiant",
     "Japanese": "輝く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13652,7 +11946,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Radical",
     "Japanese": "抜本的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13660,7 +11953,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Railway",
     "Japanese": "鉄道",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13668,7 +11960,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Raising",
     "Japanese": "育てる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13676,7 +11967,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Ranging",
     "Japanese": "範囲",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13684,7 +11974,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Rapidly",
     "Japanese": "急速に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13692,7 +11981,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reading",
     "Japanese": "読む",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13700,7 +11988,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reality",
     "Japanese": "現実",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13708,7 +11995,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Realize",
     "Japanese": "気づく",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13716,7 +12002,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reasons",
     "Japanese": "理由",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13724,7 +12009,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Receipt",
     "Japanese": "レシート",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13732,7 +12016,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Receive",
     "Japanese": "受け取る",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13740,7 +12023,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Recipes",
     "Japanese": "レシピ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13748,7 +12030,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Records",
     "Japanese": "記録",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13756,7 +12037,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Recover",
     "Japanese": "回復する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13764,7 +12044,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Recycle",
     "Japanese": "リサイクル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13772,7 +12051,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reduced",
     "Japanese": "削減",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13780,7 +12058,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reflect",
     "Japanese": "反映する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13788,7 +12065,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Refresh",
     "Japanese": "更新",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13796,7 +12072,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Refusal",
     "Japanese": "拒否",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13804,7 +12079,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Regards",
     "Japanese": "よろしくお願いいたします",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13812,7 +12086,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Regency",
     "Japanese": "摂政",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13820,7 +12093,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Regular",
     "Japanese": "通常",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13828,7 +12100,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Related",
     "Japanese": "関連している",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13836,7 +12107,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Release",
     "Japanese": "釈放",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13844,7 +12114,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Relieve",
     "Japanese": "和らげる",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13852,7 +12121,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Relying",
     "Japanese": "頼る",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13860,7 +12128,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Remains",
     "Japanese": "遺物",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13868,7 +12135,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Remarks",
     "Japanese": "備考",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13876,7 +12142,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reminds",
     "Japanese": "リマインダー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13884,7 +12149,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Removal",
     "Japanese": "除去",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13892,7 +12156,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Replace",
     "Japanese": "交換する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13900,7 +12163,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reports",
     "Japanese": "報告書",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13908,7 +12170,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Request",
     "Japanese": "リクエスト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13916,7 +12177,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Require",
     "Japanese": "必要とする",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13924,7 +12184,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Resorts",
     "Japanese": "リゾート",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13932,7 +12191,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Respect",
     "Japanese": "尊敬",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13940,7 +12198,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Respond",
     "Japanese": "応答する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13948,7 +12205,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Restore",
     "Japanese": "復元する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13956,7 +12212,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Results",
     "Japanese": "結果",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13964,7 +12219,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Retired",
     "Japanese": "退職",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13972,7 +12226,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Returns",
     "Japanese": "返品",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13980,7 +12233,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Revenue",
     "Japanese": "収益",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13988,7 +12240,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reverse",
     "Japanese": "逆行する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -13996,7 +12247,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Reviews",
     "Japanese": "批評",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14004,7 +12254,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Rewards",
     "Japanese": "報酬",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14012,7 +12261,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Roadway",
     "Japanese": "道路",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14020,7 +12268,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Routine",
     "Japanese": "ルーティーン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14028,7 +12275,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Running",
     "Japanese": "ランニング",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14036,7 +12282,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Samples",
     "Japanese": "サンプル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14044,7 +12289,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Savings",
     "Japanese": "節約",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14052,7 +12296,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Scanner",
     "Japanese": "スキャナー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14060,7 +12303,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Science",
     "Japanese": "科学",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14068,7 +12310,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Screens",
     "Japanese": "スクリーン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14076,7 +12317,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Scripts",
     "Japanese": "スクリプト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14084,7 +12324,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Seafood",
     "Japanese": "シーフード",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14092,7 +12331,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Seaside",
     "Japanese": "シーサイド",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14100,7 +12338,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Seasons",
     "Japanese": "季節",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14108,7 +12345,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Section",
     "Japanese": "セクション",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14116,7 +12352,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Segment",
     "Japanese": "セグメント",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14124,7 +12359,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Sensors",
     "Japanese": "センサー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14132,7 +12366,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Serious",
     "Japanese": "深刻な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14140,7 +12373,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Servant",
     "Japanese": "従者/下僕",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14148,7 +12380,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Session",
     "Japanese": "会期",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14156,7 +12387,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Setting",
     "Japanese": "設定",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14164,7 +12394,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Seventh",
     "Japanese": "7番目",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14172,7 +12401,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Several",
     "Japanese": "いくつかの",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14180,7 +12408,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Shelter",
     "Japanese": "避難所",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14188,7 +12415,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Shining",
     "Japanese": "輝く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14196,7 +12422,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Shipped",
     "Japanese": "発送済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14204,7 +12429,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Shorten",
     "Japanese": "短縮する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14212,7 +12436,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Signify",
     "Japanese": "意味する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14220,7 +12443,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Similar",
     "Japanese": "似ている",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14228,7 +12450,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Singing",
     "Japanese": "歌う",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14236,7 +12457,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Sisters",
     "Japanese": "姉妹",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14244,7 +12464,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Skilled",
     "Japanese": "熟練した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14252,7 +12471,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Smoking",
     "Japanese": "喫煙",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14260,7 +12478,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Society",
     "Japanese": "社会",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14268,7 +12485,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Soldier",
     "Japanese": "兵士",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14276,7 +12492,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Someone",
     "Japanese": "誰か",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14284,7 +12499,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Special",
     "Japanese": "特別",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14292,7 +12506,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Species",
     "Japanese": "種",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14300,7 +12513,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Specify",
     "Japanese": "特定",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14308,7 +12520,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Specter",
     "Japanese": "妖怪",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14316,7 +12527,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Spinach",
     "Japanese": "ほうれん草",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14324,7 +12534,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Sponsor",
     "Japanese": "スポンサー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14332,7 +12541,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Stadium",
     "Japanese": "スタジアム",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14340,7 +12548,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Staging",
     "Japanese": "ステージング",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14348,7 +12555,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Started",
     "Japanese": "開始しました",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14356,7 +12562,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Station",
     "Japanese": "駅",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14364,7 +12569,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Statute",
     "Japanese": "法令",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14372,7 +12576,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Staying",
     "Japanese": "滞在",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14380,7 +12583,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Storage",
     "Japanese": "ストレージ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14388,7 +12590,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Strange",
     "Japanese": "奇妙な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14396,7 +12597,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Streams",
     "Japanese": "ストリーム",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14404,7 +12604,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Streets",
     "Japanese": "通り",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14412,7 +12611,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Stretch",
     "Japanese": "ストレッチ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14420,7 +12618,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Student",
     "Japanese": "学生",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14428,7 +12625,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Studies",
     "Japanese": "研究",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14436,7 +12632,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Subject",
     "Japanese": "主題",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14444,7 +12639,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Succeed",
     "Japanese": "成功する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14452,7 +12646,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Success",
     "Japanese": "成功",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14460,7 +12653,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Suggest",
     "Japanese": "提案する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14468,7 +12660,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Summary",
     "Japanese": "まとめ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14476,7 +12667,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Sunrise",
     "Japanese": "日の出",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14484,7 +12674,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Support",
     "Japanese": "サポート",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14492,7 +12681,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Suppose",
     "Japanese": "仮定する",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14500,7 +12688,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Surface",
     "Japanese": "表面",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14508,7 +12695,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Surgery",
     "Japanese": "手術",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14516,7 +12702,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Surplus",
     "Japanese": "余剰",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14524,7 +12709,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Survive",
     "Japanese": "生き残る",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14532,7 +12716,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Suspect",
     "Japanese": "容疑者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14540,7 +12723,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Systems",
     "Japanese": "システム",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14548,7 +12730,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tablets",
     "Japanese": "錠剤",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14556,7 +12737,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Talking",
     "Japanese": "話す",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14564,7 +12744,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Targets",
     "Japanese": "ターゲット",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14572,7 +12751,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Teacher",
     "Japanese": "教師",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14580,7 +12758,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tension",
     "Japanese": "張力",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14588,7 +12765,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Terrain",
     "Japanese": "地形",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14596,7 +12772,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Testing",
     "Japanese": "テスト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14604,7 +12779,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Textile",
     "Japanese": "繊維",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14612,7 +12786,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Theater",
     "Japanese": "劇場",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14620,7 +12793,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Therapy",
     "Japanese": "治療",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14628,7 +12800,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Thermal",
     "Japanese": "熱",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14636,7 +12807,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Thinker",
     "Japanese": "思想家",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14644,7 +12814,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Thirsty",
     "Japanese": "喉が渇いた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14652,7 +12821,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Thought",
     "Japanese": "考え",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14660,7 +12828,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Threads",
     "Japanese": "スレッド",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14668,7 +12835,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Threats",
     "Japanese": "脅威",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14676,7 +12842,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Through",
     "Japanese": "を通して",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14684,7 +12849,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tickets",
     "Japanese": "チケット",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14692,7 +12856,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tonight",
     "Japanese": "今夜",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14700,7 +12863,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Topical",
     "Japanese": "局所的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14708,7 +12870,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Totally",
     "Japanese": "完全に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14716,7 +12877,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tourism",
     "Japanese": "観光",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14724,7 +12884,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Towards",
     "Japanese": "に向かって",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14732,7 +12891,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Traffic",
     "Japanese": "渋滞",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14740,7 +12898,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tragedy",
     "Japanese": "悲劇",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14748,7 +12905,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trained",
     "Japanese": "訓練済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14756,7 +12912,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Transit",
     "Japanese": "公共交通機関",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14764,7 +12919,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trapped",
     "Japanese": "閉じ込められた",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14772,7 +12926,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Travels",
     "Japanese": "旅行",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14780,7 +12933,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Treated",
     "Japanese": "治療済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14788,7 +12940,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trident",
     "Japanese": "三叉槍",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14796,7 +12947,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trigger",
     "Japanese": "引き金",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14804,7 +12954,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trilogy",
     "Japanese": "三部作",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14812,7 +12961,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Triumph",
     "Japanese": "勝利",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14820,7 +12968,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trouble",
     "Japanese": "トラブル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14828,7 +12975,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trumpet",
     "Japanese": "トランペット",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14836,7 +12982,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Trustee",
     "Japanese": "受託者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14844,7 +12989,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tuesday",
     "Japanese": "火曜日",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14852,7 +12996,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Tuition",
     "Japanese": "学費",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14860,7 +13003,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Turbine",
     "Japanese": "タービン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14868,7 +13010,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Turnkey",
     "Japanese": "ターンキー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14876,7 +13017,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Twitter",
     "Japanese": "ツイッター",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14884,7 +13024,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Typical",
     "Japanese": "典型的な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14892,7 +13031,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Typists",
     "Japanese": "タイピスト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14900,7 +13038,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Unaware",
     "Japanese": "気づいていない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14908,7 +13045,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Unbound",
     "Japanese": "アンバウンド",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14916,7 +13052,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Unclear",
     "Japanese": "不明",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14924,7 +13059,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Uniform",
     "Japanese": "均一",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14932,7 +13066,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Unknown",
     "Japanese": "未知",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14940,7 +13073,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Unlucky",
     "Japanese": "不運",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14948,7 +13080,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Unusual",
     "Japanese": "普通でない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14956,7 +13087,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Updated",
     "Japanese": "更新済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14964,7 +13094,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Useless",
     "Japanese": "使い物にならない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14972,7 +13101,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Utility",
     "Japanese": "ユーティリティ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14980,7 +13108,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vacancy",
     "Japanese": "求人情報",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14988,7 +13115,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vaccine",
     "Japanese": "ワクチン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -14996,7 +13122,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vaguely",
     "Japanese": "漠然と",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15004,7 +13129,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Valiant",
     "Japanese": "勇敢な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15012,7 +13136,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Validly",
     "Japanese": "有効に",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15020,7 +13143,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vampire",
     "Japanese": "吸血鬼",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15028,7 +13150,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vanilla",
     "Japanese": "バニラ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15036,7 +13157,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Variant",
     "Japanese": "変異体",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15044,7 +13164,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Various",
     "Japanese": "様々な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15052,7 +13171,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vaulted",
     "Japanese": "アーチ型",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15060,7 +13178,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vehicle",
     "Japanese": "車両",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15068,7 +13185,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vending",
     "Japanese": "自動販売機",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15076,7 +13192,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Venture",
     "Japanese": "ベンチャー",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15084,7 +13199,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Verdict",
     "Japanese": "評決",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15092,7 +13206,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Version",
     "Japanese": "バージョン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15100,7 +13213,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Veteran",
     "Japanese": "ベテラン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15108,7 +13220,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vibrant",
     "Japanese": "鮮やかな",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15116,7 +13227,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Victory",
     "Japanese": "勝利",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15124,7 +13234,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Village",
     "Japanese": "村",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15132,7 +13241,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Violent",
     "Japanese": "暴力的",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15140,7 +13248,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Virtual",
     "Japanese": "バーチャル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15148,7 +13255,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Visible",
     "Japanese": "見える",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15156,7 +13262,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Visions",
     "Japanese": "ビジョン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15164,7 +13269,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Visitor",
     "Japanese": "ビジター",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15172,7 +13276,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vitamin",
     "Japanese": "ビタミン",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15180,7 +13283,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vividly",
     "Japanese": "鮮やかに",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15188,7 +13290,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Volcano",
     "Japanese": "火山",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15196,7 +13297,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Voltage",
     "Japanese": "電圧",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15204,7 +13304,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Vulture",
     "Japanese": "ハゲワシ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15212,7 +13311,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Waiting",
     "Japanese": "待っている",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15220,7 +13318,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Warding",
     "Japanese": "防護",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15228,7 +13325,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Warming",
     "Japanese": "温暖化",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15236,7 +13332,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Warning",
     "Japanese": "警告",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15244,7 +13339,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Warrant",
     "Japanese": "令状",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15252,7 +13346,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Warship",
     "Japanese": "軍艦",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15260,7 +13353,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Washing",
     "Japanese": "洗浄",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15268,7 +13360,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wealthy",
     "Japanese": "裕福な",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15276,7 +13367,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Weather",
     "Japanese": "天気",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15284,7 +13374,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Webcast",
     "Japanese": "ウェブキャスト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15292,7 +13381,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Website",
     "Japanese": "Webサイト",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15300,7 +13388,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wedding",
     "Japanese": "結婚式",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15308,7 +13395,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Weekend",
     "Japanese": "週末",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15316,7 +13402,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Welcome",
     "Japanese": "いらっしゃいませ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15324,7 +13409,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Welfare",
     "Japanese": "福祉",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15332,7 +13416,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Western",
     "Japanese": "西洋",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15340,7 +13423,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wetness",
     "Japanese": "濡れ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15348,7 +13430,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wheeled",
     "Japanese": "車輪付き",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15356,7 +13437,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Whereas",
     "Japanese": "一方",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15364,7 +13444,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Whether",
     "Japanese": "かどうか",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15372,7 +13451,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Whisper",
     "Japanese": "ささやき",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15380,7 +13458,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Whistle",
     "Japanese": "ホイッスル",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15388,7 +13465,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Whoever",
     "Japanese": "誰でも",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15396,7 +13472,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Windows",
     "Japanese": "Windows",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15404,7 +13479,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Winners",
     "Japanese": "受賞者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15412,7 +13486,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Winning",
     "Japanese": "勝利",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15420,7 +13493,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Winters",
     "Japanese": "ウィンターズ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15428,7 +13500,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wishing",
     "Japanese": "願いを込めて",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15436,7 +13507,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Witness",
     "Japanese": "目撃者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15444,7 +13514,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Workday",
     "Japanese": "ワークデイ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15452,7 +13521,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Working",
     "Japanese": "働く",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15460,7 +13528,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Workman",
     "Japanese": "労働者",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15468,7 +13535,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Workout",
     "Japanese": "いい結果",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15476,7 +13542,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Worship",
     "Japanese": "崇拝",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15484,7 +13549,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wrapped",
     "Japanese": "包装済み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15492,7 +13556,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wrestle",
     "Japanese": "レスリング",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15500,7 +13563,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Wrinkle",
     "Japanese": "しわ",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15508,7 +13570,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Writing",
     "Japanese": "書き込み",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15516,7 +13577,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Written",
     "Japanese": "執筆",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15524,7 +13584,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Yawning",
     "Japanese": "あくび",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15532,7 +13591,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Yielded",
     "Japanese": "譲り渡した",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15540,7 +13598,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Younger",
     "Japanese": "若い",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15548,7 +13605,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Zoology",
     "Japanese": "動物学",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15556,7 +13612,6 @@ window.typingData = [
     "Lvl": 4,
     "Text": "Zenless",
     "Japanese": "禅のない",
-    "isSafe": true,
     "Len": 7
   },
   {
@@ -15564,7 +13619,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Abnormal",
     "Japanese": "異常な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15572,7 +13626,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Absolute",
     "Japanese": "絶対",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15580,7 +13633,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Abstract",
     "Japanese": "抽象的な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15588,7 +13640,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Academic",
     "Japanese": "アカデミック",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15596,7 +13647,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Accepted",
     "Japanese": "承認済み",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15604,7 +13654,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Accident",
     "Japanese": "事故",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15612,7 +13661,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Accuracy",
     "Japanese": "正確さ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15620,7 +13668,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Accurate",
     "Japanese": "正確な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15628,7 +13675,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Achieved",
     "Japanese": "達成",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15636,7 +13682,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Acquired",
     "Japanese": "取得した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15644,7 +13689,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Activity",
     "Japanese": "活動",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15652,7 +13696,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Actually",
     "Japanese": "実は",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15660,7 +13703,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Addition",
     "Japanese": "追加",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15668,7 +13710,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Adequate",
     "Japanese": "十分な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15676,7 +13717,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Adjacent",
     "Japanese": "隣接",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15684,7 +13724,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Adjusted",
     "Japanese": "調整済み",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15692,7 +13731,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Advanced",
     "Japanese": "高度な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15700,7 +13738,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Advocate",
     "Japanese": "提唱する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15708,7 +13745,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Affinity",
     "Japanese": "親和性",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15716,7 +13752,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Aircraft",
     "Japanese": "航空機",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15724,7 +13759,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Alliance",
     "Japanese": "アライアンス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15732,7 +13766,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Alphabet",
     "Japanese": "アルファベット",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15740,7 +13773,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Analysis",
     "Japanese": "分析",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15748,7 +13780,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Ancestry",
     "Japanese": "祖先",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15756,7 +13787,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Announce",
     "Japanese": "発表する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15764,7 +13794,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Apparent",
     "Japanese": "明らかな",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15772,7 +13801,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Appetite",
     "Japanese": "食欲",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15780,7 +13808,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Approval",
     "Japanese": "承認",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15788,7 +13815,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Argument",
     "Japanese": "口論",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15796,7 +13822,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Artistic",
     "Japanese": "芸術的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15804,7 +13829,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Assembly",
     "Japanese": "組み立て",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15812,7 +13836,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Attitude",
     "Japanese": "態度",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15820,7 +13843,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Audience",
     "Japanese": "観客",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15828,7 +13850,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Backpack",
     "Japanese": "バックパック",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15836,7 +13857,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Backward",
     "Japanese": "後ろ向き",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15844,7 +13864,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Bacteria",
     "Japanese": "細菌",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15852,7 +13871,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Balanced",
     "Japanese": "バランスの取れた",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15860,7 +13878,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Barbecue",
     "Japanese": "バーベキュー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15868,7 +13885,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Barriers",
     "Japanese": "障壁",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15876,7 +13892,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Basement",
     "Japanese": "地下",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15884,7 +13899,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Becoming",
     "Japanese": "になる",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15892,7 +13906,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Behavior",
     "Japanese": "行動",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15900,7 +13913,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Believed",
     "Japanese": "信じた",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15908,7 +13920,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Benefits",
     "Japanese": "利点",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15916,7 +13927,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Beverage",
     "Japanese": "飲料",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15924,7 +13934,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Birthday",
     "Japanese": "誕生日",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15932,7 +13941,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Blocking",
     "Japanese": "ブロッキング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15940,7 +13948,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Boundary",
     "Japanese": "境界",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15948,7 +13955,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Branches",
     "Japanese": "支店",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15956,7 +13962,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Breaking",
     "Japanese": "速報",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15964,7 +13969,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Briefing",
     "Japanese": "ブリーフィング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15972,7 +13976,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Brighten",
     "Japanese": "明るくする",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15980,7 +13983,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Building",
     "Japanese": "建物",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15988,7 +13990,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Business",
     "Japanese": "仕事",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -15996,7 +13997,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Calendar",
     "Japanese": "カレンダー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16004,7 +14004,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Campaign",
     "Japanese": "キャンペーン",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16012,7 +14011,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Capacity",
     "Japanese": "容量",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16020,7 +14018,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Category",
     "Japanese": "カテゴリ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16028,7 +14025,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Catholic",
     "Japanese": "カトリック",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16036,7 +14032,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Cautious",
     "Japanese": "用心深い",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16044,7 +14039,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Cellular",
     "Japanese": "セルラー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16052,7 +14046,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Champion",
     "Japanese": "チャンピオン",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16060,7 +14053,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Changing",
     "Japanese": "変化",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16068,7 +14060,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Chemical",
     "Japanese": "化学薬品",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16076,7 +14067,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Children",
     "Japanese": "子供たち",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16084,7 +14074,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Circular",
     "Japanese": "円形",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16092,7 +14081,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Civilian",
     "Japanese": "民間人",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16100,7 +14088,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Cleaning",
     "Japanese": "クリーニング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16108,7 +14095,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Clinical",
     "Japanese": "臨床",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16116,7 +14102,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Clothing",
     "Japanese": "衣類",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16124,7 +14109,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Collapse",
     "Japanese": "崩壊",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16132,7 +14116,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Colonial",
     "Japanese": "コロニアル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16140,7 +14123,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Combined",
     "Japanese": "組み合わせ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16148,7 +14130,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Commerce",
     "Japanese": "商業",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16156,7 +14137,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Compound",
     "Japanese": "化合物",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16164,7 +14144,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Computer",
     "Japanese": "コンピューター",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16172,7 +14151,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Concrete",
     "Japanese": "コンクリート",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16180,7 +14158,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Conflict",
     "Japanese": "対立",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16188,7 +14165,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Constant",
     "Japanese": "絶え間ない",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16196,7 +14172,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Consumer",
     "Japanese": "消費者",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16204,7 +14179,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Continue",
     "Japanese": "続く",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16212,7 +14186,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Contrast",
     "Japanese": "対比",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16220,7 +14193,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Creative",
     "Japanese": "クリエイティブ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16228,7 +14200,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Critical",
     "Japanese": "致命的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16236,7 +14207,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Cultural",
     "Japanese": "文化",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16244,7 +14214,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Customer",
     "Japanese": "お客様",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16252,7 +14221,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Database",
     "Japanese": "データベース",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16260,7 +14228,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Daughter",
     "Japanese": "娘",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16268,7 +14235,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Deadline",
     "Japanese": "締め切り",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16276,7 +14242,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Deciding",
     "Japanese": "決定する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16284,7 +14249,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Decision",
     "Japanese": "決断",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16292,7 +14256,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Declared",
     "Japanese": "宣言された",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16300,7 +14263,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Decorate",
     "Japanese": "飾る",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16308,7 +14270,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Decrease",
     "Japanese": "減少",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16316,7 +14277,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Deferred",
     "Japanese": "延期",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16324,7 +14284,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Definite",
     "Japanese": "確定",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16332,7 +14291,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Delicate",
     "Japanese": "繊細",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16340,7 +14298,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Delivery",
     "Japanese": "配達",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16348,7 +14305,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Democrat",
     "Japanese": "民主党",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16356,7 +14312,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Describe",
     "Japanese": "説明する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16364,7 +14319,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Designer",
     "Japanese": "デザイナー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16372,7 +14326,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Detailed",
     "Japanese": "詳細",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16380,7 +14333,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Detected",
     "Japanese": "検出されました",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16388,7 +14340,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Dialogue",
     "Japanese": "対話",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16396,7 +14347,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Diameter",
     "Japanese": "直径",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16404,7 +14354,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Directly",
     "Japanese": "直接",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16412,7 +14361,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Director",
     "Japanese": "監督",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16420,7 +14368,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Disabled",
     "Japanese": "無効",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16428,7 +14375,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Disagree",
     "Japanese": "反対",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16436,7 +14382,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Disaster",
     "Japanese": "災害",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16444,7 +14389,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Discover",
     "Japanese": "発見する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16452,7 +14396,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Distance",
     "Japanese": "距離",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16460,7 +14403,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Distinct",
     "Japanese": "明確な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16468,7 +14410,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "District",
     "Japanese": "地区",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16476,7 +14417,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Document",
     "Japanese": "書類",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16484,7 +14424,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Domestic",
     "Japanese": "国内",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16492,7 +14431,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Dominant",
     "Japanese": "支配的な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16500,7 +14438,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Donation",
     "Japanese": "寄付",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16508,7 +14445,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Download",
     "Japanese": "ダウンロード",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16516,7 +14452,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Dramatic",
     "Japanese": "劇的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16524,7 +14459,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Duration",
     "Japanese": "間隔",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16532,7 +14466,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Dynamics",
     "Japanese": "ダイナミクス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16540,7 +14473,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Earnings",
     "Japanese": "収益",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16548,7 +14480,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Economic",
     "Japanese": "経済",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16556,7 +14487,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Editions",
     "Japanese": "版",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16564,7 +14494,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Educated",
     "Japanese": "教育を受けた",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16572,7 +14501,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Election",
     "Japanese": "選挙",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16580,7 +14508,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Electric",
     "Japanese": "電気",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16588,7 +14515,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Elements",
     "Japanese": "要素",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16596,7 +14522,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Elephant",
     "Japanese": "象",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16604,7 +14529,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Eligible",
     "Japanese": "適格",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16612,7 +14536,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Emphasis",
     "Japanese": "強調",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16620,7 +14543,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Employee",
     "Japanese": "従業員",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16628,7 +14550,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Enabling",
     "Japanese": "有効化",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16636,7 +14557,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Engineer",
     "Japanese": "エンジニア",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16644,7 +14564,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Enormous",
     "Japanese": "巨大な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16652,7 +14571,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Entirely",
     "Japanese": "全体的に",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16660,7 +14578,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Entrance",
     "Japanese": "入り口",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16668,7 +14585,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Envelope",
     "Japanese": "封筒",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16676,7 +14592,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Equality",
     "Japanese": "平等",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16684,7 +14599,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Equation",
     "Japanese": "方程式",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16692,7 +14606,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Equipped",
     "Japanese": "装備済み",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16700,7 +14613,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Estimate",
     "Japanese": "見積もり",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16708,7 +14620,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Everyday",
     "Japanese": "日常",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16716,7 +14627,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Evidence",
     "Japanese": "証拠",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16724,7 +14634,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Exchange",
     "Japanese": "交換",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16732,7 +14641,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Exercise",
     "Japanese": "エクササイズ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16740,7 +14648,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Existing",
     "Japanese": "既存",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16748,7 +14655,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Expanded",
     "Japanese": "拡張版",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16756,7 +14662,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Expected",
     "Japanese": "期待される",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16764,7 +14669,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Expenses",
     "Japanese": "費用",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16772,7 +14676,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Explicit",
     "Japanese": "明示的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16780,7 +14683,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Exposure",
     "Japanese": "暴露",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16788,7 +14690,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "External",
     "Japanese": "外部の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16796,7 +14697,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Facility",
     "Japanese": "施設",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16804,7 +14704,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Factored",
     "Japanese": "因数分解",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16812,7 +14711,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Fairness",
     "Japanese": "公平性",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16820,7 +14718,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Faithful",
     "Japanese": "忠実な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16828,7 +14725,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Familiar",
     "Japanese": "おなじみ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16836,7 +14732,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Families",
     "Japanese": "家族",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16844,7 +14739,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Favorite",
     "Japanese": "お気に入り",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16852,7 +14746,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Feasible",
     "Japanese": "実現可能",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16860,7 +14753,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Featured",
     "Japanese": "注目の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16868,7 +14760,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Feedback",
     "Japanese": "フィードバック",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16876,7 +14767,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Feelings",
     "Japanese": "感情",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16884,7 +14774,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Festival",
     "Japanese": "祭",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16892,7 +14781,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Fighting",
     "Japanese": "修羅",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16900,7 +14788,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Filipino",
     "Japanese": "フィリピン人",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16908,7 +14795,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Finished",
     "Japanese": "終了した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16916,7 +14802,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Firewall",
     "Japanese": "ファイアウォール",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16924,7 +14809,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Floating",
     "Japanese": "浮いている",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16932,7 +14816,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Focusing",
     "Japanese": "集中する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16940,7 +14823,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Football",
     "Japanese": "フットボール",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16948,7 +14830,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Forecast",
     "Japanese": "予報",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16956,7 +14837,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Forehead",
     "Japanese": "額",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16964,7 +14844,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Forestry",
     "Japanese": "林業",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16972,7 +14851,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Frontend",
     "Japanese": "フロントエンド",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16980,7 +14858,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Function",
     "Japanese": "関数",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16988,7 +14865,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Gambling",
     "Japanese": "ギャンブル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -16996,7 +14872,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Gathered",
     "Japanese": "集まった",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17004,7 +14879,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Generate",
     "Japanese": "生成する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17012,7 +14886,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Generous",
     "Japanese": "寛大",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17020,7 +14893,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Genetics",
     "Japanese": "遺伝学",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17028,7 +14900,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Geometry",
     "Japanese": "幾何学",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17036,7 +14907,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Gestures",
     "Japanese": "ジェスチャー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17044,7 +14914,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Glossary",
     "Japanese": "用語集",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17052,7 +14921,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Gradient",
     "Japanese": "勾配",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17060,7 +14928,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Graduate",
     "Japanese": "卒業",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17068,7 +14935,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Graphics",
     "Japanese": "グラフィック",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17076,7 +14942,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Grateful",
     "Japanese": "ありがたい",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17084,7 +14949,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Greeting",
     "Japanese": "挨拶",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17092,7 +14956,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Grouping",
     "Japanese": "グループ分け",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17100,7 +14963,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Guidance",
     "Japanese": "ガイダンス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17108,7 +14970,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Habitual",
     "Japanese": "習慣的な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17116,7 +14977,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Handheld",
     "Japanese": "手持ち",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17124,7 +14984,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Handling",
     "Japanese": "取り扱い",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17132,7 +14991,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Handsome",
     "Japanese": "ハンサム",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17140,7 +14998,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Hardware",
     "Japanese": "ハードウェア",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17148,7 +15005,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Headache",
     "Japanese": "頭痛",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17156,7 +15012,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Headline",
     "Japanese": "見出し",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17164,7 +15019,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Heritage",
     "Japanese": "遺産",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17172,7 +15026,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Hivemind",
     "Japanese": "集合意識",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17180,7 +15033,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Historic",
     "Japanese": "歴史的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17188,7 +15040,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Holidays",
     "Japanese": "休日",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17196,7 +15047,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Homeless",
     "Japanese": "ホームレス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17204,7 +15054,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Homework",
     "Japanese": "宿題",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17212,7 +15061,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Honestly",
     "Japanese": "正直に",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17220,7 +15068,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Hospital",
     "Japanese": "病院",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17228,7 +15075,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Humanity",
     "Japanese": "人類",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17236,7 +15082,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Identify",
     "Japanese": "識別する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17244,7 +15089,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Ideology",
     "Japanese": "イデオロギー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17252,7 +15096,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Ignorant",
     "Japanese": "無知",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17260,7 +15103,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Illusion",
     "Japanese": "錯覚",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17268,7 +15110,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Immature",
     "Japanese": "未熟",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17276,7 +15117,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Imminent",
     "Japanese": "差し迫った",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17284,7 +15124,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Immortal",
     "Japanese": "不死身",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17292,7 +15131,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Implicit",
     "Japanese": "暗黙",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17300,7 +15138,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Impostor",
     "Japanese": "偽者",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17308,7 +15145,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Increase",
     "Japanese": "増加",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17316,7 +15152,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Indicate",
     "Japanese": "示す",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17324,7 +15159,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Indirect",
     "Japanese": "間接的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17332,7 +15166,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Industry",
     "Japanese": "業界",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17340,7 +15173,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Infinity",
     "Japanese": "無限",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17348,7 +15180,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Inherent",
     "Japanese": "固有の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17356,7 +15187,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Innocent",
     "Japanese": "無実の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17364,7 +15194,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Inquired",
     "Japanese": "問い合わせた",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17372,7 +15201,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Inscribe",
     "Japanese": "登録する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17380,7 +15208,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Instance",
     "Japanese": "実例",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17388,7 +15215,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Instinct",
     "Japanese": "本能",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17396,7 +15222,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Instruct",
     "Japanese": "指示する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17404,7 +15229,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Insulate",
     "Japanese": "断熱する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17412,7 +15236,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Interact",
     "Japanese": "交流する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17420,7 +15243,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Interest",
     "Japanese": "興味",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17428,7 +15250,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Interior",
     "Japanese": "インテリア",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17436,7 +15257,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Internal",
     "Japanese": "内部",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17444,7 +15264,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Interval",
     "Japanese": "間隔",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17452,7 +15271,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Invasion",
     "Japanese": "侵入",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17460,7 +15278,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Inventor",
     "Japanese": "発明家",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17468,7 +15285,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Invested",
     "Japanese": "投資した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17476,7 +15292,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Involved",
     "Japanese": "関与した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17484,7 +15299,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Isolated",
     "Japanese": "孤立した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17492,7 +15306,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Japanese",
     "Japanese": "日本語",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17500,7 +15313,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Jealousy",
     "Japanese": "嫉妬",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17508,7 +15320,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Journeys",
     "Japanese": "旅",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17516,7 +15327,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Judgment",
     "Japanese": "判定",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17524,7 +15334,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Junction",
     "Japanese": "ジャンクション",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17532,7 +15341,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Keyboard",
     "Japanese": "キーボード",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17540,7 +15348,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Keywords",
     "Japanese": "キーワード",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17548,7 +15355,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Kindness",
     "Japanese": "親切",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17556,7 +15362,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Knitting",
     "Japanese": "編み物",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17564,7 +15369,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Language",
     "Japanese": "言語",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17572,7 +15376,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Laughter",
     "Japanese": "笑い",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17580,7 +15383,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Learning",
     "Japanese": "学ぶ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17588,7 +15390,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Lectures",
     "Japanese": "講義",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17596,7 +15397,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Lifetime",
     "Japanese": "一生",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17604,7 +15404,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Lighting",
     "Japanese": "点灯",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17612,7 +15411,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Literary",
     "Japanese": "文学",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17620,7 +15418,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Location",
     "Japanese": "位置",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17628,7 +15425,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Magnetic",
     "Japanese": "磁気",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17636,7 +15432,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Maintain",
     "Japanese": "維持する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17644,7 +15439,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Majority",
     "Japanese": "過半数",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17652,7 +15446,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Managing",
     "Japanese": "管理",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17660,7 +15453,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Manifest",
     "Japanese": "マニフェスト",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17668,7 +15460,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Marginal",
     "Japanese": "限界",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17676,7 +15467,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Marriage",
     "Japanese": "結婚",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17684,7 +15474,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Material",
     "Japanese": "材料",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17692,7 +15481,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Maximize",
     "Japanese": "最大化する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17700,7 +15488,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Measured",
     "Japanese": "測定済み",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17708,7 +15495,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Medicine",
     "Japanese": "薬",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17716,7 +15502,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Meetings",
     "Japanese": "会議",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17724,7 +15509,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Memories",
     "Japanese": "思い出",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17732,7 +15516,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Mentions",
     "Japanese": "言及",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17740,7 +15523,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Messages",
     "Japanese": "メッセージ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17748,7 +15530,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Military",
     "Japanese": "軍隊",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17756,7 +15537,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Minimize",
     "Japanese": "最小化する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17764,7 +15544,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Minority",
     "Japanese": "少数",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17772,7 +15551,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Mobility",
     "Japanese": "移動性",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17780,7 +15558,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Modeling",
     "Japanese": "モデリング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17788,7 +15565,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Moderate",
     "Japanese": "適度",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17796,7 +15572,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Momentum",
     "Japanese": "運動量",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17804,7 +15579,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Mountain",
     "Japanese": "山",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17812,7 +15586,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Movement",
     "Japanese": "動き",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17820,7 +15593,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Multiple",
     "Japanese": "複数",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17828,7 +15600,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Mutation",
     "Japanese": "突然変異",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17836,7 +15607,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "National",
     "Japanese": "全国",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17844,7 +15614,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Negative",
     "Japanese": "負の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17852,7 +15621,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Notebook",
     "Japanese": "ノート",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17860,7 +15628,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Numerous",
     "Japanese": "多数の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17868,7 +15635,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Obtained",
     "Japanese": "入手しました",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17876,7 +15642,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Occupied",
     "Japanese": "占有中",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17884,7 +15649,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Occurred",
     "Japanese": "発生した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17892,7 +15656,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Official",
     "Japanese": "正式",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17900,7 +15663,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Operated",
     "Japanese": "運営",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17908,7 +15670,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Opposite",
     "Japanese": "反対",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17916,7 +15677,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Ordinary",
     "Japanese": "普通",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17924,7 +15684,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Organize",
     "Japanese": "整理する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17932,7 +15691,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Original",
     "Japanese": "オリジナル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17940,7 +15698,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Outcomes",
     "Japanese": "結果",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17948,7 +15705,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Parallel",
     "Japanese": "平行",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17956,7 +15712,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Paranoia",
     "Japanese": "被害妄想",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17964,7 +15719,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Patients",
     "Japanese": "患者",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17972,7 +15726,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Parasite",
     "Japanese": "寄生虫",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17980,7 +15733,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Paradise",
     "Japanese": "パラダイス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17988,7 +15740,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Pentacle",
     "Japanese": "五芒星",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -17996,7 +15747,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Personal",
     "Japanese": "個人的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18004,7 +15754,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Physical",
     "Japanese": "物理的な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18012,7 +15761,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Platform",
     "Japanese": "プラットフォーム",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18020,7 +15768,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Pleasure",
     "Japanese": "喜び",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18028,7 +15775,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Politics",
     "Japanese": "政治",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18036,7 +15782,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Portrait",
     "Japanese": "肖像画",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18044,7 +15789,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Position",
     "Japanese": "位置",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18052,7 +15796,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Positive",
     "Japanese": "ポジティブ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18060,7 +15803,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Possible",
     "Japanese": "可能",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18068,7 +15810,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Practice",
     "Japanese": "練習する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18076,7 +15817,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Precious",
     "Japanese": "貴重な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18084,7 +15824,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Presence",
     "Japanese": "面前",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18092,7 +15831,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Pressure",
     "Japanese": "プレッシャー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18100,7 +15838,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Previous",
     "Japanese": "前の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18108,7 +15845,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Priority",
     "Japanese": "優先度",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18116,7 +15852,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Probably",
     "Japanese": "おそらく",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18124,7 +15859,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Produced",
     "Japanese": "制作",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18132,7 +15866,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Producer",
     "Japanese": "プロデューサー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18140,7 +15873,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Products",
     "Japanese": "製品",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18148,7 +15880,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Progress",
     "Japanese": "進捗",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18156,7 +15887,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Property",
     "Japanese": "財産",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18164,7 +15894,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Proposal",
     "Japanese": "提案",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18172,7 +15901,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Prospect",
     "Japanese": "見通し",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18180,7 +15908,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Protocol",
     "Japanese": "プロトコル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18188,7 +15915,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Provided",
     "Japanese": "提供された",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18196,7 +15922,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Purchase",
     "Japanese": "購入",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18204,7 +15929,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Quantity",
     "Japanese": "量",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18212,7 +15936,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Question",
     "Japanese": "質問",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18220,7 +15943,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Radiator",
     "Japanese": "ラジエーター",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18228,7 +15950,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Reaction",
     "Japanese": "反応",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18236,7 +15957,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Readings",
     "Japanese": "読書",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18244,7 +15964,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Received",
     "Japanese": "受け取った",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18252,7 +15971,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Recovery",
     "Japanese": "回復",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18260,7 +15978,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Regional",
     "Japanese": "地域",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18268,7 +15985,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Register",
     "Japanese": "登録する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18276,7 +15992,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Relative",
     "Japanese": "相対的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18284,7 +15999,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Relevant",
     "Japanese": "関連する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18292,7 +16006,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Reliable",
     "Japanese": "信頼性のある",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18300,7 +16013,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Religion",
     "Japanese": "宗教",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18308,7 +16020,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Remember",
     "Japanese": "覚えて",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18316,7 +16027,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Reporter",
     "Japanese": "記者",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18324,7 +16034,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Required",
     "Japanese": "必須",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18332,7 +16041,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Research",
     "Japanese": "研究",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18340,7 +16048,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Resident",
     "Japanese": "居住者",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18348,7 +16055,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Resource",
     "Japanese": "リソース",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18356,7 +16062,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Response",
     "Japanese": "応答",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18364,7 +16069,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Revision",
     "Japanese": "リビジョン",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18372,7 +16076,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Romantic",
     "Japanese": "ロマンチック",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18380,7 +16083,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Saboteur",
     "Japanese": "破壊工作員",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18388,7 +16090,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Sampling",
     "Japanese": "サンプリング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18396,7 +16097,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Scarcely",
     "Japanese": "ほとんど",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18404,7 +16104,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Scenario",
     "Japanese": "シナリオ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18412,7 +16111,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Schedule",
     "Japanese": "スケジュール",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18420,7 +16118,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Scotland",
     "Japanese": "スコットランド",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18428,7 +16125,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Security",
     "Japanese": "安全",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18436,7 +16132,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Selected",
     "Japanese": "選ばれた",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18444,7 +16139,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Sentence",
     "Japanese": "文",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18452,7 +16146,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Separate",
     "Japanese": "別",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18460,7 +16153,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Sequence",
     "Japanese": "順序",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18468,7 +16160,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Services",
     "Japanese": "サービス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18476,7 +16167,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Settings",
     "Japanese": "設定",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18484,7 +16174,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Shipment",
     "Japanese": "出荷",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18492,7 +16181,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Shortage",
     "Japanese": "不足",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18500,7 +16188,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Shoulder",
     "Japanese": "ショルダー",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18508,7 +16195,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Signaled",
     "Japanese": "合図",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18516,7 +16202,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Software",
     "Japanese": "ソフトウェア",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18524,7 +16209,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Solution",
     "Japanese": "解決",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18532,7 +16216,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Somewhat",
     "Japanese": "幾分",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18540,7 +16223,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Southern",
     "Japanese": "南部",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18548,7 +16230,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Specific",
     "Japanese": "特定の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18556,7 +16237,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Spectrum",
     "Japanese": "スペクトラム",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18564,7 +16244,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Standard",
     "Japanese": "標準",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18572,7 +16251,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Standing",
     "Japanese": "立っている",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18580,7 +16258,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Starting",
     "Japanese": "起動",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18588,7 +16265,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Stations",
     "Japanese": "駅",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18596,7 +16272,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Strategy",
     "Japanese": "戦略",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18604,7 +16279,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Strength",
     "Japanese": "強さ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18612,7 +16286,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Striking",
     "Japanese": "印象的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18620,7 +16293,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Strongly",
     "Japanese": "強く",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18628,7 +16300,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Struggle",
     "Japanese": "闘争",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18636,7 +16307,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Students",
     "Japanese": "学生",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18644,7 +16314,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Studying",
     "Japanese": "勉強する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18652,7 +16321,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Subjects",
     "Japanese": "対象者",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18660,7 +16328,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Succeeds",
     "Japanese": "成功する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18668,7 +16335,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Suitable",
     "Japanese": "適切な",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18676,7 +16342,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Superior",
     "Japanese": "優れた",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18684,7 +16349,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Supplied",
     "Japanese": "供給済み",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18692,7 +16356,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Supports",
     "Japanese": "サポート",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18700,7 +16363,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Supposed",
     "Japanese": "想定",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18708,7 +16370,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Surprise",
     "Japanese": "驚き",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18716,7 +16377,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Survival",
     "Japanese": "サバイバル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18724,7 +16384,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Swimming",
     "Japanese": "水泳",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18732,7 +16391,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Syllabus",
     "Japanese": "シラバス",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18740,7 +16398,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Symptoms",
     "Japanese": "症状",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18748,7 +16405,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Tactical",
     "Japanese": "戦術的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18756,7 +16412,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Talented",
     "Japanese": "才能のある",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18764,7 +16419,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Taxation",
     "Japanese": "課税",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18772,7 +16426,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Teaching",
     "Japanese": "教育",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18780,7 +16433,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Telegram",
     "Japanese": "電報",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18788,7 +16440,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Template",
     "Japanese": "テンプレート",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18796,7 +16447,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Temporal",
     "Japanese": "時間的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18804,7 +16454,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Terminal",
     "Japanese": "ターミナル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18812,7 +16461,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Terrible",
     "Japanese": "ひどい",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18820,7 +16468,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Thinking",
     "Japanese": "考え",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18828,7 +16475,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Thirteen",
     "Japanese": "13",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18836,7 +16482,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Thorough",
     "Japanese": "徹底的",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18844,7 +16489,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Thousand",
     "Japanese": "千",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18852,7 +16496,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Together",
     "Japanese": "一緒に",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18860,7 +16503,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Tomorrow",
     "Japanese": "明日",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18868,7 +16510,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Tracking",
     "Japanese": "トラッキング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18876,7 +16517,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Training",
     "Japanese": "トレーニング",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18884,7 +16524,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Transfer",
     "Japanese": "移行",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18892,7 +16531,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Traveled",
     "Japanese": "旅行した",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18900,7 +16538,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Treasury",
     "Japanese": "財務省",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18908,7 +16545,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Triangle",
     "Japanese": "三角形",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18916,7 +16552,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Tropical",
     "Japanese": "トロピカル",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18924,7 +16559,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Ultimate",
     "Japanese": "究極の",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18932,7 +16566,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Umbrella",
     "Japanese": "傘",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18940,7 +16573,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Underway",
     "Japanese": "進行中",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18948,7 +16580,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Upcoming",
     "Japanese": "近日公開",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18956,7 +16587,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Updating",
     "Japanese": "更新中",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18964,7 +16594,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Upstream",
     "Japanese": "上流",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18972,7 +16601,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Username",
     "Japanese": "ユーザー名",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18980,7 +16608,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Vacation",
     "Japanese": "休暇",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18988,7 +16615,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Variable",
     "Japanese": "変数",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -18996,7 +16622,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Variance",
     "Japanese": "分散",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19004,7 +16629,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Vertical",
     "Japanese": "垂直",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19012,7 +16636,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Violence",
     "Japanese": "暴力",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19020,7 +16643,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Visually",
     "Japanese": "視覚的に",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19028,7 +16650,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Volatile",
     "Japanese": "揮発性",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19036,7 +16657,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Warranty",
     "Japanese": "保証",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19044,7 +16664,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Weakness",
     "Japanese": "弱点",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19052,7 +16671,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Whenever",
     "Japanese": "いつでも",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19060,7 +16678,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Wildlife",
     "Japanese": "野生生物",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19068,7 +16685,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Withdraw",
     "Japanese": "撤回する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19076,7 +16692,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Workload",
     "Japanese": "作業負荷",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19084,7 +16699,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Workshop",
     "Japanese": "ワークショップ",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19092,7 +16706,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Yearbook",
     "Japanese": "年鑑",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19100,7 +16713,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Yielding",
     "Japanese": "譲歩する",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19108,7 +16720,6 @@ window.typingData = [
     "Lvl": 5,
     "Text": "Youthful",
     "Japanese": "若々しい",
-    "isSafe": true,
     "Len": 8
   },
   {
@@ -19116,7 +16727,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Abandoned",
     "Japanese": "放棄された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19124,7 +16734,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Abilities",
     "Japanese": "能力",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19132,7 +16741,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Abolished",
     "Japanese": "廃止",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19140,7 +16748,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Absorbing",
     "Japanese": "吸収する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19148,7 +16755,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Abundance",
     "Japanese": "豊富",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19156,7 +16762,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Accompany",
     "Japanese": "同行する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19164,7 +16769,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "According",
     "Japanese": "によると",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19172,7 +16776,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Achieving",
     "Japanese": "達成する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19180,7 +16783,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Acquiring",
     "Japanese": "取得する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19188,7 +16790,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Activated",
     "Japanese": "有効化済み",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19196,7 +16797,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Adventure",
     "Japanese": "アドベンチャー",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19204,7 +16804,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Bivariate",
     "Japanese": "二変量",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19212,7 +16811,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Backstage",
     "Japanese": "舞台裏",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19220,7 +16818,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Backwards",
     "Japanese": "逆向き",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19228,7 +16825,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Badminton",
     "Japanese": "バドミントン",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19236,7 +16832,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Ballistic",
     "Japanese": "弾道",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19244,7 +16839,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Barbarism",
     "Japanese": "野蛮行為",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19252,7 +16846,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Barometer",
     "Japanese": "バロメーター",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19260,7 +16853,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Beautiful",
     "Japanese": "美しい",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19268,7 +16860,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Beginning",
     "Japanese": "始まり",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19276,7 +16867,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Biography",
     "Japanese": "バイオグラフィー",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19284,7 +16874,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Calculate",
     "Japanese": "計算する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19292,7 +16881,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Candidate",
     "Japanese": "候補者",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19300,7 +16888,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Carefully",
     "Japanese": "気をつけて",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19308,7 +16895,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Celebrity",
     "Japanese": "有名人",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19316,7 +16902,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Challenge",
     "Japanese": "チャレンジ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19324,7 +16909,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Character",
     "Japanese": "キャラクター",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19332,7 +16916,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Chemistry",
     "Japanese": "化学",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19340,7 +16923,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Coagulant",
     "Japanese": "凝固剤",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19348,7 +16930,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Christmas",
     "Japanese": "クリスマス",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19356,7 +16937,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Classical",
     "Japanese": "クラシック",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19364,7 +16944,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Cognitive",
     "Japanese": "認知",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19372,7 +16951,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Committee",
     "Japanese": "委員会",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19380,7 +16958,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Complaint",
     "Japanese": "苦情",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19388,7 +16965,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Ceasefire",
     "Japanese": "停戦",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19396,7 +16972,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Dangerous",
     "Japanese": "危険な",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19404,7 +16979,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Dashboard",
     "Japanese": "ダッシュボード",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19412,7 +16986,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Databases",
     "Japanese": "データベース",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19420,7 +16993,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Daybroken",
     "Japanese": "夜明け",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19428,7 +17000,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Debatable",
     "Japanese": "議論の余地あり",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19436,7 +17007,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Deception",
     "Japanese": "欺瞞",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19444,7 +17014,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Decorated",
     "Japanese": "装飾された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19452,7 +17021,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Dedicated",
     "Japanese": "ひたむきな",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19460,7 +17028,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Defending",
     "Japanese": "防御",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19468,7 +17035,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Delicious",
     "Japanese": "美味しい",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19476,7 +17042,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Departure",
     "Japanese": "出発",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19484,7 +17049,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Different",
     "Japanese": "違う",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19492,7 +17056,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Dissonant",
     "Japanese": "不協和音",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19500,7 +17063,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Economics",
     "Japanese": "経済",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19508,7 +17070,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Education",
     "Japanese": "教育",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19516,7 +17077,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Effective",
     "Japanese": "効果的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19524,7 +17084,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Efficient",
     "Japanese": "効率的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19532,7 +17091,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Elaborate",
     "Japanese": "精巧な",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19540,7 +17098,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Electrons",
     "Japanese": "電子",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19548,7 +17105,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Elemental",
     "Japanese": "エレメンタル",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19556,7 +17112,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Eliminate",
     "Japanese": "なくす",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19564,7 +17119,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Elsewhere",
     "Japanese": "他の場所では",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19572,7 +17126,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Emergency",
     "Japanese": "緊急",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19580,7 +17133,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Emotional",
     "Japanese": "感情的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19588,7 +17140,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Emptiness",
     "Japanese": "空虚",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19596,7 +17147,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Fabricate",
     "Japanese": "製造する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19604,7 +17154,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Factories",
     "Japanese": "工場",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19612,7 +17161,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Fantastic",
     "Japanese": "素晴らしい",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19620,7 +17168,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Fascinate",
     "Japanese": "魅了する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19628,7 +17175,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Fashioned",
     "Japanese": "ファッショナブル",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19636,7 +17182,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Favorable",
     "Japanese": "好ましい",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19644,7 +17189,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Frequency",
     "Japanese": "頻度",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19652,7 +17196,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Featuring",
     "Japanese": "特集",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19660,7 +17203,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Financial",
     "Japanese": "金融",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19668,7 +17210,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Fireworks",
     "Japanese": "花火",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19676,7 +17217,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Gathering",
     "Japanese": "集会",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19684,7 +17224,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Generated",
     "Japanese": "生成された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19692,7 +17231,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Generator",
     "Japanese": "ジェネレータ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19700,7 +17238,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Gentleman",
     "Japanese": "紳士",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19708,7 +17245,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Geography",
     "Japanese": "地理",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19716,7 +17252,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Geometric",
     "Japanese": "幾何学的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19724,7 +17259,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Globalize",
     "Japanese": "グローバル化する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19732,7 +17266,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Glowingly",
     "Japanese": "輝いて",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19740,7 +17273,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Gossipers",
     "Japanese": "噂好き",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19748,7 +17280,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Handshake",
     "Japanese": "ハンドシェーク",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19756,7 +17287,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Happiness",
     "Japanese": "幸せ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19764,7 +17294,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Hardships",
     "Japanese": "苦難",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19772,7 +17301,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Harmonica",
     "Japanese": "ハーモニカ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19780,7 +17308,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Heaviness",
     "Japanese": "重さ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19788,7 +17315,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Hydration",
     "Japanese": "水分補給",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19796,7 +17322,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Highlight",
     "Japanese": "ハイライト",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19804,7 +17329,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Hijacking",
     "Japanese": "ハイジャック",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19812,7 +17336,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Hindsight",
     "Japanese": "後知恵",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19820,7 +17343,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Historian",
     "Japanese": "歴史家",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19828,7 +17350,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Horoscope",
     "Japanese": "星占い",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19836,7 +17357,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Identical",
     "Japanese": "同一",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19844,7 +17364,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Ignorance",
     "Japanese": "無知",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19852,7 +17371,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Immediate",
     "Japanese": "すぐに",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19860,7 +17378,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Implement",
     "Japanese": "埋め込む",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19868,7 +17385,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Important",
     "Japanese": "重要",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19876,7 +17392,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Impressed",
     "Japanese": "感動した",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19884,7 +17399,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Incentive",
     "Japanese": "インセンティブ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19892,7 +17406,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Including",
     "Japanese": "含む",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19900,7 +17413,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Indicator",
     "Japanese": "インジケータ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19908,7 +17420,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Inflation",
     "Japanese": "インフレーション",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19916,7 +17427,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Influence",
     "Japanese": "影響",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19924,7 +17434,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Jailbreak",
     "Japanese": "脱獄",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19932,7 +17441,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Jointures",
     "Japanese": "関節",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19940,7 +17448,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Journaled",
     "Japanese": "日記",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19948,7 +17455,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Judgement",
     "Japanese": "審判",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19956,7 +17462,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Judiciary",
     "Japanese": "司法",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19964,7 +17469,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Justified",
     "Japanese": "正当化された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19972,7 +17476,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Keelboats",
     "Japanese": "キールボート",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19980,7 +17483,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Keepsakes",
     "Japanese": "記念品",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19988,7 +17490,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Keystroke",
     "Japanese": "キーストローク",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -19996,7 +17497,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Kidnapped",
     "Japanese": "誘拐された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20004,7 +17504,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Landscape",
     "Japanese": "風景",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20012,7 +17511,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Languages",
     "Japanese": "言語",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20020,7 +17518,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Lixiviate",
     "Japanese": "浸出液",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20028,7 +17525,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Launchers",
     "Japanese": "ランチャー",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20036,7 +17532,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Lecturers",
     "Japanese": "講師",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20044,7 +17539,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Leviathan",
     "Japanese": "リヴァイアサン",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20052,7 +17546,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Lifestyle",
     "Japanese": "ライフスタイル",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20060,7 +17553,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Lightning",
     "Japanese": "稲妻",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20068,7 +17560,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Logistics",
     "Japanese": "ロジスティクス",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20076,7 +17567,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Machinery",
     "Japanese": "機械",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20084,7 +17574,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Magazines",
     "Japanese": "雑誌",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20092,7 +17581,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Magnitude",
     "Japanese": "規模",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20100,7 +17588,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Maintains",
     "Japanese": "維持する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20108,7 +17595,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Malicious",
     "Japanese": "悪意のある",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20116,7 +17602,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Mandatory",
     "Japanese": "必須",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20124,7 +17609,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Marketing",
     "Japanese": "マーケティング",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20132,7 +17616,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Materials",
     "Japanese": "材料",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20140,7 +17623,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Meanwhile",
     "Japanese": "その間",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20148,7 +17630,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Mechanism",
     "Japanese": "機構",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20156,7 +17637,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Magnesium",
     "Japanese": "マグネシウム",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20164,7 +17644,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Mountains",
     "Japanese": "山々",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20172,7 +17651,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Narrative",
     "Japanese": "物語",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20180,7 +17658,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Narrowing",
     "Japanese": "狭める",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20188,7 +17665,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Nationals",
     "Japanese": "全国大会",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20196,7 +17672,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Naturally",
     "Japanese": "当然",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20204,7 +17679,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Necessary",
     "Japanese": "必要",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20212,7 +17686,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Neighbors",
     "Japanese": "隣人",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20220,7 +17693,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Newspaper",
     "Japanese": "新聞",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20228,7 +17700,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Nightmare",
     "Japanese": "悪夢",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20236,7 +17707,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Nonprofit",
     "Japanese": "非営利団体",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20244,7 +17714,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Notebooks",
     "Japanese": "ノート",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20252,7 +17721,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Objection",
     "Japanese": "異議",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20260,7 +17728,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Objective",
     "Japanese": "客観的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20268,7 +17735,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Obligated",
     "Japanese": "義務を負う",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20276,7 +17742,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Observers",
     "Japanese": "観察者",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20284,7 +17749,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Obsession",
     "Japanese": "執着",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20292,7 +17756,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Obstacles",
     "Japanese": "障害物",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20300,7 +17763,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Obtaining",
     "Japanese": "取得",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20308,7 +17770,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Obviously",
     "Japanese": "明らかに",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20316,7 +17777,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Occasions",
     "Japanese": "機会",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20324,7 +17784,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Otherwise",
     "Japanese": "さもないと",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20332,7 +17791,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Operation",
     "Japanese": "手術",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20340,7 +17798,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Organized",
     "Japanese": "整頓された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20348,7 +17805,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Paintings",
     "Japanese": "絵画",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20356,7 +17812,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Paragraph",
     "Japanese": "段落",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20364,7 +17819,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Partition",
     "Japanese": "パーティション",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20372,7 +17826,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Passenger",
     "Japanese": "乗客",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20380,7 +17833,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Passwords",
     "Japanese": "パスワード",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20388,7 +17840,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Penalties",
     "Japanese": "罰則",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20396,7 +17847,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Perfectly",
     "Japanese": "完璧に",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20404,7 +17854,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Permanent",
     "Japanese": "永続",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20412,7 +17861,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Personnel",
     "Japanese": "人事",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20420,7 +17868,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Platforms",
     "Japanese": "プラットフォーム",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20428,7 +17875,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quadrants",
     "Japanese": "象限",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20436,7 +17882,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Qualified",
     "Japanese": "資格のある",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20444,7 +17889,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Qualities",
     "Japanese": "特性",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20452,7 +17896,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quantized",
     "Japanese": "量子化された",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20460,7 +17903,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quantizer",
     "Japanese": "量子化器",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20468,7 +17910,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quarterly",
     "Japanese": "四半期ごと",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20476,7 +17917,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quatrains",
     "Japanese": "四行詩",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20484,7 +17924,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Questions",
     "Japanese": "質問",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20492,7 +17931,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quibbling",
     "Japanese": "屁理屈",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20500,7 +17938,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quickness",
     "Japanese": "素早さ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20508,7 +17945,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quiescent",
     "Japanese": "静止状態",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20516,7 +17952,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quietness",
     "Japanese": "静寂",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20524,7 +17959,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Quotation",
     "Japanese": "引用",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20532,7 +17966,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Radiation",
     "Japanese": "放射線",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20540,7 +17973,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Rainfalls",
     "Japanese": "降雨量",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20548,7 +17980,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Realistic",
     "Japanese": "リアル",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20556,7 +17987,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Reasoning",
     "Japanese": "推論",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20564,7 +17994,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Receiving",
     "Japanese": "受信",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20572,7 +18001,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Reference",
     "Japanese": "参照",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20580,7 +18008,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Regarding",
     "Japanese": "に関して",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20588,7 +18015,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Relations",
     "Japanese": "関係",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20596,7 +18022,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Religious",
     "Japanese": "宗教的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20604,7 +18029,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Resources",
     "Japanese": "リソース",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20612,7 +18036,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Sacrifice",
     "Japanese": "犠牲",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20620,7 +18043,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Satisfied",
     "Japanese": "満足",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20628,7 +18050,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Scenarios",
     "Japanese": "シナリオ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20636,7 +18057,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Secondary",
     "Japanese": "二次",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20644,7 +18064,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Selection",
     "Japanese": "選択",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20652,7 +18071,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Sensitive",
     "Japanese": "センシティブ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20660,7 +18078,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Supernova",
     "Japanese": "超新星",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20668,7 +18085,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Situation",
     "Japanese": "状況",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20676,7 +18092,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Solutions",
     "Japanese": "ソリューション",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20684,7 +18099,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Something",
     "Japanese": "何か",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20692,7 +18106,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Specialty",
     "Japanese": "専門",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20700,7 +18113,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Tailoring",
     "Japanese": "仕立て",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20708,7 +18120,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Technical",
     "Japanese": "テクニカル",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20716,7 +18127,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Technique",
     "Japanese": "技術",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20724,7 +18134,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Telephone",
     "Japanese": "電話",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20732,7 +18141,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Temporary",
     "Japanese": "一時的",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20740,7 +18148,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Territory",
     "Japanese": "地域",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20748,7 +18155,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Therefore",
     "Japanese": "したがって",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20756,7 +18162,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Thousands",
     "Japanese": "数千",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20764,7 +18169,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Threshold",
     "Japanese": "しきい値",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20772,7 +18176,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Tolerance",
     "Japanese": "許容範囲",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20780,7 +18183,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Tradition",
     "Japanese": "伝統",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20788,7 +18190,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Transport",
     "Japanese": "輸送",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20796,7 +18197,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Unanimous",
     "Japanese": "満場一致",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20804,7 +18204,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Uncertain",
     "Japanese": "不確実",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20812,7 +18211,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Unchanged",
     "Japanese": "変更なし",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20820,7 +18218,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Undefined",
     "Japanese": "未定義",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20828,7 +18225,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Underline",
     "Japanese": "下線",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20836,7 +18232,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Underwent",
     "Japanese": "経験",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20844,7 +18239,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Unlimited",
     "Japanese": "無制限",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20852,7 +18246,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Unnatural",
     "Japanese": "不自然",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20860,7 +18253,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Unrelated",
     "Japanese": "関係ない",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20868,7 +18260,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Unusually",
     "Japanese": "珍しい",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20876,7 +18267,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Vacations",
     "Japanese": "休暇",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20884,7 +18274,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Valentine",
     "Japanese": "バレンタイン",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20892,7 +18281,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Variables",
     "Japanese": "変数",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20900,7 +18288,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Variation",
     "Japanese": "変化",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20908,7 +18295,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Vegetable",
     "Japanese": "野菜",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20916,7 +18302,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Vehicular",
     "Japanese": "車両",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20924,7 +18309,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Venerable",
     "Japanese": "尊者",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20932,7 +18316,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Ventilate",
     "Japanese": "換気する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20940,7 +18323,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Verbalize",
     "Japanese": "言葉にする",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20948,7 +18330,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Versatile",
     "Japanese": "多用途",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20956,7 +18337,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Vibration",
     "Japanese": "振動",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20964,7 +18344,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Violation",
     "Japanese": "違反",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20972,7 +18351,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Warehouse",
     "Japanese": "倉庫",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20980,7 +18358,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Watermark",
     "Japanese": "透かし",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20988,7 +18365,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Weakening",
     "Japanese": "弱体化",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -20996,7 +18372,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Weaponize",
     "Japanese": "武器化する",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21004,7 +18379,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Weathered",
     "Japanese": "風化した",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21012,7 +18386,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Wednesday",
     "Japanese": "水曜日",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21020,7 +18393,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Weighting",
     "Japanese": "重み付け",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21028,7 +18400,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Wellbeing",
     "Japanese": "幸福",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21036,7 +18407,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Wheelbase",
     "Japanese": "ホイールベース",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21044,7 +18414,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Whispered",
     "Japanese": "ささやき声",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21052,7 +18421,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Workplace",
     "Japanese": "職場",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21060,7 +18428,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xenograft",
     "Japanese": "異種移植",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21068,7 +18435,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xenoliths",
     "Japanese": "ゼノリス",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21076,7 +18442,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xenophile",
     "Japanese": "異種愛好者",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21084,7 +18449,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xerograph",
     "Japanese": "ゼログラフ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21092,7 +18456,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xerophyte",
     "Japanese": "乾燥地植物",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21100,7 +18463,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xylograph",
     "Japanese": "木版画",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21108,7 +18470,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xylophone",
     "Japanese": "木琴",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21116,7 +18477,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Xylylenes",
     "Japanese": "キシリレン",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21124,7 +18484,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Yardstick",
     "Japanese": "物差し",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21132,7 +18491,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Yesterday",
     "Japanese": "昨日",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21140,7 +18498,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Yieldable",
     "Japanese": "譲りやすい",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21148,7 +18505,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Zealously",
     "Japanese": "熱心に",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21156,7 +18512,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Zestfully",
     "Japanese": "熱心に",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21164,7 +18519,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Zincified",
     "Japanese": "亜鉛メッキ",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21172,7 +18526,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Zoologies",
     "Japanese": "動物学",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21180,7 +18533,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Zoologist",
     "Japanese": "動物学者",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21188,7 +18540,6 @@ window.typingData = [
     "Lvl": 6,
     "Text": "Zoophytes",
     "Japanese": "動物植物",
-    "isSafe": true,
     "Len": 9
   },
   {
@@ -21196,7 +18547,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Abandoning",
     "Japanese": "放棄する",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21204,7 +18554,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Absolutely",
     "Japanese": "絶対に",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21212,7 +18561,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Adaptation",
     "Japanese": "適応",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21220,7 +18568,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Accusation",
     "Japanese": "告発",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21228,7 +18575,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Activation",
     "Japanese": "アクティベーション",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21236,7 +18582,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Admiration",
     "Japanese": "賞賛",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21244,7 +18589,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Allocation",
     "Japanese": "割り当て",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21252,7 +18596,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Alteration",
     "Japanese": "変更",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21260,7 +18603,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Ambassador",
     "Japanese": "大使",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21268,7 +18610,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Analytical",
     "Japanese": "分析的",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21276,7 +18617,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Background",
     "Japanese": "背景",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21284,7 +18624,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Basketball",
     "Japanese": "バスケットボール",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21292,7 +18631,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Beneficial",
     "Japanese": "有益",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21300,7 +18638,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Biological",
     "Japanese": "生物学的",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21308,7 +18645,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Bankruptcy",
     "Japanese": "破産",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21316,7 +18652,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Brightness",
     "Japanese": "輝度",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21324,7 +18659,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Bottleneck",
     "Japanese": "ボトルネック",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21332,7 +18666,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Bookkeeper",
     "Japanese": "簿記係",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21340,7 +18673,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Birthplace",
     "Japanese": "出生地",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21348,7 +18680,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Broadening",
     "Japanese": "拡大",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21356,7 +18687,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Collection",
     "Japanese": "コレクション",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21364,7 +18694,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Connection",
     "Japanese": "繋がり",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21372,7 +18701,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Correction",
     "Japanese": "修正",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21380,7 +18708,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Controller",
     "Japanese": "コントローラ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21388,7 +18715,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Comparison",
     "Japanese": "比較",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21396,7 +18722,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Consistent",
     "Japanese": "一貫性のある",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21404,7 +18729,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Conclusion",
     "Japanese": "結論",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21412,7 +18736,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Creativity",
     "Japanese": "創造性",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21420,7 +18743,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Crocodiles",
     "Japanese": "ワニ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21428,7 +18750,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Dictionary",
     "Japanese": "辞書",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21436,7 +18757,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Difference",
     "Japanese": "違い",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21444,7 +18764,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Discussion",
     "Japanese": "議論",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21452,7 +18771,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Definition",
     "Japanese": "意味",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21460,7 +18778,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Discipline",
     "Japanese": "規律",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21468,7 +18785,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Dependence",
     "Japanese": "依存",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21476,7 +18792,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Decorative",
     "Japanese": "装飾的",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21484,7 +18799,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Dedication",
     "Japanese": "献身",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21492,7 +18806,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Delegation",
     "Japanese": "代表団",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21500,7 +18813,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Everything",
     "Japanese": "すべて",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21508,7 +18820,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Experience",
     "Japanese": "経験",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21516,7 +18827,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Evaluation",
     "Japanese": "評価",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21524,7 +18834,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Expression",
     "Japanese": "表現",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21532,7 +18841,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Electronic",
     "Japanese": "電子",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21540,7 +18848,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Enrollment",
     "Japanese": "登録",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21548,7 +18855,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Employment",
     "Japanese": "雇用",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21556,7 +18862,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Efficiency",
     "Japanese": "効率",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21564,7 +18869,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Equivalent",
     "Japanese": "同等",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21572,7 +18876,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Foundation",
     "Japanese": "財団",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21580,7 +18883,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Friendship",
     "Japanese": "友情",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21588,7 +18890,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Functional",
     "Japanese": "機能的",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21596,7 +18897,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Federation",
     "Japanese": "フェデレーション",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21604,7 +18904,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Fascinated",
     "Japanese": "魅了された",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21612,7 +18911,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Filtration",
     "Japanese": "濾過",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21620,7 +18918,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Furnishing",
     "Japanese": "提供",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21628,7 +18925,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Facilitate",
     "Japanese": "促進する",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21636,7 +18932,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Generation",
     "Japanese": "世代",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21644,7 +18939,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Government",
     "Japanese": "政府",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21652,7 +18946,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Graduation",
     "Japanese": "卒業",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21660,7 +18953,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Guidelines",
     "Japanese": "ガイドライン",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21668,7 +18960,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Greenhouse",
     "Japanese": "温室",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21676,7 +18967,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Groundwork",
     "Japanese": "下地",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21684,7 +18974,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Gracefully",
     "Japanese": "優雅に",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21692,7 +18981,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Gatherings",
     "Japanese": "集会",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21700,7 +18988,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Goalkeeper",
     "Japanese": "ゴールキーパー",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21708,7 +18995,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Hanged man",
     "Japanese": "吊るされた男",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21716,7 +19002,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Historical",
     "Japanese": "歴史的",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21724,7 +19009,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Households",
     "Japanese": "世帯",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21732,7 +19016,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Healthcare",
     "Japanese": "健康管理",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21740,7 +19023,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Helplessly",
     "Japanese": "どうしようもなく",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21748,7 +19030,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Harmonized",
     "Japanese": "調和",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21756,7 +19037,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Heartbeats",
     "Japanese": "心臓の鼓動",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21764,7 +19044,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Hierophant",
     "Japanese": "法王",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21772,7 +19051,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Humanities",
     "Japanese": "人文科学",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21780,7 +19058,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Hypothesis",
     "Japanese": "仮説",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21788,7 +19065,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Importance",
     "Japanese": "重要性",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21796,7 +19072,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Innovation",
     "Japanese": "革新",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21804,7 +19079,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Investment",
     "Japanese": "投資",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21812,7 +19086,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Inspection",
     "Japanese": "検査",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21820,7 +19093,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Instructor",
     "Japanese": "インストラクター",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21828,7 +19100,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Influences",
     "Japanese": "影響",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21836,7 +19107,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Interviews",
     "Japanese": "インタビュー",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21844,7 +19114,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Improvised",
     "Japanese": "即興",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21852,7 +19121,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Journalism",
     "Japanese": "ジャーナリズム",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21860,7 +19128,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Justifying",
     "Japanese": "正当化する",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21868,7 +19135,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Juxtaposed",
     "Japanese": "並置された",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21876,7 +19142,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Jellybeans",
     "Japanese": "ジェリービーンズ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21884,7 +19149,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Jovialness",
     "Japanese": "陽気さ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21892,7 +19156,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Judicially",
     "Japanese": "司法的に",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21900,7 +19163,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Jargonized",
     "Japanese": "専門用語で",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21908,7 +19170,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Joyfulness",
     "Japanese": "喜び",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21916,7 +19177,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Kickboxing",
     "Japanese": "キックボクシング",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21924,7 +19184,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Leadership",
     "Japanese": "リーダーシップ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21932,7 +19191,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Left alone",
     "Japanese": "取り残された",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21940,7 +19198,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Literature",
     "Japanese": "文学",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21948,7 +19205,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Likelihood",
     "Japanese": "可能性",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21956,7 +19212,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Longitudes",
     "Japanese": "経度",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21964,7 +19219,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Labyrinths",
     "Japanese": "迷路",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21972,7 +19226,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Landscapes",
     "Japanese": "風景",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21980,7 +19233,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Lifeguards",
     "Japanese": "ライフガード",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21988,7 +19240,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Management",
     "Japanese": "管理",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -21996,7 +19247,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Motivation",
     "Japanese": "モチベーション",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22004,7 +19254,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Monitoring",
     "Japanese": "監視",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22012,7 +19261,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Membership",
     "Japanese": "会員",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22020,7 +19268,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Mastermind",
     "Japanese": "首謀者",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22028,7 +19275,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Microphone",
     "Japanese": "マイクロフォン",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22036,7 +19282,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Milestones",
     "Japanese": "マイルストーン",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22044,7 +19289,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Modernized",
     "Japanese": "近代化された",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22052,7 +19296,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Navigation",
     "Japanese": "ナビゲーション",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22060,7 +19303,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Nationwide",
     "Japanese": "全国",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22068,7 +19310,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Newsletter",
     "Japanese": "ニュースレター",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22076,7 +19317,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Noteworthy",
     "Japanese": "注目すべき",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22084,7 +19324,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Numberless",
     "Japanese": "数えきれないほど",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22092,7 +19331,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Nightshift",
     "Japanese": "夜勤",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22100,7 +19338,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Narratives",
     "Japanese": "物語",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22108,7 +19345,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Operations",
     "Japanese": "業務",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22116,7 +19352,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Occupation",
     "Japanese": "職業",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22124,7 +19359,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Overloaded",
     "Japanese": "過負荷",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22132,7 +19366,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Overlooked",
     "Japanese": "見落とされている",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22140,7 +19373,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Production",
     "Japanese": "生産",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22148,7 +19380,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Processing",
     "Japanese": "処理",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22156,7 +19387,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Prediction",
     "Japanese": "予測",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22164,7 +19394,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Proportion",
     "Japanese": "割合",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22172,7 +19401,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Permission",
     "Japanese": "許可",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22180,7 +19408,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Population",
     "Japanese": "人口",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22188,7 +19415,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Quarantine",
     "Japanese": "検疫",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22196,7 +19422,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Quickening",
     "Japanese": "加速",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22204,7 +19429,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Questioned",
     "Japanese": "質問された",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22212,7 +19436,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Quadratics",
     "Japanese": "二次方程式",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22220,7 +19443,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Regulation",
     "Japanese": "規制",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22228,7 +19450,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Reputation",
     "Japanese": "評判",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22236,7 +19457,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Resolution",
     "Japanese": "解決",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22244,7 +19464,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Reflection",
     "Japanese": "反射",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22252,7 +19471,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Revolution",
     "Japanese": "回転",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22260,7 +19478,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Relocation",
     "Japanese": "転居",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22268,7 +19485,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Recreation",
     "Japanese": "レクリエーション",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22276,7 +19492,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Reinforced",
     "Japanese": "強化",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22284,7 +19499,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Statistics",
     "Japanese": "統計",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22292,7 +19506,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Temperance",
     "Japanese": "節制",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22300,7 +19513,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Transforms",
     "Japanese": "変換する",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22308,7 +19520,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Technology",
     "Japanese": "テクノロジー",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22316,7 +19527,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Tournament",
     "Japanese": "トーナメント",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22324,7 +19534,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Television",
     "Japanese": "テレビ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22332,7 +19541,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Tremendous",
     "Japanese": "途方もない",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22340,7 +19548,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Tolerances",
     "Japanese": "許容誤差",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22348,7 +19555,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Transistor",
     "Japanese": "トランジスタ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22356,7 +19562,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Transports",
     "Japanese": "輸送",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22364,7 +19569,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Treatments",
     "Japanese": "治療法",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22372,7 +19576,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Thresholds",
     "Japanese": "しきい値",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22380,7 +19583,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Trajectory",
     "Japanese": "軌跡",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22388,7 +19590,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Turbulence",
     "Japanese": "乱流",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22396,7 +19597,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Turnaround",
     "Japanese": "振り向く",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22404,7 +19604,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Understand",
     "Japanese": "理解する",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22412,7 +19611,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Undertaken",
     "Japanese": "実施",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22420,7 +19618,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Underlying",
     "Japanese": "基礎",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22428,7 +19625,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unpleasant",
     "Japanese": "不快",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22436,7 +19632,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unofficial",
     "Japanese": "非公式",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22444,7 +19639,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unbalanced",
     "Japanese": "不均衡",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22452,7 +19646,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unfamiliar",
     "Japanese": "馴染みのない",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22460,7 +19653,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unbeliever",
     "Japanese": "無信者",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22468,7 +19660,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unthinking",
     "Japanese": "考えずに",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22476,7 +19667,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unemployed",
     "Japanese": "失業者",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22484,7 +19674,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unreliable",
     "Japanese": "信頼できない",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22492,7 +19681,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unresolved",
     "Japanese": "未解決",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22500,7 +19688,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Unorthodox",
     "Japanese": "型破り",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22508,7 +19695,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Validation",
     "Japanese": "検証",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22516,7 +19702,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Ventilator",
     "Japanese": "人工呼吸器",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22524,7 +19709,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Vegetation",
     "Japanese": "植生",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22532,7 +19716,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Vocabulary",
     "Japanese": "語彙",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22540,7 +19723,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Volatility",
     "Japanese": "変動性",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22548,7 +19730,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Visibility",
     "Japanese": "可視性",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22556,7 +19737,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Vindicator",
     "Japanese": "ヴィンディケーター",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22564,7 +19744,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Vigilantes",
     "Japanese": "自警団",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22572,7 +19751,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Waterproof",
     "Japanese": "防水",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22580,7 +19758,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Withdrawal",
     "Japanese": "撤退",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22588,7 +19765,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Workaholic",
     "Japanese": "仕事中毒",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22596,7 +19772,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Wavelength",
     "Japanese": "波長",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22604,7 +19779,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Widespread",
     "Japanese": "広範囲にわたる",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22612,7 +19786,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Wheelchair",
     "Japanese": "車椅子",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22620,7 +19793,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Whitespace",
     "Japanese": "空白",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22628,7 +19800,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Woodworker",
     "Japanese": "木工職人",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22636,7 +19807,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Watchtower",
     "Japanese": "ものみの塔",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22644,7 +19814,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Waterborne",
     "Japanese": "水系",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22652,7 +19821,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xenophobia",
     "Japanese": "外国人嫌悪",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22660,7 +19828,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xenolithic",
     "Japanese": "異石器時代",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22668,7 +19835,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xenobiotic",
     "Japanese": "異種生体",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22676,7 +19842,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xylophones",
     "Japanese": "木琴",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22684,7 +19849,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xanthation",
     "Japanese": "キサントゲン",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22692,7 +19856,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xenocrysts",
     "Japanese": "異種結晶",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22700,7 +19863,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Xerophytic",
     "Japanese": "乾燥地性",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22708,7 +19870,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Yellowtail",
     "Japanese": "ブリ",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22716,7 +19877,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Yieldingly",
     "Japanese": "従順に",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22724,7 +19884,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Ytterbiums",
     "Japanese": "イッテルビウム",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22732,7 +19891,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Zookeepers",
     "Japanese": "動物園の飼育員",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22740,7 +19898,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Zoological",
     "Japanese": "動物学",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22748,7 +19905,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Zoologists",
     "Japanese": "動物学者",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22756,7 +19912,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Zymologist",
     "Japanese": "酵素学者",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22764,7 +19919,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Zymologies",
     "Japanese": "酵素学",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22772,7 +19926,6 @@ window.typingData = [
     "Lvl": 7,
     "Text": "Zirconiums",
     "Japanese": "ジルコニウム",
-    "isSafe": true,
     "Len": 10
   },
   {
@@ -22780,7 +19933,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Abandonment",
     "Japanese": "放棄",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22788,7 +19940,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Abomination",
     "Japanese": "忌まわしいもの",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22796,7 +19947,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Abolishment",
     "Japanese": "廃止",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22804,7 +19954,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Abbreviated",
     "Japanese": "略語",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22812,7 +19961,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Absorbingly",
     "Japanese": "夢中になって",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22820,7 +19968,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Accelerated",
     "Japanese": "加速",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22828,7 +19975,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Acclimation",
     "Japanese": "順化",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22836,7 +19982,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Accompanied",
     "Japanese": "同伴",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22844,7 +19989,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Accountable",
     "Japanese": "責任を負います",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22852,7 +19996,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Achievement",
     "Japanese": "成果",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22860,7 +20003,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Acknowledge",
     "Japanese": "認める",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22868,7 +20010,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Backgrounds",
     "Japanese": "背景",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22876,7 +20017,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Bad request",
     "Japanese": "要求の形式が正しくありません",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22884,7 +20024,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Beneficiary",
     "Japanese": "受益者",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22892,7 +20031,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Blacksmiths",
     "Japanese": "鍛冶屋",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22900,7 +20038,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Butterflies",
     "Japanese": "蝶",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22908,7 +20045,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Businessman",
     "Japanese": "実業家",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22916,7 +20052,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Belongingly",
     "Japanese": "所属する",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22924,7 +20059,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Bittersweet",
     "Japanese": "ほろ苦い",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22932,7 +20066,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Calculating",
     "Japanese": "計算中",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22940,7 +20073,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Catastrophe",
     "Japanese": "大惨事",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22948,7 +20080,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Celebration",
     "Japanese": "お祝い",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22956,7 +20087,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Challenging",
     "Japanese": "挑戦的",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22964,7 +20094,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Circulation",
     "Japanese": "循環",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22972,7 +20101,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Collapsible",
     "Japanese": "折りたたみ式",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22980,7 +20108,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Comfortable",
     "Japanese": "快適",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22988,7 +20115,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Committable",
     "Japanese": "投獄可能",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -22996,7 +20122,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Declaration",
     "Japanese": "宣言",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23004,7 +20129,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Decorations",
     "Japanese": "装飾品",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23012,7 +20136,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Deliberated",
     "Japanese": "熟慮した",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23020,7 +20143,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Demonstrate",
     "Japanese": "実演する",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23028,7 +20150,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Dependently",
     "Japanese": "依存的に",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23036,7 +20157,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Descriptive",
     "Japanese": "記述的",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23044,7 +20164,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Development",
     "Japanese": "発達",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23052,7 +20171,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Educational",
     "Japanese": "教育",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23060,7 +20178,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Effectively",
     "Japanese": "効果的に",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23068,7 +20185,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Elaborately",
     "Japanese": "精巧に",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23076,7 +20192,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Electricity",
     "Japanese": "電気",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23084,7 +20199,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Elimination",
     "Japanese": "排除",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23092,7 +20206,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Embarrassed",
     "Japanese": "恥ずかしい",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23100,7 +20213,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Emphasizing",
     "Japanese": "強調する",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23108,7 +20220,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Encouraging",
     "Japanese": "励みになる",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23116,7 +20227,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Facilitated",
     "Japanese": "促進した",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23124,7 +20234,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Fascination",
     "Japanese": "魅力",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23132,7 +20241,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Federations",
     "Japanese": "連盟",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23140,7 +20248,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Fertilizing",
     "Japanese": "施肥",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23148,7 +20255,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Flexibility",
     "Japanese": "柔軟性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23156,7 +20262,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Fluctuation",
     "Japanese": "変動",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23164,7 +20269,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Formulation",
     "Japanese": "製剤",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23172,7 +20276,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Friendships",
     "Japanese": "友情",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23180,7 +20283,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Generations",
     "Japanese": "世代",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23188,7 +20290,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Graduations",
     "Japanese": "卒業式",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23196,7 +20297,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Grandiosity",
     "Japanese": "誇大性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23204,7 +20304,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Hospitality",
     "Japanese": "ホスピタリティ",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23212,7 +20311,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Imagination",
     "Japanese": "想像",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23220,7 +20318,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Immigration",
     "Japanese": "移民",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23228,7 +20325,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Implication",
     "Japanese": "意味",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23236,7 +20332,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Inaugurated",
     "Japanese": "就任した",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23244,7 +20339,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Independent",
     "Japanese": "独立した",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23252,7 +20346,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Journalisms",
     "Japanese": "ジャーナリズム",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23260,7 +20353,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Legislation",
     "Japanese": "法律",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23268,7 +20360,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Measurement",
     "Japanese": "測定",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23276,7 +20367,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Nationality",
     "Japanese": "国籍",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23284,7 +20374,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Negotiation",
     "Japanese": "交渉",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23292,7 +20381,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Neighboring",
     "Japanese": "近隣",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23300,7 +20388,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Nervousness",
     "Japanese": "神経質",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23308,7 +20395,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Networkable",
     "Japanese": "ネットワーク接続可能",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23316,7 +20402,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Neutralizer",
     "Japanese": "中和剤",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23324,7 +20409,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Nightmarish",
     "Japanese": "悪夢のような",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23332,7 +20416,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Observation",
     "Japanese": "観察",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23340,7 +20423,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Obstruction",
     "Japanese": "妨害",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23348,7 +20430,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Offensively",
     "Japanese": "攻撃的に",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23356,7 +20437,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Officialdom",
     "Japanese": "公式機関",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23364,7 +20444,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Opportunity",
     "Japanese": "機会",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23372,7 +20451,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Orientation",
     "Japanese": "オリエンテーション",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23380,7 +20458,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Outstanding",
     "Japanese": "並外れた",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23388,7 +20465,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Parallelism",
     "Japanese": "並列構造",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23396,7 +20472,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Participant",
     "Japanese": "参加者",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23404,7 +20479,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Particulars",
     "Japanese": "詳細",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23412,7 +20486,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Performance",
     "Japanese": "パフォーマンス",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23420,7 +20493,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Personality",
     "Japanese": "人格",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23428,7 +20500,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Perspective",
     "Japanese": "視点",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23436,7 +20507,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Photography",
     "Japanese": "写真",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23444,7 +20514,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Possibility",
     "Japanese": "可能性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23452,7 +20521,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Preparation",
     "Japanese": "準備",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23460,7 +20528,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Programming",
     "Japanese": "プログラミング",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23468,7 +20535,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Quadruplets",
     "Japanese": "四つ子",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23476,7 +20542,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Qualitative",
     "Japanese": "定性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23484,7 +20549,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Quantitying",
     "Japanese": "数量",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23492,7 +20556,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Quarrelsome",
     "Japanese": "喧嘩好きな",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23500,7 +20563,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Quarterback",
     "Japanese": "クォーターバック",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23508,7 +20570,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Quarterdeck",
     "Japanese": "後甲板",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23516,7 +20577,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Questioning",
     "Japanese": "質問",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23524,7 +20584,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Radiational",
     "Japanese": "放射線",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23532,7 +20591,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Rationality",
     "Japanese": "合理性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23540,7 +20598,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Realization",
     "Japanese": "実現",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23548,7 +20605,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Recognition",
     "Japanese": "認識",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23556,7 +20612,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Reconstruct",
     "Japanese": "再構築",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23564,7 +20619,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Redirection",
     "Japanese": "リダイレクション",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23572,7 +20626,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Refinerment",
     "Japanese": "精製",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23580,7 +20633,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Replacement",
     "Japanese": "交換",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23588,7 +20640,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Requirement",
     "Japanese": "要件",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23596,7 +20647,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Reservation",
     "Japanese": "予約",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23604,7 +20654,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Sacrificial",
     "Japanese": "犠牲",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23612,7 +20661,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Satisfactor",
     "Japanese": "満足",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23620,7 +20668,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Scholarship",
     "Japanese": "奨学金",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23628,7 +20675,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Secretarial",
     "Japanese": "秘書業務",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23636,7 +20682,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Sensitivity",
     "Japanese": "感度",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23644,7 +20689,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Significant",
     "Japanese": "重要な",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23652,7 +20696,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Speculation",
     "Japanese": "投機",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23660,7 +20703,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Substantial",
     "Japanese": "実質的な",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23668,7 +20710,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Supervision",
     "Japanese": "監督",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23676,7 +20717,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Tablecloths",
     "Japanese": "テーブルクロス",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23684,7 +20724,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Temperature",
     "Japanese": "温度",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23692,7 +20731,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Terminology",
     "Japanese": "用語",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23700,7 +20738,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Theoretical",
     "Japanese": "理論",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23708,7 +20745,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Therapeutic",
     "Japanese": "治療",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23716,7 +20752,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Thunderbolt",
     "Japanese": "落雷",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23724,7 +20759,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Traditional",
     "Japanese": "伝統的",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23732,7 +20766,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Transaction",
     "Japanese": "取引",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23740,7 +20773,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Translation",
     "Japanese": "翻訳",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23748,7 +20780,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Unanimously",
     "Japanese": "満場一致で",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23756,7 +20787,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Uncertainty",
     "Japanese": "不確実性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23764,7 +20794,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Unchangedly",
     "Japanese": "変わらず",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23772,7 +20801,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Unconscious",
     "Japanese": "意識不明",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23780,7 +20808,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Understated",
     "Japanese": "控えめな",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23788,7 +20815,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Undoubtedly",
     "Japanese": "間違いなく",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23796,7 +20822,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Unfortunate",
     "Japanese": "残念だ",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23804,7 +20829,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Unification",
     "Japanese": "統一",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23812,7 +20836,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Utilization",
     "Japanese": "利用",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23820,7 +20843,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Vacillation",
     "Japanese": "動揺",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23828,7 +20850,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Valedictory",
     "Japanese": "卒業式",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23836,7 +20857,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Validations",
     "Japanese": "検証",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23844,7 +20864,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Value-added",
     "Japanese": "付加価値",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23852,7 +20871,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Vandalizing",
     "Japanese": "破壊行為",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23860,7 +20878,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Vanishingly",
     "Japanese": "消えゆく",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23868,7 +20885,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Vaporizable",
     "Japanese": "気化可能",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23876,7 +20892,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Ventilation",
     "Japanese": "換気",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23884,7 +20899,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Versatility",
     "Japanese": "汎用性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23892,7 +20906,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Wageringing",
     "Japanese": "賭け",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23900,7 +20913,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Wainscoting",
     "Japanese": "羽目板",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23908,7 +20920,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Wastebasket",
     "Japanese": "ゴミ箱",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23916,7 +20927,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Watercolors",
     "Japanese": "水彩画",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23924,7 +20934,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Weatherwise",
     "Japanese": "天気予報",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23932,7 +20941,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Wholesomely",
     "Japanese": "健全に",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23940,7 +20948,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Xenodochial",
     "Japanese": "異所性",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23948,7 +20955,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Xenographer",
     "Japanese": "異星学者",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23956,7 +20962,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Xenomorphic",
     "Japanese": "異星人",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23964,7 +20969,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Xerographic",
     "Japanese": "ゼログラフィー",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23972,7 +20976,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Xylocarpous",
     "Japanese": "木果",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23980,7 +20983,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Xylographed",
     "Japanese": "木版印刷",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23988,7 +20990,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Yesterdayly",
     "Japanese": "昨日",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -23996,7 +20997,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Zealousness",
     "Japanese": "意気込み",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -24004,7 +21004,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Zephyr-like",
     "Japanese": "そよ風のような",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -24012,7 +21011,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Zincography",
     "Japanese": "亜鉛版画",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -24020,7 +21018,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Zoologicals",
     "Japanese": "動物学",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -24028,7 +21025,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Zooplankton",
     "Japanese": "動物プランクトン",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -24036,7 +21032,6 @@ window.typingData = [
     "Lvl": 8,
     "Text": "Zygomorphic",
     "Japanese": "左右相称",
-    "isSafe": true,
     "Len": 11
   },
   {
@@ -24044,7 +21039,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Abbreviation",
     "Japanese": "略語",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24052,7 +21046,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Acceleration",
     "Japanese": "加速度",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24060,7 +21053,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Acclimatized",
     "Japanese": "順応した",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24068,7 +21060,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Accommodated",
     "Japanese": "対応済み",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24076,7 +21067,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Accumulation",
     "Japanese": "蓄積",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24084,7 +21074,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Accomplished",
     "Japanese": "達成した",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24092,7 +21081,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Bacteriology",
     "Japanese": "細菌学",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24100,7 +21088,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Bequeathment",
     "Japanese": "遺贈",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24108,7 +21095,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Bewilderedly",
     "Japanese": "困惑して",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24116,7 +21102,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Breakthrough",
     "Japanese": "画期的な",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24124,7 +21109,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Breadwinners",
     "Japanese": "家計を支える人",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24132,7 +21116,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Backtracking",
     "Japanese": "後戻り",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24140,7 +21123,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Cancellation",
     "Japanese": "キャンセル",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24148,7 +21130,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Capitalizing",
     "Japanese": "活用する",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24156,7 +21137,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Carbohydrate",
     "Japanese": "炭水化物",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24164,7 +21144,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Categorizing",
     "Japanese": "分類",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24172,7 +21151,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Celebrations",
     "Japanese": "お祝い",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24180,7 +21158,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Communicated",
     "Japanese": "伝達した",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24188,7 +21165,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Deactivating",
     "Japanese": "無効化",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24196,7 +21172,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Decipherable",
     "Japanese": "解読可能",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24204,7 +21179,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Declarations",
     "Japanese": "宣言",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24212,7 +21186,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Defibrinator",
     "Japanese": "除細動器",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24220,7 +21193,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Distribution",
     "Japanese": "分布",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24228,7 +21200,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Eavesdropped",
     "Japanese": "盗み聞きした",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24236,7 +21207,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Ecologically",
     "Japanese": "生態学的に",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24244,7 +21214,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Economically",
     "Japanese": "経済的に",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24252,7 +21221,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Effervescent",
     "Japanese": "発泡性",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24260,7 +21228,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Electrocuted",
     "Japanese": "感電死",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24268,7 +21235,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Enlightening",
     "Japanese": "啓発的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24276,7 +21242,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Facilitating",
     "Japanese": "促進する",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24284,7 +21249,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Familiarized",
     "Japanese": "慣れ親しんだ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24292,7 +21256,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Fermentation",
     "Japanese": "発酵",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24300,7 +21263,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Firefighters",
     "Japanese": "消防士",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24308,7 +21270,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Fluorescence",
     "Japanese": "蛍光",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24316,7 +21277,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Gastronomist",
     "Japanese": "美食家",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24324,7 +21284,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Generalizing",
     "Japanese": "一般化する",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24332,7 +21291,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Geologically",
     "Japanese": "地質学的に",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24340,7 +21298,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Gravitations",
     "Japanese": "重力",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24348,7 +21305,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Hallucinated",
     "Japanese": "幻覚を見た",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24356,7 +21312,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Handicapping",
     "Japanese": "ハンディキャップ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24364,7 +21319,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Headquarters",
     "Japanese": "本部",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24372,7 +21326,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Heartbreaker",
     "Japanese": "ハートブレイカー",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24380,7 +21333,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Histological",
     "Japanese": "組織学的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24388,7 +21340,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Iconoclastic",
     "Japanese": "偶像破壊的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24396,7 +21347,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Illuminating",
     "Japanese": "啓発的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24404,7 +21354,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Independence",
     "Japanese": "独立",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24412,7 +21361,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "I'm a teapot",
     "Japanese": "私はティーポットです",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24420,7 +21368,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Journalistic",
     "Japanese": "ジャーナリズム",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24428,7 +21375,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Judgmentally",
     "Japanese": "批判的に",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24436,7 +21382,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Joyfulnesses",
     "Japanese": "喜び",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24444,7 +21389,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Juvenileness",
     "Japanese": "幼稚さ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24452,7 +21396,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Kaleidoscope",
     "Japanese": "万華鏡",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24460,7 +21403,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Keyboardists",
     "Japanese": "キーボーディスト",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24468,7 +21410,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Kilocalories",
     "Japanese": "キロローカルズ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24476,7 +21417,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Kleptomaniac",
     "Japanese": "窃盗癖",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24484,7 +21424,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Kindlinesses",
     "Japanese": "親切心",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24492,7 +21431,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Legitimately",
     "Japanese": "正当に",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24500,7 +21438,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Lexicography",
     "Japanese": "辞書学",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24508,7 +21445,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Longitudinal",
     "Japanese": "縦断的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24516,7 +21452,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Lubrications",
     "Japanese": "潤滑",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24524,7 +21459,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Leatherbacks",
     "Japanese": "オサガメ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24532,7 +21466,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Malfunctions",
     "Japanese": "故障",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24540,7 +21473,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Mathematical",
     "Japanese": "数学",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24548,7 +21480,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Nationalized",
     "Japanese": "国有化された",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24556,7 +21487,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Naturalistic",
     "Japanese": "自然主義的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24564,7 +21494,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Neighborhood",
     "Japanese": "近所",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24572,7 +21501,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Neutralizing",
     "Japanese": "中和する",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24580,7 +21508,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Nightclothes",
     "Japanese": "寝間着",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24588,7 +21515,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Observations",
     "Japanese": "観察結果",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24596,7 +21522,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Obstructions",
     "Japanese": "障害物",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24604,7 +21529,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Oceanography",
     "Japanese": "海洋学",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24612,7 +21536,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Orchestrated",
     "Japanese": "オーケストラによる",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24620,7 +21543,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Overwhelming",
     "Japanese": "圧倒的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24628,7 +21550,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Organization",
     "Japanese": "組織",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24636,7 +21557,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Paramilitary",
     "Japanese": "準軍事組織",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24644,7 +21564,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Partnerships",
     "Japanese": "パートナーシップ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24652,7 +21571,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Pathological",
     "Japanese": "病理学的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24660,7 +21578,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Photographer",
     "Japanese": "写真家",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24668,7 +21585,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Philanthropy",
     "Japanese": "慈善活動",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24676,7 +21592,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Quadrennials",
     "Japanese": "4年に一度の",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24684,7 +21599,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Quantitative",
     "Japanese": "定量的",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24692,7 +21606,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Quarantining",
     "Japanese": "隔離",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24700,7 +21613,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Questionable",
     "Japanese": "疑わしい",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24708,7 +21620,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Quintessence",
     "Japanese": "クインテッセンス",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24716,7 +21627,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Ratification",
     "Japanese": "批准",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24724,7 +21634,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Reassembling",
     "Japanese": "再組み立て",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24732,7 +21641,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Recalculated",
     "Japanese": "再計算済み",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24740,7 +21648,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Relationship",
     "Japanese": "関係",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24748,7 +21655,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Scatterbrain",
     "Japanese": "散漫な",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24756,7 +21662,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Satisfaction",
     "Japanese": "満足",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24764,7 +21669,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Scholarships",
     "Japanese": "奨学金",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24772,7 +21676,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Seismography",
     "Japanese": "地震学",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24780,7 +21683,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Significance",
     "Japanese": "意義",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24788,7 +21690,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Subconscious",
     "Japanese": "潜在意識",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24796,7 +21697,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Substitution",
     "Japanese": "代替",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24804,7 +21704,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Technologist",
     "Japanese": "技術者",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24812,7 +21711,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Transactions",
     "Japanese": "取引",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24820,7 +21718,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Transmission",
     "Japanese": "伝染 ; 感染",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24828,7 +21725,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Tuberculosis",
     "Japanese": "結核",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24836,7 +21732,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Typewritings",
     "Japanese": "タイプライター",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24844,7 +21739,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Temperatures",
     "Japanese": "気温",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24852,7 +21746,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Unacceptable",
     "Japanese": "容認できない",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24860,7 +21753,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Unauthorized",
     "Japanese": "許可されていない",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24868,7 +21760,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Unbelievable",
     "Japanese": "信じられない",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24876,7 +21767,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Unemployment",
     "Japanese": "失業",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24884,7 +21774,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Universality",
     "Japanese": "普遍",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24892,7 +21781,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Uri too long",
     "Japanese": "URIが長すぎます",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24900,7 +21788,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Variableness",
     "Japanese": "変動性",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24908,7 +21795,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Vascularized",
     "Japanese": "血管新生",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24916,7 +21802,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Vengefulness",
     "Japanese": "復讐心",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24924,7 +21809,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Vilification",
     "Japanese": "中傷",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24932,7 +21816,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Vocalization",
     "Japanese": "発声",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24940,7 +21823,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Wallboarding",
     "Japanese": "壁板張り",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24948,7 +21830,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Weatherboard",
     "Japanese": "下見板",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24956,7 +21837,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Weatherglass",
     "Japanese": "ウェザーグラス",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24964,7 +21844,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Weightlifter",
     "Japanese": "重量挙げ選手",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24972,7 +21851,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Wheelbarrows",
     "Japanese": "手押し車",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24980,7 +21858,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Whimsicality",
     "Japanese": "気まぐれ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24988,7 +21865,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Xylophonists",
     "Japanese": "木琴奏者",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -24996,7 +21872,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Yellowhammer",
     "Japanese": "キアオジ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -25004,7 +21879,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Yieldability",
     "Japanese": "歩留まり",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -25012,7 +21886,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Youthfulness",
     "Japanese": "若々しさ",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -25020,7 +21893,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Zoologically",
     "Japanese": "動物学的に",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -25028,7 +21900,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Zillionaires",
     "Japanese": "億万長者",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -25036,7 +21907,6 @@ window.typingData = [
     "Lvl": 9,
     "Text": "Zoogeography",
     "Japanese": "動物地理学",
-    "isSafe": true,
     "Len": 12
   },
   {
@@ -25044,7 +21914,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Accommodating",
     "Japanese": "対応可能",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25052,7 +21921,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Accreditation",
     "Japanese": "認定",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25060,7 +21928,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Acidification",
     "Japanese": "酸性化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25068,7 +21935,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Advertisement",
     "Japanese": "広告",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25076,7 +21942,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Afforestation",
     "Japanese": "植林",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25084,7 +21949,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Afterthoughts",
     "Japanese": "後書き",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25092,7 +21956,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Air condition",
     "Japanese": "エアコン",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25100,7 +21963,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Balanced diet",
     "Japanese": "バランスの取れた食事",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25108,7 +21970,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Biostatistics",
     "Japanese": "生物統計学",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25116,7 +21977,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Blacksmithing",
     "Japanese": "鍛冶屋",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25124,7 +21984,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Blood vessels",
     "Japanese": "血管",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25132,7 +21991,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Breathability",
     "Japanese": "通気性",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25140,7 +21998,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Collaboration",
     "Japanese": "コラボレーション",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25148,7 +22005,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Communication",
     "Japanese": "コミュニケーション",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25156,7 +22012,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Consciousness",
     "Japanese": "意識",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25164,7 +22019,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Consideration",
     "Japanese": "考慮",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25172,7 +22026,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Contamination",
     "Japanese": "汚染",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25180,7 +22033,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Cybersecurity",
     "Japanese": "サイバーセキュリティ",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25188,7 +22040,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Clarification",
     "Japanese": "説明",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25196,7 +22047,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Chess players",
     "Japanese": "チェスプレイヤー",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25204,7 +22054,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Determination",
     "Japanese": "決定",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25212,7 +22061,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Documentation",
     "Japanese": "文書",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25220,7 +22068,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Disadvantages",
     "Japanese": "デメリット",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25228,7 +22075,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Demonstration",
     "Japanese": "デモンストレーション",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25236,7 +22082,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Deep learning",
     "Japanese": "ディープラーニング",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25244,7 +22089,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Digital media",
     "Japanese": "デジタルメディア",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25252,7 +22096,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Disappearance",
     "Japanese": "失踪",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25260,7 +22103,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Distributions",
     "Japanese": "分布",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25268,7 +22110,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Effectiveness",
     "Japanese": "効果",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25276,7 +22117,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Enlightenment",
     "Japanese": "啓発",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25284,7 +22124,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Entertainment",
     "Japanese": "エンターテインメント",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25292,7 +22131,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Environmental",
     "Japanese": "環境",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25300,7 +22138,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Establishment",
     "Japanese": "設立",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25308,7 +22145,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Extinguishing",
     "Japanese": "消火",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25316,7 +22152,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Extraordinary",
     "Japanese": "並外れた",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25324,7 +22159,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Every morning",
     "Japanese": "毎朝",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25332,7 +22166,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Functionality",
     "Japanese": "機能性",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25340,7 +22173,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Fragmentation",
     "Japanese": "断片化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25348,7 +22180,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Financial aid",
     "Japanese": "経済援助",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25356,7 +22187,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Forest ranger",
     "Japanese": "森林警備員",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25364,7 +22194,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Fashion model",
     "Japanese": "ファッションモデル",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25372,7 +22201,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Falling stars",
     "Japanese": "流れ星",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25380,7 +22208,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Featherweight",
     "Japanese": "フェザー級",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25388,7 +22215,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Flip the bird",
     "Japanese": "中指を立てる",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25396,7 +22222,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Globalization",
     "Japanese": "グローバリゼーション",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25404,7 +22229,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Grandchildren",
     "Japanese": "孫たち",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25412,7 +22236,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Gravitational",
     "Japanese": "重力",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25420,7 +22243,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Green economy",
     "Japanese": "グリーン経済",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25428,7 +22250,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Great success",
     "Japanese": "大成功",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25436,7 +22257,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Guest speaker",
     "Japanese": "ゲストスピーカー",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25444,7 +22264,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Garden center",
     "Japanese": "ガーデンセンター",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25452,7 +22271,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Getting ready",
     "Japanese": "準備中",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25460,7 +22278,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Heartbreaking",
     "Japanese": "胸が張り裂けそう",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25468,7 +22285,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Heterogeneous",
     "Japanese": "不均一",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25476,7 +22292,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "High fidelity",
     "Japanese": "高忠実度",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25484,7 +22299,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Human anatomy",
     "Japanese": "人体解剖学",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25492,7 +22306,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Hallucination",
     "Japanese": "幻覚",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25500,7 +22313,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Home delivery",
     "Japanese": "宅配",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25508,7 +22320,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Handkerchiefs",
     "Japanese": "ハンカチ",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25516,7 +22327,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Heterochromia",
     "Japanese": "虹彩異色症",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25524,7 +22334,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Identity test",
     "Japanese": "同一性テスト",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25532,7 +22341,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Investigation",
     "Japanese": "調査",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25540,7 +22348,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Illustrations",
     "Japanese": "イラスト",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25548,7 +22355,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Independently",
     "Japanese": "独立して",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25556,7 +22362,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Interpersonal",
     "Japanese": "対人関係",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25564,7 +22369,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Inquisitively",
     "Japanese": "好奇心旺盛に",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25572,7 +22376,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "International",
     "Japanese": "国際的",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25580,7 +22383,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Improvisation",
     "Japanese": "即興",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25588,7 +22390,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Justification",
     "Japanese": "正当化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25596,7 +22397,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Job interview",
     "Japanese": "就職面接",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25604,7 +22404,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Junior school",
     "Japanese": "小学校",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25612,7 +22411,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Jacket potato",
     "Japanese": "ベイクドポテト",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25620,7 +22418,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Jigsaw puzzle",
     "Japanese": "ジグソーパズル",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25628,7 +22425,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Joint venture",
     "Japanese": "合弁事業",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25636,7 +22432,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Jumping jacks",
     "Japanese": "ジャンプ運動",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25644,7 +22439,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Jazz festival",
     "Japanese": "ジャズフェスティバル",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25652,7 +22446,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Kindergartens",
     "Japanese": "幼稚園",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25660,7 +22453,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Knowledgeable",
     "Japanese": "知識豊富",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25668,7 +22460,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Key indicator",
     "Japanese": "主要指標",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25676,7 +22467,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Kitchen table",
     "Japanese": "キッチンテーブル",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25684,7 +22474,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Karate master",
     "Japanese": "空手マスター",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25692,7 +22481,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Keeping quiet",
     "Japanese": "静かにしている",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25700,7 +22488,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Kissing booth",
     "Japanese": "キスブース",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25708,7 +22495,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Legislatively",
     "Japanese": "立法的に",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25716,7 +22502,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Local economy",
     "Japanese": "地域経済",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25724,7 +22509,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Light therapy",
     "Japanese": "光線療法",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25732,7 +22516,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Liquid assets",
     "Japanese": "流動資産",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25740,7 +22523,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Living things",
     "Japanese": "生物",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25748,7 +22530,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Long distance",
     "Japanese": "長距離",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25756,7 +22537,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Lemon chiffon",
     "Japanese": "レモンシフォン",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25764,7 +22544,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Laundry rooms",
     "Japanese": "洗濯室",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25772,7 +22551,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Manufacturing",
     "Japanese": "製造業",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25780,7 +22558,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Miscellaneous",
     "Japanese": "その他",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25788,7 +22565,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Mental health",
     "Japanese": "メンタルヘルス",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25796,7 +22572,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Modernization",
     "Japanese": "近代化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25804,7 +22579,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Multicultural",
     "Japanese": "多文化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25812,7 +22586,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Music library",
     "Japanese": "ミュージックライブラリー",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25820,7 +22593,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Mountain bike",
     "Japanese": "マウンテンバイク",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25828,7 +22600,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Morning glory",
     "Japanese": "朝顔",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25836,7 +22607,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Notifications",
     "Japanese": "通知",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25844,7 +22614,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Natural world",
     "Japanese": "自然界",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25852,7 +22621,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Nuclear power",
     "Japanese": "原子力発電",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25860,7 +22628,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Organizations",
     "Japanese": "組織",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25868,7 +22635,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Out of bounds",
     "Japanese": "境界線外",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25876,7 +22642,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Office worker",
     "Japanese": "オフィスワーカー",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25884,7 +22649,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Orthodontists",
     "Japanese": "矯正歯科医",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25892,7 +22656,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Online course",
     "Japanese": "オンラインコース",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25900,7 +22663,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Participation",
     "Japanese": "参加",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25908,7 +22670,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Presentations",
     "Japanese": "プレゼンテーション",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25916,7 +22677,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Photographers",
     "Japanese": "写真家",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25924,7 +22684,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Philosophical",
     "Japanese": "哲学的",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25932,7 +22691,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Plaguebringer",
     "Japanese": "疫病をもたらす者",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25940,7 +22698,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Psychological",
     "Japanese": "心理学的",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25948,7 +22705,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Precipitation",
     "Japanese": "降水量",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25956,7 +22712,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Public school",
     "Japanese": "公立学校",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25964,7 +22719,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Questionnaire",
     "Japanese": "アンケート",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25972,7 +22726,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Qualification",
     "Japanese": "資格",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25980,7 +22733,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Quality check",
     "Japanese": "品質チェック",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25988,7 +22740,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Relationships",
     "Japanese": "人間関係",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -25996,7 +22747,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Registrations",
     "Japanese": "登録",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26004,7 +22754,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Refrigerators",
     "Japanese": "冷蔵庫",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26012,7 +22761,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Real property",
     "Japanese": "不動産",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26020,7 +22768,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Running track",
     "Japanese": "ランニングトラック",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26028,7 +22775,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Random access",
     "Japanese": "ランダムアクセス",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26036,7 +22782,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Rainbow trout",
     "Japanese": "ニジマス",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26044,7 +22789,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Rationalizing",
     "Japanese": "合理化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26052,7 +22796,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Specification",
     "Japanese": "仕様",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26060,7 +22803,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Sophisticated",
     "Japanese": "洗練された",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26068,7 +22810,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Suicide mouse",
     "Japanese": "自殺マウス",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26076,7 +22817,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Shopping mall",
     "Japanese": "ショッピングモール",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26084,7 +22824,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Sports center",
     "Japanese": "スポーツセンター",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26092,7 +22831,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Second chance",
     "Japanese": "二度目のチャンス",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26100,7 +22838,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Silver lining",
     "Japanese": "希望の光",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26108,7 +22845,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Text messages",
     "Japanese": "テキストメッセージ",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26116,7 +22852,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Transmissions",
     "Japanese": "送信",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26124,7 +22859,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Target market",
     "Japanese": "対象市場",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26132,7 +22866,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Tennis player",
     "Japanese": "テニス選手",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26140,7 +22873,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Traffic light",
     "Japanese": "信号機",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26148,7 +22880,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Technological",
     "Japanese": "技術的",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26156,7 +22887,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Thermodynamic",
     "Japanese": "熱力学",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26164,7 +22894,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Travel agency",
     "Japanese": "旅行代理店",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26172,7 +22901,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Understanding",
     "Japanese": "理解",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26180,7 +22908,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Uncertainties",
     "Japanese": "不確実性",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26188,7 +22915,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Under the sea",
     "Japanese": "海底",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26196,7 +22922,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Universal law",
     "Japanese": "普遍的な法則",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26204,7 +22929,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Urban setting",
     "Japanese": "都市環境",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26212,7 +22936,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Vulnerability",
     "Japanese": "脆弱性",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26220,7 +22943,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Verifications",
     "Japanese": "検証",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26228,7 +22950,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Voice message",
     "Japanese": "音声メッセージ",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26236,7 +22957,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Visualization",
     "Japanese": "視覚化",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26244,7 +22964,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Virtual world",
     "Japanese": "仮想世界",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26252,7 +22971,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Vegetable oil",
     "Japanese": "植物油",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26260,7 +22978,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Vacation home",
     "Japanese": "別荘",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26268,7 +22985,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Velvet fabric",
     "Japanese": "ベルベット生地",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26276,7 +22992,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Water bottles",
     "Japanese": "水筒",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26284,7 +22999,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Western world",
     "Japanese": "西洋世界",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26292,7 +23006,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Window shades",
     "Japanese": "窓用ブラインド",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26300,7 +23013,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Weekly report",
     "Japanese": "週次報告",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26308,7 +23020,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Weightlifting",
     "Japanese": "ウェイトリフティング",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26316,7 +23027,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Winter season",
     "Japanese": "冬の季節",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26324,7 +23034,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Working hours",
     "Japanese": "勤務時間",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26332,7 +23041,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "X-ray machine",
     "Japanese": "X線装置",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26340,7 +23048,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "X-ray therapy",
     "Japanese": "X線療法",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26348,7 +23055,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "X-ray picture",
     "Japanese": "X線写真",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26356,7 +23062,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Yellow flower",
     "Japanese": "黄色い花",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26364,7 +23069,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Youth centers",
     "Japanese": "青少年センター",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26372,7 +23076,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Yearly report",
     "Japanese": "年次報告書",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26380,7 +23083,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Zoo attendant",
     "Japanese": "動物園の飼育員",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26388,7 +23090,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Zinc coatings",
     "Japanese": "亜鉛コーティング",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26396,7 +23097,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Zebra pattern",
     "Japanese": "ゼブラ柄",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26404,7 +23104,6 @@ window.typingData = [
     "Lvl": 10,
     "Text": "Zinc chloride",
     "Japanese": "塩化亜鉛",
-    "isSafe": true,
     "Len": 13
   },
   {
@@ -26412,7 +23111,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Advertisements",
     "Japanese": "広告",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26420,7 +23118,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Administration",
     "Japanese": "管理",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26428,7 +23125,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Accountability",
     "Japanese": "説明責任",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26436,7 +23132,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Accomplishment",
     "Japanese": "達成",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26444,7 +23139,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Authentication",
     "Japanese": "認証",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26452,7 +23146,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Anthropologist",
     "Japanese": "人類学者",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26460,7 +23153,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Bioengineering",
     "Japanese": "生物工学",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26468,7 +23160,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Biodegradables",
     "Japanese": "生分解性",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26476,7 +23167,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Bioinformatics",
     "Japanese": "バイオインフォマティクス",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26484,7 +23174,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Breathlessness",
     "Japanese": "息切れ",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26492,7 +23181,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Businesspeople",
     "Japanese": "ビジネスマン",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26500,7 +23188,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Blood pressure",
     "Japanese": "血圧",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26508,7 +23195,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Building block",
     "Japanese": "構成要素",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26516,7 +23202,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Characteristic",
     "Japanese": "特性",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26524,7 +23209,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Communications",
     "Japanese": "コミュニケーション",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26532,7 +23216,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Classification",
     "Japanese": "分類",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26540,7 +23223,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Constitutional",
     "Japanese": "憲法",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26548,7 +23230,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Categorization",
     "Japanese": "分類",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26556,7 +23237,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Capitalization",
     "Japanese": "大文字化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26564,7 +23244,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Congratulation",
     "Japanese": "おめでとうございます",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26572,7 +23251,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Discrimination",
     "Japanese": "差別",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26580,7 +23258,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Determinations",
     "Japanese": "決定事項",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26588,7 +23265,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Differentiates",
     "Japanese": "区別する",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26596,7 +23272,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Disappointment",
     "Japanese": "失望",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26604,7 +23279,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Discontinuance",
     "Japanese": "中止",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26612,7 +23286,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Decentralizing",
     "Japanese": "分散化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26620,7 +23293,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Effective date",
     "Japanese": "発効日",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26628,7 +23300,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Everything now",
     "Japanese": "すべて今",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26636,7 +23307,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Ecclesiastical",
     "Japanese": "教会の",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26644,7 +23314,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Electromagnets",
     "Japanese": "電磁石",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26652,7 +23321,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Experimentally",
     "Japanese": "実験的に",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26660,7 +23328,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Financial plan",
     "Japanese": "財務計画",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26668,7 +23335,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Functionalisms",
     "Japanese": "機能主義",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26676,7 +23342,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Fundamentalist",
     "Japanese": "原理主義者",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26684,7 +23349,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Fragmentations",
     "Japanese": "断片化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26692,7 +23356,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Friendlinesses",
     "Japanese": "親しみやすさ",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26700,7 +23363,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Featherweights",
     "Japanese": "フェザー級",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26708,7 +23370,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Geometric form",
     "Japanese": "幾何学的形状",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26716,7 +23377,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Global warming",
     "Japanese": "地球温暖化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26724,7 +23384,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Gathering data",
     "Japanese": "データ収集",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26732,7 +23391,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Greatest thing",
     "Japanese": "最高のもの",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26740,7 +23398,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Generalization",
     "Japanese": "一般化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26748,7 +23405,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "High Priestess",
     "Japanese": "女教皇",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26756,7 +23412,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Historical era",
     "Japanese": "歴史的時代",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26764,7 +23419,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Hyperinflation",
     "Japanese": "過膨張",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26772,7 +23426,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Hydroelectrics",
     "Japanese": "水力発電",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26780,7 +23433,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Housecleanings",
     "Japanese": "ハウスクリーニング",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26788,7 +23440,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Human resource",
     "Japanese": "人事",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26796,7 +23447,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Hallucinations",
     "Japanese": "幻覚",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26804,7 +23454,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Implementation",
     "Japanese": "実装",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26812,7 +23461,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Identification",
     "Japanese": "識別",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26820,7 +23468,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Infrastructure",
     "Japanese": "インフラストラクチャー",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26828,7 +23475,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Individualisms",
     "Japanese": "個人主義",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26836,7 +23482,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Initial commit",
     "Japanese": "初回コミット",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26844,7 +23489,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Interpretation",
     "Japanese": "解釈",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26852,7 +23496,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Interconnected",
     "Japanese": "相互接続されています",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26860,7 +23503,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Investigations",
     "Japanese": "調査",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26868,7 +23510,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Joint projects",
     "Japanese": "共同プロジェクト",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26876,7 +23517,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Justifications",
     "Japanese": "正当化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26884,7 +23524,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Juvenile court",
     "Japanese": "少年裁判所",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26892,7 +23531,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Japanese style",
     "Japanese": "和風",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26900,7 +23538,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Juxtapositions",
     "Japanese": "並置",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26908,7 +23545,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Jazz musicians",
     "Japanese": "ジャズミュージシャン",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26916,7 +23552,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Knowledge base",
     "Japanese": "知識ベース",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26924,7 +23559,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Kitchen garden",
     "Japanese": "家庭菜園",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26932,7 +23566,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Keep in memory",
     "Japanese": "記憶に留めて",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26940,7 +23573,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Key ingredient",
     "Japanese": "主要成分",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26948,7 +23580,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Keyboard style",
     "Japanese": "キーボードスタイル",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26956,7 +23587,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Known quantity",
     "Japanese": "既知の量",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26964,7 +23594,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Librarianships",
     "Japanese": "図書館員職",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26972,7 +23601,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Literalization",
     "Japanese": "文字通りの解釈",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26980,7 +23608,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Lightheartedly",
     "Japanese": "気楽に",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26988,7 +23615,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Leading figure",
     "Japanese": "指導的人物",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -26996,7 +23622,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Laboratory job",
     "Japanese": "研究室での仕事",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27004,7 +23629,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Learning phase",
     "Japanese": "学習段階",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27012,7 +23636,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Microstructure",
     "Japanese": "微細構造",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27020,7 +23643,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Misinterpreted",
     "Japanese": "誤解された",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27028,7 +23650,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Multiplication",
     "Japanese": "乗算",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27036,7 +23657,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Manifestations",
     "Japanese": "発現",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27044,7 +23664,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Miscalculation",
     "Japanese": "誤算",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27052,7 +23671,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Microorganisms",
     "Japanese": "微生物",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27060,7 +23678,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Normalizations",
     "Japanese": "正規化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27068,7 +23685,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Nighttime walk",
     "Japanese": "夜の散歩",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27076,7 +23692,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Neutralization",
     "Japanese": "中和",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27084,7 +23699,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Naturalization",
     "Japanese": "帰化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27092,7 +23706,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Noncompetitive",
     "Japanese": "非競争的",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27100,7 +23713,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Not acceptable",
     "Japanese": "受け入れられない",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27108,7 +23720,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Nervous system",
     "Japanese": "神経系",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27116,7 +23727,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Negative sense",
     "Japanese": "否定的な意味",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27124,7 +23734,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Organizational",
     "Japanese": "組織",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27132,7 +23741,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Overwhelmingly",
     "Japanese": "圧倒的に",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27140,7 +23748,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Operating room",
     "Japanese": "手術室",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27148,7 +23755,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Office manager",
     "Japanese": "オフィス管理者",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27156,7 +23762,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Organic matter",
     "Japanese": "有機物",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27164,7 +23769,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Out of control",
     "Japanese": "制御不能",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27172,7 +23776,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Pharmaceutical",
     "Japanese": "医薬品",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27180,7 +23783,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Photosynthesis",
     "Japanese": "光合成",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27188,7 +23790,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Practical work",
     "Japanese": "実習",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27196,7 +23797,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Public speaker",
     "Japanese": "講演者",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27204,7 +23804,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Physical world",
     "Japanese": "物理世界",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27212,7 +23811,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Paleontologist",
     "Japanese": "古生物学者",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27220,7 +23818,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Qualifications",
     "Japanese": "資格",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27228,7 +23825,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Quantification",
     "Japanese": "定量化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27236,7 +23832,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Quartermasters",
     "Japanese": "需品係将校",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27244,7 +23839,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Questionnaires",
     "Japanese": "アンケート",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27252,7 +23846,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Quietly moving",
     "Japanese": "静かに動く",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27260,7 +23853,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Quick response",
     "Japanese": "迅速な対応",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27268,7 +23860,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Reconstruction",
     "Japanese": "再建",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27276,7 +23867,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Representative",
     "Japanese": "代表",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27284,7 +23874,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Responsibility",
     "Japanese": "責任",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27292,7 +23881,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Rehabilitation",
     "Japanese": "リハビリテーション",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27300,7 +23888,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Recategorizing",
     "Japanese": "再分類",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27308,7 +23895,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Running faster",
     "Japanese": "より速く走る",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27316,7 +23902,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Railway tracks",
     "Japanese": "鉄道線路",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27324,7 +23909,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Sustainability",
     "Japanese": "持続可能性",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27332,7 +23916,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Sophistication",
     "Japanese": "洗練",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27340,7 +23923,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Specifications",
     "Japanese": "仕様",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27348,7 +23930,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Specialization",
     "Japanese": "専門化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27356,7 +23937,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Superstructure",
     "Japanese": "上部構造",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27364,7 +23944,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Small business",
     "Japanese": "中小企業",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27372,7 +23951,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Social science",
     "Japanese": "社会科学",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27380,7 +23958,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Transformation",
     "Japanese": "変換",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27388,7 +23965,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Transportation",
     "Japanese": "交通機関",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27396,7 +23972,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Technical work",
     "Japanese": "技術作業",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27404,7 +23979,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Theatrical act",
     "Japanese": "演劇",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27412,7 +23986,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Traditionalism",
     "Japanese": "伝統主義",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27420,7 +23993,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Textualization",
     "Japanese": "テキスト化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27428,7 +24000,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Understandable",
     "Japanese": "理解できる",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27436,7 +24007,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Unsatisfactory",
     "Japanese": "不十分",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27444,7 +24014,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Understatement",
     "Japanese": "控えめな表現",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27452,7 +24021,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Uniformization",
     "Japanese": "均一化",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27460,7 +24028,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Universalizing",
     "Japanese": "普遍化する",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27468,7 +24035,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Urban planning",
     "Japanese": "都市計画",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27476,7 +24042,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Used car sales",
     "Japanese": "中古車販売",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27484,7 +24049,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Vegetarianisms",
     "Japanese": "菜食主義",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27492,7 +24056,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Vertical lines",
     "Japanese": "垂直線",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27500,7 +24063,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Virtual worlds",
     "Japanese": "仮想世界",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27508,7 +24070,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Vocabulary set",
     "Japanese": "語彙セット",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27516,7 +24077,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Voice recorder",
     "Japanese": "ボイスレコーダー",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27524,7 +24084,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Video computer",
     "Japanese": "ビデオコンピュータ",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27532,7 +24091,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Valuation date",
     "Japanese": "評価日",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27540,7 +24098,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Weather report",
     "Japanese": "天気予報",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27548,7 +24105,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Water fountain",
     "Japanese": "噴水",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27556,7 +24112,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Winter morning",
     "Japanese": "冬の朝",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27564,7 +24119,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Writing a book",
     "Japanese": "本を書く",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27572,7 +24126,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Whistleblowers",
     "Japanese": "内部告発者",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27580,7 +24133,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Xylophonically",
     "Japanese": "木琴のように",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27588,7 +24140,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Xenophobically",
     "Japanese": "外国人嫌い",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27596,7 +24147,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Xenotransplant",
     "Japanese": "異種移植",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27604,7 +24154,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Yearly reports",
     "Japanese": "年次報告書",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27612,7 +24161,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Yelling loudly",
     "Japanese": "大声で叫ぶ",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27620,7 +24168,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Zoological lab",
     "Japanese": "動物学研究室",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27628,7 +24175,6 @@ window.typingData = [
     "Lvl": 11,
     "Text": "Zodiac symbols",
     "Japanese": "星座のシンボル",
-    "isSafe": true,
     "Len": 14
   },
   {
@@ -27636,7 +24182,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Academic career",
     "Japanese": "学歴",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27644,7 +24189,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Acoustic guitar",
     "Japanese": "アコースティックギター",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27652,7 +24196,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Advanced course",
     "Japanese": "上級コース",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27660,7 +24203,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Afternoon snack",
     "Japanese": "午後のおやつ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27668,7 +24210,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Balanced budget",
     "Japanese": "均衡予算",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27676,7 +24217,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Beautiful place",
     "Japanese": "美しい場所",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27684,7 +24224,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Best friendship",
     "Japanese": "最高の友情",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27692,7 +24231,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Business center",
     "Japanese": "ビジネスセンター",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27700,7 +24238,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Cardiac surgery",
     "Japanese": "心臓手術",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27708,7 +24245,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Central heating",
     "Japanese": "セントラルヒーティング",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27716,7 +24252,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Chemical energy",
     "Japanese": "化学エネルギー",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27724,7 +24259,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Clinical trials",
     "Japanese": "臨床試験",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27732,7 +24266,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Digital cameras",
     "Japanese": "デジタルカメラ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27740,7 +24273,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Dancing lessons",
     "Japanese": "ダンスレッスン",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27748,7 +24280,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Daily newspaper",
     "Japanese": "日刊新聞",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27756,7 +24287,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Driving license",
     "Japanese": "運転免許証",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27764,7 +24294,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Electric guitar",
     "Japanese": "エレキギター",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27772,7 +24301,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Economic growth",
     "Japanese": "経済成長",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27780,7 +24308,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Elegant clothes",
     "Japanese": "エレガントな服",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27788,7 +24315,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Endless summers",
     "Japanese": "終わりのない夏",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27796,7 +24322,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Feeling nervous",
     "Japanese": "緊張している",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27804,7 +24329,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Football player",
     "Japanese": "サッカー選手",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27812,7 +24336,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Foreign country",
     "Japanese": "外国",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27820,7 +24343,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Frequent flyers",
     "Japanese": "頻繁に飛行機を利用する人",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27828,7 +24350,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Garden entrance",
     "Japanese": "庭の入り口",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27836,7 +24357,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "General concept",
     "Japanese": "一般概念",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27844,7 +24364,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Genuine concern",
     "Japanese": "真摯な懸念",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27852,7 +24371,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Great potential",
     "Japanese": "大きな可能性",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27860,7 +24378,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Healthy cooking",
     "Japanese": "健康的な料理",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27868,7 +24385,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Human resources",
     "Japanese": "人事",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27876,7 +24392,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Highest quality",
     "Japanese": "最高品質",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27884,7 +24399,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Internal flight",
     "Japanese": "国内線",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27892,7 +24406,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Improved health",
     "Japanese": "健康状態の改善",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27900,7 +24413,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Initial contact",
     "Japanese": "初回連絡",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27908,7 +24420,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Japanese garden",
     "Japanese": "日本庭園",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27916,7 +24427,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Junior students",
     "Japanese": "下級生",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27924,7 +24434,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Job application",
     "Japanese": "求人応募",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27932,7 +24441,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Justice systems",
     "Japanese": "司法制度",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27940,7 +24448,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Kitchen cabinet",
     "Japanese": "キッチンキャビネット",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27948,7 +24455,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Keyboard typing",
     "Japanese": "キーボード入力",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27956,7 +24462,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Kind treatments",
     "Japanese": "親切な扱い",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27964,7 +24469,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Knowledge bases",
     "Japanese": "知識ベース",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27972,7 +24476,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Learning center",
     "Japanese": "学習センター",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27980,7 +24483,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Length required",
     "Japanese": "必要な長さ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27988,7 +24490,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Literary awards",
     "Japanese": "文学賞",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -27996,7 +24497,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Local community",
     "Japanese": "地域社会",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28004,7 +24504,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Logical process",
     "Japanese": "論理プロセス",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28012,7 +24511,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Medical student",
     "Japanese": "医学生",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28020,7 +24518,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Military action",
     "Japanese": "軍事行動",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28028,7 +24525,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Musical theater",
     "Japanese": "ミュージカル",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28036,7 +24532,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Natural science",
     "Japanese": "自然科学",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28044,7 +24539,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Northern lights",
     "Japanese": "オーロラ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28052,7 +24546,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Nervous tension",
     "Japanese": "神経の緊張",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28060,7 +24553,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Nuclear weapons",
     "Japanese": "核兵器",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28068,7 +24560,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Online shopping",
     "Japanese": "オンラインショッピング",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28076,7 +24567,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Optical devices",
     "Japanese": "光学デバイス",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28084,7 +24574,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Octanitrocubane",
     "Japanese": "オクタニトロキュバン",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28092,7 +24581,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Opening remarks",
     "Japanese": "開会の挨拶",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28100,7 +24588,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Physical health",
     "Japanese": "身体の健康",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28108,7 +24595,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Private sectors",
     "Japanese": "民間セ​​クター",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28116,7 +24602,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Popular culture",
     "Japanese": "大衆文化",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28124,7 +24609,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Public speaking",
     "Japanese": "人前でのスピーチ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28132,7 +24616,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Quality control",
     "Japanese": "品質管理",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28140,7 +24623,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Quiet afternoon",
     "Japanese": "静かな午後",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28148,7 +24630,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Quick responses",
     "Japanese": "迅速な対応",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28156,7 +24637,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Quantum physics",
     "Japanese": "量子物理学",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28164,7 +24644,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Romantic dinner",
     "Japanese": "ロマンチックなディナー",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28172,7 +24651,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Relative speeds",
     "Japanese": "相対速度",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28180,7 +24658,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Remote controls",
     "Japanese": "リモコン",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28188,7 +24665,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Romantic comedy",
     "Japanese": "ロマンティックコメディ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28196,7 +24672,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Request timeout",
     "Japanese": "リクエストタイムアウト",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28204,7 +24679,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Special effects",
     "Japanese": "特撮",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28212,7 +24686,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Sporting events",
     "Japanese": "スポーツイベント",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28220,7 +24693,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Standard format",
     "Japanese": "標準フォーマット",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28228,7 +24700,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Social services",
     "Japanese": "社会福祉",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28236,7 +24707,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Technical issue",
     "Japanese": "技術的な問題",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28244,7 +24714,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "There's no data",
     "Japanese": "データがありません",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28252,7 +24721,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Typical example",
     "Japanese": "典型的な例",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28260,7 +24728,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Tropical island",
     "Japanese": "熱帯の島",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28268,7 +24735,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Trinitrotoluene",
     "Japanese": "トリニトロトルエン",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28276,7 +24742,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Urgent messages",
     "Japanese": "緊急メッセージ",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28284,7 +24749,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Uniform systems",
     "Japanese": "均一システム",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28292,7 +24756,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Unique features",
     "Japanese": "独自の機能",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28300,7 +24763,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Valuable assets",
     "Japanese": "貴重な資産",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28308,7 +24770,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Vintage clothes",
     "Japanese": "ヴィンテージ服",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28316,7 +24777,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Verbal warnings",
     "Japanese": "口頭での警告",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28324,7 +24784,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Victory parades",
     "Japanese": "勝利パレード",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28332,7 +24791,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Wedding parties",
     "Japanese": "結婚披露宴",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28340,7 +24798,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Weekly magazine",
     "Japanese": "週刊誌",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28348,7 +24805,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "World heritages",
     "Japanese": "世界遺産",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28356,7 +24812,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Xylophone music",
     "Japanese": "木琴の音楽",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28364,7 +24819,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "X-ray treatment",
     "Japanese": "X線治療",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28372,7 +24826,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "X-ray emissions",
     "Japanese": "X線放出",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28380,7 +24833,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Yearly meetings",
     "Japanese": "年次会議",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28388,7 +24840,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Yard attraction",
     "Japanese": "庭のアトラクション",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28396,7 +24847,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Youthful spirit",
     "Japanese": "若々しい精神",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28404,7 +24854,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Zebra crossings",
     "Japanese": "横断歩道",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28412,7 +24861,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Zero tolerances",
     "Japanese": "一切の容赦なし",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28420,7 +24868,6 @@ window.typingData = [
     "Lvl": 12,
     "Text": "Zone boundaries",
     "Japanese": "ゾーン境界",
-    "isSafe": true,
     "Len": 15
   },
   {
@@ -28428,7 +24875,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Academic studies",
     "Japanese": "学術研究",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28436,7 +24882,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Advanced degrees",
     "Japanese": "高度な学位",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28444,7 +24889,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Absolute control",
     "Japanese": "絶対的な支配",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28452,7 +24896,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Artistic talents",
     "Japanese": "芸術的才能",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28460,7 +24903,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Beautiful garden",
     "Japanese": "美しい庭園",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28468,7 +24910,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Business schools",
     "Japanese": "ビジネススクール",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28476,7 +24917,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Better standards",
     "Japanese": "より良い基準",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28484,7 +24924,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Building project",
     "Japanese": "建築プロジェクト",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28492,7 +24931,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Creative writing",
     "Japanese": "クリエイティブライティング",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28500,7 +24938,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Clinical testing",
     "Japanese": "臨床試験",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28508,7 +24945,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Computer science",
     "Japanese": "コンピュータサイエンス",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28516,7 +24952,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Chemical weapons",
     "Japanese": "化学兵器",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28524,7 +24959,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Domestic flights",
     "Japanese": "国内線",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28532,7 +24966,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Digital computer",
     "Japanese": "デジタルコンピュータ",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28540,7 +24973,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Driving licenses",
     "Japanese": "運転免許証",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28548,7 +24980,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Emotional damage",
     "Japanese": "精神的ダメージ",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28556,7 +24987,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Electric guitars",
     "Japanese": "エレキギター",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28564,7 +24994,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Economic systems",
     "Japanese": "経済システム",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28572,7 +25001,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "External factors",
     "Japanese": "外部要因",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28580,7 +25008,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Endless patience",
     "Japanese": "限りない忍耐",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28588,7 +25015,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Financial status",
     "Japanese": "財務状況",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28596,7 +25022,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Football matches",
     "Japanese": "サッカーの試合",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28604,7 +25029,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Foreign language",
     "Japanese": "外国語",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28612,7 +25036,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Global companies",
     "Japanese": "グローバル企業",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28620,7 +25043,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Golden retriever",
     "Japanese": "ゴールデンレトリバー",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28628,7 +25050,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "General meetings",
     "Japanese": "総会",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28636,7 +25057,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Great advantages",
     "Japanese": "大きなメリット",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28644,7 +25064,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Historic moments",
     "Japanese": "歴史的な瞬間",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28652,7 +25071,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Human experience",
     "Japanese": "人間の経験",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28660,7 +25078,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "High performance",
     "Japanese": "高性能",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28668,7 +25085,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Internal affairs",
     "Japanese": "内務",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28676,7 +25092,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Initial reaction",
     "Japanese": "初期反応",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28684,7 +25099,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Important person",
     "Japanese": "重要人物",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28692,7 +25106,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Immediate family",
     "Japanese": "近親者",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28700,7 +25113,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Joint operations",
     "Japanese": "共同作戦",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28708,7 +25120,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Junior employees",
     "Japanese": "若手社員",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28716,7 +25127,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Judicial systems",
     "Japanese": "司法システム",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28724,7 +25134,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Keyboard players",
     "Japanese": "キーボード奏者",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28732,7 +25141,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Kind suggestions",
     "Japanese": "親切な提案",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28740,7 +25148,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Knowledge seeker",
     "Japanese": "知識探求者",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28748,7 +25155,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Kitchen cabinets",
     "Japanese": "キッチンキャビネット",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28756,7 +25162,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Logical thinking",
     "Japanese": "論理的思考",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28764,7 +25169,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Literary critics",
     "Japanese": "文学評論家",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28772,7 +25176,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Local government",
     "Japanese": "地方自治体",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28780,7 +25183,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Legal frameworks",
     "Japanese": "法的枠組み",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28788,7 +25190,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Medical research",
     "Japanese": "医学研究",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28796,7 +25197,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Morning routines",
     "Japanese": "朝のルーティン",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28804,7 +25204,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Musical concerts",
     "Japanese": "音楽コンサート",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28812,7 +25211,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Mental illnesses",
     "Japanese": "精神疾患",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28820,7 +25218,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Natural resource",
     "Japanese": "天然資源",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28828,7 +25225,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "National anthems",
     "Japanese": "国歌",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28836,7 +25232,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Negative effects",
     "Japanese": "悪影響",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28844,7 +25239,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Online platforms",
     "Japanese": "オンラインプラットフォーム",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28852,7 +25246,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Organic products",
     "Japanese": "オーガニック製品",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28860,7 +25253,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Official records",
     "Japanese": "公式記録",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28868,7 +25260,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Payment required",
     "Japanese": "支払いが必要です",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28876,7 +25267,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Physical contact",
     "Japanese": "身体的接触",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28884,7 +25274,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Private property",
     "Japanese": "私有地",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28892,7 +25281,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Public transport",
     "Japanese": "公共交通機関",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28900,7 +25288,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Popular programs",
     "Japanese": "人気番組",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28908,7 +25295,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Quality products",
     "Japanese": "高品質な製品",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28916,7 +25302,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Quiet conditions",
     "Japanese": "静かな環境",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28924,7 +25309,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Quantum computer",
     "Japanese": "量子コンピュータ",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28932,7 +25316,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Regional offices",
     "Japanese": "地域事務所",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28940,7 +25323,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Research project",
     "Japanese": "研究プロジェクト",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28948,7 +25330,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Romantic feeling",
     "Japanese": "ロマンチックな気分",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28956,7 +25337,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Reliable sources",
     "Japanese": "信頼できる情報源",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28964,7 +25344,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Standard formats",
     "Japanese": "標準フォーマット",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28972,7 +25351,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Social structure",
     "Japanese": "社会構造",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28980,7 +25358,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Sports equipment",
     "Japanese": "スポーツ用品",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28988,7 +25365,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Technical skills",
     "Japanese": "技術スキル",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -28996,7 +25372,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Teaching methods",
     "Japanese": "教授法",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29004,7 +25379,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Tropical climate",
     "Japanese": "熱帯気候",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29012,7 +25386,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Traffic problems",
     "Japanese": "交通問題",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29020,7 +25393,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Urban developers",
     "Japanese": "都市開発業者",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29028,7 +25400,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Unique solutions",
     "Japanese": "独自のソリューション",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29036,7 +25407,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Under the bridge",
     "Japanese": "橋の下",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29044,7 +25414,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Variable factors",
     "Japanese": "変動要因",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29052,7 +25421,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Vintage clothing",
     "Japanese": "ヴィンテージ衣料",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29060,7 +25428,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Vocal techniques",
     "Japanese": "発声テクニック",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29068,7 +25435,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Valuable lessons",
     "Japanese": "貴重な教訓",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29076,7 +25442,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Wheel of fortune",
     "Japanese": "運命の輪",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29084,7 +25449,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Winter vacations",
     "Japanese": "冬休み",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29092,7 +25456,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Weather forecast",
     "Japanese": "天気予報",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29100,7 +25463,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Wireless network",
     "Japanese": "無線ネットワーク",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29108,7 +25470,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Working routines",
     "Japanese": "作業手順",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29116,7 +25477,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Xenon headlights",
     "Japanese": "キセノンヘッドライト",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29124,7 +25484,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "X-ray treatments",
     "Japanese": "X線治療",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29132,7 +25491,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Xenophobic views",
     "Japanese": "外国人嫌悪的な見解",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29140,7 +25498,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "You are an idiot",
     "Japanese": "お前はバカだ",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29148,7 +25505,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Young generation",
     "Japanese": "若い世代",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29156,7 +25512,6 @@ window.typingData = [
     "Lvl": 13,
     "Text": "Yielding results",
     "Japanese": "成果を上げる",
-    "isSafe": true,
     "Len": 16
   },
   {
@@ -29164,7 +25519,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Baseball stadiums",
     "Japanese": "野球場",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29172,7 +25526,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Beautiful scenery",
     "Japanese": "美しい景色",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29180,7 +25533,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Beryllium nitrate",
     "Japanese": "硝酸ベリリウム",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29188,7 +25540,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Cabinet ministers",
     "Japanese": "閣僚",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29196,7 +25547,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Civil engineering",
     "Japanese": "土木工学",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29204,7 +25554,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Content too large",
     "Japanese": "コンテンツが大きすぎます",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29212,7 +25561,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Digital marketing",
     "Japanese": "デジタルマーケティング",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29220,7 +25568,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Electric vehicles",
     "Japanese": "電気自動車",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29228,7 +25575,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Failed dependency",
     "Japanese": "依存関係の失敗",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29236,7 +25582,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Fashion designers",
     "Japanese": "ファッションデザイナー",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29244,7 +25589,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Financial advisor",
     "Japanese": "アドバイザー",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29252,7 +25596,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Fists are justice",
     "Japanese": "拳こそが正義",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29260,7 +25603,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Forensic analysis",
     "Japanese": "法医学分析",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29268,7 +25610,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Heavy metal music",
     "Japanese": "ヘヴィメタル音楽",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29276,7 +25617,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Holistic medicine",
     "Japanese": "ホリスティック医療",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29284,7 +25624,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Human interaction",
     "Japanese": "人間同士の交流",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29292,7 +25631,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Hydrogen fluoride",
     "Japanese": "フッ化水素",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29300,7 +25638,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Jewelry designers",
     "Japanese": "ジュエリーデザイナー",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29308,7 +25645,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Justice excalibur",
     "Japanese": "正義のエクスカリバー",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29316,7 +25652,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Justified actions",
     "Japanese": "正当化された行動",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29324,7 +25659,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Language learning",
     "Japanese": "言語学習",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29332,7 +25666,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Leading companies",
     "Japanese": "大手企業",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29340,7 +25673,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Management skills",
     "Japanese": "マネジメントスキル",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29348,7 +25680,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Marine ecosystems",
     "Japanese": "海洋生態系",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29356,7 +25687,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Medical treatment",
     "Japanese": "医療",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29364,7 +25694,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "National security",
     "Japanese": "国家安全保障",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29372,7 +25701,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Natural resources",
     "Japanese": "天然資源",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29380,7 +25708,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Nervous breakdown",
     "Japanese": "神経衰弱",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29388,7 +25715,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Neutral positions",
     "Japanese": "中立的な立場",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29396,7 +25722,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Operational costs",
     "Japanese": "運営コスト",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29404,7 +25729,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Organic gardening",
     "Japanese": "有機栽培",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29412,7 +25736,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Painted portraits",
     "Japanese": "描かれた肖像画",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29420,7 +25743,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Parental guidance",
     "Japanese": "保護者の指導",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29428,7 +25750,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Physical exercise",
     "Japanese": "運動",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29436,7 +25757,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Quality assurance",
     "Japanese": "品質保証",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29444,7 +25764,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Quantum computing",
     "Japanese": "量子コンピューティング",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29452,7 +25771,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Quarterly reports",
     "Japanese": "四半期報告書",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29460,7 +25778,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Questioning style",
     "Japanese": "質問スタイル",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29468,7 +25785,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Quiet environment",
     "Japanese": "静かな環境",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29476,7 +25792,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Rational behavior",
     "Japanese": "合理的な行動",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29484,7 +25799,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Reading materials",
     "Japanese": "読書資料",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29492,7 +25806,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Religious beliefs",
     "Japanese": "宗教的信念",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29500,7 +25813,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Research findings",
     "Japanese": "研究結果",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29508,7 +25820,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Security measures",
     "Japanese": "セキュリティ対策",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29516,7 +25827,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Senior executives",
     "Japanese": "上級幹部",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29524,7 +25834,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Shattered reality",
     "Japanese": "粉砕された現実",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29532,7 +25841,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Technical support",
     "Japanese": "テクニカルサポート",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29540,7 +25848,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Technology sector",
     "Japanese": "テクノロジー分野",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29548,7 +25855,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Temperature gauge",
     "Japanese": "温度計",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29556,7 +25862,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Too many requests",
     "Japanese": "リクエストが多すぎます",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29564,7 +25869,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Training programs",
     "Japanese": "研修プログラム",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29572,7 +25876,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Trans fatty acids",
     "Japanese": "トランス脂肪酸",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29580,7 +25883,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Undersea research",
     "Japanese": "海底研究",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29588,7 +25890,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Unified messaging",
     "Japanese": "統合メッセージング",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29596,7 +25897,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Universal symbols",
     "Japanese": "普遍的なシンボル",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29604,7 +25904,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "University degree",
     "Japanese": "大学の学位",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29612,7 +25911,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Urban development",
     "Japanese": "都市開発",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29620,7 +25918,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Variable outcomes",
     "Japanese": "結果は様々",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29628,7 +25925,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Vegetable gardens",
     "Japanese": "菜園",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29636,7 +25932,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Weight management",
     "Japanese": "体重管理",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29644,7 +25939,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Wireless networks",
     "Japanese": "無線ネットワーク",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29652,7 +25946,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Wrath of the gods",
     "Japanese": "神々の怒り",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29660,7 +25953,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Xenon flash tubes",
     "Japanese": "キセノンフラッシュチューブ",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29668,7 +25960,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Xylophone players",
     "Japanese": "木琴奏者",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29676,7 +25967,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Xylose metabolism",
     "Japanese": "キシロース代謝",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29684,7 +25974,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Zucchini harvests",
     "Japanese": "ズッキーニの収穫",
-    "isSafe": true,
     "Len": 17
   },
   {
@@ -29692,7 +25981,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Aerodynamic design",
     "Japanese": "空力設計",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29700,7 +25988,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Aesthetic movement",
     "Japanese": "美的運動",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29708,7 +25995,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Albatross feathers",
     "Japanese": "アホウドリの羽",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29716,7 +26002,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Antivirus software",
     "Japanese": "ウイルス対策ソフトウェア",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29724,7 +26009,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Artificial systems",
     "Japanese": "人工システム",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29732,7 +26016,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Balanced diet plan",
     "Japanese": "バランスの取れた食事プラン",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29740,7 +26023,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Bane of arthropods",
     "Japanese": "虫特攻",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29748,7 +26030,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Banking regulation",
     "Japanese": "銀行規制",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29756,7 +26037,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Behavioral science",
     "Japanese": "行動科学",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29764,7 +26044,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Beneficial effects",
     "Japanese": "有益な効果",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29772,7 +26051,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "BitLocker recovery",
     "Japanese": "BitLockerの回復",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29780,7 +26058,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Calcium deficiency",
     "Japanese": "カルシウム欠乏症",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29788,7 +26065,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Career development",
     "Japanese": "キャリア開発",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29796,7 +26072,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Central government",
     "Japanese": "中央政府",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29804,7 +26079,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Chemical reactions",
     "Japanese": "化学反応",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29812,7 +26086,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Climate adaptation",
     "Japanese": "気候変動への適応",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29820,7 +26093,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Data visualization",
     "Japanese": "データ可視化",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29828,7 +26100,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Dead body reported",
     "Japanese": "遺体発見の報告",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29836,7 +26107,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Defense mechanisms",
     "Japanese": "防御機構",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29844,7 +26114,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Diazodinitrophenol",
     "Japanese": "ジアゾジニトロフェノール",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29852,7 +26121,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Dramatic structure",
     "Japanese": "劇的な構成",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29860,7 +26128,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Economic stability",
     "Japanese": "経済の安定",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29868,7 +26135,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Educational system",
     "Japanese": "教育制度",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29876,7 +26142,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Effective strategy",
     "Japanese": "効果的な戦略",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29884,7 +26149,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Electronic devices",
     "Japanese": "電子機器",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29892,7 +26156,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Emotional maturity",
     "Japanese": "感情的な成熟度",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29900,7 +26163,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Energy consumption",
     "Japanese": "エネルギー消費量",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29908,7 +26170,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Essential nutrient",
     "Japanese": "必須栄養素",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29916,7 +26177,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Expectation failed",
     "Japanese": "期待外れだった",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29924,7 +26184,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Factory automation",
     "Japanese": "工場自動化",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29932,7 +26191,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Faithful companion",
     "Japanese": "忠実な仲間",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29940,7 +26198,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Federal government",
     "Japanese": "連邦政府",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29948,7 +26205,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Galactic astronomy",
     "Japanese": "銀河天文学",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29956,7 +26212,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Garbage collection",
     "Japanese": "ゴミ収集",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29964,7 +26219,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Gas chromatography",
     "Japanese": "ガスクロマトグラフィー",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29972,7 +26226,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "General principles",
     "Japanese": "一般原則",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29980,7 +26233,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Great achievements",
     "Japanese": "素晴らしい功績",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29988,7 +26240,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Heart rate monitor",
     "Japanese": "心拍数モニター",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -29996,7 +26247,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Historical records",
     "Japanese": "歴史記録",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30004,7 +26254,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Important decision",
     "Japanese": "重要な決断",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30012,7 +26261,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Industrial economy",
     "Japanese": "産業経済",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30020,7 +26268,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Information system",
     "Japanese": "情報システム",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30028,7 +26275,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Joint venture team",
     "Japanese": "合弁事業チーム",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30036,7 +26282,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Journalistic style",
     "Japanese": "ジャーナリスティックなスタイル",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30044,7 +26289,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Journey to success",
     "Japanese": "成功への道のり",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30052,7 +26296,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Junior high school",
     "Japanese": "中学校",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30060,7 +26303,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Jury deliberations",
     "Japanese": "陪審員の審議",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30068,7 +26310,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Keyboard shortcuts",
     "Japanese": "キーボードショートカット",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30076,7 +26317,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Kinetic sculptures",
     "Japanese": "キネティック彫刻",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30084,7 +26324,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Kitchen appliances",
     "Japanese": "キッチン家電",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30092,7 +26331,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Knowledge transfer",
     "Japanese": "知識移転",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30100,7 +26338,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Korean restaurants",
     "Japanese": "韓国料理店",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30108,7 +26345,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Landscape painting",
     "Japanese": "風景画",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30116,7 +26352,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Learning materials",
     "Japanese": "学習教材",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30124,7 +26359,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Legal requirements",
     "Japanese": "法的要件",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30132,7 +26366,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Leisure activities",
     "Japanese": "レジャー活動",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30140,7 +26373,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Magnetic resonance",
     "Japanese": "磁気共鳴",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30148,7 +26380,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Marketing research",
     "Japanese": "マーケティングリサーチ",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30156,7 +26387,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Mental health care",
     "Japanese": "メンタルヘルスケア",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30164,7 +26394,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Method not allowed",
     "Japanese": "許可されていない方法",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30172,7 +26401,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Negative reactions",
     "Japanese": "否定的な反応",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30180,7 +26408,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Objective evidence",
     "Japanese": "客観的証拠",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30188,7 +26415,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Ocean conservation",
     "Japanese": "海洋保全",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30196,7 +26422,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Office environment",
     "Japanese": "オフィス環境",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30204,7 +26429,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Outdoor recreation",
     "Japanese": "アウトドアレクリエーション",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30212,7 +26436,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Passive resistance",
     "Japanese": "受動的抵抗",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30220,7 +26443,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Peace negotiations",
     "Japanese": "和平交渉",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30228,7 +26450,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Performance review",
     "Japanese": "業績評価",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30236,7 +26457,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Personal computers",
     "Japanese": "パーソナルコンピュータ",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30244,7 +26464,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Quantitative study",
     "Japanese": "定量的研究",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30252,7 +26471,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Radio broadcasting",
     "Japanese": "ラジオ放送",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30260,7 +26478,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Realistic painting",
     "Japanese": "写実的な絵画",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30268,7 +26485,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Sodium bicarbonate",
     "Japanese": "重曹",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30276,7 +26492,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Territorial waters",
     "Japanese": "領海",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30284,7 +26499,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Textile industries",
     "Japanese": "繊維産業",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30292,7 +26506,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Underground tunnel",
     "Japanese": "地下トンネル",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30300,7 +26513,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Unique perspective",
     "Japanese": "独自の視点",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30308,7 +26520,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Valid observations",
     "Japanese": "有効な観察結果",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30316,7 +26527,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Vertical alignment",
     "Japanese": "垂直方向の配置",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30324,7 +26534,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Water conservation",
     "Japanese": "節水",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30332,7 +26541,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Weather conditions",
     "Japanese": "気象状況",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30340,7 +26548,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Xerographic copies",
     "Japanese": "ゼログラフィーコピー",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30348,7 +26555,6 @@ window.typingData = [
     "Lvl": 14,
     "Text": "Yellow fever virus",
     "Japanese": "黄熱ウイルス",
-    "isSafe": true,
     "Len": 18
   },
   {
@@ -30356,7 +26562,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Absolute monarchism",
     "Japanese": "絶対君主制",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30364,7 +26569,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Acoustic guitarists",
     "Japanese": "アコースティックギタリスト",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30372,7 +26576,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Advanced technology",
     "Japanese": "先進技術",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30380,7 +26583,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Bacterial infection",
     "Japanese": "細菌感染",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30388,7 +26590,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Celestial mechanics",
     "Japanese": "天体力学",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30396,7 +26597,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Dihydrogen monoxide",
     "Japanese": "一酸化二水素",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30404,7 +26604,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Dynamic programming",
     "Japanese": "動的計画法",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30412,7 +26611,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Gallery exhibitions",
     "Japanese": "ギャラリー展示",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30420,7 +26618,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Genetic engineering",
     "Japanese": "遺伝子工学",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30428,7 +26625,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Geographic location",
     "Japanese": "地理的位置",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30436,7 +26632,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Increase efficiency",
     "Japanese": "効率性を向上させる",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30444,7 +26639,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Interior decoration",
     "Japanese": "インテリア装飾",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30452,7 +26646,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Knightly adventures",
     "Japanese": "騎士道の冒険",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30460,7 +26653,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Laboratory analysis",
     "Japanese": "臨床検査",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30468,7 +26660,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Laughing my ass off",
     "Japanese": "大爆笑",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30476,7 +26667,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Lithium ion battery",
     "Japanese": "リチウムイオン電池",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30484,7 +26674,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Market manipulation",
     "Japanese": "市場操作",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30492,7 +26681,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Misdirected request",
     "Japanese": "誤ったリクエスト",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30500,7 +26688,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Nautical navigation",
     "Japanese": "航海術",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30508,7 +26695,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Occupational health",
     "Japanese": "産業保健",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30516,7 +26702,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Precondition failed",
     "Japanese": "前提条件が満たされませんでした",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30524,7 +26709,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Qualification tests",
     "Japanese": "資格試験",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30532,7 +26716,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Scientific notation",
     "Japanese": "科学的記数法",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30540,7 +26723,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Scientific research",
     "Japanese": "科学研究",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30548,7 +26730,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Supernova explosion",
     "Japanese": "超新星爆発",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30556,7 +26737,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Theoretical physics",
     "Japanese": "理論物理学",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30564,7 +26744,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Time limit exceeded",
     "Japanese": "制限時間を超過しました",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30572,7 +26751,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Website development",
     "Japanese": "ウェブサイト開発",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30580,7 +26758,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Wildlife protection",
     "Japanese": "野生生物保護",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30588,7 +26765,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Zero gravity flight",
     "Japanese": "無重力飛行",
-    "isSafe": true,
     "Len": 19
   },
   {
@@ -30596,7 +26772,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Academic achievement",
     "Japanese": "学業成績",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30604,7 +26779,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Ever dream this man?",
     "Japanese": "この男性の夢を見たことがありますか？",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30612,7 +26786,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "High frequency blade",
     "Japanese": "高周波ブレード",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30620,7 +26793,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Improve productivity",
     "Japanese": "生産性を向上させる",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30628,7 +26800,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Low orbit ion cannon",
     "Japanese": "低軌道イオン砲",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30636,7 +26807,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Nonexistent memories",
     "Japanese": "存在しない記憶",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30644,7 +26814,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Random access memory",
     "Japanese": "ランダムアクセスメモリ",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30652,7 +26821,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Regional development",
     "Japanese": "地域開発",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30660,7 +26828,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Verbal communication",
     "Japanese": "言語によるコミュニケーション",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30668,7 +26835,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Western civilization",
     "Japanese": "西洋文明",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30676,7 +26842,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "The devourer of gods",
     "Japanese": "神々を食らう者",
-    "isSafe": true,
     "Len": 20
   },
   {
@@ -30684,7 +26849,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Internal server error",
     "Japanese": "内部サーバーエラー",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30692,7 +26856,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Facilities management",
     "Japanese": "施設管理",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30700,7 +26863,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Global warming trends",
     "Japanese": "地球温暖化の傾向",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30708,7 +26870,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Look away at all cost",
     "Japanese": "何としても目をそらす",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30716,7 +26877,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Partial solar eclipse",
     "Japanese": "部分日食",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30724,7 +26884,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Range not satisfiable",
     "Japanese": "範囲が満たされません",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30732,7 +26891,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Unprocessable content",
     "Japanese": "処理できないコンテンツ",
-    "isSafe": true,
     "Len": 21
   },
   {
@@ -30740,7 +26898,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Cascading style sheets",
     "Japanese": "カスケードスタイルシート",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30748,7 +26905,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Chlorotrifluoromethane",
     "Japanese": "クロロトリフルオロメタン",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30756,7 +26912,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Comma separated values",
     "Japanese": "カンマ区切り値",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30764,7 +26919,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Daily exercise routine",
     "Japanese": "毎日の運動習慣",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30772,7 +26926,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Descriptive statistics",
     "Japanese": "記述統計",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30780,7 +26933,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Global economic system",
     "Japanese": "グローバル経済システム",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30788,7 +26940,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Journalistic integrity",
     "Japanese": "ジャーナリズムの誠実さ",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30796,7 +26947,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Machine learning model",
     "Japanese": "機械学習モデル",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30804,7 +26954,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Mathematical induction",
     "Japanese": "数学的帰納法",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30812,7 +26961,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Microspectrophotometer",
     "Japanese": "マイクロ分光光度計",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30820,7 +26968,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Mountain climbing trip",
     "Japanese": "登山旅行",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30828,7 +26975,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Population growth rate",
     "Japanese": "人口増加率",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30836,7 +26982,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "practice makes perfect",
     "Japanese": "練習すれば完璧になる",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30844,7 +26989,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Quiet residential area",
     "Japanese": "静かな住宅街",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30852,7 +26996,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Social media marketing",
     "Japanese": "ソーシャルメディアマーケティング",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30860,7 +27003,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Universal human rights",
     "Japanese": "普遍的な人権",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30868,7 +27010,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Unsupported media type",
     "Japanese": "サポートされていないメディアタイプ",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30876,7 +27017,6 @@ window.typingData = [
     "Lvl": 15,
     "Text": "Yield strength measure",
     "Japanese": "降伏強度測定",
-    "isSafe": true,
     "Len": 22
   },
   {
@@ -30884,7 +27024,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "A new foe has appeared!",
     "Japanese": "新たな敵が現れた！",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30892,7 +27031,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Business administration",
     "Japanese": "経営管理",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30900,7 +27038,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Central processing unit",
     "Japanese": "中央処理装置",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30908,7 +27045,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Dichlorodifluoromethane",
     "Japanese": "ジクロロジフルオロメタン",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30916,7 +27052,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Future technology trend",
     "Japanese": "将来の技術動向",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30924,7 +27059,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Honest personal opinion",
     "Japanese": "率直な個人的意見",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30932,7 +27066,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Intentional game design",
     "Japanese": "意図的なゲームデザイン",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30940,7 +27073,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Jungle exploration trip",
     "Japanese": "ジャングル探検旅行",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30948,7 +27080,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Keen observation skills",
     "Japanese": "鋭い観察力",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30956,7 +27087,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Knowledge based economy",
     "Japanese": "知識ベース経済",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30964,7 +27094,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Local community service",
     "Japanese": "地域社会への貢献",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30972,7 +27101,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Music production studio",
     "Japanese": "音楽制作スタジオ",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30980,7 +27108,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Renewable energy system",
     "Japanese": "再生可能エネルギーシステム",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30988,7 +27115,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Sustainable development",
     "Japanese": "持続可能な開発",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -30996,7 +27122,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Underlying social issue",
     "Japanese": "根底にある社会問題",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -31004,7 +27129,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Vibrant city atmosphere",
     "Japanese": "活気あふれる都市の雰囲気",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -31012,7 +27136,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Virtual reality systems",
     "Japanese": "仮想現実システム",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -31020,7 +27143,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Zoological research lab",
     "Japanese": "動物学研究室",
-    "isSafe": true,
     "Len": 23
   },
   {
@@ -31028,7 +27150,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Aquatic ecosystem health",
     "Japanese": "水生生態系の健全性",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31036,7 +27157,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Artificial consciousness",
     "Japanese": "人工意識",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31044,7 +27164,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Chronic health condition",
     "Japanese": "慢性疾患",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31052,7 +27171,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Dramatic theatrical work",
     "Japanese": "劇的な演劇作品",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31060,7 +27178,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Electronic communication",
     "Japanese": "電子通信",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31068,7 +27185,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Fundamental physical law",
     "Japanese": "基本的な物理法則",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31076,7 +27192,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Geographical information",
     "Japanese": "地理情報",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31084,7 +27199,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Graphics processing unit",
     "Japanese": "グラフィックス処理ユニット",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31092,7 +27206,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Healthy lifestyle choice",
     "Japanese": "健康的なライフスタイルの選択",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31100,7 +27213,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Joyful celebration event",
     "Japanese": "楽しいお祝いイベント",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31108,7 +27220,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Justification for action",
     "Japanese": "行動の正当性",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31116,7 +27227,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Kitchen appliance repair",
     "Japanese": "キッチン家電の修理",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31124,7 +27234,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Leading academic journal",
     "Japanese": "一流の学術誌",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31132,7 +27241,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Major transportation hub",
     "Japanese": "主要な交通拠点",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31140,7 +27248,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Oceanic current movement",
     "Japanese": "海流の動き",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31148,7 +27255,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Optimal solution finding",
     "Japanese": "最適解の探索",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31156,7 +27262,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Physical education class",
     "Japanese": "体育の授業",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31164,7 +27269,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Political science theory",
     "Japanese": "政治学理論",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31172,7 +27276,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Primary research finding",
     "Japanese": "主要な研究結果",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31180,7 +27283,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Professional development",
     "Japanese": "専門能力開発",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31188,7 +27290,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Quick response mechanism",
     "Japanese": "迅速対応メカニズム",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31196,7 +27297,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Rational decision making",
     "Japanese": "合理的な意思決定",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31204,7 +27304,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Regional economic growth",
     "Japanese": "地域経済成長",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31212,7 +27311,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Scientific investigation",
     "Japanese": "科学的調査",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31220,7 +27318,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Technological innovation",
     "Japanese": "技術革新",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31228,7 +27325,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Total quality management",
     "Japanese": "総合品質管理",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31236,7 +27332,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Transport infrastructure",
     "Japanese": "輸送インフラ",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31244,7 +27339,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Unique cultural identity",
     "Japanese": "独自の文化的アイデンティティ",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31252,7 +27346,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "When the impostor is sus",
     "Japanese": "偽者が疑わしい場合",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31260,7 +27353,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "X chromosome inheritance",
     "Japanese": "X染色体の遺伝",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31268,7 +27360,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Xylographic printing art",
     "Japanese": "木版印刷芸術",
-    "isSafe": true,
     "Len": 24
   },
   {
@@ -31276,7 +27367,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Academic achievement test",
     "Japanese": "学力達成度テスト",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31284,7 +27374,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Advanced computer science",
     "Japanese": "高度なコンピュータサイエンス",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31292,7 +27381,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Atmospheric concentration",
     "Japanese": "大気濃度",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31300,7 +27388,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Balanced nutritional diet",
     "Japanese": "バランスの取れた栄養食",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31308,7 +27395,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Beautiful sunrise scenery",
     "Japanese": "美しい日の出の景色",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31316,7 +27402,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Biological classification",
     "Japanese": "生物学的分類",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31324,7 +27409,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Brilliant scientific mind",
     "Japanese": "卓越した科学的頭脳",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31332,7 +27416,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Careful analytical review",
     "Japanese": "綿密な分析的レビュー",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31340,7 +27423,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Cultural heritage project",
     "Japanese": "文化遺産プロジェクト",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31348,7 +27430,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Detailed financial report",
     "Japanese": "詳細な財務報告書",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31356,7 +27437,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Dynamic equilibrium state",
     "Japanese": "動的平衡状態",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31364,7 +27444,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Extraordinary performance",
     "Japanese": "並外れたパフォーマンス",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31372,7 +27451,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Foreign language learning",
     "Japanese": "外国語学習",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31380,7 +27458,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Formal wedding invitation",
     "Japanese": "正式な結婚式の招待状",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31388,7 +27465,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Frequent travel itinerary",
     "Japanese": "頻繁な旅行日程",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31396,7 +27472,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Functional design pattern",
     "Japanese": "機能設計パターン",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31404,7 +27479,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "General knowledge contest",
     "Japanese": "一般知識コンテスト",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31412,7 +27486,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Grand architecture design",
     "Japanese": "壮大な建築デザイン",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31420,7 +27493,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Great historical monument",
     "Japanese": "偉大な歴史的建造物",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31428,7 +27500,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "High quality construction",
     "Japanese": "高品質な建築",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31436,7 +27507,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Huge financial investment",
     "Japanese": "巨額の資金投資",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31444,7 +27514,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Human resource management",
     "Japanese": "人材管理",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31452,7 +27521,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Hypertext markup language",
     "Japanese": "ハイパーテキストマークアップ言語",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31460,7 +27528,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Intellectual property law",
     "Japanese": "知的財産法",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31468,7 +27535,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "International cooperation",
     "Japanese": "国際協力",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31476,7 +27542,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Joint venture partnership",
     "Japanese": "合弁事業パートナーシップ",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31484,7 +27549,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Judicial system procedure",
     "Japanese": "司法制度の手続き",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31492,7 +27556,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Key performance indicator",
     "Japanese": "主要業績指標",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31500,7 +27563,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Landscape photography art",
     "Japanese": "風景写真アート",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31508,7 +27570,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Liquid nitrogen container",
     "Japanese": "液体窒素容器",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31516,7 +27577,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Mutual understanding goal",
     "Japanese": "相互理解の目標",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31524,7 +27584,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Natural resource scarcity",
     "Japanese": "天然資源の不足",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31532,7 +27591,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "No such file or directory",
     "Japanese": "そのようなファイル、又はディレクトリはありません",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31540,7 +27598,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Notable achievement award",
     "Japanese": "顕著な功績賞",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31548,7 +27605,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Organizational management",
     "Japanese": "組織管理",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31556,7 +27612,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Orthostatic dysregulation",
     "Japanese": "起立性調節障害",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31564,7 +27619,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Outdoor recreational park",
     "Japanese": "屋外レクリエーション公園",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31572,7 +27626,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Peaceful coexistence goal",
     "Japanese": "平和共存の目標",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31580,7 +27633,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Quality assurance process",
     "Japanese": "品質保証プロセス",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31588,7 +27640,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Realistic simulation game",
     "Japanese": "リアルなシミュレーションゲーム",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31596,7 +27647,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Rural development project",
     "Japanese": "農村開発プロジェクト",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31604,7 +27654,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "There's no data, be quiet",
     "Japanese": "データなんかねえよ うるせえよ",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31612,7 +27661,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Vertical gardening system",
     "Japanese": "垂直庭園システム",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31620,7 +27668,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Violent volcanic eruption",
     "Japanese": "激しい火山噴火",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31628,7 +27675,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Visual communication tool",
     "Japanese": "視覚的なコミュニケーションツール",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31636,7 +27682,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Water resource management",
     "Japanese": "水資源管理",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31644,7 +27689,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Weather forecasting model",
     "Japanese": "天気予報モデル",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31652,7 +27696,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Xenotransplantation trial",
     "Japanese": "異種移植試験",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31660,7 +27703,6 @@ window.typingData = [
     "Lvl": 16,
     "Text": "Zero emission vehicle law",
     "Japanese": "ゼロエミッション車法",
-    "isSafe": true,
     "Len": 25
   },
   {
@@ -31668,7 +27710,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Abstract conceptualization",
     "Japanese": "抽象概念化",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31676,7 +27717,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Basic communication skills",
     "Japanese": "基本的なコミュニケーション能力",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31684,7 +27724,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Building construction site",
     "Japanese": "建設現場",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31692,7 +27731,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Chemical reaction kinetics",
     "Japanese": "化学反応速度論",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31700,7 +27738,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Clinical trial methodology",
     "Japanese": "臨床試験の方法論",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31708,7 +27745,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Complex mathematical model",
     "Japanese": "複雑な数理モデル",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31716,7 +27752,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Diverse biological species",
     "Japanese": "多様な生物種",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31724,7 +27759,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Durable industrial product",
     "Japanese": "耐久性のある工業製品",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31732,7 +27766,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Financial market stability",
     "Japanese": "金融市場の安定性",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31740,7 +27773,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Growing population density",
     "Japanese": "人口密度の増加",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31748,7 +27780,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Heavy industrial machinery",
     "Japanese": "重工業機械",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31756,7 +27787,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Historic preservation area",
     "Japanese": "歴史的建造物保存地区",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31764,7 +27794,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Immediate medical response",
     "Japanese": "即時医療対応",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31772,7 +27801,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Individual character trait",
     "Japanese": "個人の性格特性",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31780,7 +27808,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Innovative software design",
     "Japanese": "革新的なソフトウェア設計",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31788,7 +27815,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Junior high school student",
     "Japanese": "中学生",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31796,7 +27822,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Linear algebra calculation",
     "Japanese": "線形代数計算",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31804,7 +27829,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Logical reasoning exercise",
     "Japanese": "論理的推論演習",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31812,7 +27836,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Medical research institute",
     "Japanese": "医学研究所",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31820,7 +27843,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "National security strategy",
     "Japanese": "国家安全保障戦略",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31828,7 +27850,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Northern hemisphere winter",
     "Japanese": "北半球の冬",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31836,7 +27857,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Nutritional value analysis",
     "Japanese": "栄養価分析",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31844,7 +27864,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Official government report",
     "Japanese": "政府公式報告書",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31852,7 +27871,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Quantitative data analysis",
     "Japanese": "定量的データ分析",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31860,7 +27878,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Quantum mechanics research",
     "Japanese": "量子力学の研究",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31868,7 +27885,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Solar radiation management",
     "Japanese": "日射管理",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31876,7 +27892,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Strategic planning session",
     "Japanese": "戦略計画会議",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31884,7 +27899,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Traditional cultural value",
     "Japanese": "伝統的な文化的価値",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31892,7 +27906,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Uniform distribution graph",
     "Japanese": "一様分布グラフ",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31900,7 +27913,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Urban planning development",
     "Japanese": "都市計画開発",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31908,7 +27920,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Western civilization story",
     "Japanese": "西洋文明の物語",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31916,7 +27927,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Wildlife conservation area",
     "Japanese": "野生生物保護区",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31924,7 +27934,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Working environment policy",
     "Japanese": "職場環境方針",
-    "isSafe": true,
     "Len": 26
   },
   {
@@ -31932,7 +27941,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Tetrabutylammonium fluoride",
     "Japanese": "テトラブチルアンモニウムフルオリド",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31940,7 +27948,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Tetrabutylammonium chloride",
     "Japanese": "テトラブチルアンモニウムクロリド",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31948,7 +27955,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Lithium triethylborohydride",
     "Japanese": "トリエチルボロヒドリドリチウム",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31956,7 +27962,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Triethylamine hydrochloride",
     "Japanese": "塩酸トリエチルアミン",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31964,7 +27969,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Hydrazine monohydrochloride",
     "Japanese": "塩酸ヒドラジン",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31972,7 +27976,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Hypertext transfer protocol",
     "Japanese": "ハイパーテキスト転送プロトコル",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31980,7 +27983,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Semicarbazide hydrochloride",
     "Japanese": "セミカルバジド塩酸塩",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31988,7 +27990,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Ammonium tetrathiomolybdate",
     "Japanese": "テトラチオモリブデン酸アンモニウム",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -31996,7 +27997,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Potassium tetraphenylborate",
     "Japanese": "テトラフェニルホウ酸カリウム",
-    "isSafe": true,
     "Len": 27
   },
   {
@@ -32004,7 +28004,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Tetrabutylammonium hydroxide",
     "Japanese": "テトラブチルアンモニウムヒドロキシド",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32012,7 +28011,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Pararosaniline hydrochloride",
     "Japanese": "塩酸パラロザニリン",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32020,7 +28018,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Tetraethylammonium hydroxide",
     "Japanese": "テトラエチルアンモニウムヒドロキシド",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32028,7 +28025,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Tetramethylammonium chloride",
     "Japanese": "テトラメチルアンモニウムクロリド",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32036,7 +28032,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Cyclopentylmagnesium bromide",
     "Japanese": "シクロペンチルマグネシウムブロミド",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32044,7 +28039,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Sodium triacetoxyborohydride",
     "Japanese": "トリ酢酸水素化ホウ素ナトリウム",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32052,7 +28046,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Potassium hydrogen phthalate",
     "Japanese": "フタル酸水素カリウム",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32060,7 +28053,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Bromothymol blue sodium salt",
     "Japanese": "ブロモチモールブルーナトリウム塩",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32068,7 +28060,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Ammonium hexafluorophosphate",
     "Japanese": "六フッ化リン酸アンモニウム",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32076,7 +28067,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Pentaerythritol tetranitrate",
     "Japanese": "ペンタエリスリトールテトラニトラート",
-    "isSafe": true,
     "Len": 28
   },
   {
@@ -32084,7 +28074,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Chronic obstructive pulmonary",
     "Japanese": "慢性閉塞性肺疾患",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32092,7 +28081,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Trinitrophenylmethylnitramine",
     "Japanese": "トリニトロフェニルメチルニトラミン",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32100,7 +28088,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "The missile knows where it is",
     "Japanese": "ミサイルは自分の位置を知っている",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32108,7 +28095,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Phenolphthalein disodium salt",
     "Japanese": "フェノールフタレイン二ナトリウム塩",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32116,7 +28102,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Proxy authentication required",
     "Japanese": "プロキシ認証が必要です",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32124,7 +28109,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Sodium diethyldithiocarbamate",
     "Japanese": "ジエチルジチオカルバミン酸ナトリウム",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32132,7 +28116,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Phenylhydrazine hydrochloride",
     "Japanese": "塩酸フェニルヒドラジン",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32140,7 +28123,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Potassium hexafluorophosphate",
     "Japanese": "六フッ化リン酸カリウム",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32148,7 +28130,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Unavailable for legal reasons",
     "Japanese": "法的理由により利用できません",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32156,7 +28137,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Hexanitrohexaazaisowurtzitane",
     "Japanese": "ヘキサニトロヘキサアザイソウルツィタン",
-    "isSafe": true,
     "Len": 29
   },
   {
@@ -32164,7 +28144,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Ethylene glycol dimethyl ether",
     "Japanese": "エチレングリコールジメチルエーテル",
-    "isSafe": true,
     "Len": 30
   },
   {
@@ -32172,7 +28151,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Magnesium sulfate heptahydrate",
     "Japanese": "硫酸マグネシウム七水和物",
-    "isSafe": true,
     "Len": 30
   },
   {
@@ -32180,7 +28158,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Dichlorodiphenyltrichloroethane",
     "Japanese": "ジクロロジフェニルトリクロロエタン",
-    "isSafe": true,
     "Len": 31
   },
   {
@@ -32188,7 +28165,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Ethylenediaminetetraacetic acid",
     "Japanese": "エチレンジアミン四酢酸",
-    "isSafe": true,
     "Len": 31
   },
   {
@@ -32196,7 +28172,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "import matplotlib.pyplot as plt",
     "Japanese": "matplotlib.pyplotをpltとしてimport",
-    "isSafe": true,
     "Len": 31
   },
   {
@@ -32204,7 +28179,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Request header fields too large",
     "Japanese": "リクエストヘッダーフィールドが大きすぎます",
-    "isSafe": true,
     "Len": 31
   },
   {
@@ -32212,7 +28186,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Dodecyltrimethylammonium bromide",
     "Japanese": "ドデシルトリメチルアンモニウムブロミド",
-    "isSafe": true,
     "Len": 32
   },
   {
@@ -32220,7 +28193,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Ethylene glycol monomethyl ether",
     "Japanese": "エチレングリコールモノメチルエーテル",
-    "isSafe": true,
     "Len": 32
   },
   {
@@ -32228,7 +28200,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Acquired immunodeficiency syndrome",
     "Japanese": "後天性免疫不全症候群",
-    "isSafe": true,
     "Len": 34
   },
   {
@@ -32236,7 +28207,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Did I mention to you that I'm dead?",
     "Japanese": "私が死んだって、あなたに言いましたっけ？",
-    "isSafe": true,
     "Len": 35
   },
   {
@@ -32244,7 +28214,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "I always eat something during a meal",
     "Japanese": "私は食事の際には必ず何かを食べる",
-    "isSafe": true,
     "Len": 36
   },
   {
@@ -32252,7 +28221,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Sphinx of black quartz, judge my vow",
     "Japanese": "黒水晶のスフィンクスよ、我が誓いを裁け",
-    "isSafe": true,
     "Len": 36
   },
   {
@@ -32260,7 +28228,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Unified extensible firmware interface",
     "Japanese": "統合拡張ファームウェアインターフェース",
-    "isSafe": true,
     "Len": 37
   },
   {
@@ -32268,7 +28235,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "An idiot never gets wise as he gets older",
     "Japanese": "愚か者は年を取っても決して賢くならない",
-    "isSafe": true,
     "Len": 41
   },
   {
@@ -32276,7 +28242,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Enter the recovery key to get going again",
     "Japanese": "復旧キーを入力して再開しましょう",
-    "isSafe": true,
     "Len": 41
   },
   {
@@ -32284,7 +28249,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Ethylenediaminetetraacetic acid tetrasodium",
     "Japanese": "エチレンジアミン四酢酸四ナトリウム",
-    "isSafe": true,
     "Len": 43
   },
   {
@@ -32292,7 +28256,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Japan is turning footsteps into electricity",
     "Japanese": "日本では人々が歩く時の圧力や振動を電気エネルギーに変換する",
-    "isSafe": true,
     "Len": 43
   },
   {
@@ -32300,7 +28263,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "The quick brown fox jumps over the lazy dog",
     "Japanese": "素早い茶色のキツネが怠惰な犬を飛び越える",
-    "isSafe": true,
     "Len": 43
   },
   {
@@ -32308,7 +28270,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Enter the required information below to continue",
     "Japanese": "続行するには、以下の必要情報を入力してください。",
-    "isSafe": true,
     "Len": 48
   },
   {
@@ -32316,7 +28277,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "I will tell you what your mind cannot comprehend",
     "Japanese": "あなたの心では理解できないことを教えてあげましょう",
-    "isSafe": true,
     "Len": 48
   },
   {
@@ -32324,7 +28284,6 @@ window.typingData = [
     "Lvl": 17,
     "Text": "Mix the powdered teff with water to make a dough",
     "Japanese": "オフチョベットしたテフをマブガッドしてリットにする",
-    "isSafe": true,
     "Len": 48
   },
   {
@@ -32332,7 +28291,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "This unpleasant gradient shows up at your front door",
     "Japanese": "この不快なグラデーションは玄関先に現れます",
-    "isSafe": true,
     "Len": 52
   },
   {
@@ -32340,7 +28298,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "You are an idiot, ha ha ha ha ha ha ha, a ha ha ha ha",
     "Japanese": "バカだね、はははははははは、はははははは",
-    "isSafe": true,
     "Len": 53
   },
   {
@@ -32348,7 +28305,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "You have long life but will fall if you make a mistake",
     "Japanese": "あなたは長生きするが、間違いを犯せば滅びるだろう",
-    "isSafe": true,
     "Len": 54
   },
   {
@@ -32356,7 +28312,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "This is Typing game, the sane ones are the first to die",
     "Japanese": "ここはタイミングゲーム  正気のやつから死んでいくのさ",
-    "isSafe": true,
     "Len": 55
   },
   {
@@ -32364,7 +28319,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "A cascading sense of fear resonances and all hope is lost",
     "Japanese": "恐怖の連鎖は共振し、全ての希望が失われる",
-    "isSafe": true,
     "Len": 57
   },
   {
@@ -32372,7 +28326,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Civil authorities issued a necrotic infectious disease warning",
     "Japanese": "民間当局は壊死性感染症の警告を発令した。",
-    "isSafe": true,
     "Len": 62
   },
   {
@@ -32380,7 +28333,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "To make the most of your short life, don't be afraid of failure",
     "Japanese": "短い人生を最大限に生きるためには、失敗を恐れてはいけない。",
-    "isSafe": true,
     "Len": 63
   },
   {
@@ -32388,7 +28340,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Promises are meant to be kept, so I'll do my utmost to keep my promises",
     "Japanese": "約束は守るべきものだから、私は約束を守るために全力を尽くします。",
-    "isSafe": true,
     "Len": 71
   },
   {
@@ -32396,7 +28347,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "A fierce fighting spirit surpassing that of any martial art is required",
     "Japanese": "いかなる格闘技にも勝る激しい闘争心が必要",
-    "isSafe": true,
     "Len": 71
   },
   {
@@ -32404,7 +28354,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "You must turn back when you find anything unusual, but never do so when not",
     "Japanese": "何か異常なものを見つけた場合は引き返さなければならないが、そうでない場合は引き返さないこと。",
-    "isSafe": true,
     "Len": 75
   },
   {
@@ -32412,7 +28361,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "The police found my body in the sewer; had a broken neck and my face was torn off",
     "Japanese": "警察は下水道で私の遺体を発見した。首の骨が折れていて、顔は引き裂かれていた。",
-    "isSafe": true,
     "Len": 81
   },
   {
@@ -32420,7 +28368,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "He got really scared and rushed to his phone to repost this message but he was too late",
     "Japanese": "彼は本当に怖くなって、急いで携帯電話を取り出してこのメ​​ッセージを再投稿しようとしたが、間に合わなかった。",
-    "isSafe": true,
     "Len": 87
   },
   {
@@ -32428,7 +28375,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Send this message to 15 people after you listened the whole message if you value your life",
     "Japanese": "自分の命を大切に思うなら、このメッセージを最後まで聞いた後、15人に転送してください。",
-    "isSafe": true,
     "Len": 90
   },
   {
@@ -32436,7 +28382,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "To achieve your goal, must harbor a strong, enduring desire that permeates your subconscious",
     "Japanese": "目標達成のためには、潜在意識に透徹するほどの、強く持続した願望を持つこと",
-    "isSafe": true,
     "Len": 92
   },
   {
@@ -32444,7 +28389,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Could you please go shopping for me and buy one carton of milk, and if they have eggs, get 6!",
     "Japanese": "買い物に行って牛乳を1つ買ってきて。卵があったら6つお願い。",
-    "isSafe": true,
     "Len": 93
   },
   {
@@ -32452,7 +28396,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Faith is strength, Those who believe in themselves and fight with resolve are always the victors",
     "Japanese": "信は力でたる、自ら信じ毅然として戦う者は常に勝者である。",
-    "isSafe": true,
     "Len": 96
   },
   {
@@ -32460,7 +28403,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "If you don't want to lose your credit, you must pass by scoring 80 points or higher on all 4 tests.",
     "Japanese": "単位を失いたくないなら、4つのテストすべてで80点以上のスコアを獲得して合格しなければなりません。",
-    "isSafe": true,
     "Len": 99
   },
   {
@@ -32468,7 +28410,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Damage dealt is calculated as (atk*(1-dres)*pwr - def*(pwr-pen)) * other multipliers (crit, super crit, attribute etc)",
     "Japanese": "与えるダメージは、(攻撃力 × (1 - ダメージ軽減率) × 威力 - 防御力 × (威力 - 貫通)) × その他の乗数(クリティカル、スーパークリティカル、属性等)の計算で求められます。",
-    "isSafe": true,
     "Len": 118
   },
   {
@@ -32476,7 +28417,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "His mom entered his bedroom and all she found was a message written in his blood saying \"You will never have him back\"",
     "Japanese": "母親が息子の寝室に入ると、そこには息子の血で「二度と彼を取り戻すことはできない」と書かれたメッセージがあった。",
-    "isSafe": true,
     "Len": 118
   },
   {
@@ -32484,7 +28424,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "Executives with execution responsibility are granted the authority to determine the professional fate of the subordinates necessary to achieve their goals",
     "Japanese": "業務遂行の責任を負う幹部には、目標達成に必要な部下の生殺与奪権が与えられます。",
-    "isSafe": true,
     "Len": 154
   },
   {
@@ -32492,7 +28431,6 @@ window.typingData = [
     "Lvl": 18,
     "Text": "This is not effective against intangible things, but in such situations, thorough advance preparation is crucial; after all, being prepared fortifies the mind far more than facing the situation unarmed.",
     "Japanese": "実体のない相手に対してこれは効果がないかもしれないが、そのような状況であっても徹底した事前準備は重要だ; 結局のところ、準備をしておくことは、丸腰で立ち向かうよりもはるかに精神を強固なものにするからです。",
-    "isSafe": true,
     "Len": 202
   }
 ]
