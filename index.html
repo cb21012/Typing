@@ -11,7 +11,7 @@
 
 <body class="dark-mode">
 
-    <div id="playerLevelContainer" class="top-left-info" title="統計">
+    <div id="playerLevelContainer" class="top-left-info">
         <div class="level-xp-header">
             <div class="level-info">Lv. <span id="displayPlayerLevel">0</span></div>
             <div id="xpText" class="xp-text">--- / --- XP</div>
@@ -118,8 +118,8 @@
                 <div class="stats-right-col">
                     <h3>Best Records</h3>
                     <div id="statsModeSelect" class="diff-container">
-                        <button id="statsAccBtn" class="diff-btn accuracy-btn" title="精度フォーカス">Accuracy</button>
-                        <button id="statsSpcBtn" class="diff-btn speed-btn" title="速度フォーカス">Speed</button>
+                        <button id="statsAccBtn" class="diff-btn accuracy-btn">Accuracy</button>
+                        <button id="statsSpcBtn" class="diff-btn speed-btn">Speed</button>
                     </div>
                     <div id="bestRecordsContainer" class="best-records-list">
                         <!-- Best records -->
@@ -134,47 +134,46 @@
     <div id="display">Press Start to Play!</div>
 
     <div id="playerSetupArea" class="player-setup-area">
-        <input type="text" id="globalPlayerName" placeholder="Enter your Name" maxlength="16"
-            title="16文字まで 空白にするとランダム生成" class="player-name-input">
+        <input type="text" id="globalPlayerName" placeholder="Enter your Name" maxlength="16" class="player-name-input">
     </div>
 
     <div id="difficultySelect" class="diff-container">
-        <button class="diff-btn" data-diff="training" title="訓練">
+        <button class="diff-btn" data-diff="training">
             <span class="full">Training</span>
             <span class="short">Tr</span>
         </button>
 
-        <button class="diff-btn" data-diff="easy" title="簡単">
+        <button class="diff-btn" data-diff="easy">
             <span class="full">Easy</span>
             <span class="short">Ez</span>
         </button>
 
-        <button class="diff-btn selected" data-diff="normal" title="普通">
+        <button class="diff-btn selected" data-diff="normal">
             <span class="full">Normal</span>
             <span class="short">No</span>
         </button>
 
-        <button class="diff-btn" data-diff="advanced" title="高度">
+        <button class="diff-btn" data-diff="advanced">
             <span class="full">Advanced</span>
             <span class="short">Ad</span>
         </button>
 
-        <button class="diff-btn" data-diff="hard" title="難しい">
+        <button class="diff-btn" data-diff="hard">
             <span class="full">Hard</span>
             <span class="short">Hd</span>
         </button>
 
-        <button class="diff-btn" data-diff="expert" title="達人">
+        <button class="diff-btn" data-diff="expert">
             <span class="full">Expert</span>
             <span class="short">Ex</span>
         </button>
 
-        <button class="diff-btn" data-diff="insane" title="狂気">
+        <button class="diff-btn" data-diff="insane">
             <span class="full">Insane</span>
             <span class="short">Is</span>
         </button>
 
-        <button class="diff-btn" data-diff="lunatic" title="躁鬱">
+        <button class="diff-btn" data-diff="lunatic">
             <span class="full">Lunatic</span>
             <span class="short">Lu</span>
         </button>
@@ -182,10 +181,10 @@
     </div>
 
     <div class="accuracy-mode-wrapper">
-        <button id="accModeBtn" class="diff-btn accuracy-btn" title="正確性重視; ミスをすると即座に殺されます">
+        <button id="accModeBtn" class="diff-btn accuracy-btn">
             Accuracy Focus : Off
         </button>
-        <button id="spcModeBtn" class="diff-btn speed-btn" title="スピード重視; 時間が切れたとき、殺されます">
+        <button id="spcModeBtn" class="diff-btn speed-btn">
             Speed Focus : Off
         </button>
     </div>
