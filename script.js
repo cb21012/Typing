@@ -21,7 +21,7 @@ const inputJapanese = {
     "ま": ["ma"], "み": ["mi"], "む": ["mu"], "め": ["me"], "も": ["mo"],
     "や": ["ya"], "ゆ": ["yu"], "よ": ["yo"],
     "ら": ["ra"], "り": ["ri"], "る": ["ru"], "れ": ["re"], "ろ": ["ro"],
-    "わ": ["wa"], "を": ["wo"], "ん": ["n", "nn", "n'"],
+    "わ": ["wa"], "を": ["wo"], "ん": ["n", "nn", "n'", "xn"],
     "が": ["ga"], "ぎ": ["gi"], "ぐ": ["gu"], "げ": ["ge"], "ご": ["go"],
     "ざ": ["za"], "じ": ["ji", "zi"], "ず": ["zu"], "ぜ": ["ze"], "ぞ": ["zo"],
     "だ": ["da"], "ぢ": ["di"], "づ": ["du", "dzu"], "で": ["de"], "ど": ["do"],
@@ -965,7 +965,12 @@ function handleJapaneseInputChar(inputChar) {
     const typed = currentJapanesePartial + inputChar;
     const completedOption = options.find(option => option.inputs.includes(typed));
 
-    if (completedOption) {
+    const deferSingleN = currentWord[index] === "ん" &&
+        index + 1 < currentWord.length &&
+        currentJapanesePartial === "" &&
+        inputChar === "n";
+
+    if (completedOption && !deferSingleN) {
         currentJapanesePartial = "";
         recordCorrectInput(currentWord.substring(index, index + completedOption.kanaCount));
         if (completedOption.repeatedConsonant) handleJapaneseInputChar(inputChar);
@@ -975,6 +980,13 @@ function handleJapaneseInputChar(inputChar) {
     if (options.some(option => option.inputs.some(input => input.startsWith(typed)))) {
         currentJapanesePartial = typed;
         updateWordDisplay();
+        return;
+    }
+
+    if (currentWord[index] === "ん" && currentJapanesePartial === "n") {
+        currentJapanesePartial = "";
+        recordCorrectInput("ん");
+        handleJapaneseInputChar(inputChar);
         return;
     }
 
