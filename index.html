@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Typing game">
     <title>Typing</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css">
     <link rel="stylesheet" href="css.css">
 </head>
 
@@ -22,7 +23,14 @@
         </div>
     </div>
 
-    <button id="openSettingsBtn" class="top-right-btn">⚙️</button>
+    <button id="themeToggleBtn" class="theme-toggle" type="button" role="switch" aria-checked="true"
+        aria-label="Switch to light mode">
+        <i class="ri-sun-line" aria-hidden="true"></i>
+        <span class="theme-toggle-track" aria-hidden="true">
+            <span class="theme-toggle-thumb"></span>
+        </span>
+        <i class="ri-moon-line" aria-hidden="true"></i>
+    </button>
 
     <h1>Typing</h1>
 
@@ -30,29 +38,6 @@
         <div id="recordDisplay">
             <div class="record-title">High Score</div>
             <div id="highScoreText" class="rainbow-text">0</div>
-        </div>
-    </div>
-
-    <!-- Settings Modal -->
-    <div id="settingsModal" class="modal">
-        <div class="modal-content">
-            <span class="close-btn">&times;</span>
-
-            <h2>Settings</h2>
-
-            <div class="settings">
-
-                <div class="theme-buttons">
-                    <button id="darkModeBtn">Dark</button>
-                    <button id="lightModeBtn">Light</button>
-                </div>
-
-                <hr class="section-divider">
-
-                <button id="deleteRecordsBtn" class="danger-btn">
-                    RESET
-                </button>
-            </div>
         </div>
     </div>
 
@@ -112,6 +97,10 @@
                             <div id="statsMaxCombo" class="stats-value">0</div>
                         </div>
                     </div>
+                    <button id="deleteRecordsBtn" class="danger-btn stats-reset-btn" type="button">
+                        <i class="ri-alert-line" aria-hidden="true"></i>
+                        RESET
+                    </button>
                 </div>
 
                 <!-- Right: Best Records -->
@@ -134,7 +123,13 @@
     <div id="display">Press Start to Play!</div>
 
     <div id="playerSetupArea" class="player-setup-area">
-        <input type="text" id="globalPlayerName" placeholder="Enter your Name" maxlength="16" class="player-name-input">
+        <div class="player-name-row">
+            <input type="text" id="globalPlayerName" placeholder="Enter your Name" maxlength="40" class="player-name-input">
+            <button id="randomPlayerNameBtn" class="random-name-btn" type="button" aria-label="Generate a random name"
+                title="Generate a random name">
+                <i class="ri-dice-line" aria-hidden="true"></i>
+            </button>
+        </div>
     </div>
 
     <div id="difficultySelect" class="diff-container">

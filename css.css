@@ -77,15 +77,68 @@ button:hover {
   background: #0056b3;
 }
 
-.top-right-btn {
+.theme-toggle {
   position: absolute;
   top: 20px;
   right: 20px;
-  background: #6c757d;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 10px;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 999px;
+  background: #e2e2e2;
+  color: #555;
+  line-height: 1;
 }
 
-.top-right-btn:hover {
-  background: #5a6268;
+.theme-toggle:hover {
+  background: #d5d5d5;
+}
+
+.theme-toggle > i {
+  font-size: 1rem;
+}
+
+.theme-toggle-track {
+  display: flex;
+  align-items: center;
+  width: 34px;
+  height: 18px;
+  padding: 2px;
+  border-radius: 999px;
+  background: #8b8b8b;
+}
+
+.theme-toggle-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #fff;
+  transition: transform 0.2s ease;
+}
+
+body.dark-mode .theme-toggle {
+  background: #343a40;
+  color: #f8d568;
+}
+
+body.dark-mode .theme-toggle:hover {
+  background: #454c53;
+}
+
+body.dark-mode .theme-toggle-track {
+  background: #007bff;
+}
+
+body.dark-mode .theme-toggle-thumb {
+  transform: translateX(16px);
+}
+
+.theme-toggle:focus-visible,
+.stats-reset-btn:focus-visible {
+  outline: 3px solid #80bdff;
+  outline-offset: 3px;
 }
 
 /* Settings Modal */
@@ -146,32 +199,6 @@ button:hover {
 
 .close-btn:hover {
   color: #333;
-}
-
-.settings {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  align-items: center;
-}
-
-.settings label {
-  font-size: 1rem;
-  color: #555;
-  display: flex;
-  align-items: center;
-  gap: 5px;
-}
-
-.settings input[type="range"] {
-  width: 150px;
-  padding: 0;
-}
-
-.settings span {
-  display: inline-block;
-  width: 50px;
-  text-align: right;
 }
 
 /* Timer */
@@ -345,10 +372,6 @@ body.dark-mode .close-btn {
 
 body.dark-mode .close-btn:hover {
   color: #fff;
-}
-
-body.dark-mode .settings label {
-  color: #ccc;
 }
 
 body.dark-mode #gameOverScreen {
@@ -1115,34 +1138,51 @@ body.dark-mode .stats-value {
   cursor: pointer;
 }
 
-.theme-buttons {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.section-divider {
-  border: 0;
-  border-top: 1px solid #555;
-  margin: 15px 0;
-  width: 100%;
-}
-
 .danger-btn {
   background: #dc3545;
+}
+
+.stats-reset-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: 100%;
+  margin-top: 12px;
 }
 
 .player-setup-area {
   margin-bottom: 20px;
 }
 
+.player-name-row {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 8px;
+}
+
 .player-name-input {
-  padding: 8px;
-  font-size: 1.1rem;
-  width: 200px;
+  padding: .4rem;
+  font-size: 1rem;
+  width: 20rem;
+  min-width: 0;
   text-align: center;
   border: 2px solid #ccc;
-  border-radius: 5px;
+  border-radius: .25rem;
+}
+
+.random-name-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  font-size: 1.25rem;
+}
+
+.random-name-btn:focus-visible {
+  outline: 3px solid #80bdff;
+  outline-offset: 3px;
 }
 
 .accuracy-mode-wrapper {
