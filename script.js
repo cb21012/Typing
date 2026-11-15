@@ -76,7 +76,8 @@ const accModeCpsMul = 0.70, spcModeCpsMul = 1.35, damageMistake = 12, damageMist
 const japaneseTimeMul = 1.7;
 
 //conbo base stats
-const comboStartThreshold = 20, comboAddThreshold = 5, comboBonus = 1.125, comboHeal = 1;
+const comboStartThreshold =  20, comboAddThreshold = 5, comboBonus = 1.125, comboHeal = 1;
+const scombStartThreshold = 100, scombAddThreshold =25, scombBonus = 2;
 
 let highScore = new BigNum(0);
 let maxLevel = 1;
@@ -111,7 +112,7 @@ function notatVal(v) {
 
 //Random name
 function generateRandomName() {
-    const j = Math.random()>.5;
+    const j = false;
     const key1 = !j? [
             "Cynical", "Funny", "Foolish", "Ergonomic", "Introvert", "Extrovert", "Omnivert", "Original", "Replicated", "Perfect",
             "Immortal", "Epic", "Delusional", "Apeirophobic", "Random", "Suspicious", "Common", "Ancestral", "Geometric", "Cooked",
@@ -277,8 +278,16 @@ function minmax(min, val, max) {
     return val;
 }
 
-function calcMissPenaltyRes(lvl) {return (lvl>=2**39-1) ? 250 : (1 + ((Math.max(0, (lvl - 1000)) ** .4) + Math.min(lvl, 1000)) / 250);}
-function calcComboPow(lvl) {return (lvl>=2**39-1) ? 1e21 : (lvl**2.208)/1e5;}
+function calcComboPow1(lvl) {return (lvl>=2**39-1) ? 1e21 : (lvl**2.208)/1e5;}
+function calcComboPow2(lvl) {return (lvl>=2**39-1) ? 1e39 : (Math.max(0, lvl-1e4)**3.478)/1e5;}
+function calcComboScoreMultiplier(combo, lvl, accMode) {
+    const effectiveCombo = combo * (accMode ? 2 : 1);
+    const comboSteps = Math.max(0, Math.floor((effectiveCombo - comboStartThreshold) / comboAddThreshold));
+    const scomboSteps = Math.max(0, Math.floor((effectiveCombo - scombStartThreshold) / scombAddThreshold) + 1);
+    const comboMultiplier = new BigNum(comboBonus + calcComboPow1(lvl)).pow(comboSteps);
+    const scomboMultiplier = new BigNum(scombBonus + calcComboPow2(lvl)).pow(scomboSteps);
+    return comboMultiplier.mul(scomboMultiplier);
+}
 function calcLvScorePow(lvl) {return (lvl>=2**39-1) ? 7500 : (1 + (lvl**.5)/100);}
 
 function updatePlayerLevelUI() {
@@ -498,12 +507,11 @@ function updateStatsModal() {
     document.getElementById('statsTotalTypos').innerText = notatVal(statsTotalTypos);
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
 
-    // Combo reduction effect from player level
-    const comboEffectDenom = calcMissPenaltyRes(playerLevel).toFixed(3);
-    document.getElementById('statsComboEffect').innerText = `1 / ${comboEffectDenom}`;
-
-    const comboEffectMult = calcComboPow(playerLevel).toFixed(3);
+    const comboEffectMult = calcComboPow1(playerLevel).toFixed(3);
     document.getElementById('statsComboMult').innerText = `+${notatVal(comboEffectMult)}`;
+
+    const scomboEffectMult = calcComboPow2(playerLevel).toFixed(3);
+    document.getElementById('statsScomboMult').innerText = `+${notatVal(scomboEffectMult)}`;
 
     const scorePow = calcLvScorePow(playerLevel).toFixed(3);
     document.getElementById('statsScorePower').innerText = `${scorePow}`;
@@ -1061,8 +1069,7 @@ function recordCorrectInput(typedText) {
     updateWordDisplay();
 
     if (currentTyped.length === currentWord.length) {
-        const comboMultiplier = comboBonus + calcComboPow(playerIngameLevel);
-        const cbMul = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
+        const cbMul = calcComboScoreMultiplier(currentCombo, playerIngameLevel, isAccMode);
         const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
         const lvPow = new BigNum(1 + (level/25))
         const cbPow = new BigNum(1 + (Math.floor(currentCombo/100)**1.25)/10)
@@ -1100,8 +1107,7 @@ function handleInputMistake() {
     hp -= dmg;
     statsTotalTypos++;
     sessionTypos++;
-    const comboReduction = Math.floor(currentCombo / calcMissPenaltyRes(playerIngameLevel));
-    currentCombo -= comboReduction;
+    currentCombo = 0;
     updateComboUI();
     savePlayerStats();
     updateHpUI();
@@ -1183,8 +1189,7 @@ function updateComboUI() {
     if (currentCombo * (isAccMode ? 2 : 1) > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
-        const comboMultiplier = comboBonus + calcComboPow(playerIngameLevel);
-        const multiplier = new BigNum(comboMultiplier).pow(Math.max(0, Math.floor(((currentCombo * (isAccMode ? 2 : 1)) - comboStartThreshold) / comboAddThreshold)));
+        const multiplier = calcComboScoreMultiplier(currentCombo, playerIngameLevel, isAccMode);
         const bonusPct = (multiplier.sub(1)).mul(100);
         bonusMsg.innerText = `Score bonus +${notatBn(bonusPct)}%`;
         if (currentCombo % comboStartThreshold === 0) {
