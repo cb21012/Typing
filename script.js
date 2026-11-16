@@ -993,7 +993,9 @@ function getJapaneseInputOptions(index) {
     const kana = currentWord[index];
     const options = [];
     const addOption = (kanaCount, key) => {
-        const inputs = inputJapanese[key];
+        const inputs = key === "ん" && index === currentWord.length - 1
+            ? inputJapanese[key].filter(input => input !== "n")
+            : inputJapanese[key];
         if (inputs) options.push({ kanaCount, inputs });
     };
 
