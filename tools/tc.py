@@ -1,8 +1,8 @@
-import csv
-import json
+import csv, json
+from pathlib import Path
 
-input_csv = r"C:\Users\daich\Downloads\TypingGame - probs.csv"
-output_json = r"C:\Apps\Project\tc\Typing\typingTxt.json"
+input_csv = Path.home() / "Downloads/TypingGame - probs.csv"
+output_json = r"typingTxt.js"
 
 result = []
 

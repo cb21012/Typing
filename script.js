@@ -12,7 +12,7 @@ const DIFFICULTIES = {
 };
 
 const inputJapanese = {
-    "、": [","], "。": ["."], 
+    "、": [","], "。": ["."], "ー":["-", "~", "_"],
     "あ": ["a"], "い": ["i", "yi"], "う": ["u", "wu"], "え": ["e"], "お": ["o"],
     "か": ["ka", "ca"], "き": ["ki"], "く": ["ku", "cu", "qu"], "け": ["ke"], "こ": ["ko", "co"],
     "さ": ["sa"], "し": ["shi", "si", "ci"], "す": ["su"], "せ": ["se", "ce"], "そ": ["so"],
@@ -68,7 +68,7 @@ let typingDataJa = window.typingDataJa || [];
 //ingame stats
 let currentDifficulty = 'normal', currentWord = "", currentTyped = "", currentJapanesePartial = "", level = 0, timeLeft = 0, timeLimitBase = 0, timerInterval = null;
 let sessionTypos = 0, sessionChars = 0, currentCps = 1, questionsSolved = 0, currentCombo = 0, sessionMaxCombo = 0;
-let isPlaying = false, isInputLocked = true, isJaGame = false, isAccMode = false, isSpcMode = false, statsViewAcc = false, statsViewSpc = false;
+let isPlaying = false, isInputLocked = true, isJaGame = false, isAccMode = false, isSpcMode = false, statsViewAcc = false, statsViewSpc = false, statsViewJa = false;
 let totalCharsTyped = 0, gameStartTime = 0;
 let playerIngameLevel = 1;
 
@@ -225,9 +225,18 @@ function updateThemeToggle() {
 
 function loadRecords() {
     // 【修正】highScoreを文字列として読み込み、BigNumに変換
-    const savedHighScore = localStorage.getItem(`typingHighScore_${currentDifficulty}`);
+    const languageSuffix = isJaGame ? 'ja' : 'en';
+    const savedHighScore = isJaGame
+        ? localStorage.getItem(`typingHighScore_${languageSuffix}_${currentDifficulty}`)
+        : (localStorage.getItem(`typingHighScore_${languageSuffix}_${currentDifficulty}`)
+            || localStorage.getItem(`typingHighScore_${currentDifficulty}`));
     highScore = savedHighScore ? new BigNum(savedHighScore) : new BigNum(0);
-    maxLevel = parseInt(localStorage.getItem(`typingMaxLevel_${currentDifficulty}`)) || 1;
+    maxLevel = parseInt(
+        isJaGame
+            ? localStorage.getItem(`typingMaxLevel_${languageSuffix}_${currentDifficulty}`)
+            : (localStorage.getItem(`typingMaxLevel_${languageSuffix}_${currentDifficulty}`)
+                || localStorage.getItem(`typingMaxLevel_${currentDifficulty}`))
+    ) || 1;
     document.getElementById('highScoreText').innerText = notatBn(highScore, true);
 
     playerLevel = parseInt(localStorage.getItem('typingPlayerLevel')) || 0;
@@ -457,7 +466,11 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
             'std': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
             'acc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
             'spc': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-            'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) }
+            'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'stdj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'accj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'spcj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
+            'botj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) }
         };
         statsMaxCombo = 0;
         loadRecords();
@@ -469,6 +482,7 @@ document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
 document.getElementById('playerLevelContainer').addEventListener('click', () => {
     statsViewAcc = false;
     statsViewSpc = false;
+    statsViewJa = false;
     updateStatsModal();
     document.getElementById('statsModal').classList.add('show');
 });
@@ -480,6 +494,16 @@ document.getElementById('statsAccBtn').addEventListener('click', () => {
 
 document.getElementById('statsSpcBtn').addEventListener('click', () => {
     statsViewSpc = !statsViewSpc;
+    updateStatsModal();
+});
+
+document.getElementById('statsEnBtn').addEventListener('click', () => {
+    statsViewJa = false;
+    updateStatsModal();
+});
+
+document.getElementById('statsJaBtn').addEventListener('click', () => {
+    statsViewJa = true;
     updateStatsModal();
 });
 
@@ -522,16 +546,27 @@ function updateStatsModal() {
     if (statsViewAcc && statsViewSpc) modeKey = 'both';
     else if (statsViewAcc) modeKey = 'acc';
     else if (statsViewSpc) modeKey = 'spc';
+    if (statsViewJa) modeKey = ({
+        'std': 'stdj',
+        'acc': 'accj',
+        'spc': 'spcj',
+        'both': 'botj'
+    })[modeKey];
 
     // UI Feedback for selected toggles
     const accBtn = document.getElementById('statsAccBtn');
     const spcBtn = document.getElementById('statsSpcBtn');
+    const enBtn = document.getElementById('statsEnBtn');
+    const jaBtn = document.getElementById('statsJaBtn');
 
     if (statsViewAcc) accBtn.classList.add('selected');
     else accBtn.classList.remove('selected');
 
     if (statsViewSpc) spcBtn.classList.add('selected');
     else spcBtn.classList.remove('selected');
+
+    enBtn.classList.toggle('selected', !statsViewJa);
+    jaBtn.classList.toggle('selected', statsViewJa);
 
     const bestList = document.getElementById('bestRecordsContainer');
     bestList.innerHTML = '';
@@ -686,6 +721,7 @@ document.querySelectorAll('#languageModeSelect .diff-btn').forEach(btn => {
             modeBtn.classList.toggle('selected', modeBtn === selectedButton);
             modeBtn.setAttribute('aria-pressed', modeBtn === selectedButton ? 'true' : 'false');
         });
+        loadRecords();
     });
 });
 
@@ -834,12 +870,14 @@ function triggerGameOver(reasonStr) {
         if (score.compareTo(highScore) > 0) {
             highScore = score;
             // 【修正】highScore を文字列として保存
-            localStorage.setItem(`typingHighScore_${currentDifficulty}`, highScore.toString());
+            const languageSuffix = isJaGame ? 'ja' : 'en';
+            localStorage.setItem(`typingHighScore_${languageSuffix}_${currentDifficulty}`, highScore.toString());
             document.getElementById('highScoreText').innerText = notatVal(highScore);
         }
         if (level > maxLevel) {
             maxLevel = level;
-            localStorage.setItem(`typingMaxLevel_${currentDifficulty}`, maxLevel);
+            const languageSuffix = isJaGame ? 'ja' : 'en';
+            localStorage.setItem(`typingMaxLevel_${languageSuffix}_${currentDifficulty}`, maxLevel);
         }
 
         const goMain = document.getElementById('gameOverMain');
@@ -867,6 +905,12 @@ function triggerGameOver(reasonStr) {
         if (isAccMode && isSpcMode) modeKey = 'both';
         else if (isAccMode) modeKey = 'acc';
         else if (isSpcMode) modeKey = 'spc';
+        if (isJaGame) modeKey = ({
+            'std': 'stdj',
+            'acc': 'accj',
+            'spc': 'spcj',
+            'both': 'botj'
+        })[modeKey];
 
         // 【修正】bestRecords の score を BigNum として比較
         if (!bestRecords[modeKey][currentDifficulty] || score.compareTo(bestRecords[modeKey][currentDifficulty].score) > 0) {
@@ -990,11 +1034,18 @@ function handleInputChar(inputChar) {
     }
 }
 
+function isKanaInAOrNRow(kana) {
+    return /^[ぁあいうえおなにぬねの]/.test(kana);
+}
+
 function getJapaneseInputOptions(index) {
     const kana = currentWord[index];
     const options = [];
     const addOption = (kanaCount, key) => {
-        const inputs = key === "ん" && index === currentWord.length - 1
+        const nextKana = index + 1 < currentWord.length ? currentWord[index + 1] : "";
+        const requiresDoubleN = key === "ん" &&
+            (index === currentWord.length - 1 || isKanaInAOrNRow(nextKana));
+        const inputs = requiresDoubleN
             ? inputJapanese[key].filter(input => input !== "n")
             : inputJapanese[key];
         if (inputs) options.push({ kanaCount, inputs });
@@ -1046,6 +1097,13 @@ function handleJapaneseInputChar(inputChar) {
     }
 
     if (currentWord[index] === "ん" && currentJapanesePartial === "n") {
+        if (index + 1 < currentWord.length &&
+            isKanaInAOrNRow(currentWord[index + 1])) {
+            currentJapanesePartial = "";
+            updateWordDisplay();
+            handleInputMistake();
+            return;
+        }
         currentJapanesePartial = "";
         recordCorrectInput("ん");
         handleJapaneseInputChar(inputChar);

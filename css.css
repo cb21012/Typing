@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300&display=swap');
+
+* {font-family: "Inconsolata", "Kiwi Maru", monospace !important;}
+
 body {
-  font-family: sans-serif;
   text-align: center;
   background: #f0f0f0;
   padding: 50px;
@@ -34,7 +38,6 @@ body {
 
 .word-display {
   font-size: 2.3rem;
-  font-family: "Courier New", Courier, monospace;
   letter-spacing: 0.1em;
   min-height: 3rem;
   color: #333;
@@ -258,7 +261,7 @@ body.dark-mode .theme-toggle-thumb {
 /* High Score */
 #recordDisplay {
   margin-bottom: 20px;
-  font-weight: bold;
+  font-weight: 650;
 }
 
 .record-title {
@@ -647,26 +650,6 @@ body.dark-mode .go-score-val {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
   max-width: 100%;
-}
-
-.go-ans-morse {
-  letter-spacing: 4px;
-  width: min(400px, 100%);
-  font-family: monospace;
-  font-size: 1.2rem;
-  margin-bottom: 15px;
-  word-break: break-all;
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
-  max-width: 100%;
-}
-
-.go-ans-morse.correct {
-  color: #28a745;
-}
-
-.go-ans-morse.wrong {
-  color: #d9534f;
 }
 
 /* Difficulty Buttons & Coloring */
