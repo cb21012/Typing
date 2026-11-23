@@ -1130,10 +1130,10 @@ function recordCorrectInput(typedText) {
     updateWordDisplay();
 
     if (currentTyped.length === currentWord.length) {
-        const cbMul = calcComboScoreMultiplier(currentCombo, playerIngameLevel, isAccMode);
+        const cbMul = calcComboScoreMultiplier(sessionMaxCombo, playerIngameLevel, isAccMode);
         const lvMul = new BigNum(1.35).pow(level - DIFFICULTIES[currentDifficulty].startLevel);
         const lvPow = new BigNum(1 + (level/25))
-        const cbPow = new BigNum(1 + (Math.floor(currentCombo/100)**1.25)/10)
+        const cbPow = new BigNum(1 + (Math.floor(sessionMaxCombo/100)**1.25)/10)
         const sp = DIFFICULTIES[currentDifficulty].scorePow;
         const pp = calcLvScorePow(playerIngameLevel);
         const spdMul = new BigNum((5*currentCps) ** (isSpcMode ? 2 : 1));
@@ -1247,19 +1247,25 @@ function updateComboUI() {
     const comboTxt = document.getElementById('comboText');
     const bonusMsg = document.getElementById('comboBonusMsg');
 
-    if (currentCombo * (isAccMode ? 2 : 1) > comboStartThreshold - 1) {
+    const maxEffectiveCombo = sessionMaxCombo * (isAccMode ? 2 : 1);
+    const currentEffectiveCombo = currentCombo * (isAccMode ? 2 : 1);
+
+    if (currentEffectiveCombo > comboStartThreshold - 1) {
         comboTxt.style.display = 'inline';
         comboTxt.innerText = `COMBO: ${currentCombo}`;
-        const multiplier = calcComboScoreMultiplier(currentCombo, playerIngameLevel, isAccMode);
-        const bonusPct = (multiplier.sub(1)).mul(100);
-        bonusMsg.innerText = `Score bonus +${notatBn(bonusPct)}%`;
         if (currentCombo % comboStartThreshold === 0) {
             hp += comboHeal;
             updateHpUI();
         }
-
     } else {
         comboTxt.style.display = 'none';
+    }
+
+    if (maxEffectiveCombo > comboStartThreshold - 1) {
+        const multiplier = calcComboScoreMultiplier(sessionMaxCombo, playerIngameLevel, isAccMode);
+        const bonusPct = (multiplier.sub(1)).mul(100);
+        bonusMsg.innerText = `Score bonus +${notatBn(bonusPct)}%`;
+    } else {
         bonusMsg.innerText = '';
     }
 }
