@@ -1072,7 +1072,7 @@ function getJapaneseInputOptions(index) {
     return options;
 }
 
-function handleJapaneseInputChar(inputChar) {
+function handleJapaneseInputChar(inputChar, countCombo = true) {
     const index = currentTyped.length;
     const options = getJapaneseInputOptions(index);
     const typed = currentJapanesePartial + inputChar;
@@ -1084,13 +1084,15 @@ function handleJapaneseInputChar(inputChar) {
         inputChar === "n";
 
     if (completedOption && !deferSingleN) {
+        if (countCombo) incrementCombo();
         currentJapanesePartial = "";
         recordCorrectInput(currentWord.substring(index, index + completedOption.kanaCount));
-        if (completedOption.repeatedConsonant) handleJapaneseInputChar(inputChar);
+        if (completedOption.repeatedConsonant) handleJapaneseInputChar(inputChar, false);
         return;
     }
 
     if (options.some(option => option.inputs.some(input => input.startsWith(typed)))) {
+        if (countCombo) incrementCombo();
         currentJapanesePartial = typed;
         updateWordDisplay();
         return;
@@ -1120,13 +1122,7 @@ function recordCorrectInput(typedText) {
     const completedChars = isJaGame ? typedText.length : 1;
     totalCharsTyped += completedChars;
     sessionChars += completedChars;
-    currentCombo += completedChars;
-    if (currentCombo > sessionMaxCombo) sessionMaxCombo = currentCombo;
-    if (currentCombo > statsMaxCombo) {
-        statsMaxCombo = currentCombo;
-        savePlayerStats();
-    }
-    updateComboUI();
+    if (!isJaGame) incrementCombo();
     updateWordDisplay();
 
     if (currentTyped.length === currentWord.length) {
@@ -1160,6 +1156,16 @@ function recordCorrectInput(typedText) {
         }
         nextQuestion();
     }
+}
+
+function incrementCombo() {
+    currentCombo++;
+    if (currentCombo > sessionMaxCombo) sessionMaxCombo = currentCombo;
+    if (currentCombo > statsMaxCombo) {
+        statsMaxCombo = currentCombo;
+        savePlayerStats();
+    }
+    updateComboUI();
 }
 
 function handleInputMistake() {

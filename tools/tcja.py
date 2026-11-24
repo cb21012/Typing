@@ -20,6 +20,7 @@ with open(input_csv, "r", encoding="utf-8-sig") as csvfile:
         })
 
 with open(output_json, "w", encoding="utf-8") as f:
+    f.write("window.typingDataJa = ")
     json.dump(result, f, ensure_ascii=False, indent=2)
 
 print(f"Saved to {output_json}")

@@ -22,7 +22,7 @@ body {
   position: relative;
   display: inline-block;
   margin: 20px auto;
-  width: min(90vw, 1200px);
+  width: min(90vw, 1720px);
 }
 
 #userInput {
