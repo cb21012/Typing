@@ -118,7 +118,7 @@
     </div>
     </div>
 
-    <div id="display">Press Start to Play!</div>
+    <div id="countdownText" class="countdown-text" aria-live="assertive"></div>
 
     <div id="playerSetupArea" class="player-setup-area">
         <div class="player-name-row">
@@ -130,47 +130,14 @@
         </div>
     </div>
 
-    <div id="difficultySelect" class="diff-container">
-        <button class="diff-btn" data-diff="training">
-            <span class="full">Training</span>
-            <span class="short">Tr</span>
-        </button>
-
-        <button class="diff-btn" data-diff="easy">
-            <span class="full">Easy</span>
-            <span class="short">Ez</span>
-        </button>
-
-        <button class="diff-btn selected" data-diff="normal">
-            <span class="full">Normal</span>
-            <span class="short">No</span>
-        </button>
-
-        <button class="diff-btn" data-diff="advanced">
-            <span class="full">Advanced</span>
-            <span class="short">Ad</span>
-        </button>
-
-        <button class="diff-btn" data-diff="hard">
-            <span class="full">Hard</span>
-            <span class="short">Hd</span>
-        </button>
-
-        <button class="diff-btn" data-diff="expert">
-            <span class="full">Expert</span>
-            <span class="short">Ex</span>
-        </button>
-
-        <button class="diff-btn" data-diff="insane">
-            <span class="full">Insane</span>
-            <span class="short">Is</span>
-        </button>
-
-        <button class="diff-btn" data-diff="lunatic">
-            <span class="full">Lunatic</span>
-            <span class="short">Lu</span>
-        </button>
-
+    <div id="difficultySelect" class="diff-container difficulty-slider">
+        <div id="difficultyTitle" class="difficulty-title">Difficulty : Normal</div>
+        <div class="difficulty-slider-wrap">
+            <div class="difficulty-marks" aria-hidden="true">
+                <span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span>
+            </div>
+            <input id="difficultySlider" type="range" min="0" max="7" step="1" value="2" aria-label="Difficulty" aria-valuetext="Normal"></div>
     </div>
 
     <div class="accuracy-mode-wrapper">

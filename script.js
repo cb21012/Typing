@@ -41,6 +41,7 @@ function generateRandomName() {
     result += key1[Math.floor(Math.random() * key1.length)];
     if (!j) result += " ";
     result += key2[Math.floor(Math.random() * key2.length)];
+    if (result.includes("ユーザーインターフェース") && result.length>18) result = result.replace("ユーザーインターフェース", "UI")
     return result;
 }
 
@@ -344,7 +345,7 @@ document.getElementById('themeToggleBtn').addEventListener('click', () => {
 });
 
 document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
-    if (confirm("Are you sure you want to delete all records?")) {
+    if (confirm("Are you sure you want to delete all records?") && confirm("REALLY???")) {
         const keys = Object.keys(localStorage);
         keys.forEach(k => {
             if (k.startsWith('typingHighScore_') || k.startsWith('typingMaxLevel_') || k.startsWith('typingLeaderboard_') || k.startsWith('typingPlayer') || k.startsWith('typingStats') || k.startsWith('typingBestRound')) {
@@ -547,6 +548,25 @@ function updateDifficultyDescription() {
     `;
 }
 
+const difficultyNames = ['Training', 'Easy', 'Normal', 'Advanced', 'Hard', 'Expert', 'Insane', 'Lunatic'];
+const difficultyKeys = ['training', 'easy', 'normal', 'advanced', 'hard', 'expert', 'insane', 'lunatic'];
+const difficultyColors = ['#0ff', '#099', '#4a4', '#8c4', '#fe4', '#f90', '#e44', '#c2b'];
+const difficultyShadowColors = ['0, 255, 255', '0, 153, 153', '68, 170, 68', '136, 204, 68', '255, 238, 68', '255, 153, 0', '238, 68, 68', '204, 34, 187'];
+
+function syncDifficultySlider() {
+    const slider = document.getElementById('difficultySlider');
+    const title = document.getElementById('difficultyTitle');
+    if (!slider || !title) return;
+
+    const index = DIFFICULTIES[currentDifficulty].id;
+    slider.value = index;
+    slider.style.setProperty('--difficulty-color', difficultyColors[index]);
+    slider.style.setProperty('--difficulty-shadow-rgb', difficultyShadowColors[index]);
+    title.style.setProperty('--difficulty-title-color', difficultyColors[index]);
+    slider.setAttribute('aria-valuetext', difficultyNames[index]);
+    title.innerHTML = `Difficulty : <span>${difficultyNames[index]}</span>`;
+}
+
 document.querySelectorAll('.modal .close-btn').forEach(btn => {
     btn.addEventListener('click', (e) => {
         e.target.closest('.modal').classList.remove('show');
@@ -561,18 +581,19 @@ document.querySelectorAll('.modal').forEach(modal => {
     });
 });
 
-document.querySelectorAll('#difficultySelect .diff-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-        if (!document.getElementById('startBtn').style.display || document.getElementById('startBtn').style.display === 'inline-block') {
-            document.querySelectorAll('#difficultySelect .diff-btn').forEach(b => b.classList.remove('selected'));
-            const targetBtn = e.currentTarget;
-            targetBtn.classList.add('selected');
-            currentDifficulty = targetBtn.getAttribute('data-diff');
-            loadRecords();
-            updateDifficultyDescription();
-        }
+const difficultySlider = document.getElementById('difficultySlider');
+if (difficultySlider) {
+    difficultySlider.addEventListener('input', (event) => {
+        if (document.getElementById('startBtn').style.display === 'none') return;
+
+        const index = Number(event.currentTarget.value);
+        currentDifficulty = difficultyKeys[index];
+        syncDifficultySlider();
+        loadRecords();
+        updateDifficultyDescription();
     });
-});
+    syncDifficultySlider();
+}
 
 document.getElementById('accModeBtn').addEventListener('click', () => {
     isAccMode = !isAccMode;
@@ -651,18 +672,18 @@ function startGame() {
     document.getElementById('difficultyDescriptionArea').style.display = 'none';
 
     let count = 3;
-    const display = document.getElementById('display');
-    display.innerText = count;
+    const countdownText = document.getElementById('countdownText');
+    countdownText.innerText = count;
 
     const interval = setInterval(() => {
         count--;
         if (count > 0) {
-            display.innerText = count;
+            countdownText.innerText = count;
         } else if (count === 0) {
-            display.innerText = "GO!";
+            countdownText.innerText = "GO!";
         } else {
             clearInterval(interval);
-            display.innerText = "";
+            countdownText.innerText = "";
             document.getElementById('gameUI').style.display = 'block';
             gameStartTime = Date.now();
             isPlaying = true;
@@ -845,7 +866,6 @@ function retryGame() {
     document.getElementById('accModeBtn').parentElement.style.display = 'flex';
     document.getElementById('difficultyDescriptionArea').style.display = 'block';
 
-    document.getElementById('display').innerText = "Press Start to Play!";
     document.getElementById('startBtn').style.display = 'inline-block';
     document.getElementById('languageModeSelect').style.display = 'flex';
 }
