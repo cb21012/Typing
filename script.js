@@ -1,115 +1,4 @@
-const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-
-const DIFFICULTIES = {
-    'training': { id: 0, cps: 0.16, startLevel:  0, consTime: 4.00, scorePow: 1.0 },
-    'easy':     { id: 1, cps: 1.00, startLevel:  2, consTime: 3.20, scorePow: 1.1 },
-    'normal':   { id: 2, cps: 1.80, startLevel:  5, consTime: 2.40, scorePow: 1.2 },
-    'advanced': { id: 3, cps: 3.00, startLevel:  7, consTime: 2.00, scorePow: 1.4 },
-    'hard':     { id: 4, cps: 4.50, startLevel:  9, consTime: 1.60, scorePow: 1.7 },
-    'expert':   { id: 5, cps: 6.25, startLevel: 11, consTime: 1.30, scorePow: 2.1 },
-    'insane':   { id: 6, cps: 9.00, startLevel: 13, consTime: 1.00, scorePow: 2.5 },
-    'lunatic':  { id: 7, cps: 13.5, startLevel: 16, consTime: 0.80, scorePow: 3.0 },
-};
-
-const inputJapanese = {
-    "、": [","], "。": ["."], "ー":["-", "~", "_"],
-    "あ": ["a"], "い": ["i", "yi"], "う": ["u", "wu"], "え": ["e"], "お": ["o"],
-    "か": ["ka", "ca"], "き": ["ki"], "く": ["ku", "cu", "qu"], "け": ["ke"], "こ": ["ko", "co"],
-    "さ": ["sa"], "し": ["shi", "si", "ci"], "す": ["su"], "せ": ["se", "ce"], "そ": ["so"],
-    "た": ["ta"], "ち": ["chi", "ti"], "つ": ["tsu", "tu"], "て": ["te"], "と": ["to"],
-    "な": ["na"], "に": ["ni"], "ぬ": ["nu"], "ね": ["ne"], "の": ["no"],
-    "は": ["ha"], "ひ": ["hi"], "ふ": ["fu", "hu"], "へ": ["he"], "ほ": ["ho"],
-    "ま": ["ma"], "み": ["mi"], "む": ["mu"], "め": ["me"], "も": ["mo"],
-    "や": ["ya"], "ゆ": ["yu"], "よ": ["yo"],
-    "ら": ["ra"], "り": ["ri"], "る": ["ru"], "れ": ["re"], "ろ": ["ro"],
-    "わ": ["wa"], "を": ["wo"], "ん": ["n", "nn", "n'", "xn"],
-    "が": ["ga"], "ぎ": ["gi"], "ぐ": ["gu"], "げ": ["ge"], "ご": ["go"],
-    "ざ": ["za"], "じ": ["ji", "zi"], "ず": ["zu"], "ぜ": ["ze"], "ぞ": ["zo"],
-    "だ": ["da"], "ぢ": ["di"], "づ": ["du", "dzu"], "で": ["de"], "ど": ["do"],
-    "ば": ["ba"], "び": ["bi"], "ぶ": ["bu"], "べ": ["be"], "ぼ": ["bo"],
-    "ぱ": ["pa"], "ぴ": ["pi"], "ぷ": ["pu"], "ぺ": ["pe"], "ぽ": ["po"],
-    "ゔ": ["vu"], "いぇ": ["ye"],
-    "うぃ": ["wi", "whi", "wyi"], "うぇ": ["we", "whe", "wye"], "うぉ": ["who"],
-    "ゔぁ": ["va"], "ゔぃ": ["vi", "vyi"], "ゔぇ": ["ve", "vye"], "ゔぉ": ["vo"],
-    "ゔゃ": ["vya"], "ゔゅ": ["vyu"], "ゔょ": ["vyo"],
-    "くぁ": ["qa", "qwa", "kwa"], "くぃ": ["qi", "qwi", "qyi"], "くぅ": ["qwu"], "くぇ": ["qe", "qwe", "qye"], "くぉ": ["qo", "qwo"],
-    "ぐぁ": ["gwa"], "ぐぃ": ["gwi"], "ぐぅ": ["gwu"], "ぐぇ": ["gwe"], "ぐぉ": ["gwo"],
-    "しぃ": ["syi"], "じぃ": ["zyi", "jyi"],
-    "すぁ": ["swa"], "すぃ": ["swi"], "すぅ": ["swu"], "すぇ": ["swe"], "すぉ": ["swo"],
-    "ずぁ": ["zwa"], "ずぃ": ["zwi"], "ずぅ": ["zwu"], "ずぇ": ["zwe"], "ずぉ": ["zwo"],
-    "ちぃ": ["tyi", "cyi"], "ぢぃ": ["dyi"],
-    "つぁ": ["tsa"], "つぃ": ["tsi"], "つぇ": ["tse"], "つぉ": ["tso"],
-    "てぃ": ["thi"], "てぇ": ["the"], "てゅ": ["thu"], "とぅ": ["twu"],
-    "でぃ": ["dhi"], "でぇ": ["dhe"], "でゅ": ["dhu"], "どぅ": ["dwu"],
-    "ふぁ": ["fa", "fwa", "hwa"], "ふぃ": ["fi", "fwi", "fyi", "hwi"],
-    "ふぇ": ["fe", "fwe", "fye", "hwe"], "ふぉ": ["fo", "fwo", "hwo"], "ふゅ": ["fyu", "hyu"],
-    "きゃ": ["kya"], "きゅ": ["kyu"], "きょ": ["kyo"], "きぇ": ["kye"],
-    "ぎゃ": ["gya"], "ぎゅ": ["gyu"], "ぎょ": ["gyo"], "ぎぇ": ["gye"],
-    "しゃ": ["sha", "sya"], "しゅ": ["shu", "syu"], "しょ": ["sho", "syo"], "しぇ": ["she", "sye"],
-    "じゃ": ["ja", "jya", "zya"], "じゅ": ["ju", "jyu", "zyu"], "じょ": ["jo", "jyo", "zyo"], "じぇ": ["je", "jye", "zye"],
-    "ちゃ": ["cha", "tya", "cya"], "ちゅ": ["chu", "tyu", "cyu"], "ちょ": ["cho", "tyo", "cyo"], "ちぇ": ["che", "tye", "cye"],
-    "ぢゃ": ["dya"], "ぢゅ": ["dyu"], "ぢょ": ["dyo"], "ぢぇ": ["dye"],
-    "にゃ": ["nya"], "にゅ": ["nyu"], "にょ": ["nyo"], "にぇ": ["nye"],
-    "ひゃ": ["hya"], "ひゅ": ["hyu"], "ひょ": ["hyo"], "ひぇ": ["hye"],
-    "びゃ": ["bya"], "びゅ": ["byu"], "びょ": ["byo"], "びぇ": ["bye"],
-    "ぴゃ": ["pya"], "ぴゅ": ["pyu"], "ぴょ": ["pyo"], "ぴぇ": ["pye"],
-    "みゃ": ["mya"], "みゅ": ["myu"], "みょ": ["myo"], "みぇ": ["mye"],
-    "りゃ": ["rya"], "りゅ": ["ryu"], "りょ": ["ryo"], "りぇ": ["rye"],
-    "ぁ": ["xa", "la"], "ぃ": ["xi", "li"], "ぅ": ["xu", "lu"], "ぇ": ["xe", "le"], "ぉ": ["xo", "lo"],
-    "ゃ": ["xya", "lya"], "ゅ": ["xyu", "lyu"], "ょ": ["xyo", "lyo"],
-    "っ": ["xtu", "ltu", "xtsu", "ltsu"], "ゎ": ["xwa", "lwa"],
-    "ゕ": ["xka", "lka"], "ゖ": ["xke", "lke"],
-    "ゐ": ["wi"], "ゑ": ["we"],
-};
-
-let typingData = window.typingData || [];
-let typingDataJa = window.typingDataJa || [];
-
-//ingame stats
-let currentDifficulty = 'normal', currentWord = "", currentTyped = "", currentJapanesePartial = "", level = 0, timeLeft = 0, timeLimitBase = 0, timerInterval = null;
-let sessionTypos = 0, sessionChars = 0, currentCps = 1, questionsSolved = 0, currentCombo = 0, sessionMaxCombo = 0;
-let isPlaying = false, isInputLocked = true, isJaGame = false, isAccMode = false, isSpcMode = false, statsViewAcc = false, statsViewSpc = false, statsViewJa = false;
-let totalCharsTyped = 0, gameStartTime = 0;
-let playerIngameLevel = 1;
-
-//Game mode settings
-const accModeCpsMul = 0.70, spcModeCpsMul = 1.35, damageMistake = 12, damageMistakeAcc = 2**52, damageTimeupSpc = 2**52, damageMistakeSpc = 2, damageTimeup = 110, healSuccess = 4;
-const japaneseTimeMul = 1.7;
-
-//conbo base stats
-const comboStartThreshold =  20, comboAddThreshold = 5, comboBonus = 1.125, comboHeal = 1;
-const scombStartThreshold = 100, scombAddThreshold =25, scombBonus = 2;
-
-let highScore = new BigNum(0);
-let maxLevel = 1;
-
-// Global Player Stats
-const maxHp = 160, MAX_PLAYER_LEVEL = 2**39-1;
-let hp = maxHp;
-let playerLevel = 0;
-let playerXp = new BigNum(0), nextXp = playerLvlXp(playerLevel), statsMaxCps = 0, statsTotalChars = 0, statsTotalTypos = 0, statsTotalTime = 0, statsMaxCombo = 0;
-
-let score = new BigNum(0);
-let bestRecords = {
-    'std':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'acc':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'spc':  { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'both': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'stdj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'accj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'spcj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-    'botj': { 'training': new BigNum(0), 'easy': new BigNum(0), 'normal': new BigNum(0), 'advanced': new BigNum(0), 'hard': new BigNum(0), 'expert': new BigNum(0), 'insane': new BigNum(0), 'lunatic': new BigNum(0) },
-};
-
-const LEADERBOARD_SIZE = 8;
-
-function notatVal(v) {
-    if (v instanceof BigNum) return notatBn(v);
-    const len = Math.floor(Math.log10(v) / 3);
-    if (len < 1) return v;
-    const sufi = ["", "K", "M", "B", "T", "Qa", "Qi", "Sx", "Sp", "Oc", "No", "Dc", "Ud", "Dd", "Td"][len];
-    return v > 1e4 ? (v / (1e3 ** len)).toFixed(3 + Math.floor(1 - Math.log10(v)) % 3) + sufi : v;
-}
+nextXp = playerLvlXp(playerLevel);
 
 //Random name
 function generateRandomName() {
@@ -303,7 +192,7 @@ function calcLvScorePow(lvl) {return (lvl>=2**39-1) ? 7500 : (1 + (lvl**.5)/100)
 function updatePlayerLevelUI() {
     const nextXp = playerLvlXp(playerLevel);
     document.getElementById('displayPlayerLevel').innerText = playerLevel;
-    document.getElementById('xpText').innerText = `${notatVal(playerXp)} / ${notatVal(nextXp)} XP`;
+    document.getElementById('xpText').innerText = `${notatBn(playerXp)} / ${notatBn(nextXp)} XP`;
     // 【修正】playerXpを BigNum.div() で割る
     const pct = (playerXp.div(nextXp)).toNumber() * 100;
     document.getElementById('xpGaugeBar').style.width = Math.min(100, pct) + '%';
@@ -528,15 +417,15 @@ function updateStatsModal() {
     document.getElementById('statsMaxCps').innerText = statsMaxCps.toFixed(2);
     const avgCps = statsTotalTime > 0 ? (statsTotalChars / statsTotalTime) : 0;
     document.getElementById('statsAvgCps').innerText = avgCps.toFixed(2);
-    document.getElementById('statsTotalChars').innerText = notatVal(statsTotalChars);
-    document.getElementById('statsTotalTypos').innerText = notatVal(statsTotalTypos);
+    document.getElementById('statsTotalChars').innerText = notatBn(statsTotalChars);
+    document.getElementById('statsTotalTypos').innerText = notatBn(statsTotalTypos);
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
 
     const comboEffectMult = calcComboPow1(playerLevel).toFixed(3);
-    document.getElementById('statsComboMult').innerText = `+${notatVal(comboEffectMult)}`;
+    document.getElementById('statsComboMult').innerText = `+${notatBn(comboEffectMult)}`;
 
     const scomboEffectMult = calcComboPow2(playerLevel).toFixed(3);
-    document.getElementById('statsScomboMult').innerText = `+${notatVal(scomboEffectMult)}`;
+    document.getElementById('statsScomboMult').innerText = `+${notatBn(scomboEffectMult)}`;
 
     const scorePow = calcLvScorePow(playerLevel).toFixed(3);
     document.getElementById('statsScorePower').innerText = `${scorePow}`;
@@ -581,7 +470,7 @@ function updateStatsModal() {
             div.innerHTML = `
                 <div class="br-title">
                     <span>${diff.toUpperCase()}</span>
-                    <span>Score: ${notatVal(record.score)}</span>
+                    <span>Score: ${notatBn(record.score)}</span>
                 </div>
                 <div class="br-stats">
                     <span>Lvl: <b>${record.level}</b></span>
@@ -872,7 +761,7 @@ function triggerGameOver(reasonStr) {
             // 【修正】highScore を文字列として保存
             const languageSuffix = isJaGame ? 'ja' : 'en';
             localStorage.setItem(`typingHighScore_${languageSuffix}_${currentDifficulty}`, highScore.toString());
-            document.getElementById('highScoreText').innerText = notatVal(highScore);
+            document.getElementById('highScoreText').innerText = notatBn(highScore);
         }
         if (level > maxLevel) {
             maxLevel = level;
@@ -886,7 +775,7 @@ function triggerGameOver(reasonStr) {
         goMain.classList.add('go-slide-in');
         document.getElementById('mainReasonText').innerText = reasonStr;
 
-        document.getElementById('mainFinalScore').innerText = notatVal(score);
+        document.getElementById('mainFinalScore').innerText = notatBn(score);
         document.getElementById('mainFinalLevel').innerText = level;
 
         let realTimeElapsed = (Date.now() - gameStartTime) / 1000;
@@ -927,7 +816,7 @@ function triggerGameOver(reasonStr) {
 
         savePlayerStats();
 
-        document.getElementById('mainFinalScore').innerText = notatVal(score);
+        document.getElementById('mainFinalScore').innerText = notatBn(score);
         document.getElementById('mainFinalLevel').innerText = level;
         document.getElementById('mainSessionMaxCombo').innerText = sessionMaxCombo;
         document.getElementById('mainCharsTyped').innerText = totalCharsTyped;
@@ -974,7 +863,7 @@ function quickRetryGame() {
 function nextQuestion() {
     document.getElementById('level').innerText = level;
     document.getElementById('cps').innerText = currentCps.toFixed(2);
-    document.getElementById('score').innerText = notatVal(score);
+    document.getElementById('score').innerText = notatBn(score);
 
     const item = generateRandomWordFromData();
     currentWord = isJaGame ? item.Reqs : item.Text;

@@ -95,13 +95,8 @@ button:hover {
   line-height: 1;
 }
 
-.theme-toggle:hover {
-  background: #d5d5d5;
-}
-
-.theme-toggle > i {
-  font-size: 1rem;
-}
+.theme-toggle:hover {background: #d5d5d5;}
+.theme-toggle > i {font-size: 1rem;}
 
 .theme-toggle-track {
   display: flex;
@@ -290,27 +285,14 @@ body.dark-mode .theme-toggle-thumb {
 }
 
 @keyframes rainbow {
-  to {
-    background-position: 200% center;
-  }
+  to {background-position: 200% center;}
 }
 
 @keyframes wobble {
-  0% {
-    transform: rotate(0deg) scale(1);
-  }
-
-  25% {
-    transform: rotate(2deg) scale(1.16);
-  }
-
-  75% {
-    transform: rotate(-2deg) scale(0.86);
-  }
-
-  100% {
-    transform: rotate(0deg) scale(1);
-  }
+  0%   {transform: rotate(0deg)  scale(1.00);}
+  25%  {transform: rotate(2deg)  scale(1.16);}
+  75%  {transform: rotate(-2deg) scale(0.86);}
+  100% {transform: rotate(0deg)  scale(1.00);}
 }
 
 
@@ -320,17 +302,9 @@ body.dark-mode {
   color: #eee;
 }
 
-body.dark-mode #display {
-  color: #fff;
-}
+body.dark-mode #display, body.dark-mode .word-display {color: #fff;}
 
-body.dark-mode .word-display {
-  color: #fff;
-}
-
-body.dark-mode .stats {
-  color: #bbb;
-}
+body.dark-mode .stats {color: #bbb;}
 
 /* Timer */
 #timerContainer {
