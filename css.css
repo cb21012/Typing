@@ -26,6 +26,11 @@ body {
   pointer-events: none;
 }
 
+.color1 {color: #08f;}
+body.dark-mode .color1 {color: #0f4;}
+
+h3 {margin: .25rem;}
+
 .input-container {
   position: relative;
   display: inline-block;
@@ -126,7 +131,7 @@ body.dark-mode .theme-toggle:hover {
 }
 
 body.dark-mode .theme-toggle-track {
-  background: #007bff;
+  background: #0f4;
 }
 
 body.dark-mode .theme-toggle-thumb {
@@ -164,11 +169,10 @@ body.dark-mode .theme-toggle-thumb {
 }
 
 .modal-content {
-  background: white;
-  padding: 16px;
-  border-radius: 15px;
+  background: #eee;
+  padding: .75rem;
+  border-radius: .75rem;
   position: relative;
-  width: min(90%, 500px);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   transform: scale(0.8);
   opacity: 0;
@@ -339,8 +343,7 @@ body.dark-mode .stats {color: #bbb;}
 
 
 body.dark-mode .modal-content {
-  background: #333;
-  border: 1px solid #555;
+  background: #222;
 }
 
 body.dark-mode .close-btn {
@@ -364,21 +367,6 @@ body.dark-mode #timerContainer {
 
 body.dark-mode #timerText {
   color: #eee;
-}
-
-body.dark-mode .cheat-sheet-container h3 {
-  color: #aaa;
-}
-
-body.dark-mode .cheat-sheet-group h4 {
-  color: #bbb;
-}
-
-body.dark-mode .cheat-sheet div {
-  background: #333;
-  color: #ddd;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
-  border: 1px solid #444;
 }
 
 body.dark-mode .record-title {
@@ -547,15 +535,14 @@ body.dark-mode .diff-btn.selected {
 }
 
 .br-entry {
-  background: rgba(0, 0, 0, 0.05);
+  background: #0002;
   padding: 10px;
   border-radius: 8px;
-  border-left: 5px solid #007bff;
+  border-left: 5px solid #08f;
 }
 
 body.dark-mode .br-entry {
-  background: rgba(255, 255, 255, 0.05);
-  border-left-color: #4dabf7;
+  border-left-color: #0f4;
 }
 
 .br-title {
@@ -689,11 +676,6 @@ body.dark-mode .go-score-val {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
   max-width: 100%;
-}
-
-/* Difficulty Buttons & Coloring */
-.diff-container {
-  margin-bottom: 20px;
 }
 
 /* Leaderboard Details */
@@ -853,14 +835,10 @@ body.dark-mode .leaderboard-details th {
 }
 
 .stats-item {
-  background: rgba(0, 0, 0, 0.05);
-  padding: 15px;
-  border-radius: 8px;
+  background: #0002;
+  padding: 12px;
+  border-radius: .75rem 0 0 .75rem;
   text-align: center;
-}
-
-body.dark-mode .stats-item {
-  background: rgba(255, 255, 255, 0.05);
 }
 
 .stats-lower-container {
@@ -889,14 +867,14 @@ body.dark-mode .stats-right-col {
 .stats-left-col .stats-grid {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: .5rem;
   margin-top: 0;
 }
 
 .stats-left-col .stats-item {
   width: 100%;
   text-align: left;
-  padding: 12px 15px;
+  padding: .5rem 15px;
 }
 
 @media (max-width: 768px) {
@@ -916,22 +894,12 @@ body.dark-mode .stats-right-col {
 
 .stats-label {
   font-size: 0.85rem;
-  color: #666;
-  margin-bottom: 5px;
-}
-
-body.dark-mode .stats-label {
-  color: #aaa;
+  margin-bottom: .25rem;
 }
 
 .stats-value {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #007bff;
-}
-
-body.dark-mode .stats-value {
-  color: #4dabf7;
 }
 
 .top-area-container {
@@ -993,14 +961,8 @@ body.dark-mode .random-name-btn {color: #fff;}
   margin-bottom: 20px;
 }
 
-.accuracy-btn {
+.accuracy-btn, .speed-btn {
   width: 200px;
-  margin-right: 25px;
-}
-
-.speed-btn {
-  width: 200px;
-  margin-left: 25px;
 }
 
 .difficulty-desc-area {
@@ -1028,11 +990,11 @@ body.dark-mode .difficulty-desc-area {
 }
 
 .desc-highlight {
-  color: #007bff;
+  color: #08f;
 }
 
 body.dark-mode .desc-highlight {
-  color: #4dabf7;
+  color: #0f4;
 }
 
 .desc-sub {
@@ -1298,7 +1260,6 @@ body.dark-mode .table-container {
 .stats-growth-level {
   font-size: 1.8rem;
   font-weight: bold;
-  color: #007bff;
 }
 
 .stats-growth-details {
@@ -1316,23 +1277,13 @@ body.dark-mode .table-container {
 }
 
 .stats-growth-description {
-  font-size: 0.85rem;
-  color: #777;
-  line-height: 1.5;
-  background: rgba(0, 0, 0, 0.03);
+  font-size: .85rem;
+  color: #333;
+  line-height: 1.2;
+  background: #0002;
   padding: 12px;
   border-radius: 8px;
   margin: 10px 0;
 }
 
-.stats-growth-formula {
-  color: #555;
-}
-
-.stats-growth-value {
-  color: #007bff;
-}
-
-#statsModeSelect {
-  margin-bottom: 15px;
-}
+body.dark-mode .stats-growth-description {color: #ccc;}

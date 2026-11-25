@@ -9,6 +9,15 @@ function formatTime(seconds, short=true) {
     return `${Math.floor(seconds*1000)}ms`;
 }
 
+
+function notatVal(val, dig=0) {
+    if (val<1e4) return val.toFixed(dig);
+    const sufi = ['','K','M','B','T','Qa','Qi','Sx','Sp','Oc','No','Dc','Ud','Dd','Td','Qad','Qid','Sxd','Spd','Ocd','Nod','Vg','Uvg','Dvg','Tvg','Qag','Qig','Sxg','Spg'];
+    const exp = Math.floor(Math.log10(val)/3);
+    const num = val / (1000**exp);
+    return num.toFixed(2) + sufi[exp];
+}
+
 //Random name
 function generateRandomName() {
     const j = clang===1;

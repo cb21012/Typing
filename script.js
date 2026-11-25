@@ -94,6 +94,7 @@ function loadRecords() {
     statsTotalTypos = parseInt(localStorage.getItem('typingStatsTotalTypos')) || 0;
     statsTotalTime = parseFloat(localStorage.getItem('typingStatsTotalTime')) || 0;
     statsMaxCombo = parseInt(localStorage.getItem('typingStatsMaxCombo')) || 0;
+    statsTotalSolved = parseInt(localStorage.getItem('typingStatsTotalSolved')) || 0;
 
     Object.keys(bestRecords).forEach(mode => {
         const saved = localStorage.getItem(`typingBestRoundV2_${mode}`);
@@ -241,6 +242,7 @@ function savePlayerStats() {
     localStorage.setItem('typingStatsTotalTypos', statsTotalTypos);
     localStorage.setItem('typingStatsTotalTime', statsTotalTime);
     localStorage.setItem('typingStatsMaxCombo', statsMaxCombo);
+    localStorage.setItem('typingStatsTotalSolved', statsTotalSolved);
 
     Object.keys(bestRecords).forEach(mode => {
         const toSave = {};
@@ -371,6 +373,8 @@ function updateStatsModal() {
         document.getElementById('statsXpGaugeBar').style.animation = 'rainbow 7s linear infinite';
     }
 
+    document.getElementById('statsTotalTime').innerText = formatTime(statsTotalTime, false);
+    document.getElementById('statsTotalSolved').innerText = notatBn(statsTotalSolved);
     document.getElementById('statsMaxCps').innerText = statsMaxCps.toFixed(2);
     const avgCps = statsTotalTime > 0 ? (statsTotalChars / statsTotalTime) : 0;
     document.getElementById('statsAvgCps').innerText = avgCps.toFixed(2);
@@ -378,11 +382,11 @@ function updateStatsModal() {
     document.getElementById('statsTotalTypos').innerText = notatBn(statsTotalTypos);
     document.getElementById('statsMaxCombo').innerText = statsMaxCombo;
 
-    const comboEffectMult = calcComboPow1(playerLevel).toFixed(3);
-    document.getElementById('statsComboMult').innerText = `+${notatBn(comboEffectMult)}`;
+    const comboEffectMult = calcComboPow1(playerLevel) + 1.125;
+    document.getElementById('statsComboMult').innerText = `${notatVal(comboEffectMult,3)}`;
 
-    const scomboEffectMult = calcComboPow2(playerLevel).toFixed(3);
-    document.getElementById('statsScomboMult').innerText = `+${notatBn(scomboEffectMult)}`;
+    const scomboEffectMult = calcComboPow2(playerLevel) + 2.000;
+    document.getElementById('statsScomboMult').innerText = `${notatVal(scomboEffectMult,3)}`;
 
     const scorePow = calcLvScorePow(playerLevel).toFixed(3);
     document.getElementById('statsScorePower').innerText = `${scorePow}`;
@@ -1002,12 +1006,13 @@ function recordCorrectInput(typedText) {
         // 【修正】score に BigNum.add() で加算
         score = score.add(addedScore);
         if (score.isInfinity) score = new BigNum(9.99, 2**53-1);
+        questionsSolved++;
+        statsTotalSolved++;
         if (addedScore.isInfinity) {
             playerLevel=MAX_PLAYER_LEVEL; addXp(new BigNum(1));
         } else {
             addXp(addedScore);
         }
-        questionsSolved++;
         nxtSound();
 
         // Success reward: +healSuccess HP

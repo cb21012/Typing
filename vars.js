@@ -89,7 +89,7 @@ let maxLevel = 1;
 const maxHp = 160, MAX_PLAYER_LEVEL = 2**39-1;
 let hp = maxHp;
 let playerLevel = 0;
-let playerXp = new BigNum(0), nextXp = new BigNum(0), statsMaxCps = 0, statsTotalChars = 0, statsTotalTypos = 0, statsTotalTime = 0, statsMaxCombo = 0;
+let playerXp = new BigNum(0), nextXp = new BigNum(0), statsMaxCps = 0, statsTotalChars = 0, statsTotalTypos = 0, statsTotalTime = 0, statsMaxCombo = 0, statsTotalSolved = 0;
 
 let score = new BigNum(0);
 let bestRecords = {
