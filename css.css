@@ -302,7 +302,7 @@ body.dark-mode .theme-toggle-thumb {
 
 /* Dark Mode */
 body.dark-mode {
-  background: #181818;
+  background: #111;
   color: #fff;
 }
 
@@ -420,9 +420,8 @@ body.dark-mode .difficulty-title {color: #ccc;}
 }
 
 .difficulty-marks span {
-  width: .5rem;
-  height: .5rem;
-  border-radius: 50%;
+  width: 2px;
+  height: 12px;
   background: #555;
   box-sizing: border-box;
 }
@@ -441,7 +440,7 @@ body.dark-mode .difficulty-title {color: #ccc;}
   cursor: pointer;
 }
 
-#difficultySlider::-webkit-slider-runnable-track {height: 2px; border-radius: 2px; background: #555;}
+#difficultySlider::-webkit-slider-runnable-track {height: 2px; background: #555;}
 #difficultySlider::-webkit-slider-thumb {
   width: 1.5rem; height: 1.5rem; margin-top: -.7rem; border-radius: 50%;
   appearance: none; -webkit-appearance: none;
@@ -450,7 +449,7 @@ body.dark-mode .difficulty-title {color: #ccc;}
   animation: difficulty-shadow 3s ease-out infinite;
 }
 
-#difficultySlider::-moz-range-track {height: 2px; border-radius: 2px; background: #555;}
+#difficultySlider::-moz-range-track {height: 2px; background: #555;}
 #difficultySlider::-moz-range-thumb {
   width: 1.5rem; height: 1.5rem; margin-top: -.7rem; border-radius: 50%;
   background: var(--difficulty-color);
