@@ -1,14 +1,14 @@
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 
 const DIFFICULTIES = {
-    'training': { id: 0, cps: 0.16, startLevel:  0, consTime: 4.00, scorePow: 1.0 },
-    'easy':     { id: 1, cps: 1.00, startLevel:  2, consTime: 3.20, scorePow: 1.1 },
-    'normal':   { id: 2, cps: 1.80, startLevel:  5, consTime: 2.40, scorePow: 1.2 },
-    'advanced': { id: 3, cps: 3.00, startLevel:  7, consTime: 2.00, scorePow: 1.4 },
-    'hard':     { id: 4, cps: 4.50, startLevel:  9, consTime: 1.60, scorePow: 1.7 },
-    'expert':   { id: 5, cps: 6.25, startLevel: 11, consTime: 1.30, scorePow: 2.1 },
-    'insane':   { id: 6, cps: 9.00, startLevel: 13, consTime: 1.00, scorePow: 2.5 },
-    'lunatic':  { id: 7, cps: 13.5, startLevel: 16, consTime: 0.80, scorePow: 3.0 },
+    'training': { id: 0, cps: 0.16, startLevel:  0, minLevel: 0, consTime: 4.00, scorePow: 1.0 },
+    'easy':     { id: 1, cps: 1.00, startLevel:  2, minLevel: 0, consTime: 1.50, scorePow: 1.1 },
+    'normal':   { id: 2, cps: 1.80, startLevel:  5, minLevel: 0, consTime: 1.00, scorePow: 1.2 },
+    'advanced': { id: 3, cps: 3.00, startLevel:  7, minLevel: 1, consTime: 0.85, scorePow: 1.4 },
+    'hard':     { id: 4, cps: 4.50, startLevel:  9, minLevel: 1, consTime: 0.70, scorePow: 1.7 },
+    'expert':   { id: 5, cps: 6.25, startLevel: 11, minLevel: 2, consTime: 0.55, scorePow: 2.1 },
+    'insane':   { id: 6, cps: 9.00, startLevel: 13, minLevel: 3, consTime: 0.40, scorePow: 2.5 },
+    'lunatic':  { id: 7, cps: 13.5, startLevel: 16, minLevel: 4, consTime: 0.30, scorePow: 3.0 },
 };
 
 const inputJapanese = {
@@ -64,6 +64,8 @@ const inputJapanese = {
 
 let typingData = window.typingData || [];
 let typingDataJa = window.typingDataJa || [];
+
+let clang = 0;
 
 //ingame stats
 let currentDifficulty = 'normal', currentWord = "", currentTyped = "", currentJapanesePartial = "", level = 0, timeLeft = 0, timeLimitBase = 0, timerInterval = null;
