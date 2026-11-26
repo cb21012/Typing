@@ -3,8 +3,8 @@
 
 * {font-family: "Inconsolata", "Kiwi Maru", monospace !important;}
 
-::selection {background-color: #8ff4 !important;}
-body.dark-mode ::selection {background-color: #0ff4 !important;}
+body.dark-mode ::selection {background-color: #0ff3 !important;}
+::selection {background-color: #b4b3 !important;}
 
 body {
   text-align: center;
@@ -510,13 +510,13 @@ body.dark-mode .diff-btn {
 
 /* Difficulty Dark Mode */
 .diff-btn.selected {
-  border-color: #0f0;
-  background-color: #0f02;
+  border-color: #08f;
+  background-color: #08f2;
 }
 
 body.dark-mode .diff-btn.selected {
-  border-color: #0f0;
-  background-color: #0f02;
+  border-color: #0f4;
+  background-color: #0f42;
 }
 
 .speed-btn.selected, .accuracy-btn.selected {
@@ -582,12 +582,11 @@ body.dark-mode #globalPlayerName {color: #fff;}
   background-color: #f00 !important;
 }
 
-.text-green-important {
-  color: #28a745 !important;
-}
+body.dark-mode .text-typed {color: #0f4 !important;}
+.text-typed {color: #08f !important;}
 
 .text-orange-important {
-  color: #f0ad4e !important;
+  color: #fa4 !important;
 }
 
 @keyframes slideDown {
@@ -654,15 +653,6 @@ body.dark-mode .go-panel {
 
 .go-score-txt {
   font-size: 1.5rem;
-}
-
-.go-score-val {
-  color: #007bff;
-  font-weight: bold;
-}
-
-body.dark-mode .go-score-val {
-  color: #4dabf7;
 }
 
 .go-ans-text {
@@ -1118,6 +1108,7 @@ body.dark-mode .desc-detail {
 
 .result-item {
   padding: 10px;
+  border-radius: .75rem;
 }
 
 .result-value {
@@ -1176,72 +1167,6 @@ body.dark-mode .desc-detail {
 
 body.dark-mode .setting-desc {
   color: #bbb;
-}
-
-.fake-link {
-  color: #007bff;
-  text-decoration: underline;
-  cursor: pointer;
-  white-space: nowrap;
-  display: inline-block;
-}
-
-.fake-link:hover {
-  color: #0056b3;
-}
-
-body.dark-mode .fake-link {
-  color: #4dabf7;
-}
-
-body.dark-mode .fake-link:hover {
-  color: #74c0fc;
-}
-
-/* Inappropriate Modal Styles */
-.table-container {
-  max-height: 800px;
-  overflow-y: auto;
-  margin: 15px 0;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-}
-
-body.dark-mode .table-container {
-  border-color: #555;
-}
-
-.pagination-controls {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 15px;
-  margin-top: 15px;
-}
-
-.pag-btn {
-  padding: 6px 12px;
-  font-size: 0.9rem;
-  background-color: #6c757d;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-
-.pag-btn:hover:not(:disabled) {
-  background-color: #5a6268;
-}
-
-.pag-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-#inappropriatePageInfo {
-  font-size: 0.95rem;
-  font-weight: bold;
 }
 
 .stats-player-growth {

@@ -807,8 +807,8 @@ function triggerGameOver(reasonStr) {
         document.getElementById('mainTime').innerText = realTimeElapsed.toFixed(2) + "s";
 
         const failedHTML = isJaGame
-            ? `<span class="text-green-important">${currentTyped}</span><span class="text-orange-important">${currentJapanesePartial ? currentWord[currentTyped.length] : ""}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length + (currentJapanesePartial ? 1 : 0))}</span>`
-            : `<span class="text-green-important">${currentTyped}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length)}</span>`;
+            ? `<span class="text-typed">${currentTyped}</span><span class="text-orange-important">${currentJapanesePartial ? currentWord[currentTyped.length] : ""}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length + (currentJapanesePartial ? 1 : 0))}</span>`
+            : `<span class="text-typed">${currentTyped}</span><span style="color:#d9534f">${currentWord.substring(currentTyped.length)}</span>`;
         document.getElementById('mainFailedWord').innerHTML = failedHTML;
     }, 500);
 }
@@ -865,10 +865,10 @@ function updateWordDisplay() {
     if (isJaGame) {
         const activeKanaEnd = currentJapanesePartial ? currentTyped.length + 1 : currentTyped.length;
         const activeKana = currentJapanesePartial ? currentWord[currentTyped.length] : "";
-        display.innerHTML = `<span class="text-green-important">${currentTyped}</span><span class="text-orange-important">${activeKana}</span><span>${currentWord.substring(activeKanaEnd)}</span>`;
+        display.innerHTML = `<span class="text-typed">${currentTyped}</span><span class="text-orange-important">${activeKana}</span><span>${currentWord.substring(activeKanaEnd)}</span>`;
         return;
     }
-    display.innerHTML = `<span class="text-green-important">${currentTyped}</span><span>${currentWord.substring(currentTyped.length)}</span>`;
+    display.innerHTML = `<span class="text-typed">${currentTyped}</span><span>${currentWord.substring(currentTyped.length)}</span>`;
 }
 
 function updateHpUI() {
