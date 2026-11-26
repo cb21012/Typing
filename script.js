@@ -302,6 +302,40 @@ document.getElementById('themeToggleBtn').addEventListener('click', () => {
     saveSettings();
 });
 
+const versionList = document.getElementById('versionList');
+const versionDetail = document.getElementById('versionDetail');
+const versionKeys = Object.keys(verText).sort((a, b) =>
+    b.localeCompare(a, undefined, { numeric: true, sensitivity: 'base' })
+);
+let selectedVersion = versionKeys[0];
+
+document.getElementById('versionBtn').textContent = `v${version}`;
+versionKeys.forEach(versionKey => {
+    const versionButton = document.createElement('button');
+    versionButton.className = 'version-option';
+    versionButton.type = 'button';
+    versionButton.textContent = versionKey;
+    versionButton.addEventListener('click', () => {
+        selectedVersion = versionKey;
+        updateVersionModal();
+    });
+    versionList.appendChild(versionButton);
+});
+
+function updateVersionModal() {
+    versionList.querySelectorAll('.version-option').forEach(button => {
+        const isSelected = button.textContent === selectedVersion;
+        button.classList.toggle('selected', isSelected);
+        button.setAttribute('aria-pressed', String(isSelected));
+    });
+    versionDetail.textContent = verText[selectedVersion].trim().replace(/^[ \t]+/gm, '');
+}
+
+updateVersionModal();
+document.getElementById('versionBtn').addEventListener('click', () => {
+    document.getElementById('versionModal').classList.add('show');
+});
+
 document.getElementById('deleteRecordsBtn').addEventListener('click', () => {
     if (confirm("Are you sure you want to delete all records?") && confirm("REALLY???")) {
         const keys = Object.keys(localStorage);

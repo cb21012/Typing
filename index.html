@@ -23,14 +23,17 @@
         </div>
     </div>
 
-    <button id="themeToggleBtn" class="theme-toggle" type="button" role="switch" aria-checked="true"
-        aria-label="Switch to light mode">
-        <i class="ri-sun-line" aria-hidden="true"></i>
-        <span class="theme-toggle-track" aria-hidden="true">
-            <span class="theme-toggle-thumb"></span>
-        </span>
-        <i class="ri-moon-line" aria-hidden="true"></i>
-    </button>
+    <div class="top-right-controls">
+        <button id="versionBtn" class="version-button" type="button" aria-haspopup="dialog"></button>
+        <button id="themeToggleBtn" class="theme-toggle" type="button" role="switch" aria-checked="true"
+            aria-label="Switch to light mode">
+            <i class="ri-sun-line" aria-hidden="true"></i>
+            <span class="theme-toggle-track" aria-hidden="true">
+                <span class="theme-toggle-thumb"></span>
+            </span>
+            <i class="ri-moon-line" aria-hidden="true"></i>
+        </button>
+    </div>
 
     <h1>Typing</h1>
 
@@ -123,6 +126,17 @@
             <!-- Best records -->
         </div>
     </div>
+    </div>
+
+    <div id="versionModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="versionModalTitle">
+        <div class="modal-content version-modal-content">
+            <button class="close-btn" type="button" aria-label="Close version history">&times;</button>
+            <h2 id="versionModalTitle">Version history</h2>
+            <div class="version-modal-layout">
+                <nav id="versionList" class="version-list" aria-label="Versions"></nav>
+                <div id="versionDetail" class="version-detail" aria-live="polite"></div>
+            </div>
+        </div>
     </div>
 
     <div id="countdownText" class="countdown-text" aria-live="assertive"></div>
@@ -223,32 +237,32 @@
 
                     <div class="stats-item result-item">
                         <div class="stats-label">Max Combo</div>
-                        <div id="mainSessionMaxCombo" class="stats-value result-value">0</div>
+                        <div id="mainSessionMaxCombo" class="stats-value result-value color1">0</div>
                     </div>
 
                     <div class="stats-item result-item">
                         <div class="stats-label">Total Chars</div>
-                        <div id="mainCharsTyped" class="stats-value result-value">0</div>
+                        <div id="mainCharsTyped" class="stats-value result-value color1">0</div>
                     </div>
 
                     <div class="stats-item result-item">
                         <div class="stats-label">Avg CPS</div>
-                        <div id="mainAvgCps" class="stats-value result-value">0.00</div>
+                        <div id="mainAvgCps" class="stats-value result-value color1">0.00</div>
                     </div>
 
                     <div class="stats-item result-item">
                         <div class="stats-label">Mistakes</div>
-                        <div id="mainMistakes" class="stats-value result-value">0</div>
+                        <div id="mainMistakes" class="stats-value result-value color1">0</div>
                     </div>
 
                     <div class="stats-item result-item">
                         <div class="stats-label">Accuracy</div>
-                        <div id="mainAccuracy" class="stats-value result-value">0.00%</div>
+                        <div id="mainAccuracy" class="stats-value result-value color1">0.00%</div>
                     </div>
 
                     <div class="stats-item result-item">
                         <div class="stats-label">Time</div>
-                        <div id="mainTime" class="stats-value result-value">0.00s</div>
+                        <div id="mainTime" class="stats-value result-value color1">0.00s</div>
                     </div>
                 </div>
 
@@ -276,6 +290,7 @@
     <script src="typingTxtJa.js" defer></script>
     <script src="vars.js" defer></script>
     <script src="funcs.js" defer></script>
+    <script src="version.js" defer></script>
     <script src="script.js" defer></script>
 
 </body>
